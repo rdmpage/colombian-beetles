@@ -7,7 +7,9 @@
  * Collects all unique identifiers across all datasets, deduplicates them
  * globally, then checks each one once. Reports per-dataset and global results.
  *
- * Usage: php check_all.php
+ * Usage:  php check_all.php
+ * Output: check_all_results.tsv    (per-identifier results)
+ *         check_all_domains.tsv     (summary by domain)
  */
 
 require_once dirname(__FILE__) . '/functions.php';
@@ -62,7 +64,9 @@ echo "Datasets without identifiers:  " . $datasets_without_ids . "\n";
 echo "Total unique identifiers:      " . $total_unique . "\n\n";
 
 echo "Checking URLs (this may take a while)...\n";
-echo "Results will be saved to: $tsv_file\n\n";
+echo "Results will be saved to:\n";
+echo "  $tsv_file\n";
+echo "  " . $base_dir . "/check_all_domains.tsv\n\n";
 
 // Counters
 $counts = array(
@@ -169,6 +173,11 @@ uasort($domain_results, function ($a, $b) {
     return $b['total'] - $a['total'];
 });
 
+// Write domain summary TSV
+$domain_tsv_file = $base_dir . '/check_all_domains.tsv';
+$domain_tsv = fopen($domain_tsv_file, 'w');
+fwrite($domain_tsv, "domain\ttotal\tok\tredirect\tnot_found\terror\n");
+
 foreach ($domain_results as $domain => $r) {
     echo str_pad($domain, 45)
         . str_pad($r['total'], 8)
@@ -176,4 +185,11 @@ foreach ($domain_results as $domain => $r) {
         . str_pad($r['redirect'], 8)
         . str_pad($r['not_found'], 8)
         . $r['error'] . "\n";
+    fwrite($domain_tsv, "$domain\t{$r['total']}\t{$r['ok']}\t{$r['redirect']}\t{$r['not_found']}\t{$r['error']}\n");
 }
+
+fclose($domain_tsv);
+
+echo "\nTSV files written to:\n";
+echo "  $tsv_file\n";
+echo "  $domain_tsv_file\n";
