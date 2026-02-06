@@ -1,0 +1,538 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="b7866d13-f566-4f63-af50-b2b665c1194b/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/iyrpyc</alternateIdentifier>
+  <alternateIdentifier>b7866d13-f566-4f63-af50-b2b665c1194b</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=brentidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Brentidae (Coleoptera: Curculionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Mayelis</givenName>
+      <surName>Barros Barrios</surName>
+    </individualName>
+    <organizationName>Universidad de Caldas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mayebarros3195@gmail.com</electronicMailAddress>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-06-17
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Brentidae (Coleoptera: Curculionoidea) con ocurrencia conocida para el territorio colombiano. Se listan dos subfamilias, seis tribus, diez subtribus, 26 géneros, y 73 especies. Dos géneros y 14 especies se consideran endémicos para Colombia. El listado ha sido compilado a partir de información disponible en los catálogos de Sforzi y Bartolozzi (2004) y Wibmer y O&apos;Brien (1986), así como en revisiones más recientes. Se incluyen las referencias de todas las descripciones originales, de los catálogos y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Gorgojos</keyword>
+            <keyword>Picudos</keyword>
+            <keyword>Gorgojos de pico recto</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Brentidae (Coleoptera: Curculionoidea) de los siguientes departamentos de Colombia: Amazonas (dos especies), Antioquia (dos especies), Bolívar (tres especies), Boyacá (una especie), Cauca (una especie), Córdoba (una especie), Cundinamarca (14 especies), Santander (una especie). Dos especies presentan localidades imprecisas y para 43 especies no se conoce la distribución al interior del país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1787-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2019-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan dos subfamilias, seis tribus, diez subtribus, 26 géneros, y 73 especies. Dos géneros y 14 especies se consideran endémicos para Colombia. El género con mayor número de especies en Colombia es Brentus (13 especies), seguido por Estenorhinus (11 especies) y Apion (9 especies). Trece géneros están representados por una sola especie en el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Brentinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Brentini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Brentina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Brentus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cephalobarus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Arrhenodina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Claeoderes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cyriodontus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Episphales</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Estenorhinus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hemipsalis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhaphirhynchus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Cyphagogini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Stereodermina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Stereodermus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Taphroderini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Taphroderes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Taphroderopsis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Trachelizini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Trachelizina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hephebocerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Paratrachelizus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Peritrachelizus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Acratina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Acratus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neacratus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Nemocephalus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Thaumastopsis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Ulocerini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ulocerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Apioninae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Apionini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Apionina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Apion</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Ixapiina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neapion</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Oxystomatina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Coelocephalapion</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Piezotrachelina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Chrysapion</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Trichapiina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Apionion</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Trichapion</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Brentidae</taxonRankValue>
+                  <commonName>Gorgojos de pico recto</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir de los catálogos de Blackwelder (1944), Wibmer y O&apos;Brien (1986) y Sforzi y Bartolozzi (2004). Adicionalmente, se consultaron revisiones taxonómicas más recientes, en las que se revisan grupos presentes en Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Brentidae (Coleoptera: Curculionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Brentidae (Coleoptera: Curculionoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo de principalmente a partir de los catálogos de Wibmer y O&apos;Brien (1986) y Sforzi y Bartolozzi (2004), junto con trabajos posteriormente publicados.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos de Wibmer y O&apos;Brien (1986) y Sforzi y Bartolozzi (2004), además de trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Mayelis</givenName>
+          <surName>Barros Barrios</surName>
+        </individualName>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-03T01:11:08.573+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/iyrpyc">Girón Duque J C (2022): Listado de las especies de Brentidae (Coleoptera: Curculionoidea) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/iyrpyc</citation>
+          <bibliography>
+                <citation identifier="https://www.researchgate.net/publication/286283536_Revision_of_the_supraspecific_taxa_in_the_Palaearctic_Apionidae_Schoenherr_1823_Coleoptera_Curculionoidea_2_Subfamily_Apioninae_Schoenherr_1823_Introduction_keys_and_descriptions">Alonso-Zarazaga MA (1990) Revision of the supraspecific taxa in the Palaearctic Apionidae Schoenherr, 1823 (Coleoptera, Curculionoidea). 2. Subfamily Apioninae Schoenherr, 1823: Introduction, keys and descriptions. Graellsia 46: 19–156. https://www.researchgate.net/publication/286283536_Revision_of_the_supraspecific_taxa_in_the_Palaearctic_Apionidae_Schoenherr_1823_Coleoptera_Curculionoidea_2_Subfamily_Apioninae_Schoenherr_1823_Introduction_keys_and_descriptions</citation>
+                <citation identifier="https://www.biodiversidad.gob.mx/publicaciones/librosDig/pdf/Artropodos%20IV_8.pdf">Alonso-Zarazaga MA (2004) Apionidae (Coleoptera). In Biodiversidad, taxonomía y biogeografía de artrópodos de México: hacia una síntesis de su conocimiento. Vol. IV (J. L. Bousquets, J.J. Morrone, O. Yañez &amp; I. Vargas, eds). Facultad de Ciencias, Universidad Nacional Autónoma de México y Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, Mexico, D. F. In: , 691–699. https://www.biodiversidad.gob.mx/publicaciones/librosDig/pdf/Artropodos%20IV_8.pdf</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.451.8462">Alonso-Zarazaga MA (2014) On the identity of some weevil species described by Johann Christian Fabricius (1745–1808) in the Museum of Zoology of Copenhagen (Coleoptera, Cucujoidea, Curculionoidea, Tenebrionoidea). ZooKeys 451: 61–91. https://doi.org/10.3897/zookeys.451.8462</citation>
+                <citation identifier="https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf">Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp. https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33665717">Billberg GJ (1820) Enumeratio Insectorum in Museo Gust. Joh. Billberg. Gadel, Stockholm, 138 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="http://www.deutsche-digitale-bibliothek.de/item/FKKEME7T6ZT6ARGDATUTI6L42TDAZGUP">Dalman JW (1824) Ephemerides entomologicae. Holmiae: c. 1156. http://www.deutsche-digitale-bibliothek.de/item/FKKEME7T6ZT6ARGDATUTI6L42TDAZGUP</citation>
+                <citation identifier="https://www.google.com/books/edition/_/T-koAQAAIAAJ?hl=en&amp;gbpv=0">Damoiseau R (1989) Contribution a la systematique et corrections a la nomenclature des Brentinae et Ceocephalinae (Coleoptera-Brentidae). Bulletin de l’Institut Royal des Sciences Naturelles de Belgique Entomologie 59: 43–98. https://www.google.com/books/edition/_/T-koAQAAIAAJ?hl=en&amp;gbpv=0</citation>
+                <citation identifier="https://doi.org/10.1590/1676-0611-BN-2019-0813 ">de Sousa WO, Ribeiro-Costa CS, Rosado-Neto GH (2019) A preliminary overview of the Brazilian Apioninae (Coleoptera: Brentidae) with an illustrated key for genera, and a checklist with distribution information. Biota Neotropica 19(4): e20190813. https://doi.org/10.1590/1676-0611-BN-2019-0813</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9322478">Dejean PFMA (1833) Catalogue des Coléoptères de la collection de M. le Comte Dejean. Méquinon-Marvis &amp; Sons, Paris, 433 pp. https://biodiversitylibrary.org/page/9322478</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7251438">Erichson GF (1847) Conspectus Insectorum Coleopterorum, quae in Republica Peruana observata sunt. Archiv für Naturgeschichte 13: 67–85.</citation>
+                <citation identifier="https://books.google.com/books?id=KYo-AAAAcAAJ&amp;">Fabricius JC (1787) 1 Mantissa insectorum sistens eorum species nuper detectas adiectis characteribus genericis, differentiis specifis, emendationubus, observationibus. Hafniae, XX + 348 pp. https://books.google.com/books?id=KYo-AAAAcAAJ&amp;</citation>
+                <citation identifier="https://www.google.com/books/edition/Systema_Eleutheratorum/ooo-AAAAcAAJ?hl=en&amp;gbpv=0">Fabricius JC (1801) Systema Eleutheratorum: secundum ordines, genera, species, adiectis synonymis, locis, observationibus, descriptionibus. Tomus II. Bibliopolii Academici Novi, Kiliae, 687 pp.  https://www.google.com/books/edition/Systema_Eleutheratorum/ooo-AAAAcAAJ?hl=en&amp;gbpv=0</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10178669">Gemmiger M, de Harold B (1872) Familia LXIV. Brenthidae (pp. 2703-2721). In: Catalogus Coleopterorum hucusque descriptorum synonymicus et systematicus. IX (Scolytidae, Brenthidae, Anthotribidae, Cerambycidae). E. H. Gummi, Monachii. https://www.biodiversitylibrary.org/page/10178669</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33700761">Gerstaecker A (1854) Beschreibung neuer Arten der Gattung Apion Herbst. Entomologische Zeitung 15: 234–280. https://www.biodiversitylibrary.org/page/33700761</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/48220336">Guérin-Méneville F-É (1827) Nemocephale. In: Dictionnaire Classique d’Histoire Naturelle, 11, Mo-Nso. Rey et Gravier &amp; Baudouin Frères, Paris, p. 506. https://www.biodiversitylibrary.org/page/48220336</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57755101">Herbst JFW (1797) Natur system aller bekannten in- und auslandischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte. Der Käfer. Vol.7. Berlin, Germany, xi+346+pi.XCVI-CXVI. https://www.biodiversitylibrary.org/page/57755101</citation>
+                <citation identifier="https://doi.org/10.1002/mmnd.18670110303">Kirsch T (1867) Beiträge zur Käferfauna von Bogotà. (Drittes Stück: Brenthiden und adelognathe Curculionen). Berliner entomologische Zeitschrift 11: 215–243. https://doi.org/10.1002/mmnd.18670110303</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340963">Kirsch T (1870) Beiträge zur Käferfauna von Bogotà. Berliner entomologische Zeitschrift 14: 337–378. https://www.biodiversitylibrary.org/page/8340963</citation>
+                <citation>Kissinger DG (1968) Curculionidae subfamily Apioninae of North and Central America, with reviews of the world genera of Apioninae and world subgenera of Apion Herbst (Coleoptera). Taxonomic Publications, South Lancaster, Mass, 559 pp.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/360">Kissinger DG (1998) Apionidae from North and Central America. Part 5. Description of genus Apionion  and 4 new species (Coleoptera). Insecta Mundi 12: 93–102. https://digitalcommons.unl.edu/insectamundi/360</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13206215">Kleine R (1921) Bestimmungstabelle der Gattung Estenorrhinus Lacordaire. Archiv für Naturgeschichte 87: 275–281. https://www.biodiversitylibrary.org/page/13206215</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/41948096">Kleine R (1921) Ergebnis der Untersuchung powerscher in litt- Arten nebst Beschreibung einer neuen Gattung des tribus Ceocephalini von Madagaskar. Zoologische Mededelingen: 58–63. https://www.biodiversitylibrary.org/page/41948096</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33060814">Kleine R (1921) Kritische Bemerkung über die Gattung Trachelizus Schoenherr. Deutsche entomologische Zeitschrift 1921: 31–32. https://www.biodiversitylibrary.org/page/33060814</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45489535">Kleine R (1922) Bestimmungstabelle der Gattung Brenthus F. Archiv für Naturgeschichte 88: 89–114. https://www.biodiversitylibrary.org/page/45489535</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13259843">Kleine R (1922) Brenthidenstudien. II. Folge Archiv für Naturgeschichte 88: 201–222. https://www.biodiversitylibrary.org/page/13259843</citation>
+                <citation identifier="https://doi.org/10.1002/mmnd.48019220112">Kleine R (1922) Neue Brenthiden. Deutsche entomologische Zeitschrift 1922: 130–147. https://doi.org/10.1002/mmnd.48019220112</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13259865">Kleine R (1922) Neue Brenthiden aus dem Dahlemer Museum. Folge Archiv für Naturgeschichte 88: 223–228. https://www.biodiversitylibrary.org/page/13259865</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13259431">Kleine R (1922) Studien uber die Nemocephalini. Archiv für Naturgeschichte Abt A 88: 143–151. https://www.biodiversitylibrary.org/page/13259431</citation>
+                <citation>Kleine R (1927) Coleopterorum Catalogus. Pars 89. Brenthidae, Editio secunda. W. Junk, Berlin, 94 pp.</citation>
+                <citation identifier="https://archive.org/details/RevistadoMuseuP15Muse/page/n501/mode/2up">Kleine R (1927) Novos Generos e Especies da Fam. Brenthidae (Coleopt.) da Zona Neotropica. Revista do Museu Paulista 15: 419-542 + 3 pl. https://archive.org/details/RevistadoMuseuP15Muse/page/n501/mode/2up</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9266482">Kolbe HJ (1892) Beiträge zur Kenntnis der Brenthiden. Entomologische Zeitung 53: 162–175.  https://www.biodiversitylibrary.org/page/9266482</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42574533">Lacordaire JT (1865) Histoire naturelle des insectes. Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome septième contenant les familles des curculionides (suite), scolytides, brenthides, anthribides et bruchides. Librairie Encyclopédique de Roret, Paris, 620 pp.  https://www.biodiversitylibrary.org/page/42574533</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9614621">Lacordaire JT (1866) Histoire naturelle des insectes: Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Sptième. Contenant la famille des Curculionides. Librairie encyclopédique de Roret, Paris, 620 pp. https://www.biodiversitylibrary.org/page/9614621</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25753250">Lichtenstein AAH (1796) Brentidae (pp. 52-54). In: Catalogus musei Zoologici ditissimi Hamburgi, d. III. Februar (1796). Auctionis lege distrahendi. Sectio Tertia continens Insecta. Schniebes G. F., Hamburg, 222 pp. https://www.biodiversitylibrary.org/page/25753250</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/59530973">Lund NT (1800) Nogle Arten af slaegten Brentus. Skrivter af Naturhistorie-Selskabet 5: 54–91.  https://www.biodiversitylibrary.org/page/59530973</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_2004_num_109_3_16116">Mantilleri A (2004) Note sur les genres Stereobates Sharp, 1895, et Stereobatinus Kleine, 1927 (Coleoptera, Brentidae, Stereodermini). Bulletin de la Société entomologique de France 109: 225–229. https://www.persee.fr/doc/bsef_0037-928x_2004_num_109_3_16116</citation>
+                <citation identifier="https://www.researchgate.net/publication/318642068_Six_nouvelles_especes_du_genre_Stereodermus_Lacordaire_1866_Coleoptera_Brentidae_Stereodermini">Mantilleri A (2004) Six nouvelles espèces du genre Stereodermus Lacordaire, 1866 (Coleoptera, Brentidae, Stereodermini). Revue Française d’Entomologie (N. S.) 26: 131–140. https://www.researchgate.net/publication/318642068_Six_nouvelles_especes_du_genre_Stereodermus_Lacordaire_1866_Coleoptera_Brentidae_Stereodermini</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_2014_num_119_3_2455">Mantilleri A (2014) Le genre Neacratus: étude de l’espèce-type et descriptions de deux nouvelles espèces (Coleoptera, Brentidae). Bulletin de la Société entomologique de France 119: 349–361. https://www.persee.fr/doc/bsef_0037-928x_2014_num_119_3_2455</citation>
+                <citation identifier="https://doi.org/10.1080/00379271.2014.934041">Mantilleri A (2014) Revision and phylogeny of the genus Nemocephalus Guérin-Méneville 1827 (Coleoptera: Curculionoidea: Brentidae). Annales de la Société entomologique de France (N.S.) 50, 111–128. https://doi.org/10.1080/00379271.2014.934041</citation>
+                <citation identifier="https://doi.org/10.1080/00379271.2017.1340095">Mantilleri A (2017) Do species of Neacratus with anchor-shaped sclerite of endophallus really belong to Neacratus (Coleoptera: Brentidae: Acratini)? Annales de la Société entomologique de France (N.S.) 53: 256–279. https://doi.org/10.1080/00379271.2017.1340095</citation>
+                <citation identifier="https://doi.org/10.32475/bsef_2092">Mantilleri A (2019) Une nouvelle espèce et deux nouveaux synonymes dans le genre Neacratus (Coleoptera, Brentidae, Acratini). Bulletin de la Société entomologique de France 124: 241‑250. https://doi.org/10.32475/bsef_2092</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1207.1.1">Mantilleri A, Sforzi A (2006) Review of the Neotropical species of the genus Stereodermus Lacordaire, 1866 (Coleoptera: Brentidae, Stereodermini). Zootaxa 1207: 1–64. https://doi.org/10.11646/zootaxa.1207.1.1</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/3487477">Perroud BP (1853) Descriptions de quelques Coléoptères nouveaux ou peu connus. Annales de la Société Linnéenne de Lyon: 389–528. https://www.biodiversitylibrary.org/page/3487477</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/13257284">Schönherr CJ (1823) Curculionides [Tabula synoptica familiae Curculionidum]. Isis von Oken 1823: 1132–1146.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4108479">Schönherr CJ (1833) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus primus, pars prima. Roret, Paris, 681 pp. https://www.biodiversitylibrary.org/page/4108479</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4110075">Schönherr CJ (1840) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quintus, pars prima. Roret, Paris, 974 pp. https://www.biodiversitylibrary.org/page/4110075</citation>
+                <citation identifier="https://www.google.com/books/edition/_/oCwoAQAAIAAJ?hl=en&amp;gbpv=0">Scivittaro A (1975) Revisao dos Taphroderinae neotropicais (Coleoptera, Brenthidae). Studia Entomologica 18: 433–554. https://www.google.com/books/edition/_/oCwoAQAAIAAJ?hl=en&amp;gbpv=0</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10912126">Senna A (1890) Contribuzioni allo studio dei Brentidi. IV. Note diverse. Bollettino della Società entomologica italiana 21: 101–109.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10445941">Senna A (1893) Contribuzioni allo studio dei Brentidi. Nota XVII. Su alcuni nuovi Brentidi della collezione del Colonnello von Schönfeldt. Bollettino della Società entomologica italiana 25: 117–135. https://www.biodiversitylibrary.org/page/10445941</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12853934">Senna A (1894) Revision des espèces du genre Rhaphidorrhynchus Schoenherr. Annales de la Societe Entomologique de Belgique 38: 590–611. https://www.biodiversitylibrary.org/page/12853934</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12855618">Senna A (1896) Revision des especes du genre Ulocerus, Dalman. Annales de la Societe Entomologique de Belgique 40: 190–223. https://www.biodiversitylibrary.org/page/12855618</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35618855">Senna A (1897) Descriptions de quelques espèces nouvelles de Brenthides du Musée Royal de Belgique et de ma collection et notes diverses. Annales de la Société entomologique de Belgique 41: 227–236. https://www.biodiversitylibrary.org/page/35618855</citation>
+                <citation identifier="https://catalog.hathitrust.org/Record/009192776/Home">Sforzi A, Bartolozzi L (2004) Brentidae of the World (Coleoptera: Curculionoidea). Monografie XXXIX. Museo Regionale di Scienze Naturali, Torino, Italy, 976 pp. https://catalog.hathitrust.org/Record/009192776/Home</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/583298">Sharp D (1895) Brenthidae. In: Biologia Centrali-Americana. Insecta. Coleoptera. Vol. IV. Part 6. Taylor &amp; Francis, London, 1–80, pls. 1–3. https://www.biodiversitylibrary.org/page/583298</citation>
+                <citation>Soares BAM, Scivittaro A (1977) Notas sobre Brêntidas III (Coleoptera, Brentidae). Revista Brasileira de Entomologia, 21(3-4): 91-98.</citation>
+                <citation>Voss E (1959) Ein Beitrag zur Kenntnis der Apioniden-Fauna Zentralafrikas (Coleoptera Curculionoidea). Annales du Musée Royal du Congo Belge (Série in 8. Sciences Zoologiques), 76: 7–119.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13207191">Wagner H (1912) Beitrag zur Kenntnis der Apion - Fauna Central- und Süd-Amerikas. Besehreibungen neuer Arten. II Theil. Archiv für Naturgeschichte 78: 99–136. https://www.biodiversitylibrary.org/page/13207191</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13320301">Wagner H (1914) Beitrag zur Kenntnis der Apion-Fauna Zentral- und Süd-Amerikas. Beschreibungen neuer Arten. III Teil. Archiv für Naturgeschichte 79: 137–164. https://www.biodiversitylibrary.org/page/13320301</citation>
+                <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute 39: 1–563.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>DWC-A</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>BMNH</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH - Museo de Historia Natural de Londres</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.senckenberg.de/en/institutes/senckenberg-german-entomological-institute-muencheberg/</collectionIdentifier>
+                <collectionName>DEI - Senckenberg Deutsches Entomologisches Institut, Frankfurt, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.naturalsciences.be/en/science/collections/overview/537</collectionIdentifier>
+                <collectionName>IRSNB - Institut royal des Sciences naturelles de Belgique, Bruselas, Bélgica</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN - Muséum national d’Histoire naturelle, Paris, Francia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.sma.unifi.it/p358.html</collectionIdentifier>
+                <collectionName>MZUF - Museo di Storia Naturale, Sezione di Zoologia “La Specola”, Florencia, Italia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nrm.se/en/forskningochsamlingar/zoologi/samlingar/insekter.9002803.html</collectionIdentifier>
+                <collectionName>NHRS - Swedish Museum of Natural History [Naturhistoriska riksmuseet]</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>RMNH</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.naturalis.nl/en/collection</collectionIdentifier>
+                <collectionName>RMNH - Nationaal Natuurhistorisch Museum, Leiden, Países Bajos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://museumdresden.senckenberg.de/en/</collectionIdentifier>
+                <collectionName>SMTD - Staatliches Museum für Tierkunde, Dresden, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>ZMHB</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.museumfuernaturkunde.berlin/en/science/beetles-and-strepsiptera</collectionIdentifier>
+                <collectionName>ZMHB - Museum für Naturkunde der Humboldt-Universität, Berlin, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://samlinger.snm.ku.dk/en/dry-and-wet-collections/zoology/entomology/coleoptera-collection/</collectionIdentifier>
+                <collectionName>ZMUC - Zoological Museum, University of Copenhagen, Dinamarca</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://zmmu.msu.ru/en/about-muzeum/fonds/insect-collections</collectionIdentifier>
+                <collectionName>ZMUM - Zoological collection of the Moscow State University, Moscú, Rusia</collectionName>
+              </collection>
+          <dc:replaces>b7866d13-f566-4f63-af50-b2b665c1194b/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,120 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4238		CO	
+ubio.org/browser/details.php?namebankID=1054214		CO	
+ubio.org/browser/details.php?namebankID=5166540		CO	
+biolib.cz/en/taxon/id858012/		CO	
+gbif.org/species/1171623		CO	
+gbif.org/species/7897174	Colombia: Cundinamarca: Bogotá	CO	
+gbif.org/species/1171628	Colombia: Cundinamarca: Bogotá	CO	
+gbif.org/species/7914938	Colombia: Cundinamarca: Bogotá	CO	
+gbif.org/species/7397003	Colombia, sin localidad específica	CO	
+gbif.org/species/8018662	Colombia, sin localidad específica	CO	
+gbif.org/species/8142046	Colombia, sin localidad específica	CO	
+gbif.org/species/7513074	Colombia, sin localidad específica	CO	
+gbif.org/species/7675980	Colombia: Cundinamarca: Bogotá	CO	Endémica
+gbif.org/species/8019244	Colombia, sin localidad específica	CO	
+gbif.org/species/8265836	Colombia, sin localidad específica	CO	
+gbif.org/species/7944219	Colombia, sin localidad específica	CO	
+gbif.org/species/8076566		CO	
+gbif.org/species/7915471	Colombia, sin localidad específica	CO	
+gbif.org/species/1170938		CO	
+gbif.org/species/1170939	Colombia: Cauca	CO	
+biolib.cz/en/taxon/id244361/		CO	
+gbif.org/species/1170959		CO	
+gbif.org/species/8785112	Colombia: Cundinamarca: Bogotá	CO	
+gbif.org/species/1170978		CO	
+gbif.org/species/7861799	Colombia: Antioquia	CO	
+gbif.org/species/1171173		CO	
+gbif.org/species/7717237	Colombia: Cundinamarca: Bogotá	CO	
+gbif.org/species/4746852		CO	
+gbif.org/species/7413101	Colombia: Cundinamarca: Bogotá, Fusagasugá	CO	
+gbif.org/species/8095729	Colombia: Antioquia	CO	
+gbif.org/species/8223865	Colombia, sin localidad específica	CO	
+gbif.org/species/7715654	Colombia, sin localidad específica	CO	
+gbif.org/species/8064568	Colombia, sin localidad específica	CO	
+gbif.org/species/8020223	Colombia, sin localidad específica	CO	
+gbif.org/species/7793544	Colombia: Cundinamarca: Bogotá	CO	
+gbif.org/species/8172120	Colombia: Antioquia: Remedios |  Cundinamarca: Bogotá	CO	
+gbif.org/species/8266862	Colombia: Antioquia	CO	Endémica
+gbif.org/species/7529315	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/7973824	Colombia: Antioquia	CO	Endémica
+gbif.org/species/4736620		CO	
+gbif.org/species/8336468	Colombia, sin localidad específica	CO	
+gbif.org/species/7997335		CO	
+gbif.org/species/7609848	Colombia, sin localidad específica	CO	
+gbif.org/species/7703276	Colombia, sin localidad específica	CO	
+gbif.org/species/7603243	Colombia, sin localidad específica	CO	
+biolib.cz/en/taxon/id858014/		CO	
+biolib.cz/en/taxon/id858019/		CO	
+gbif.org/species/4716160	Colombia	CO	Endémica
+gbif.org/species/7907816	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/4746858		CO	
+gbif.org/species/7448389		CO	
+gbif.org/species/8240941	Colombia: entre Bogotá y Muzo	CO	
+gbif.org/species/8014492	Colombia: Cundinamarca: Bogotá	CO	
+gbif.org/species/7699225	Colombia: Amazonas: Leticia |  Cundinamarca: Bogotá |  Tolima: Ibagué |  Valle: Cali, Dagua	CO	
+gbif.org/species/7968020	Colombia: Amazonas: Leticia	CO	
+biolib.cz/en/taxon/id858021/		CO	
+gbif.org/species/1171017		CO	
+gbif.org/species/1171021		CO	
+gbif.org/species/4746910		CO	
+gbif.org/species/7494610	Colombia: Cundinamarca: Bogotá	CO	Endémica
+gbif.org/species/7712533	Colombia, sin localidad específica	CO	
+ubio.org/browser/details.php?namebankID=5166788		CO	
+biolib.cz/en/taxon/id695800/		CO	
+gbif.org/species/1171606		CO	
+gbif.org/species/1171607	Colombia, sin localidad específica	CO	
+gbif.org/species/4746851		CO	
+gbif.org/species/7590033	Colombia, sin localidad específica	CO	
+gbif.org/species/8299747		CO	
+gbif.org/species/8222845	Colombia, sin localidad específica	CO	
+gbif.org/species/7526089	Colombia, sin localidad específica	CO	
+gbif.org/species/4716564	Colombia	CO	Endémica
+gbif.org/species/7736386	Colombia, sin localidad específica	CO	Endémica
+biolib.cz/en/taxon/id695794/		CO	
+gbif.org/species/5431021		CO	
+gbif.org/species/7767819	Colombia, sin localidad específica	CO	
+gbif.org/species/4755093		CO	
+gbif.org/species/7371271	Colombia, sin localidad específica	CO	
+gbif.org/species/7991570	Colombia: Boyacá	CO	
+gbif.org/species/7786708	Colombia: Bolívar: Cartagena |  Santander: Ocaña	CO	
+gbif.org/species/8237691	Colombia, sin localidad específica	CO	
+gbif.org/species/7559295	Colombia: Córdoba: San Juan	CO	
+gbif.org/species/1171127		CO	
+gbif.org/species/1171139	Colombia, sin localidad específica	CO	
+gbif.org/species/4746893		CO	
+gbif.org/species/8023503	Colombia, sin localidad específica	CO	
+biolib.cz/en/taxon/id858022/		CO	
+gbif.org/species/1171484		CO	
+gbif.org/species/7705861	Colombia, sin localidad específica	CO	
+gbif.org/species/7792526	Colombia, sin localidad específica	CO	
+gbif.org/species/7751241	Colombia, sin localidad específica	CO	Endémica
+ubio.org/browser/details.php?namebankID=4815848		CO	
+ubio.org/browser/details.php?namebankID=5166855		CO	
+biolib.cz/en/taxon/id858027/		CO	
+gbif.org/species/9580281		CO	
+ubio.org/browser/details.php?namebankID=988678	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=3499583	Colombia: Cundinamarca: Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=5483439	Colombia, sin localidad específica	CO	
+ubio.org/browser/details.php?namebankID=1019783	Colombia, sin localidad específica	CO	Endémica
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=127312	Colombia, sin localidad específica	CO	Endémica
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=127372	Colombia, sin localidad específica	CO	
+ubio.org/browser/details.php?namebankID=6670529	Colombia, sin localidad específica	CO	Endémica
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=128321	Colombia, sin localidad específica	CO	Endémica
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=149765	Colombia: Cundinamarca: Bogotá	CO	
+biolib.cz/en/taxon/id243790/		CO	
+gbif.org/species/4721487		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=3659	Colombia: Bolívar: Cartagena	CO	
+biolib.cz/en/taxon/id243807/		CO	
+gbif.org/species/4726419		CO	
+organismnames.com/details.htm?lsid=5196923		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=127967	Colombia, sin localidad específica	CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=128051	Colombia, sin localidad específica	CO	
+biolib.cz/en/taxon/id243795/		CO	
+gbif.org/species/3261208		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=126115	Colombia, sin localidad específica	CO	Endémica
+biolib.cz/en/taxon/id243808/		CO	
+gbif.org/species/4726427		CO	
+gbif.org/species/4726406		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=125836	Colombia, sin localidad específica	CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=128377	Colombia: Bolívar: Cartagena	CO	
