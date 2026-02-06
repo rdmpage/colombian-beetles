@@ -1,0 +1,28 @@
+dataset	taxon_id	scientificName	taxonRank
+brachycerinae_colombia	organismnames.com/details.htm?lsid=1214507	Lissorhoptrus isthmicus	Especie
+brachycerinae_colombia	organismnames.com/details.htm?lsid=589807	Neohydronomus affinis	Especie
+brachycerinae_colombia	organismnames.com/details.htm?lsid=757187	Neohydronomus pulchellus	Especie
+brachycerinae_colombia	organismnames.com/details.htm?lsid=3591762	Ochetina bruchi	Especie
+cryptocephalinae_colombia	gbif.org/species/4746187-01	Fulcidax chimaera	Especie
+dytiscidae_colombia	gbif.org/species/8107848-01	Platynectes (Agametrus)	Subgénero
+dytiscidae_colombia	gbif.org/species/11166636/treatments	Platynectes (Agametrus) muelleri	Especie
+elmidae_colombia	urn:lsid:organismnames.com:name:3886534	Elmini	Tribu
+elmidae_colombia	Acuática Hinton, H.E. (1936). Descriptions of new genera and species of Dryopidae (Coleoptera). Transactions of the Royal Entomological Society of London, 85(18), 415-434. https://doi.org/10.1111/j.1365-2311.1936.tb01018.x es Escarabajo de los rápidos NE Listado de las especies de Elmidae (Coleoptera: Byrrhoidea) de Colombia Elsianus tarsalis Hinton, 1936 Jäch, M., Kodada, J., Brojer, M., Shepard, W. D., ?iampor Jr., F. (2016). World Catalogue of Insects. Vol 14. Coleoptera: Elmidae and Protelmidae. Brill Publishers, Leiden/Boston. 318 pp. Hinton, H.E. (1936). Descriptions of new genera and species of Dryopidae (Coleoptera). Transactions of the Royal Entomological Society of London, 85(18), 415-434. 1936 ICZN Válido		
+elmidae_colombia	urn:lsid:organismnames.com:name:5612092	Zunielmis	Género
+elmidae_colombia	urn:lsid:organismnames.com:name:5612094	Zunielmis pax	Especie
+gyrinidae_colombia	gbif.org/species/3261549	Enhydrus	Género
+gyrinidae_colombia	gbif.org/species/4743650-01	Macrogyrus	Género
+hydraenidae_colombia	gbif.org/species/1039042-01	Ochthebius	Subgénero
+lamprosomatinae_colombia	organismnames.com/details.htm?lsid=5008521	Lamprosoma annectens	Especie
+lista_coleopteros_disteniidae	urn:lsid:irmng.org:taxname:1472487	Elytrimitatrix (Grossifemora)	Subgénero
+meloidae_colombia	gbif.org/species/1046361-00	Epicauta	Género
+meloidae_colombia	gbif.org/species/1046361-01	Epicauta grammica	Especie
+meloidae_colombia	gbif.org/species/1046361-02	Epicauta leopardina	Especie
+meloidae_colombia	gbif.org/species/1046543-00	Lytta	Género
+meloidae_colombia	gbif.org/species/1046543-01	Lytta quadrimaculata	Especie
+meloidae_colombia	gbif.org/species/4990420-00	Cissites maculata	Especie
+meloidae_colombia	gbif.org/species/4990420-01	Cissites maculata championi	Variedad
+meloidae_colombia	gbif.org/species/4990420-02	Cissites maculata intermedia	Variedad
+meloidae_colombia	gbif.org/species/1046247-00	Zonitis	Género
+meloidae_colombia	gbif.org/species/1046247-01	Zonitis claveri	Especie
+ptiliidae_colombia	catalogueoflife.org/data/taxon/8VRFF	Acrotrichis (Acrotrichis)	Subgénero

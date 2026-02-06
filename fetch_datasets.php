@@ -15,7 +15,6 @@ $dois = array(
     "10.15472/0msljd",  // Orphninae
     "10.15472/p9fc2m",  // Lucanidae
     "10.15472/g5u6tg",  // Buprestidae
-    "10.15472/jdwfao",  // Entiminae
     "10.15472/qvrulo",  // Ceutorhynchinae
     "10.15472/tolans",  // Anthribidae
     "10.15472/iyrpyc",  // Brentidae
