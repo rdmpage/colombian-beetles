@@ -91,6 +91,29 @@ function get_unique_identifiers($dataset_dir, $column_index)
 }
 
 /**
+ * Get all dataset directories (subdirectories containing a meta.xml file).
+ *
+ * @param string $base_dir The base directory to scan.
+ * @return array Sorted array of dataset directory paths.
+ */
+function get_dataset_dirs($base_dir)
+{
+    $dirs = array();
+    $entries = scandir($base_dir);
+    foreach ($entries as $entry) {
+        if ($entry === '.' || $entry === '..') {
+            continue;
+        }
+        $path = $base_dir . '/' . $entry;
+        if (is_dir($path) && file_exists($path . '/meta.xml')) {
+            $dirs[] = $path;
+        }
+    }
+    sort($dirs);
+    return $dirs;
+}
+
+/**
  * Ensure a URL has a scheme. If no scheme is present, prepend https://.
  *
  * @param string $url The URL to normalise.
