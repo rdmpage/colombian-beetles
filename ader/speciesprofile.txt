@@ -1,0 +1,7 @@
+id	isTerrestrial
+gbif.org/species/1047172	1
+biolib.cz/en/taxon/id856278/	1
+biolib.cz/en/taxon/id856282/	1
+gbif.org/species/1047208	1
+biolib.cz/en/taxon/id1002895/	1
+biolib.cz/en/taxon/id1003153/	1

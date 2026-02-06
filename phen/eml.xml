@@ -1,0 +1,314 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="ea8bdebd-c3a0-4768-b28a-4cfe202f8194/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/1bxorj</alternateIdentifier>
+  <alternateIdentifier>ea8bdebd-c3a0-4768-b28a-4cfe202f8194</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=phen</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Phengodidae (Coleoptera: Elateroidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Diego Alejandro</givenName>
+      <surName>Uchima Taborda</surName>
+    </individualName>
+    <organizationName>Universidad de Antioquia</organizationName>
+    <positionName>Biólogo</positionName>
+    <address>
+        <city>Medellín</city>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diegouchima@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Diego Alejandro</givenName>
+      <surName>Uchima Taborda</surName>
+    </individualName>
+    <organizationName>Universidad de Antioquia</organizationName>
+    <positionName>Biólogo</positionName>
+    <address>
+        <city>Medellín</city>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diegouchima@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/4552216154711556</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+    <role>editor</role>
+      </associatedParty>
+  <pubDate>
+      2021-09-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Phengodidae (Coleoptera: Elateroidea) con ocurrencia conocida para el territorio colombiano. Se listan 3 subfamilias, 13 géneros y 25 especies de las cuales 16 son consideradas endémicas para el país. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Trenecitos</keyword>
+            <keyword>Bigotudos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Phengodidae (Coleoptera: Elateroidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. El departamento que presentó el mayor número de especies registradas fue Cundinamarca con ocho; seguido de Magdalena con cuatro; Valle del Cauca y Cauca, cada uno con tres y Amazonas, Cesar, Meta y Tolima, cada uno con una especie. Los restantes departamentos no presentaron registros de Phengodidae y de las especies registradas para el país, siete no poseen localidad especifica conocida.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1807</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Phengodidae (Coeloptera: Elateroidea) registradas para el territorio colombiano. Se listan 3 subfamilias (Phengodinae, Mastinocerinae y Penicillophorinae), 13 géneros y 25 especies.
+Para la subfamilia Phengodinae son listados los géneros Microphengodes (1 sp.) Phengodes (2 spp.) y Pseudophengodes (6 spp. y 2 sspp.) Para Mastinocerinae se listan los géneros Euryopa, Cephalophrixothrix, Cleicosta, Eurymastinocerus, Howdenia, Mastinomorphus, Ptorthodius, Pseudomastinocerus, cada uno con una única especie, Stenophrixothrix (4 spp.) y Taximastinocerus (3 spp.) En Penicillophorinae se lista un único género, Penicillophorus y una única especie.
+En este listado se sigue la clasificación usada por Zaragoza-Caballero &amp; Pérez (2014).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Phengodidae</taxonRankValue>
+                  <commonName>Trenecitos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Phengodinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Mastinocerinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Penicillophorinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Phengodes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pseudophengodes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Microphengodes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Euryopa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cephalophrixothrix</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cleicosta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Eurymastinocerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Howdenia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mastinomorphus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pseudomastinocerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ptorthodius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Stenophrixothrix</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Taximastinocerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Penicillophorus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Diego Alejandro</givenName>
+      <surName>Uchima Taborda</surName>
+    </individualName>
+    <organizationName>Universidad de Antioquia</organizationName>
+    <positionName>Biólogo</positionName>
+    <address>
+        <city>Medellín</city>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diegouchima@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del trabajo de Zaragoza-Caballero &amp; Pérez (2014). Esta lista inicial fue complementada con el trabajo de Vega-Badillo et al. (2020) en el que se describe un nuevo género presente en el país.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en las descripciones originales y catálogos disponibles.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Phengodidae (Coleoptera: Elateroidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Phengodidae (Coleoptera: Elateroidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo a partir de Zaragoza-Caballero &amp; Pérez (2014) y trabajos recientemente publicados.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en catálogos disponibles para el grupo.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Diego Alejandro</givenName>
+          <surName>Uchima Taborda</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-06-09T22:38:25.102+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/1bxorj">Uchima Taborda D A (2021): Listado de las especies de Phengodidae (Coleoptera: Elateroidea) de Colombia. v1.2. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/1bxorj</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/579899">Gorham, H. S. (1881) Biologia Centrali Americana. Lycidae, Lampyridae, Telephoridae, Lymexylonidae, Melyridae Vol. 3, pt. 2: 25-112.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2271214">Guérin, F. E. (1843) Insectes nouveaux, observés sur les planteux des Cordillères et dans les vallées chaudes de la Nouvelle-Grenade. Revue Zoologique, par la Societé Cuevierienne 1: 12-22.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/26621105">LeConte, J. L. (1861) Classification of the Coleoptera of North America Prepared for the Smithsonian Institution. Smithsonian Miscellaneus Collections (136): 1-208.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7732894">LeConte, J. L. (1881) Synopsis of the Lampyridae of the United States. Transactions of the American Entomological Society and Proceedings of the Entomological Section of the Academy of Natural Sciences. 9, 15–72.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/55130592">Leng, C. W. (1920) Catalogue of the Coleoptera of America, north of Mexico. Mount Vernon, New York, 470 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52459194">Motschulsky, V. (1854) Sur Lampyrides. Études Entomologiques 3: 47-62</citation>
+                <citation identifier="https://www.zobodat.at/pdf/ZAOE_25_0069-0080.pdf">Paulus, H. F. (1973) Penicillophorus ctenotarsus n. gen. et n. sp. aus Kolumbien, mit einer Beschreibung einer neuen Tribus Penicillophorini der Phengodidae. (Col., Polyphaga, Cantharoidea): 69–80.</citation>
+                <citation identifier="https://www.linneenne-lyon.org/depot2/17101.pdf">Pic, M. (1925) Revue Linnéenne, Notes diverses, descriptions et diagnoses. L’Echange, (419).</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k63335665/f329.item.texteImage">Pic, M. (1930) Contribution a l’etude des coléopterès malacodermes (2° articie). Annales de la Société Entomologique de France 99: 311- 324.</citation>
+                <citation>Pic, M. (1938) Malacodermes exotiques. L’Echange 54(47l)</citation>
+                <citation identifier="https://doi.org/10.11606/1807-0205/2020.60.special-issue.06">Vega-Badillo, V., Zaragoza-Caballero, S. &amp; Ivie, M. A. (2020) A new genus of phengodidae (Coleoptera) from the neotropical region. Papeis Avulsos de Zoologia, 60(Special Issue), 1–7.</citation>
+                <citation identifier="https://dx.doi.org/10.5169/seals-401448">Wittmer, W. (1963) Zur Kenntnis der Phengodidae (Coleoptera). MMitteilungen Der Schweizerischen Entomologischen Gesellschaft Bulletin de La Société Entomologique Suisse, 73–79.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45975567">Wittmer, W. (1976) Arbeiten zu einer Revision der Familie Phengodidae (Coleoptera). In Entomologische Arbeiten aus dem Museum G. Frey tutzing bei München. (pp. 415–525).</citation>
+                <citation>Wittmer, W. (1988) Beitrag zur Kenntnis der neotropichen Fauna (Coleoptera, Phengodidae). Entomologica Basiliensia, 12, 373–393.</citation>
+                <citation>Wittmer, W. (1988) Die Familie Phengodidae (Coleoptera) Vom Cerro de la Neblina, Venezuela. MITTEILUNGEN DER ENTOMOLOGISCHEN GESELLSCHAFT 38, 72–94.</citation>
+                <citation identifier="http://www.ibiologia.unam.mx/barra/publicaciones/Phengodidae_web_final.pdf">Zaragoza-Caballero, S. &amp; Pérez, C. X. (2014) Sinopsis de la familia Phengodidae (Coleoptera): Trenecitos, bigotudos, glow-worms, railroad-worms o besouros trem de ferro. (Primera ed).</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>ea8bdebd-c3a0-4768-b28a-4cfe202f8194/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

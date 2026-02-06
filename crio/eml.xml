@@ -1,0 +1,368 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="6f3d7cf1-d8ea-488a-8fce-3f5628c9d3f9/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/cnxkgm</alternateIdentifier>
+  <alternateIdentifier>6f3d7cf1-d8ea-488a-8fce-3f5628c9d3f9</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=crio</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Criocerinae (Coleoptera: Chrysomelidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Michael</givenName>
+      <surName>Geiser</surName>
+    </individualName>
+    <organizationName>Natural History Museum, London</organizationName>
+    <positionName>Curador</positionName>
+    <address>
+        <city>Londres</city>
+        <administrativeArea>Gran Londres</administrativeArea>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>m.geiser@nhm.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/michael-geiser.html</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9278-2358</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Michael</givenName>
+      <surName>Geiser</surName>
+    </individualName>
+    <organizationName>Natural History Museum, London</organizationName>
+    <positionName>Curador</positionName>
+    <address>
+        <city>Londres</city>
+        <administrativeArea>Gran Londres</administrativeArea>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>m.geiser@nhm.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/michael-geiser.html</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9278-2358</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Michael</givenName>
+      <surName>Geiser</surName>
+    </individualName>
+    <organizationName>Natural History Museum, London</organizationName>
+    <positionName>Curador</positionName>
+    <address>
+        <city>Londres</city>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>m.geiser@nhm.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/michael-geiser.html</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9278-2358</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-06-17
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Criocerinae (Coleoptera: Chrysomelidae) con ocurrencia conocida para el territorio colombiano. Se listan dos tribus, cinco géneros y 65 especies. 55 especies son consideradas endémicas. La información ha sido recopilada principalmente a partir de información disponible en el trabajo sobre los géneros de Chrysomelidae de Monrós (1960), actualizada con la reclasificación de White (1993). Se incluyen las referencias de todas las descripciones originales.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos de las hojas</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la subfamilia Criocerinae (Coleoptera: Chrysomelidae) de Colombia. Aunque 55 de las 64 especies registradas para el país se consideran endémicas, sólo se conocen localidades específicas al interior del país para 23 especies, de las que al menos cuatro son localidades que necesitan ser verificadas, pues parecen corresponder a lugares en Venezuela (Nueva Valencia, Valle de Aragua; La Guayra). Las especies con localidad específica conocida se han reportado de siete departamentos: Antioquia, (un registro), Boyacá (un registro), Caldas (un registro), Cundinamarca (11 registros), Meta (un registro), Norte de Santander (un registro) y Valle del Cauca (un registro). Se conocen reportes ambiguos (que no se pueden asociar directamente a algún departamento) de &quot;Guayabal&quot;, &quot;San Antonio&quot;, &quot;San Carlos&quot; y &quot;Valle del Río Magdalena&quot;.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1791</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan dos tribus, cinco géneros y 65 especies. 55 especies son consideradas endémicas.
+
+Se listan 64 especies de la subfamilia Criocerinae (Coleoptera: Chrysomelidae) para Colombia, las cuales pertenecen a dos tribus y cinco géneros. El género Lema posee la mayoría de las especies (38), seguido por Neolema (23), Metopoceris (2), Lilioceris (1) y Plectonycha (1). 
+Neolema fue designado como subgénero del género Lema por Monrós (1951). En 1993 White elevó Neolema a categoría de género. Siguiendo esta modificación, aquí se listan las especies que en Monrós (1960) aparecen como Lema (Neolema) bajo el género Neolema, de acuerdo con la propuesta de White (1993).
+La gran mayoría de las especies (40) fueron descritas en un mismo trabajo por Lacordaire (1845) y no han sido revisadas desde entonces.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chrysomelidae</taxonRankValue>
+                  <commonName>escarabajos de las hojas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Criocerinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Criocerini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Metopoceris</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lilioceris</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Lemini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lema</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neolema</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Plectonycha</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Michael</givenName>
+      <surName>Geiser</surName>
+    </individualName>
+    <organizationName>Natural History Museum, London</organizationName>
+    <positionName>Curador</positionName>
+    <address>
+        <city>Londres</city>
+        <administrativeArea>Gran Londres</administrativeArea>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>m.geiser@nhm.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/michael-geiser.html</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9278-2358</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del trabajo sobre los géneros de Chrysomelidae de Monrós (1960), actualizada con la reclasificación de White (1993) en la cual Neolema se eleva a categoría de género (previamente subgénero del género Lema).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Se consultó la base de datos de Zoological Record para consultar sobre revisiones de la subfamilia Criocerinae en Colombia y de cada uno de los géneros reportados. No se encontraron revisiones recientes desués de Monrós (1960).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en las descripciones originales, en el catálogo de Blackwelder (1944), en el trabajo sobre los géneros de Chrysomelidae de Monrós (1960), y se actualizó la clasificación de acuerdo con White (1993).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los trabajos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir del trabajo sobre los géneros de Chrysomelidae de Monrós (1960) y de las descripciones originales.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Criocerinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Criocerinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo principalmente a partir del trabajo sobre los géneros de Chrysomelidae de Monrós (1960) y actualizado con la reclasificación de White (1993). Las especies colombianas no han sido revisadas desde su descripción original.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales y lor registros se complementaron con la información presentada en el catálogo de Blackwelder (1944), el trabajo de Monrós (1960).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-09-19T14:16:39.453+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/cnxkgm">Girón Duque J C, Geiser M (2022): Listado de las especies de Criocerinae (Coleoptera: Chrysomelidae) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/cnxkgm</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25331155">Baly JS (1879) Descriptions of some uncharacterized species of Crioceridae. Cistula Entomologica 2: 305–316. https://www.biodiversitylibrary.org/page/25331155</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.47510">Chevrolat A (1834) Coléoptères du Mexique. Impr. de G. Silbermann, Strasbourg, 440 pp. https://doi.org/10.5962/bhl.title.47510</citation>
+                <citation identifier="https://www.google.com/books/edition/A_Catalogue_of_Phytophaga_Coleoptera_Pse/b2xZAAAAcAAJ?hl=en&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover">Clark H (1866) A catalogue of Phytophaga (Coleoptera, Pseudotetramera). Part I. Williams &amp; Norgate, London. https://www.google.com/books/edition/A_Catalogue_of_Phytophaga_Coleoptera_Pse/b2xZAAAAcAAJ?hl=en&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27434430">Donckier de Donceel H (1885) Liste des Sagrides, Criocérides, Clytrides, Mégalopides, Cryptocéphalides et Lamprosomides décrits postérieurement au catalogue de MM. Gemminger et Von Harold. Mémoires de la Société royale des sciences de Liège, deuxième série, tome XI. https://www.biodiversitylibrary.org/page/27434430</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42138493">Fabricius JC (1798) 5 Supplementum entomologia systematicae. Apud Proft et Storch, Hafniae, 640 pp. https://www.biodiversitylibrary.org/page/42138493</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27814313">Guérin-Méneville F-É (1844) Iconographie du règne animal de G. Cuvier, ou représentation d’après nature de l’une des espèces les plus remarquables, et souvent non encore figurées, de chaque genre d’animaux. Insectes. JB Baillière, Paris, 576 pp. https://www.biodiversitylibrary.org/page/27814313</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10264205">Gyllenhal L (1813) Insecta Suecica, Classis I. Coleoptera sive Eleuterata. Tomi I, Pars III. F. J. Leverentz, Scaris [Skara], Sweden, 730 + 4 pp pp. https://www.biodiversitylibrary.org/page/10264205</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Entomologische-Mitteilungen_16_1927_0138-0142.pdf">Heinze E (1927) I. Beitrag zur Kenntnis der Criocerinen (Col., Chrysomelid.). Entomologische Mitteilungen 16: 138–142. https://www.zobodat.at/pdf/Entomologische-Mitteilungen_16_1927_0138-0142.pdf</citation>
+                <citation>Heinze E (1931) Ein neues Criocerinen-Subgenus mit einer neuen Art. Entomologisches Nachrichtenblatt Troppau 5: 53–54.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12654906">Jacoby M (1878) Verzeichniss der von Herrn Ed. Steinheil in Neu-Granada gesammelten Cryptocephalini und Criocerini. Mittheilungen des Münchener Entomologischen Vereins 2: 134–162.  https://www.biodiversitylibrary.org/page/12654906</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/585199">Jacoby M (1888) Biologia Centrali-Americana. Insecta. Coleoptera. Vol. VI, part 1. Supplement. Phytophaga (part). 1–80. https://www.biodiversitylibrary.org/page/585199</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34006644">Jacoby M, Clavareau H (1904) Genera Insectorum. Fascicule XXIII. Coleoptera Phytophaga. Fam. Crioceridae. : 1-40 + pls. 1–5. https://www.biodiversitylibrary.org/page/34006644</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8541518">Kirsch T (1865) Beiträge zur Käferfauna von Bogotà. Berliner entomologische Zeitschrift 9: 40–104. https://www.biodiversitylibrary.org/page/8541518</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32915534">Lacordaire T (1845) Monographie des coléoptères subpentamères de la famille des phytophages. Vol. 1. C. Muquardt, Paris, 890 pp.  https://www.biodiversitylibrary.org/page/32915534</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille P. A. (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp. https://biodiversitylibrary.org/page/24884921</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/264172">Latreille PA (1804) Tableau méthodique des insectes. Nouveau dictionnaire d’histoire naturelle appliquée aux arts: principalement à l’agriculture et à l’économie rurale et domestique. Tome XXIV. L’Imprimerie de Crapelet, Paris, 538 pp. https://www.biodiversitylibrary.org/item/264172</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/48956126">Monrós F (1947) Revisión del género Plectonycha Lac (Col. Chrysomeloidea). Anales de la Sociedad Científica Argentina 144: 46–64. https://www.biodiversitylibrary.org/page/48956126</citation>
+                <citation>Monrós F (1951) Notas sobre Criocerinae (Col. Chrysomelidae). Acta Zoologica Lilloana 11: 467–482.</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/49123">Monrós F (1955) Notas sobre Criocerinae del subgénero Quasilema (Col. Chrysomelidae). Revista de la Sociedad Entomológica Argentina 18.  https://www.biotaxa.org/RSEA/article/view/49123</citation>
+                <citation identifier="https://books.google.je/books?id=JehJAAAAYAAJ&amp;dq=">Monrós F (1958) Notas y descripciones de Criocerinae (Col. Chrysomelidae). Boletin de la Academia Nacional de Ciencias 40: 171–187. https://books.google.je/books?id=JehJAAAAYAAJ&amp;dq=</citation>
+                <citation>Monrós F (1960) Los géneros de Chrysomelidae. Opera Lilloana 3: 1–337.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7604689">Olivier GA (1791) Encyclopédie méthodique. Histoire naturelle. Insectes. Tome sixieme. Chez Panckoucke, Librarie, Paris, 704 pp.  https://www.biodiversitylibrary.org/page/7604689</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40642901">Olivier GA (1808) Entomologie, ou, Histoire naturelle des insectes, avec leurs caractères génériques et spécifiques, leur description, leur synonymie, et leur enluminée. Coléoptères. Tome Sixieme. Desray, Paris, 512 pp. https://www.biodiversitylibrary.org/page/40642901</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/49755">Papp CS (1951) Drei neue Chrysomelidae aus Sudamerika (Coleopt.). Revista de la Sociedad Entomológica Argentina 15: 201–206.  https://www.biotaxa.org/RSEA/article/view/49755</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54257153">Pic M (1941) Opuscula martialis IV. 16 pp. https://www.biodiversitylibrary.org/page/54257153</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54267006">Pic M (1942) Opuscula martialis VI. https://www.biodiversitylibrary.org/page/54267006</citation>
+                <citation>Pic M (1944) Coléoptères du globe. L’Échange, Revue Linéenne 60(7): 13-16.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/48679490">Pic M (1947) Diversités entomologiques. Les Imprimeries Réunies, Moulins. https://www.biodiversitylibrary.org/page/48679490</citation>
+                <citation identifier="http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/9219">Reitter E (1912) Fauna Germanica: die Käfer des Deutschen Reiches. Nach der analytischen Methode. IV Band. Stuttgart, 236 + 23 pl. pp. http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/9219</citation>
+                <citation identifier="https://naldc.nal.usda.gov/download/CAT93500709/PDF">White RE (1993) A revision of the subfamily Criocerinae (Chrysomelidae) of North America North of Mexico. U.S. Department of Agriculture. Technical Bulletin No. 1805, 158 pp + 32 pl. https://naldc.nal.usda.gov/download/CAT93500709/PDF</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>6f3d7cf1-d8ea-488a-8fce-3f5628c9d3f9/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,7 @@
+id	locality	countryCode
+gbif.org/species/4239		CO
+biolib.cz/en/taxon/id684323/		CO
+biolib.cz/en/taxon/id858132/		CO
+gbif.org/species/10942904		CO
+organismnames.com/details.htm?lsid=120966	Colombia (sin localidad específica)	CO
+organismnames.com/details.htm?lsid=4762310	Colombia (sin localidad específica)	CO

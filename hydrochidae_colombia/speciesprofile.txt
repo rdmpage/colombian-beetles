@@ -1,0 +1,3 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+gbif.org/species/9837416	TRUE	FALSE	FALSE	Adulto	Acuática
+gbif.org/species/9837416	TRUE	FALSE	FALSE	Larva	Acuática

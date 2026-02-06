@@ -1,0 +1,292 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="a6be5f0b-d059-4876-ba6a-b991c7b2c3e7/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/5w8sxt</alternateIdentifier>
+  <alternateIdentifier>a6be5f0b-d059-4876-ba6a-b991c7b2c3e7</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lutrochidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Lutrochidae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-26
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Los Lutrochidae son un grupo pequeño y poco conocido de escarabajos acuáticos, endémico del hemisferio occidental. Este recurso presenta el listado de los taxones de la familia Lutrochidae (Coleoptera: Byrrhoidea) con ocurrencia conocida para el territorio colombiano. Se lista un género. Hasta el momento no se han reportado especies para Colombia. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. A pesar de que se conocen especies en países de centro y suramérica, y el caribe, la fauna colombiana aún no ha sido estudiada.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos travertinos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de los taxones de la familia Lutrochidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. El género Lutrochus se ha reportado en los departamentos de Caldas, Caquetá, Cauca, Chocó, La Guajira, Huila, Risaralda, y Valle del Cauca; también se conocen especímenes del departamento de Antioquia.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.189</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.983</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.565</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1847-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2017-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de los taxones de la familia Lutrochidae (Coleoptera: Byrrhoidea) registrados para Colombia. Se presenta un género. No se conocen registros a nivel de especie. Los reportes del género provienen de  una tesis de maestría (Laython, 2017).
+Se trata de una familia pequeña cuyas especies han sido clasificadas en diferentes familias (e.g., Limnichidae, Dryopidae) a lo largo de la historia. La familia no se ha revisado para el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lutrochidae</taxonRankValue>
+                  <commonName>Escarabajos travertinos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lutrochus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de los taxones registrados se hizo a partir del catálogo de Blackwelder (1944). Adicionalmente, fueron consultados trabajos más recientes como tesis y checklists.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La nomenclatura y autoría de cada nombre fue verificada en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, catálogos, listados y revisiones. Se proveen enalces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de los taxones de la familia Lutrochidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de los taxones de la familia Lutrochidae (Coleoptera: Byrrhoidea) que se han registrado para Colombia a partir de la literatura. El listado se obtuvo de Blackwelder (1944), Laython (2017) y Spangler et al. (2001).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogo de Blackwelder (1944) y en literatura reciente.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis Mairu</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcela</givenName>
+          <surName>González-Córdoba</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-08T16:59:56.431+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/5w8sxt">Hincapié-Montoya D M, González-Córdoba M (2024): Listado de las especies de Lutrochidae (Coleoptera: Byrrhoidea) de Colombia. v1.1. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/5w8sxt</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="No disponible en línea">Brown, H.P. (1991). Lutrochidae, Dryopidae, Limnichidae, pp. 397-402. In: F.W. Stehr (ed.), Immature Insects. Volume 2. Kendall/Hunt Publishing Co., Dubuque, Iowa.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/63.4.1030">Brown, H.P. and Murvosh, C.M. (1970). Lutrochus arizonicus new species, with notes on ecology and behavior (Coleoptera, Dryopoidea, Limnichidae). Annals of the Entomological Society of America, 63: 1030-1035.</citation>
+                <citation identifier="https://doi.org/10.1127/entom.germ/4/1978/250">Crowson, R.A. (1978). Problems of phylogenetic relationships in Dryopoidea (Coleoptera). Entomologica Germanica, 4: 250-257.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8643283">Erichson, WF. (1847). IV., V. Lieferungen, pp. 481–800. In: Naturgeschichte der Insecten Deutschlands. Erste Abtheilung. Coleoptera. Dritter Band. Nicolai, Berlin, vii + 968 pp.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1939.tb01021.x">Hinton, H.E. (1939). On some new genera and species of neotropical Dryopoidea (Coleoptera). Transactions of the Royal Entomological Society of London, 89: 23-46.</citation>
+                <citation identifier="No disponible en línea">Hinton, H. E. (1971). The species of Dryopomorphus (Coleoptera, Elmidae). The Entomologist 104 (1302-1303): 293–297.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1975.tb00858.x">Kasap, H. and Crowson, R.A. (1975). A comparative anatomical study of Elateriformia and Dascilloidea (Coleoptera). Transactions of the Royal Entomological Society of London, 126: 441-495.</citation>
+                <citation identifier="http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf">Laython, M. (2017) Los coleópteros acuáticos (Coleoptera: Insecta) en Colombia, distribución y taxonomía. Tesis de Maestría, Universidad Nacional de Colombia, Bogotá. 246 pp.</citation>
+                <citation identifier="https://kuscholarworks.ku.edu/handle/1808/25784">Maier C.A. (2016). Phylogeny, Ecology, and Taxonomic Revision of the Travertine Beetles (Coleoptera: Lutrochidae). University of Kansas. Doctoral dissertation. 332 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/577038">Sharp, D. (1882). Fam. Cyathoceridae, pp. 141-144, pl. 4. In: Biologia Centrali-Americana. Insecta, Coleoptera. Vol. 1 (2). Taylor and Francis, London.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/197/">Spangler, P. J., Staines, C. L., Spangler, P. M. &amp; Staines, S. L. (2001). A checklist of the Limnichidae and the Lutrochidae (Coleoptera) of the world. Insecta Mundi, 151-165.</citation>
+                <citation identifier="https://naldc.nal.usda.gov/catalog/IND86022094">Wooldridge, D.P. (1986). A catalog of the Coleoptera of America North of Mexico. Family: Limnichidae. Agricultural Research Service, United States Department of Agriculture, Agriculture Handbook 529-48. 8 pp.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>a6be5f0b-d059-4876-ba6a-b991c7b2c3e7/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

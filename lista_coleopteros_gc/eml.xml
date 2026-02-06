@@ -1,0 +1,280 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="7c492bfd-d818-4578-bb22-e3da0de69bc1/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/jdwfao</alternateIdentifier>
+  <alternateIdentifier>7c492bfd-d818-4578-bb22-e3da0de69bc1</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lista_coleopteros_gc</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Entiminae (Coleoptera: Curculionidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos Colombianos</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <postalCode>79410</postalCode>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos Colombianos</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <postalCode>79410</postalCode>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+  <pubDate>
+      2021-09-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Entiminae (Coleoptera: Curculionidae) registradas para el territorio colombiano. Se listan ocho tribus, 51 géneros y 222 especies. La información ha sido recopilada únicamente a partir de información disponible en la literatura, principalmente a partir del Catálogo de los Curculionidae de Suramérica de Wibmer y O&apos;Brien (1986). Se incluyen las referencias de todas las descripciones originales.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>listado</keyword>
+            <keyword>especies</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>picudos</keyword>
+            <keyword>gorgojos</keyword>
+            <keyword>vaquitas</keyword>
+            <keyword>mulitas</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>taxonomicAuthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la subfamilia Entiminae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1758</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2008</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la subfamilia Entiminae (Coleoptera: Curculionidae) registradas para el territorio colombiano. Se listan ocho tribus, 51 géneros y 222 especies. La información ha sido recopilada únicamente a partir de información disponible en la literatura, principalmente a partir del Catálogo de los Curculionidae de Suramérica de Wibmer y O&apos;Brien (1986). Se incluyen las referencias de todas las descripciones originales.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Entiminae</taxonRankValue>
+                  <commonName>vaquitas, mulitas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Curculionidae</taxonRankValue>
+                  <commonName>picudos, gorgojos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Coleoptera</taxonRankValue>
+                  <commonName>escarabajos, cucarrones</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>Este listado contribuye al conocimiento de los Coleoptera de Colombia.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos Colombianos</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <postalCode>79410</postalCode>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Entiminae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano a partir de la literatura.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>El listado se obtuvo de Wibmer y O&apos;Brien (1986) y se actualizó con información en Alonso-Zarazaga &amp; Lyal (1999).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan. Se revisaron además publicaciones recientes para incluir nuevas especies y cambios en la nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Entiminae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>El listado se obtuvo de Wibmer y O&apos;Brien (1986) y se actualizó con información en Alonso-Zarazaga &amp; Lyal (1999).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan. Se revisaron además publicaciones recientes para incluir nuevas especies y cambios en la nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2020-11-02T19:07:39.399+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/jdwfao">Girón J C (2021): Listado de las especies de Entiminae (Coleoptera: Curculionidae) de Colombia. v1.2. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/jdwfao</citation>
+          <bibliography>
+                <citation>Alonso-Zarazaga, M. A., y Lyal, C. H. C. 1999. A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Barcelona, Spain: Entomopraxis.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1879.1.8">Anderson, R. S. 2008. A new species of flightless Hadromeropsis from the Colombian páramo (Coleoptera: Curculionidae; Entiminae; Tanymecini). Zootaxa, 1879(1), 65–68. https://doi.org/10.11646/zootaxa.1879.1.8</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/13193370">Bovie, A. 1908. Notes sur les Curculionides. Annales de la Société entomologique de Belgique, 52: 43-44. https://biodiversitylibrary.org/page/13193370</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/8233114">Chevrolat, L. A. A. 1878. (Descriptions de quatre Curculionides nouveaux, dont l&apos;un est le type d&apos;un genre nouveau dans le groupe des Megalostylus. Annales de la Société entomologique de France [Bulletin des Séances], LIV-LV. https://biodiversitylibrary.org/page/8233114</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/8250753">Chevrolat, L. A. A. 1879. (Diagnoses de nouvelles espèces de la famille des Curculionides). Annales de la Société entomologique de France [Bulletin des Séances], LXXVII-LXXVIII. https://biodiversitylibrary.org/page/8250753</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6335721w/f588.image">Chevrolat, L. A. A. 1881. [Fait connaître quatre nouvelles espèces américaines de Curculionites]. Annales de la Société entomologique de France, (6) 1(1), Bulletin: XXXIII. https://gallica.bnf.fr/ark:/12148/bpt6k6335721w/f588.image</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11667422">Dejean, P. F. M. A. 1821. Catalogue des Coléoptères de la collection de M. le Baron Dejean. https://www.biodiversitylibrary.org/page/11667422</citation>
+                <citation identifier="https://doi.org/10.1111/j.1096-3642.2012.00833.x">del Río, M. G., Malvardi, A. E., y Lanteri, A. A. 2012. Systematics and cladistics of a new Naupactini genus (Coleoptera: Curculionidae: Entiminae) from the Andes of Colombia and Ecuador. Zoological Journal of the Linnean Society, 166(1), 54–71. https://doi.org/10.1111/j.1096-3642.2012.00833.x</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/8989523">Dohrn, C. A. 1880. Exotisches. Entomologische Zeitung. 41: 149-157. https://biodiversitylibrary.org/page/8989523</citation>
+                <citation identifier="https://books.google.com/books?id=KYo-AAAAcAAJ&amp;">Fabricius, J. C. 1787. Mantissa insectorum sistens eorum species nuper detectas adiectis characteribus genericis, differentiis specifis, emendationubus, observationibus. Hafniae. Vol 1, XX + 348 pp. https://books.google.com/books?id=KYo-AAAAcAAJ&amp;</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9266298">Faust, J. 1892. Reise von E. Simon in Venezuela. Curculionidae. Pars prima. Stettiner Entomologische Zeitung, 53(1-3): 1-44. https://biodiversitylibrary.org/page/9266298</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=uiug.30112077164264&amp;view=1up&amp;seq=374">Faust, J. 1894. Beriehtigung. Stettiner Entomologische Zeitung, 54, 368. https://babel.hathitrust.org/cgi/pt?id=uiug.30112077164264&amp;view=1up&amp;seq=374</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25412901">Germar, E. F. 1817. (Note) in Miscellen Und Correspondenz-Nachrichten. Magazine Der Entomologie 2 (1817): 339–41. https://www.biodiversitylibrary.org/page/25412901</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.130964">Germar, E. F. 1824. Insectorum species novae aut minus cognitae, descriptionibus illustratae. Vol. 1. Coleoptera (Vol. 1). https://doi.org/10.5962/bhl.title.130964</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/46339896">Gistel, J. 1848. Naturgeschichte des Thierreichs für höhere Schulen. https://www.biodiversitylibrary.org/page/46339896</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/12049594">Guérin-Méneville, F. E. 1955. Catalogue des insectes coléoptères recueillis par M. Gaetano Osculati, pendant son exploration de la région équatoriale, sur les bords du Napo et de l&apos;Amazone. https://biodiversitylibrary.org/page/12049594</citation>
+                <citation identifier="https://www.jstor.org/stable/25077915">Howden, A. T. 1966. Airosimus, a new genus of Neotropical Tanymecini (Coleoptera: Curculionidae). Transactions of the American Entomological Society 92: 173–229. https://www.jstor.org/stable/25077915</citation>
+                <citation>Howden, A. T. 1976. Pandeleteius of Venezuela and Colombia (Curculionidae: Brachyderinae: Tanymecini). Memoirs of the American Entomological Institute 24: 1–310.</citation>
+                <citation>Howden, A. T. 1982. Revision of the New World genus Hadromeropsis Pierce (Coleoptera, Curculionidae, Tanymecini. Contributions of the American Entomological Institute 19: 1–180.</citation>
+                <citation identifier="https://doi.org/10.4039/ ent128877-5">Howden, A. T. 1996. Neotropical Pandeleteius (Coleoptera: Curculionidae) with irregular elytral striae. Canadian Entomologist 128(5): 877–955.
+https://doi.org/10.4039/ ent128877-5.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/52068095">Hustache A. 1933. Deux nouveaux curculionides déprédateurs. Bulletin du Muséum National d&apos;Histoire Naturelle (2) 5: 376-380. https://biodiversitylibrary.org/page/52068095</citation>
+                <citation>Hustache, A. 1938. Compsus sud-américains. Bulletin de la Société entomologique de Belgique 78: 67-118.</citation>
+                <citation>Hustache, A. 1938. Curculionides nouveaux de l&apos;Amerique meridionale, qui se trouvent dans le Deutsches Entomologisches Institut. 2 ième note. Arbeiten über morphologische und taxonomische Entomologie aus Berlin-Dahlem, Berlin-Dahlem, 5(3): 265-288.</citation>
+                <citation identifier="https://www.persee.fr/docAsPDF/linly_0366-1326_1946_num_15_1_8222.pdf">Hustache, A. 1946. Deux curculionides nouveaux de l&apos;Amérique du Sud. Bulletin mensuel de la Société linnéenne de Lyon, 15(1): 3-6.
+https://www.persee.fr/docAsPDF/linly_0366-1326_1946_num_15_1_8222.pdf</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/42184434">Jekel, H. 1854. Fabricia Entomologica. recueil d&apos;observations nouvelles sur les insectes; monographies, révisions de groupes et de genres, classifications, synonymies et rectifications, decriptions de genres nouveaux et d&apos;espèces nouvelles. Part 1, livr. 1: Preamble. https://biodiversitylibrary.org/page/42184434</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/42184434">Jekel, H. 1856. Fabricia Entomologica. recueil d&apos;observations nouvelles sur les insectes; monographies, révisions de groupes et de genres, classifications, synonymies et rectifications, decriptions de genres nouveaux et d&apos;espèces nouvelles. Part 1: 97-184. https://biodiversitylibrary.org/page/42184434</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/42184434">Jekel, H. 1857. Fabricia Entomologica. recueil d&apos;observations nouvelles sur les insectes; monographies, révisions de groupes et de genres, classifications, synonymies et rectifications, decriptions de genres nouveaux et d&apos;espèces nouvelles. Part 1: 97-184. https://biodiversitylibrary.org/page/42184434</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/18659256">Jekel, H. 1858. Spicilegia Entomologica II: Descriptions of new Curculionidous beetles collectedon the voyage of H. M. S. Herald. The Annals and Magazine of Natural History, Ser. 3(2): 356-351. https://biodiversitylibrary.org/page/18659256</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/42184434">Jekel, H. 1859. Fabricia Entomologica. recueil d&apos;observations nouvelles sur les insectes; monographies, révisions de groupes et de genres, classifications, synonymies et rectifications, decriptions de genres nouveaux et d&apos;espèces nouvelles. Part 1, livr. 3: 185-249. https://biodiversitylibrary.org/page/42184434</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k884758k/f5.image">Jekel, H. 1875. Coleoptera Jekeliana adjecta eleutheratorum bibliotheca. Énumération systématique et synonymique des coléoptères européens et exotiques composant la collection de Henri Jekel, observations critiques, description d’espèces nouvelles, reproduction et traduction de genres et espèces publiés dans des ouvrages rares français et étrangers de manière à former insensiblement la Biblootheque du Coleoptériste. https://gallica.bnf.fr/ark:/12148/bpt6k884758k/f5.image</citation>
+                <citation>Kessel, F. 1932. Fauna Braziliensis coleopterologica. Verlag Friedländer &amp; Sohn, Berlin. pp. 1-72.</citation>
+                <citation>Kessel, F. 1935. Fauna Braziliensis coleopterologica. Verlag Friedländer &amp; Sohn, Berlin. pp. 73-113.</citation>
+                <citation>Kessel, F. 1937. Fauna Braziliensis coleopterologica. Verlag Friedländer &amp; Sohn, Berlin. pp. 114-184.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9215483">Kirsch, T. 1868. Beiträge zur Käferfauna von Bogotà. (Drittes Stück: Brenthiden und adelognathe Curculionen). Berliner Entomologische Zeitschrift, 11(3-4)[1867]: 215-243. https://biodiversitylibrary.org/page/9215483</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/33470151">Kirsch, T. 1889. Coleopteren gesammelt in den Jahren 1868-1877 aufeiner Reise durch Suadamerika von Alphons Stübel. Abhandlungen und Berichtedes Kdniglichen Zoologischen und Anthropologisch-Etnographischen Museums zu Dresden (1888/9), 2(4): 1-58+ pi. I-IV. https://biodiversitylibrary.org/page/33470151</citation>
+                <citation identifier="http://publicaciones.mnhn.gob.cl/668/articles-63959_archivo_01.pdf">Kuschel, G. 1956. Revision de los Premnotrypini y adiciones a los Bagoini. Boletín Del Museo Nacional de Historia Natural, 26(6), 187–235. http://publicaciones.mnhn.gob.cl/668/articles-63959_archivo_01.pdf</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9375856">Lacordaire, J. T. 1863. Histoire naturelle des insectes: Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Sexième. Contenant la famille des Curculionides. Paris: Librairie encyclopédique de Roret. https://biodiversitylibrary.org/page/9375856</citation>
+                <citation identifier="https://doi.org/10.1086/271360">LeConte, J. L. 1874. The Classification of the Rhynchophorous Coleoptera. The American Naturalist 8(8): 452–70. https://doi.org/10.1086/271360</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/726886">Linnaeus, C. 1758. Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species,cum caracteribus, differentiis, synonymis. Ed. 10. Vol. 1. 824 pp. L. Salvii, Holmiae. https://biodiversitylibrary.org/page/726886</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/22130024">Marshall, G.A.K. 1916. On new Neotropical Curculionidae. The Annals and Magazine of Natural History, Ser. 8, 18: 449-469. https://biodiversitylibrary.org/page/22130024</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/14708628">Marshall, G.A.K. 1922. On new genera and species of Neotropical Curculionidae. Transactions of the Entomological Society of London, 1–2: 181–224. https://biodiversitylibrary.org/page/14708628</citation>
+                <citation identifier="https://doi.org/10.1080/00222932608633549">Marshall, G.A.K. 1926. LXVI - On new Neotropical Curculioniae (Col.). The Annals and Magazine of Natural History, Ser. 9, 18: 530-543. https://doi.org/10.1080/00222932608633549</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/40641693">Olivier, G.A. 1807. Entomologie, ou Histoire naturelle des insectes, avec leurs caractères génériques et spécifiques, leur description, leur synonymie, et leur figure enluminée. Coléoptères. Vol. 5. De l&apos;Imprimerie de Baudoin, Paris, 612 pp. https://biodiversitylibrary.org/page/40641693</citation>
+                <citation identifier="https://doi.org/10.1111/j.1096-3642.1872.tb01668.x">Pascoe, F. P. 1872. Contributions towards a knowledge of the Curculionidae. Part III. Journal of the Linnean Society of Zoology 11(55): 440–492. https://doi.org/10.1111/j.1096-3642.1872.tb01668.x</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24722518">Pascoe, F. P. 1881. New Neotropical Curculionidae. Part IV. Annals and Magazine of Natural History, (5) 7(37): 38-45. [1-1881] https://biodiversitylibrary.org/page/24722518</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/16336574">Pascoe, F. P. 1880. New Neotropical Curculionidae. Part I. The Annals and Magazine of Natural History, 5(5): 419-428. https://biodiversitylibrary.org/page/16336574</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7306921">Pierce, W. D. 1913. Miscellaneous contributions to the knowledge of the weevils of the families Attelabidae and Brachyrhinidae. 45, 365–426. https://www.biodiversitylibrary.org/page/7306921</citation>
+                <citation identifier="https://naldc.nal.usda.gov/download/IND43965426/PDF">Pierce, W. D. 1914. New potato weevils from Andean South America. Journal of Agricultural Research, 1(4), 347-352 + pl. XXXDC-XLI. https://naldc.nal.usda.gov/download/IND43965426/PDF</citation>
+                <citation identifier="https://doi.org/10.25100/socolen.v43i1.6654">Poinar, G., A. Bukejs, y A. A. Legalov. First Records of Weevils (Coleoptera: Curculionidae) in Quaternary Colombian Copal. Revista Colombiana de Entomología, 43(1): 85–90. https://doi.org/10.25100/socolen.v43i1.6654</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10990686">Sahlberg, C. R. 1823. Periculi entomographici, species insectorum nondum descriptas proposituri, fasciculus. Frenckel, Aboae. https://www.biodiversitylibrary.org/page/10990686</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/13257284">Schönherr, C. J. 1823. Curculionides [Tabula Synoptica Familiae Curculionidum]. Isis von Oken 1823, no. 10 (1823): 1132–46. https://biodiversitylibrary.org/page/13257284</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4112093">Schönherr, C. J. 1834. Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae. Tomus secundus. Pars prima. https://www.biodiversitylibrary.org/page/4112093</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4110075">Schönherr, C. J. 1840. Genera et Species Curculionidum, Cum Synonymia Hujus Familiae. Species Novae Aut Hactenus Minus Cognitae, Descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et Entomologis Aliis Illustratae, Tomus Quintus, Pars Prima. Paris: Roret. https://www.biodiversitylibrary.org/page/4110075</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4114879">Schönherr, C. J. 1840. Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae. Tomus Sextus, Pars Prima. https://www.biodiversitylibrary.org/page/4114879</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9444853">Schönherr, C. J. 1842. Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae. Tomus Sextus. Pars Secunda: 1-495. Roret, Paris, 474 pp. https://biodiversitylibrary.org/page/9444853</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/4114191">Schönherr, C. J. 1845 Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae. Vol. 8(2): 1-504. Roret, Paris. https://biodiversitylibrary.org/page/4114191</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/47290555">Schönherr, C. J. 1847. Mantissa secunda familiae curculionidum. Seu descriptiones novorum quorundam generum curculionidum. Norstedt &amp; Sons, Holmiae, 86 pp. [Kongl. Svenska vetenskaps-akademiens Handlingar. 1846-1848: 51-136. https://biodiversitylibrary.org/page/47290555</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/581470">Sharp D. y G. Champion. 1911. Biología Centrali-Americana. Insecta. Coleoptera. 4(3): 87-300. https://biodiversitylibrary.org/page/581470</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=hvd.32044106244114&amp;view=1up&amp;seq=191">Taschenberg. E. L. 1870. Neue Käfer aus Colombien und Ecuador. Zeitschrift für die gesammten Naturwissenschaft, 35: 177-199. https://babel.hathitrust.org/cgi/pt?id=hvd.32044106244114&amp;view=1up&amp;seq=191</citation>
+                <citation identifier="http://www.aemnp.eu/PDF/12_0/12_0_63.pdf">Voss, E. 1934. Einige unbeschriebene neotropische Curculioniden nebst einer Vorstedie zur tribus Promecopini (Col. Curc.). Sborník Entomologického oddělení Národního musea v Praze 12: 63-104. http://www.aemnp.eu/PDF/12_0/12_0_63.pdf</citation>
+                <citation identifier="https://www.snl.lu/publications/bulletin/SNL_1936_046_103_124.pdf">Voss, E. 1936. Uber einige exotische Curculioniden.(Col., Curc). Bulletin de la Société des naturalistes luxembourgeois. N.S., 46 (3,4):103-124. https://www.snl.lu/publications/bulletin/SNL_1936_046_103_124.pdf</citation>
+                <citation>Voss, E. 1939. Über neueund weing bekannte Rüsler-Arten aus der neotropischen Region, Vorwiegend aus Brazilien (Coleoptera: Curculionidae). Arbeiten über morphologische und taxonomische Entomologie aus Berlin-Dahlem, Berlin-Dahlem, 6(4): 335-340.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Ent-Mitt-Zool-Mus-Hamburg_1_0055-0084.pdf">Voss, E. 1953. Neue und bemerkenswerte Curculioniden aus Colombien und Bolivien. (Col. Curc.). Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg 1: 55-84. https://www.zobodat.at/pdf/Ent-Mitt-Zool-Mus-Hamburg_1_0055-0084.pdf</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/10891087">Waterhouse, O. 1879. Descriptions of new Coleoptera from Medellin, Colombia, recently added to the British Museum collection. Cistula Entomologica 2: 421-429. https://biodiversitylibrary.org/page/10891087</citation>
+                <citation>Wibmer, G. J., y O’Brien, C. W. 1986. Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute, 39, 1–563.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>7c492bfd-d818-4578-bb22-e3da0de69bc1/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

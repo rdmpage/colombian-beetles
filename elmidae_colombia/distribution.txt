@@ -1,0 +1,101 @@
+id	locality	countryCode	establishmentMeans	threatStatus
+gbif.org/species/7826		CO		NE
+organismnames.com/details.htm?lsid=437766		CO		NE
+urn:lsid:organismnames.com:name:3886534		CO		NE
+biolib.cz/en/taxon/id854700/		CO		NE
+gbif.org/species/4765857	Colombia: Bogotá | Boyacá | Cundinamarca | Nariño | Risaralda	CO		NE
+gbif.org/species/4719039	Colombia: Antioquia | Boyacá | Caldas | Caquetá | Casanare | Cauca | Cesar | Chocó | Cundinamarca | Huila | La Guajira | Magdalena | Meta | Nariño | Putumayo | Quindío | Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+organismnames.com/details.htm?lsid=2374876		CO		NE
+organismnames.com/details.htm?lsid=2374879		CO		NE
+gbif.org/species/6968281	Colombia: Chocó	CO		NE
+gbif.org/species/6968293	Colombia: Chocó	CO		NE
+gbif.org/species/6968286	Colombia: "Nouvelle-Grenade", río Chipalo, Bogotá, departamento Cundinamarca	CO		NE
+gbif.org/species/8619915	Colombia, sin localidad específica	CO		NE
+gbif.org/species/1033536	Colombia: Amazonas | Antioquia | Boyacá | Caldas | Caquetá | Casanare | Cauca | Cesar | Chocó | Córdoba | Huila | La Guajira | Magdalena | Meta | Nariño | Norte de Santander | Putumayo | Quindío | Risaralda | Santander | Tolima | Valle del Cauca | Vichada	CO		NE
+gbif.org/species/6967970	Colombia, sin localidad específica	CO		NE
+gbif.org/species/8703447	Colombia: Antioquia	CO		NE
+gbif.org/species/4737199	Colombia: Caquetá	CO		NE
+gbif.org/species/4745959	Colombia: Amazonas | Caquetá | Guaviare | Meta | Putumayo	CO		NE
+gbif.org/species/6967804	Colombia: Putumayo	CO		NE
+gbif.org/species/6967803	Colombia: Putumayo	CO		NE
+gbif.org/species/6967809	Colombia, sin localidad específica	CO		NE
+gbif.org/species/6967805	Colombia: Putumayo	CO		NE
+gbif.org/species/6967802	Colombia, sin localidad específica	CO		NE
+gbif.org/species/8610615	Colombia, sin localidad específica	CO		NE
+gbif.org/species/8463483	Colombia: Putumayo	CO		NE
+gbif.org/species/1033526	Colombia: Amazonas | Antioquia | Atlántico | Bogotá | Bolívar | Boyacá | Caldas | Caquetá | Casanare | Cauca | Cesar | Chocó | Córdoba | Cundinamarca | Huila | La Guajira | Magdalena | Meta | Nariño | Norte de Santander | Putumayo | Quindío | Risaralda | Santander | Tolima | Valle del Cauca | Vaupés	CO		NE
+gbif.org/species/6967401	Colombia, sin localidad específica	CO		NE
+gbif.org/species/1033527	Colombia: Tolima	CO		NE
+gbif.org/species/1033666	Colombia: Amazonas | Antioquia | Boyacá | Caquetá | Casanare | Chocó | Huila | La Guajira | Meta | Putumayo | Tolima | Valle del Cauca | Vaupés	CO		NE
+gbif.org/species/4765801	Colombia: Amazonas | Caquetá | Casanare | Meta | Putumayo | Vichada	CO		NE
+gbif.org/species/6967679	Colombia, sin localidad específica	CO		NE
+gbif.org/species/6967677	Colombia: Putumayo	CO		NE
+gbif.org/species/6967681	Colombia: Meta	CO		NE
+gbif.org/species/6967673	Colombia: Amazonas	CO		NE
+gbif.org/species/6967680	Colombia: Vichada	CO		NE
+gbif.org/species/4726657	Colombia: Amazonas | Caquetá | Guaviare	CO		NE
+gbif.org/species/6968610	Colombia: Caquetá	CO		NE
+gbif.org/species/4716600	Colombia: Antioquia | Caldas | Caquetá | Cauca | Cesar | Chocó | Córdoba | Huila | Magdalena | Meta | Nariño | Norte de Santander | Putumayo | Quindío | Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/1033654	Colombia: Arauca | Bogotá | Bolívar | Boyacá | Caldas | Caquetá | Casanare | Cauca | Cesar | Chocó | Córdoba | Cundinamarca | Huila | La Guajira | Magdalena | Meta | Nariño | Norte de Santandertander | Putumayo | Quindío | Risaralda | Santander | Valle del Cauca	CO		NE
+gbif.org/species/6968462	Colombia, sin localidad específica	CO	Endémica	NE
+gbif.org/species/6968446	Colombia, sin localidad específica	CO	Endémica	NE
+gbif.org/species/8568972	Colombia: Antioquia: Medellín, La Ceja, Cocorná	CO		NE
+gbif.org/species/1033655	Colombia: Tolima	CO		NE
+gbif.org/species/6968499	Colombia: Antioquia: San Carlos, San Roque, Cisneros	CO		
+Acuática Hinton, H.E. (1936). Descriptions of new genera and species of Dryopidae (Coleoptera). Transactions of the Royal Entomological Society of London, 85(18), 415-434.  https://doi.org/10.1111/j.1365-2311.1936.tb01018.x es Escarabajo de los rápidos NE Listado de las especies de Elmidae (Coleoptera: Byrrhoidea) de Colombia Elsianus tarsalis Hinton, 1936 Jäch, M., Kodada, J., Brojer, M., Shepard, W. D., ?iampor Jr., F. (2016). World Catalogue of Insects. Vol 14. Coleoptera: Elmidae and Protelmidae. Brill Publishers, Leiden/Boston. 318 pp. Hinton, H.E. (1936). Descriptions of new genera and species of Dryopidae (Coleoptera). Transactions of the Royal Entomological Society of London, 85(18), 415-434. 1936 ICZN Válido				
+gbif.org/species/1033606	Colombia: Amazonas | Antioquia | Bolívar | Boyacá | Caldas | Caquetá | Casanare | Cauca | Cesar | Chocó | Córdoba | Guaviare | La Guajira | Magdalena | Meta | Norte de Santandertander | Putumayo | Quindío | Risaralda | Tolima | Valle del Cauca | Vaupés	CO		NE
+gbif.org/species/1033604	Colombia: Antioquia | Bolívar | Caldas | Caquetá | Chocó | Córdoba | Cundinamarca | La Guajira | Tolima	CO		NE
+gbif.org/species/6968087	Colombia, sin localidad específica	CO		NE
+gbif.org/species/9756229	Colombia, sin localidad específica	CO		NE
+gbif.org/species/1033596	Colombia: Amazonas | Antioquia | Cundinamarcad | Boyacá | Caldas | Caquetá | Casanare | Cauca | Cesar | Chocó | Cundinamarca | Guaviare | Huila | La Guajira | Magdalena | Meta | Nariño | Putumayo	CO		NE
+gbif.org/species/6967329	Colombia, sin localidad específica	CO	Endémica	NE
+gbif.org/species/6967356	Colombia: Tolima	CO		NE
+gbif.org/species/6967319	Colombia: Tolima	CO		NE
+gbif.org/species/4759913	Colombia: Amazonas | Meta | Putumayo | Vaupés	CO		NE
+gbif.org/species/6968149	Colombia: Meta	CO		NE
+gbif.org/species/4761536	Colombia: Antioquia | Caldas | Caquetá | Cundinamarca | Huila | Nariño | Putumayo | Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/6967175	Colombia: Antioquia | Caquetá | Cundinamarca | Huila|Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/6967173	Colombia: Santander | Valle del Cauca	CO		NE
+gbif.org/species/4736775	Colombia: Antioquia | Boyacá | Caldas | Caquetá | Cauca | Cesar | Chocó | Putumayo | Cundinamarca | Huila | Nariño | Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/6967844	Colombia: Antioquia | Boyacá | Caldas | Caquetá | Cauca | Cundinamarca | Huila | Nariño | Putumayo|Risaralda | Santander | Tolima	CO		NE
+gbif.org/species/6967846	Colombia: Caldas | Caquetá | Cesar | Huila |Risaralda | Santander	CO		NE
+gbif.org/species/6967845	Colombia: Cundinamarca	CO	Endémica	NE
+gbif.org/species/4576968	Colombia: Amazonas | Caquetá | Meta	CO		NE
+gbif.org/species/6968240	Colombia: Meta	CO		NE
+gbif.org/species/4765774	Colombia: Amazonas | Putumayo	CO		NE
+gbif.org/species/6967764	Colombia, sin localidad específica	CO		NE
+gbif.org/species/4768889	Colombia: Amazonas | Caquetá | Guaviare | Meta | Putumayo | Vaupés | Vichada	CO		NE
+gbif.org/species/6968230	Colombia: Caquetá | Putumayo	CO		NE
+gbif.org/species/6968233	Colombia: Meta	CO		NE
+gbif.org/species/6968232	Colombia: Vichada	CO		NE
+gbif.org/species/4719037	Colombia: Antioquia | Caldas | Caquetá | Chocó | Córdoba | La Guajira | Magdalena | Meta | Valle del Cauca	CO		NE
+gbif.org/species/8491862	Colombia: Caquetá | Córdoba | Chocó | La Guajira | Magdalena | Valle del Cauca	CO		NE
+gbif.org/species/4762807	Colombia: Meta	CO		NE
+gbif.org/species/4748284	Colombia: Amazonas | Antioquia | Caquetá | Casanare | Cauca | Chocó | Córdoba | Guaviare | Huila | Meta | Nariño | Putumayo | Quindío | Risaralda | Tolima | Valle del Cauca | Vaupés	CO		NE
+gbif.org/species/8596549	Colombia, sin localidad específica	CO		NE
+gbif.org/species/6968565	Colombia, sin localidad específica	CO		NE
+gbif.org/species/9112008	Colombia, sin localidad específica	CO		NE
+gbif.org/species/6968559	Colombia, sin localidad específica	CO		NE
+gbif.org/species/6968566	Colombia, sin localidad específica	CO		NE
+urn:lsid:organismnames.com:name:5612092	Colombia: Vichada, Puerto Carreño, río Bita, ventana Anakay	CO	Endémica	NE
+urn:lsid:organismnames.com:name:5612094	Colombia: Vichada, Puerto Carreño, río Bita, ventana Anakay	CO	Endémica	NE
+organismnames.com/details.htm?lsid=565555		CO		NE
+organismnames.com/details.htm?lsid=583480		CO		NE
+gbif.org/species/4719030	Colombia: Antioquia | Caldas | Caquetá | Cauca | Córdoba | Huila | Meta | Nariño | Quindío | Risaralda | Valle del Cauca	CO		NE
+gbif.org/species/6967779	Colombia: Meta	CO		NE
+gbif.org/species/6967781	Colombia: Valle del Cauca	CO		NE
+gbif.org/species/6967783	Colombia: Antioquia	CO		NE
+gbif.org/species/6967791	Colombia: Antioquia, Porce	CO		NE
+gbif.org/species/6967785	Colombia: Antioquia	CO		NE
+gbif.org/species/6967786	Colombia, sin localidad específica	CO		NE
+gbif.org/species/4719032	Colombia: Antioquia | Arauca | Boyacá | Caquetá | Casanare | Cauca | Cesar | Chocó | Cordoba | Cundinmarca | Huila | LaGuajira | Magdalena | Meta | Nariño|Quindío | Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/9780131	Colombia: "Nouvelle-Grenade", río Chipalo, Bogotá, departamento Cundinamarca	CO		NE
+gbif.org/species/4719113	Colombia: Caquetá	CO		NE
+gbif.org/species/1033504	Colombia: Antioquia | Bolívar | Caldas | Caquetá | Casanare | Cauca | Cesar | Chocó | Córdoba | Cundinamarca | Huila | La Guajira | Magdalena | Meta | Putumayo | Quindío | Risaralda | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/6967442	Colombia, sin localidad específica	CO	Endémica	NE
+gbif.org/species/1033508	Colombia: Tolima	CO		NE
+gbif.org/species/1033506	Colombia, sin localidad específica	CO		NE
+gbif.org/species/4736168	Colombia: Antioquia | Boyacá | Caldas | Caquetá | Cauca | Cesar | Chocó | Cordoba | Huila | La Guajira | Magdalena | Nariño | Putumayo | Quindío | Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/6968370	Colombia: Valle del Cauca	CO		NE
+gbif.org/species/4719104	Colombia: Antioquia | Caldas | Caquetá | Cauca | Chocó | Cundinamarca | Nariño | Putumayo | Quindío | Risaralda | Santander | Tolima | Valle del Cauca	CO		NE
+gbif.org/species/6968014	Colombia: Bogotá	CO		NE

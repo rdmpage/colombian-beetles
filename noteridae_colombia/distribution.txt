@@ -1,0 +1,18 @@
+id	locality	countryCode
+gbif.org/es/species/4748		CO
+organismnames.com/details.htm?lsid=1152372		CO
+organismnames.com/details.htm?lsid=1152373		CO
+gbif.org/species/1049600	Colombia: Amazonas | Antioquia | Arauca | Atlántico | Bolívar | Boyacá | Caldas | Casanare | Cauca | Chocó | La Guajira | Guaviare | Sucre | Valle del Cauca | Vaupés	CO
+gbif.org/species/1049602	Colombia, sin localidad específica	CO
+gbif.org/species/1049615	Colombia: Arauca | Atlántico | Bolívar | Chocó | Meta | Putumayo	CO
+gbif.org/species/1049552	Colombia: Amazonas | Arauca | Atlántico | Bolívar | Boyacá | Caldas | Casanare | Chocó | La Guajira | Magdalena | Norte de Santander | Santander | Sucre | Valle del Cauca	CO
+gbif.org/species/4990925	Colombia, sin localidad específica	CO
+gbif.org/species/4990930	Colombia, sin localidad específica	CO
+gbif.org/species/4990918	Colombia: Magdalena, Parque Nacional Natural Isla Salamanca | Cauca, río Guapi	CO
+gbif.org/species/4990928	Colombia, sin localidad específica	CO
+gbif.org/species/4990923	Colombia, sin localidad específica	CO
+gbif.org/species/4990924	Colombia: Magdalena, Parque Nacional Natural Isla Salamanca	CO
+gbif.org/species/1049588	Colombia: Amazonas | Arauca | Atlántico | Bolívar | Casanare | Chocó	CO
+gbif.org/species/1049596		CO
+organismnames.com/details.htm?lsid=5337786		CO
+gbif.org/species/1049536	Colombia: Orinoquía	CO

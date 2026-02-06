@@ -1,8 +1,66 @@
 <?php
 
-// DOIs to fetch
+// DOIs to fetch (extracted from references.txt, "Listado de las especies" entries)
 $dois = array(
-    "10.15472/iyrpyc"
+    "10.15472/hxxkei",  // Anamorphidae
+    "10.15472/3bphqb",  // Tenebrionidae
+    "10.15472/wtd0tk",  // Dryophthorinae
+    "10.15472/r77dxh",  // Disteniidae
+    "10.15472/l1vnio",  // Cantharidae
+    "10.15472/niicpm",  // Megalopodidae
+    "10.15472/pgwexm",  // Haliplidae
+    "10.15472/4ymj2e",  // Heteroceridae
+    "10.15472/mew1hc",  // Ochodaeidae
+    "10.15472/wqyqbs",  // Epimetopidae
+    "10.15472/0msljd",  // Orphninae
+    "10.15472/p9fc2m",  // Lucanidae
+    "10.15472/g5u6tg",  // Buprestidae
+    "10.15472/jdwfao",  // Entiminae
+    "10.15472/qvrulo",  // Ceutorhynchinae
+    "10.15472/tolans",  // Anthribidae
+    "10.15472/iyrpyc",  // Brentidae
+    "10.15472/mv3ql4",  // Cyclominae
+    "10.15472/pisuan",  // Dermestidae
+    "10.15472/suwoq6",  // Brachycerinae
+    "10.15472/y3yios",  // Hyperinae
+    "10.15472/pwyea3",  // Lixinae
+    "10.15472/dleza0",  // Mesoptiliinae
+    "10.15472/ompkp3",  // Ptiliidae
+    "10.15472/yifvet",  // Conoderinae
+    "10.15472/rwfj6h",  // Noteridae
+    "10.15472/9mqxev",  // Cossoninae
+    "10.15472/cnxkgm",  // Criocerinae
+    "10.15472/l4lymo",  // Hydrophilidae
+    "10.15472/bdcxbe",  // Georissidae
+    "10.15472/3uxhlf",  // Hydrochidae
+    "10.15472/33qho2",  // Hydraenidae
+    "10.15472/m1c5nc",  // Dytiscidae
+    "10.15472/aeddqk",  // Gyrinidae
+    "10.15472/fmeri8",  // Limnichidae
+    "10.15472/6mzbwp",  // Psephenidae
+    "10.15472/5fywbh",  // Ptilodactylidae
+    "10.15472/elddwn",  // Callirhipidae
+    "10.15472/kxvmlk",  // Chelonariidae
+    "10.15472/rsgvlo",  // Cneoglossidae
+    "10.15472/xajvg0",  // Dryopidae
+    "10.15472/8lqsij",  // Elmidae
+    "10.15472/5w8sxt",  // Lutrochidae
+    "10.15472/ii4qjk",  // Lampyridae
+    "10.15472/abvxw3",  // Mordellidae
+    "10.15472/9ixuud",  // Meloidae
+    "10.15472/iftego",  // Lycidae
+    "10.15472/off6un",  // Eumolpinae
+    "10.15472/6xhtdd",  // Leiodidae
+    "10.15472/bo97af",  // Aderidae
+    "10.15472/vfcq3h",  // Archeocrypticidae
+    "10.15472/3eiijl",  // Melandryidae
+    "10.15472/8vgvor",  // Anthicidae
+    "10.15472/bw5o1u",  // Scirtidae
+    "10.15472/gest0x",  // Clambidae
+    "10.15472/1bxorj",  // Phengodidae
+    "10.15472/usxvea",  // Cryptocephalinae
+    "10.15472/pzwjps",  // Lamprosomatinae
+    "10.15472/tvuxwk",  // Bruchinae
 );
 
 $output_dir = dirname(__FILE__);

@@ -1,0 +1,2 @@
+id	typeStatus	typeDesignationType	typeDesignatedBy	scientificName	taxonRank	bibliographicCitation	institutionCode	locality	recordedBy	verbatimLongitude	verbatimLatitude
+organismnames.com/details.htm?lsid=5010706	Holotipo	original	Guerin-Meneville	Cneoglossa collaris	Especie	https://gallica.bnf.fr/ark:/12148/bpt6k6583137x.texteImage	MNHN - Muséum nationale d’Histoire naturelle, Paris, France	Colombia, sin localidad definida	M. Goudot	0,006	0,0025

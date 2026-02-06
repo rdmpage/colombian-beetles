@@ -1,0 +1,299 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=dermestidae-colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/pisuan</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=dermestidae-colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Dermestidae (Coleoptera: Bostrichoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+  <pubDate>
+      2022-02-08
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Dermestidae (Coleoptera: Bostrichoidea) con ocurrencia conocida para el territorio colombiano. Se listan dos subfamilias, dos tribus, cinco géneros, 19 especies. Doce especies son consideradas endémicas. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente incluyendo reportes de entomología forense. Se incluyen las referencias de todas las descripciones originales, de los trabajos de revisión taxonómica y otros trabajos que reportan miembros de la familia Dermestidae en Colombia.</para>
+    <para>De acuerdo con el sitio web de Coleoptera Neotropical (http://www.coleoptera-neotropical.org/paginas/2_PAISES/Colombia/BOSTRICHOIDEA/dermest-col.html) hay al menos doce especies adicionales de distribución cosmopolita que probablemente están presentes en Colombia. Esas especies no se incluyen en este listado, pues no se encontraron reportes en la literatura.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos de piel</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Dermestidae (Coleoptera: Bostrichoidea) para cinco departamentos de Colombia: Boyacá (un registro), Caquetá (un registro), Cundinamarca (cinco registros), Norte de Santander (dos registros) y Quindío (un registro). Para siete de las especies reportadas para Colombia se desconocen localidades específicas al interior del país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1758</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2015</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan dos subfamilias, dos tribus, cinco géneros, 19 especies. Doce especies son consideradas endémicas. El género Cryptorhopalum es el más diverso en el país, representado por 15 especies.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Dermestidae</taxonRankValue>
+                  <commonName>Escarabajos de piel</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Dermestinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Dermestini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Dermestes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Megatominae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Megatomini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cryptorhopalum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sodaliatoma</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Caccoleptus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Trogoderma</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Háva (2015). Adicionalmente, fueron consultados trabajos recientes de entomología forense.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogo de Háva (2015) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir del catálogo de Háva (2015), descripciones originales y registros en trabajos de entomología forense.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Dermestidae (Coleoptera: Bostrichoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Dermestidae (Coleoptera: Bostrichoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo de principalmente a partir de Háva (2015) y reportes adicionales de entomología forense.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogo de Háva (2015).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-11-18T22:34:49.523+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/pisuan">Girón Duque J C (2022): Listado de las especies de Dermestidae (Coleoptera: Bostrichoidea) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/pisuan</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16381266">Beal RS (1978) Review of the dermestid beetle genus Caccoleptus with description of a new species from Colombia (Coleoptera). Proceedings of the Entomological Society of Washington 80: 171–178. https://www.biodiversitylibrary.org/page/16381266</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k97153c/f1.item">DeGeer C (1774) Mémoires pour servir à l’Histoire des Insectes. Tome IV. P. Hesselberg, Stockholm, xii + 457 pp. + 19 pls. https://gallica.bnf.fr/ark:/12148/bpt6k97153c/f1.item</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11667422">Dejean PFMA (1821) Catalogue des Coléoptères de la collection de M. le Baron Dejean. Chez Crevot, Librairie, Paris, 136 pp. https://www.biodiversitylibrary.org/page/11667422</citation>
+                <citation identifier="https://doi.org/10.1590/S0085-56262010000400016">Grisales D, Magnolia R, Villegas S (2010) Insects associated with exposed decomposing bodies in the Colombian Andean Coffee Region. Revista Brasileira de Entomologia 54: 637–644. https://doi.org/10.1590/S0085-56262010000400016</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/37129147">Guérin-Méneville F. E. 1838. Insectes du voyage de la Favorite. Magasin de Zoologie, Classe IX, Insectes  8 (1) 3 (1832–1838): 1–66, plate 225–238. https://www.biodiversitylibrary.org/page/37129147</citation>
+                <citation identifier="https://publikace.nm.cz/en/file/b4778592146f52f4877292bf3dd6d045/15489/hava-tisk.pdf">Háva J (2004) World keys to the genera and subgenera of Dermestidae (Coleoptera), with descriptions, nomenclature and distributional records. Acta Musei Nationalis Pragae, Series B, Natural History 60: 149–164. https://publikace.nm.cz/en/file/b4778592146f52f4877292bf3dd6d045/15489/hava-tisk.pdf</citation>
+                <citation identifier="http://sea-entomologia.org/PDF/Boletin52/113115BSEA52sodaliatomakonvickai.pdf">Háva J (2013) Description of Sodaliatoma konvickai gen. et sp. nov. (Coleoptera: Dermestidae: Megatominae) from Peru. Boletin de la Sociedad Entomológica Aragonesa 52: 113–115. http://sea-entomologia.org/PDF/Boletin52/113115BSEA52sodaliatomakonvickai.pdf</citation>
+                <citation identifier="https://www.entomoljournal.com/archives/2014/vol2issue1/PartA/25-556.pdf">Háva J (2014) Description of Sodaliatoma brunnea sp. nov. (Coleoptera: Dermestidae: Megatominae) from Colombia. Journal of Entomology and Zoology Studies 2: 54–55. https://www.entomoljournal.com/archives/2014/vol2issue1/PartA/25-556.pdf</citation>
+                <citation identifier="https://brill.com/view/title/26657">Háva J (2015) Dermestidae (Coleoptera). World Catalogue of Insects, Volume 13. Brill, Leiden, 419 pp. https://brill.com/view/title/26657</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340963">Kirsch T (1870) Beiträge zur Käferfauna von Bogota. Berliner Entomologische Zeitschrift 14: 337–378. https://www.biodiversitylibrary.org/page/8340963</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57784732">Latreille PA (1804) Tableau méthodique des insectes. In: Nouveau dictionnaire d’histoire naturelle, appliquée aux arts, pricipalement à l’agriculture et à l’économie rurale et domestique: par une société de naturalistes et d’agriculteurs Tableaux méthodiques d’histoire naturelle Tome XXIV. Déterville, Paris, 129–200. https://www.biodiversitylibrary.org/page/57784732</citation>
+                <citation identifier="https://archive.org/details/edinburghencyclo09edinuoft/page/56/mode/2up">Leach W. E. 1815: Entomology. In: Brewster D. (ed.): The Edinburgh Encyclopedia. Vol. IX, part 1.  Edinburgh: Balfour, pp. 57–172. https://archive.org/details/edinburghencyclo09edinuoft/page/56/mode/2up</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.542">Linnaeus C von (1758) Systema Naturae per Regna Tria Naturae : Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis. Impensis Direct. Laurentii Salvii, Holmiae, 824 pp. https://doi.org/10.5962/bhl.title.542</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371313">Pic M (1916) Diagnoses génériques et spécifiques. Mélanges Exotico-Entomologiques 18: 2–20. https://www.biodiversitylibrary.org/page/36371313</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k5442540x/f228.item">Pic M (1927) Nouveaux Coléoptères du globe (IV). Bulletin de la Société zoologique de France 52: 185–189. https://gallica.bnf.fr/ark:/12148/bpt6k5442540x/f228.item</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54249605">Pic M (1942) Opuscula martialis VII. L’Échange, Revue Linéenne VII: 1–16. https://www.biodiversitylibrary.org/page/54249605</citation>
+                <citation identifier="https://doi.org/10.1590/s0085-56262014005000006">Ramos-Pastrana Y, Velasquez-Valencia A, Wolff M (2014) Preliminary study of insects associated to indoor body decay in Colombia. Revista Brasileira de Entomologia 58: 326–332. https://doi.org/10.1590/s0085-56262014005000006</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/43757912">Reitter E (1881) Die aussereuropäischen Dermestiden meiner Sammlung. Mit 70 Diagnosen neuer Arten. Verhandlungen Naturforschenden Vereines Brünn 19: 27–60. https://www.biodiversitylibrary.org/page/43757912</citation>
+                <citation identifier="https://doi.org/10.1016/j.forsciint.2009.02.018">Segura NA, Usaquén W, Sánchez MC, Chuaire L, Bello F (2009) Succession pattern of cadaverous entomofauna in a semi-rural area of Bogotá, Colombia. Forensic Science International 187: 66–72. https://doi.org/10.1016/j.forsciint.2009.02.018</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/578559">Sharp D (1902) Dermestidae. In: Godman F, Salvin O (Eds), Biologia Centrali-Americana. Insecta. Coleoptera. Vol. II. Part. 1. Dulau and Co., London, 642–669. https://www.biodiversitylibrary.org/page/578559</citation>
+                <citation identifier="https://doi.org/10.1016/S0379-0738(01)00422-4">Wolff M, Uribe A, Ortiz A, Duque P (2001) A preliminary study of forensic entomology in Medellı́n, Colombia. Forensic Science International 120: 53–59. https://doi.org/10.1016/S0379-0738(01)00422-4</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH The Natural History Museum, London, United Kingdom</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>http://dermestidae.wz.cz/</collectionIdentifier>
+                <collectionName>JHAC - Jiří Háva, Private Entomological Laboratory &amp; Collection, Czech Republic</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN - Muséum National d´Histoir e Naturelle, Paris, France</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>NHRS</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.nrm.se/en/forskningochsamlingar/zoologi/samlingar/insekter.9002803.html</collectionIdentifier>
+                <collectionName>NHRS Swedish Museum of Natural History [Naturhistoriska riksmuseet]</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://museumdresden.senckenberg.de/en/</collectionIdentifier>
+                <collectionName>SMTD - Staatliches Museum für Tierkunde, Dresden, Germany</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>ENT</parentCollectionIdentifier>
+                  <collectionIdentifier>https://naturalhistory.si.edu/research/entomology</collectionIdentifier>
+                <collectionName>USNM - National Museum of Natural History, Washington D.C, USA</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

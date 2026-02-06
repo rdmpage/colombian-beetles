@@ -1,0 +1,5 @@
+id	isFreshwater	isTerrestrial	lifeForm
+gbif.org/species/10673670	FALSE	TRUE	Adulto
+gbif.org/species/10750403	FALSE	TRUE	Adulto
+gbif.org/species/10673670	FALSE	TRUE	Larva
+gbif.org/species/10750403	FALSE	TRUE	Larva

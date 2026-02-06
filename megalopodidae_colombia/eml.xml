@@ -1,0 +1,305 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=megalopodidae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/niicpm</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=megalopodidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Megalopodidae (Coleoptera: Chrysomeloidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero Rodríguez</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Javeriana</organizationName>
+    <positionName>Investigador Invitado</positionName>
+    <address>
+        <city>Bogotá D.C.</city>
+        <administrativeArea>Bogotá D.C.</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Geovanni M.</givenName>
+      <surName>Rodríguez-Mirón</surName>
+    </individualName>
+    <organizationName>Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México</organizationName>
+    <positionName>Profesor Asociado</positionName>
+    <address>
+        <city>Ciudad de México</city>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>geo20araa@yahoo.com.mx</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0751-4672</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero Rodríguez</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Javeriana</organizationName>
+    <positionName>Investigador Invitado</positionName>
+    <address>
+        <city>Bogotá D.C.</city>
+        <administrativeArea>Bogotá D.C.</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Geovanni M.</givenName>
+      <surName>Rodríguez-Mirón</surName>
+    </individualName>
+    <organizationName>Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México</organizationName>
+    <positionName>Profesor Asociado</positionName>
+    <address>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>geo20araa@yahoo.com.mx</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0751-4672</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-12-21
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Megalopodidae (Coleoptera: Chrysomeloidea) registradas para el territorio colombiano. Se lista una subfamilia, dos géneros y ocho especies. La información ha sido recopilada a partir de información disponible en la lista de chequeo de Rodríguez-Mirón (2018) y en literatura reciente. Se incluyen las referencias de todas las descripciones originales.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Chrysomeloidea</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Megalopodidae (Coleoptera: Chrysomeloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. De las ocho especies registradas para el país apenas cuatro tienen una localidad especifica conocida en el país, siendo todas registradas para Cundinamarca. Para las otras cuatro especies no se conoce localidad específica.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1801-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Megalopodidae (Coleoptera: Chrysomeloidea) registradas para el territorio colombiano. 
+Se lista una subfamilia, Megalopodinae, y dos géneros: Mastostethus y Megalopus. Mastostethus registró cinco especies y Megalopus, que presenta dos subgéneros, Megalopus (Megalopus) y Megalopus (Mucromegalopus), registró tres especies. La información ha sido recopilada a partir de la lista de chequeo de Rodríguez-Mirón (2018).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Megalopodidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mastostethus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Megalopus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Megalopodinae</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero Rodríguez</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Javeriana</organizationName>
+    <positionName>Investigador Invitado</positionName>
+    <address>
+        <city>Bogotá D.C.</city>
+        <administrativeArea>Bogotá D.C.</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Geovanni M.</givenName>
+      <surName>Rodríguez-Mirón</surName>
+    </individualName>
+    <organizationName>Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México</organizationName>
+    <positionName>Profesor Asociado</positionName>
+    <address>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>geo20araa@yahoo.com.mx</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0751-4672</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir de la lista de chequeo de Rodríguez-Mirón (2018).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue confirmada en las descripciones originales y en la lista de chequeo de Rodríguez-Mirón (2018).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies dentro del territorio colombiano fue obtenida a partir de las descripciones originales y en la lista de chequeo de Rodríguez-Mirón (2018).</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Megalopodidae (Coleoptera: Chrysomeloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Megalopodidae (Coleoptera: Chrysomeloidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado inicial se obtuvo a partir de la lista de chequeo de Rodríguez-Mirón (2018).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Todos los nombres fueron verificados en las descripciones originales y en Rodríguez-Mirón (2018).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Juan Pablo</givenName>
+          <surName>Botero Rodríguez</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Geovanni M.</givenName>
+          <surName>Rodríguez-Mirón</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-0751-4672</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-12-03T08:04:54.886+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/niicpm">Botero Rodríguez J P, Rodríguez-Mirón G M (2022): Listado de las especies de Megalopodidae (Coleoptera: Chrysomeloidea) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/niicpm</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10890753">Baly, J. S. (1876). Descriptions of new species of Phytophagous Coleoptera. Cistula Entomologica. (2): 123-130.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32777123">Chevrolat, L. A. (1834). Coléoptères du Mexique. Strasbourg, 2: 1-44.</citation>
+                <citation identifier="https://books.google.com.co/books?hl=pt-BR&amp;lr=&amp;id=bx1VAAAAcAAJ&amp;oi=fnd&amp;pg=PA1&amp;ots=aUmchrROHq&amp;sig=IndNibAvY5fSDWVROTk5P_uEy3I&amp;redir_esc=y#v=onepage&amp;q=megalopus&amp;f=false">Fabricius, J. C. (1801). Systema elevtheratorvm, secvndvm ordines, genera, species, adiectis synonymis, locis, observationibvs descriptionibvs. Kiliae: Bibliopoli Academicis.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8541518">Kirsch, T. (1865). Beiträge zur Käferfauna von Bogotá. Berliner Entomologische Zeitschrift. (9): 40-104.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32915534">Lacordaire, T. (1845). Monographie des Coleopteres Subpentameres de la famille des Phytophages. Tome 1. Muquardt, Bruxelles, 808 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille, P.A. (1802). Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/49755">Papp C.S. (1951). Drei neue Chrysomelidae aus Sudamerika (Coleopt.) Revista de la Sociedad Entomológica Argentina.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36510122">Pic, M. (1916). Mélanges exotico-entomologiques. 20 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33798123">Jacoby, M. &amp; Clavareau, H. (1905). Fascicule 33: Coleoptera Phytophaga, Fam. Megalopidae, In: Wytsman, P.A. (Ed.), Genera Insectorum. V. Verteneuil &amp; L. Desmet, Bruxelles, pp. 1–20.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4434.2.3">Rodríguez-Mirón, G.M. (2018). Checklist of the family Megalopodidae Latreille (Coleoptera: Chrysomeloidea); a synthesis of its diversity and distribution. Zootaxa 4434: 265–302.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>NHMUK</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                <collectionName>The Natural History Museum</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

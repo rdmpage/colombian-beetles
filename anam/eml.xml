@@ -1,0 +1,306 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=anam/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/hxxkei</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=anam</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Anamorphidae (Coleoptera: Coccinelloidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Emmanuel</givenName>
+      <surName>Arriaga-Varela</surName>
+    </individualName>
+    <organizationName>Universidad de Guadalajara</organizationName>
+    <positionName>Investigador posdoctoral</positionName>
+    <address>
+        <deliveryPoint>Camino Ramón Padilla Sánchez No. 2100</deliveryPoint>
+        <city>Guadalajara</city>
+        <administrativeArea>Jalisco</administrativeArea>
+        <postalCode>45200</postalCode>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>arriagavarelae@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-6206-9212</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>William David</givenName>
+      <surName>Rodríguez</surName>
+    </individualName>
+    <organizationName>Universidad de Guadalajara</organizationName>
+    <positionName>Docente Investigador</positionName>
+    <address>
+        <deliveryPoint>Camino Ramón Padilla Sánchez No. 2100</deliveryPoint>
+        <city>Guadalajara</city>
+        <administrativeArea>Jalisco</administrativeArea>
+        <postalCode>45200</postalCode>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>william.david.rodriguez7@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-2252-5540</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Emmanuel</givenName>
+      <surName>Arriaga-Varela</surName>
+    </individualName>
+    <organizationName>Universidad de Guadalajara</organizationName>
+    <positionName>Investigador posdoctoral</positionName>
+    <address>
+        <deliveryPoint>Camino Ramón Padilla Sánchez No. 2100</deliveryPoint>
+        <city>Guadalajara</city>
+        <administrativeArea>Jalisco</administrativeArea>
+        <postalCode>45200</postalCode>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>arriagavarelae@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-6206-9212</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>William David</givenName>
+      <surName>Rodríguez</surName>
+    </individualName>
+    <organizationName>Universidad de Guadalajara</organizationName>
+    <positionName>Docente Investigador</positionName>
+    <address>
+        <deliveryPoint>Camino Ramón Padilla Sánchez No. 2100</deliveryPoint>
+        <city>Guadalajara</city>
+        <administrativeArea>Jalisco</administrativeArea>
+        <postalCode>45200</postalCode>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>william.david.rodriguez7@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-2252-5540</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2023-08-03
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Anamorphidae (Coleoptera: Coccinelloidea) con ocurrencia conocida para el territorio colombiano. Se lista un género con tres especies. Una de las especies se considera endémica del país. La información ha sido recopilada a partir de los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>escarabajos</keyword>
+            <keyword>coleópteros</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>De las tres especies registradas para Colombia sólo se conocen registros al interior del país para una de ellas en los departamentos de Magdalena y Norte de Santander.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1857</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se lista un género con tres especies de la familia Anamorphidae (Coleoptera: Coccinelloidea) para Colombia. Una de las especies es considerada endémica.
+Anamorphidae fue elevada a categoría de familia en 2015, antes de esto se consideraba una subfamilia dentro de Endomychidae (Robertson et al. 2015). 
+La especie Bystus globosus (Gorham, 1898) fue descrita originalmente de la isla de Granada (Grenada, en las antillas menores); en el catálogo de Blackwelder (1944) la especie se lista para Colombia, pero no para Granada; más tarde, en una revisión del género (Shockley 2009) se revisa el material tipo de la especie (tres especímenes con datos de la isla de Granada), pero se indica que la especie también está en Colombia. Dado que el grupo no ha sido revisado en el país, aunque la especie esté incluida en este listado, necesitan verificarse registros en Colombia.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Anamorphidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Bystus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Emmanuel</givenName>
+      <surName>Arriaga-Varela</surName>
+    </individualName>
+    <organizationName>Universidad de Guadalajara</organizationName>
+    <positionName>Investigador posdoctoral</positionName>
+    <address>
+        <deliveryPoint>Camino Ramón Padilla Sánchez No. 2100</deliveryPoint>
+        <city>Guadalajara</city>
+        <administrativeArea>Jalisco</administrativeArea>
+        <postalCode>45200</postalCode>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>arriagavarelae@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-6206-9212</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>William David</givenName>
+      <surName>Rodríguez</surName>
+    </individualName>
+    <organizationName>Universidad de Guadalajara</organizationName>
+    <positionName>Docente Investigador</positionName>
+    <address>
+        <deliveryPoint>Camino Ramón Padilla Sánchez No. 2100</deliveryPoint>
+        <city>Guadalajara</city>
+        <administrativeArea>Jalisco</administrativeArea>
+        <postalCode>45200</postalCode>
+        <country>MX</country>
+    </address>
+    <electronicMailAddress>william.david.rodriguez7@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-2252-5540</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1945) y el listado de Shockley et al. (2009).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y revisiones taxonómicas.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Anamorphidae (Coleoptera: Coccinelloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Anamorphidae (Coleoptera: Coccinelloidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo principalmente de Blackwelder (1945) y Shockley et al. (2009).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo Coleoptera de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-09-22T21:02:58.591+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/hxxkei">Arriaga-Varela E, Rodríguez W D (2023): Listado de las especies de Anamorphidae (Coleoptera: Coccinelloidea) de Colombia. v1.0. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/hxxkei</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32908460">Gerstaecker, A. (1858) Monographie der Endomychidae, einer Familie der Coleopteren. XIV + 433 p., 3 pls. In: Gerstaecker, A. (ed), Entomographien. Abhandlungen in Bereich der Gliederthiere, mit besonderer Benutzung der Koenigl. Entomologischen Sammlung zu Berlin. W. Engelmann, Leipzig.	https://www.biodiversitylibrary.org/page/32908460</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/30952677">Gorham, H.S. (1898) On the Coleoptera of the families Erotylidae, Endomychidae, and  Coccinellidae, collected by Mr. H.H. Smith in St. Vincent, Grenada, and the Grenadines, with descriptions of new species.Proceedings of the General Meetings for Scientific Business of the Zoological Society of London, 1898, 334–343. https://www.biodiversitylibrary.org/page/30952677</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24439882">Guérin–Méneville, F.E. (1857) Matériaux pour une Monographie des Coléoptères du groupe des Eumorphides, et plus. spécialement du genre Eumorphus. Archives Entomologiques, 1, 237–280 + pl. 13.	https://www.biodiversitylibrary.org/page/24439882</citation>
+                <citation identifier="https://doi.org/10.1111/syen.12138">Robertson JA, Ślipiński A, Moulton M, Shockley FW, Giorgi A, Lord NP, Mckenna DD, Tomaszewska W, Forrester J, Miller KB, Whiting MF, Mchugh JV (2015) Phylogeny and classification of Cucujoidea and the recognition of a new superfamily Coccinelloidea (Coleoptera: Cucujiformia). Systematic Entomology 40: 745–778. https://doi.org/10.1111/syen.12138</citation>
+                <citation identifier="http://getd.libs.uga.edu/pdfs/shockley_floyd_w_200908_phd.pdf">Shockley FW (2009) Systematics of Endomychidae (Coleoptera: Cucujoidea): phylogenetic and taxonomic research on a mycophagous beetle family. PhD Thesis. University of Georgia. http://getd.libs.uga.edu/pdfs/shockley_floyd_w_200908_phd.pdf</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1999.1.1 ">Shockley FW, Tomaszewska KW, Mchugh JV (2009) An annotated checklist of the handsome fungus beetles of the world (Coleoptera: Cucujoidea: Endomychidae). Zootaxa 1999: 1-113-1–113. https://repository.si.edu/handle/10088/21809</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53220166">Strohecker, H.F. (1953) Coleoptera, Endomychidae. pp. 1–145. In: Wytsman, P. (ed), Genera Insectorum. Louis Desmet–Verteneuil, Bruxelles.	https://www.biodiversitylibrary.org/page/53220166</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-coleocol.png</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>NHMUK</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                <collectionName>The Natural History Museum (NHMUK)</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

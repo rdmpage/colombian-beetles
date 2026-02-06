@@ -1,0 +1,243 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="f822c473-fea5-467c-93ca-3f09befd9817/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/4ymj2e</alternateIdentifier>
+  <alternateIdentifier>f822c473-fea5-467c-93ca-3f09befd9817</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=heteroceridae</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Heteroceridae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo-Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Julian-Clavijo-Bustos</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo-Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Julian-Clavijo-Bustos</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo-Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Julian-Clavijo-Bustos</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2021-09-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de los taxones de la familia Heteroceridae (Coleoptera: Byrrhoidea) registrados para Colombia. Se listan una subfamilia, una tribu y un género. La información ha sido recopilada únicamente a partir de registros disponibles en la literatura. Se incluyen las referencias de todas las descripciones originales. Hasta el momento que no se han reportado especies para Colombia. Se conocen sólo cuatro géneros en la región neotropical. A pesar de que se conocen especies en varios países de suramérica, la fauna colombiana aún no ha sido estudiada. Por su tamaño pequeño, tienden a pasar desapercibidos en muestras; caen especialmente en trampas de luz.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>listado</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>escarabajos amantes del barro</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de los taxones de la familia Heteroceridae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. El único registro que se conoce a nivel de género proviene de muestras del departamento de Caldas, aunque la familia se ha reportado también en el departamento de La Guajira y se conocen especímenes de Antioquia, Casanare, Meta y Tolima.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1825</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2017</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de los taxones de la familia Heteroceridae (Coleoptera: Byrrhoidea) registrados para Colombia. Hasta el momento se conoce   una subfamilia, representada por una sola tribu y un género. No se conocen registros a nivel de especie. Los registros que se conocen hasta ahora provienen de una tesis y una presentación en congreso. No hay publicaciones formales involucrando Heteroceridae en Colombia.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Heteroceridae</taxonRankValue>
+                  <commonName>escarabajos amantes del barro</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Heterocerinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Tropicini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Tropicus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo-Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Julian-Clavijo-Bustos</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Se compiló información sobre los nombres, autores y referencias de los taxones de la familia Heteroceridae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano a partir de la literatura.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>El listado se obtuvo de los registros de Villada-Bedoya et al. (2015) y Laython (2017), junto con Pacheco (1964).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Los nombres fueron verificados en las descripciones originales, así como en publicaciones que aquí se mencionan. Se revisaron además publicaciones recientes para incluir cambios en la nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de los taxones de la familia Heteroceridae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>El listado se obtuvo de los registros de Villada-Bedoya et al. (2015) y Laython (2017), junto con Pacheco (1964).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en publicaciones que aquí se mencionan. Se revisaron además publicaciones recientes para incluir nuevas especies y cambios en la nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Julián</givenName>
+          <surName>Clavijo-Bustos</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+        <role>contentProvider</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos y colegas especialistas de otros países, al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en este listado proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-05-03T18:35:09.230+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/4ymj2e">Clavijo-Bustos J (2021): Listado de las especies de Heteroceridae (Coleoptera: Byrrhoidea) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/4ymj2e</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.zin.ru/animalia/coleoptera/pdf/lawrence_newton_1995_families_and_subfamilies_coleoptera_part-1.pdf">Lawrence, J. F. &amp; Newton, A. F. Jr. (1995) Families and subfamilies of Coleoptera (with selected genera, notes, references and data on family-group names), p. 779–1006. En: J. Pakaluk and S. A. Slipinski (eds.). Biology, phylogeny, and classification of Coleoptera. Papers celebrating the 80th birthday of Roy A. Crowson. Muzeum i Instytut Zoologii PAN; Warsaw. Volume 2: 1092 p	https://www.zin.ru/animalia/coleoptera/pdf/lawrence_newton_1995_families_and_subfamilies_coleoptera_part-1.pdf</citation>
+                <citation identifier="https://repositorio.unal.edu.co/bitstream/handle/unal/62323/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf?sequence=1&amp;isAllowed=y">Laython, M. (2017). Los Coleópteros Acuáticos (Coleoptera: Insecta) en Colombia: Distribución y Taxonomía. Trabajo presentado como parte de los requisitos para obtener el título de Magister en Ciencias Biológicas. Universidad Nacional de Colombia, Facultad de Ciencias, Departamento de Biología.	https://repositorio.unal.edu.co/bitstream/handle/unal/62323/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf?sequence=1&amp;isAllowed=y</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/131787#page/1/mode/1up">MacLeay, W. S. (1825) Annulosa javanica, or, An attempt to illustrate the natural affinities and analogies of the insects collected in Java by Thomas Horsfield and deposited by him in the museum of the Honourable East-India Company. Kingsbury, Parbury, and Allen; London. xii + 50 p. https://www.biodiversitylibrary.org/item/131787#page/1/mode/1up</citation>
+                <citation>Pacheco, F. (1964) Sistematica, filogenia y distribucion de los Heteroceridos de America (Coleoptera; Heteroceridae). Monografías del Colegio de Post-graduados, No.1, Escuela Nacional de Agricultura, Chapingo, Mexico, Vol. 1: 1–155.</citation>
+                <citation identifier="https://www.researchgate.net/profile/Sebastian-Villada-Bedoya/publication/283516069_Aportes_a_los_macroinvertebrados_bentonicos_de_Colombia_Primer_registro_de_Tropicus_Pacheco_1964_Coleoptera_Heteroceridae/links/563cfc0108ae45b5d289989a/Aportes-a-los-macroinvertebrados-bentonicos-de-Colombia-Primer-registro-de-Tropicus-Pacheco-1964-Coleoptera-Heteroceridae.pdf">Villada-Bedoya, S., Llano, C. A. &amp; Vallejo, L. F. (2015) TMSE 35. Aportes a los macroinvertebrados bentónicos de Colombia: primer registro de Tropicus Pacheco, 1964 (Coleoptera: Heteroceridae). 42 Congreso de la Sociedad Colombiana de Entomología. p. 281. https://www.researchgate.net/profile/Sebastian-Villada-Bedoya/publication/283516069_Aportes_a_los_macroinvertebrados_bentonicos_de_Colombia_Primer_registro_de_Tropicus_Pacheco_1964_Coleoptera_Heteroceridae/links/563cfc0108ae45b5d289989a/Aportes-a-los-macroinvertebrados-bentonicos-de-Colombia-Primer-registro-de-Tropicus-Pacheco-1964-Coleoptera-Heteroceridae.pdf</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>f822c473-fea5-467c-93ca-3f09befd9817/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

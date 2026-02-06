@@ -1,0 +1,78 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/1048378-01	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-02	Colombia: Antioquia: Medellín	CO	Endémica
+gbif.org/species/1048378-03	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-04	Colombia (Nueva Valencia)	CO	Endémica
+gbif.org/species/1048378-05	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-06	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-07	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-08	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-09	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-010	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-011	Colombia, sin localidad específica	CO	
+gbif.org/species/1048378-012	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-013	Colombia: Cundinamarca: Bogotá	CO	Endémica
+gbif.org/species/1048378-014	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-015	Colombia (Valle de Aragua)	CO	Endémica
+gbif.org/species/1048378-016	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-017	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-018	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-019	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-020	"Colombia: ""La Guayra"	CO	Endémica
+gbif.org/species/1048378-021	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1048378-022	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1047477	Colombia, sin localidad específica	CO	
+gbif.org/species/1048378		CO	
+gbif.org/species/1048383	"Colombia: ""La Guayra"	CO	
+gbif.org/species/1048808		CO	
+organismnames.com/details.htm?lsid=4497384		CO	
+gbif.org/species/1048808-00	"Colombia: ""San Antonio"	CO	
+gbif.org/species/10732156	Colombia: Boyacá (Muzo); Meta (Villavicencio)	CO	
+gbif.org/species/4730568		CO	
+gbif.org/species/4730568-00		CO	
+gbif.org/species/4764670		CO	
+gbif.org/species/5736874		CO	
+gbif.org/species/5736874-01	Colombia: Cundinamarca: Paime	CO	Endémica
+gbif.org/species/5736874-02	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/5736874-03	Colombia: Cundinamarca: Bogotá	CO	Endémica
+gbif.org/species/5736874-04	Colombia: Cundinamarca: Bogotá	CO	Endémica
+gbif.org/species/5736874-05	Colombia: Cundinamarca: Bogotá	CO	Endémica
+gbif.org/species/5736874-06	Colombia: Cundinamarca: Bogotá	CO	Endémica
+gbif.org/species/5736874-07	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/7780		CO	
+gbif.org/species/9963024	Colombia, sin localidad específica	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=719808#null		CO	
+organismnames.com/details.htm?lsid=1244121		CO	
+organismnames.com/details.htm?lsid=1530134		CO	
+organismnames.com/details.htm?lsid=1530140		CO	
+organismnames.com/details.htm?lsid=259750	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=2720532	Colombia: Valle del Cauca	CO	
+organismnames.com/details.htm?lsid=3008755	Colombia: Cundinamarca: Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=3345928	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=3345941	"Colombia: Caldas: Manizales; ""Guayabal"	CO	Endémica
+organismnames.com/details.htm?lsid=4097438	"Colombia: ""San Carlos"	CO	Endémica
+organismnames.com/details.htm?lsid=4097440	Colombia: Cundinamarca: Fusagasugá	CO	Endémica
+organismnames.com/details.htm?lsid=4097444	Colombia: Norte de Santander: Ocaña	CO	Endémica
+organismnames.com/details.htm?lsid=4247424	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=4249303	Colombia: Cundinamarca: Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=4249305	Colombia: Cundinamarca: Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=5005195	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5005214	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5005221	Colombia: Cundinamarca: Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=5005223	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5008541	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5008543	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5008587	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5026302	"Colombia: ""Valle del Río Magdalena"	CO	Endémica
+organismnames.com/details.htm?lsid=5026310	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5026326	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5033608	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5033619	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5056215	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=5057174	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5057719	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=5065863	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5071093	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5072615	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5074096	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5077869	Colombia, sin localidad específica	CO	Endémica

@@ -1,0 +1,117 @@
+id	locality	countryCode	establishmentMeans
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114666		CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=678828		CO	
+biolib.cz/en/taxon/id1362626/		CO	
+gbif.org/species/1168800		CO	
+gbif.org/species/9596328	Colombia (Santander)	CO	Endémica
+organismnames.com/details.htm?lsid=1386230		CO	
+biolib.cz/en/taxon/id1362529/		CO	
+gbif.org/species/1170084		CO	
+gbif.org/species/9559768	Brasil, Colombia (sin localidad específica), Guyana Francesa	CO	
+gbif.org/species/1170089	Bolivia, Brasil, Colombia (Valle del Cauca: Buenaventura), Ecuador, Perú; Belice, Costa Rica, Nicaragua, Panamá	CO	
+gbif.org/species/1170092	Bolivia, Colombia (Antioquia: Medellín), Ecuador, Perú	CO	
+gbif.org/species/1170096	Colombia (Antioquia)	CO	Endémica
+species.wikimedia.org/wiki/Mesocordylus_longiclava	Bolivia, Colombia (Tolima: Ibagué), Venezuela	CO	
+gbif.org/species/1170094	Colombia (Meta: Río Guayuriba; Santander: Alto Río Opon), Ecuador, Guyana Francesa, Perú; Costa Rica, Nicaragua, Panamá	CO	
+gbif.org/species/10290534	Colombia (Santander: Río Suárez), Ecuador; Panamá	CO	
+gbif.org/species/1170093	Bolivia, Brasil, Colombia (Cesar: El Copey), Guyana, Guyana Francesa, Perú, Surinam; Belice, Guatemala, Honduras, Panamá	CO	
+gbif.org/species/1170105	Bolivia, Brasil, Colombia (Bolívar, Cartagena), Ecuador, Guyana Francesa, Perú; Costa Rica, Nicaragua, Panamá	CO	
+plazi.org/id/D5728794-FFAA-FFBB-FF3E-C621555EFE9F		CO	
+gbif.org/species/1170651		CO	
+gbif.org/species/1170652	Argentina, Bolivia, Brasil, Colombia (Caquetá: Florencia; Cesar: El Copey, Valledupar; Magdalena: Aracataca, Ciénaga, Santa Ana, Santa Marta; Meta: Villavicencio), Ecuador, Guyana, Guyana Francesa, Paraguay, Perú, Surinam, Trinidad, Uruguay, Venezuela; Belice, Costa Rica, Guatemala, Honduras, México, Nicaragua, Panamá	CO	
+organismnames.com/details.htm?lsid=4270277	Brasil, Colombia (sin localidad específica), Ecuador, Guyana Francesa, Perú, Surinam, Venezuela	CO	
+organismnames.com/details.htm?lsid=2327430	Colombia (Santander: Alto Río Opon; Valle del Cauca: Río Yurumangui), Ecuador; Panamá	CO	
+biolib.cz/en/taxon/id244366/		CO	
+gbif.org/species/1170755		CO	
+gbif.org/species/7838169	Bolivia, Brasil, Colombia (Santander: Bucaramanga; Sucre: Toluviejo; Tolima: Ibagué; Valle del Cauca: Palmira), Ecuador, Perú, Trinidad, Venezuela; Costa Rica, Guatemala, Honduras, México, Panamá	CO	
+gbif.org/species/4764798		CO	
+gbif.org/species/9392493	Brasil, Colombia (Río Tiquie)	CO	
+gbif.org/species/4745616		CO	
+gbif.org/species/9506495	Brasil, Colombia (Cundinamarca: Bogotá, Meta: Acacías, Nariño: Tumaco), Ecuador, Guyana, Guyana Francesa, Perú, Surinam, Trinidad, Venezuela; Costa Rica, Nicaragua, Panamá	CO	
+gbif.org/species/4721118		CO	
+organismnames.com/details.htm?lsid=589959	Argentina, Bolivia, Brasil, Colombia (sin localidad específica), Ecuador, Guyana, Guyana Francesa, Paraguay, Perú, Surinam, Tobago, Trinidad, Venezuela	CO	
+biolib.cz/en/taxon/id244365/		CO	
+gbif.org/species/1170172		CO	
+gbif.org/species/1170174	Cosmopolita; Colombia (sin localidad específica)	CO	
+gbif.org/species/8750088	Brasil, Colombia (Cundinamarca: Tocaima; La Guajira: Fonseca; Magdalena: Zona Bananera); Costa Rica; Cuba, Dominica, Guadalupe, Jamaica, Puerto Rico, St. Barthélemy ; Old World	CO	
+organismnames.com/details.htm?lsid=4394085	Cosmopolita; Colombia (Antioquia: Bello; Atlántico: Barranquilla; Bolívar: Cartagena; Cesar: Agustín Codazzi, Chiriguaná; Córdoba: Montería; Cundinamarca: Bogotá, Funza, Mosquera, Tibaitatá, Zipaquirá; La Guajira: Rioacha; San Andrés Islas)	CO	
+gbif.org/species/4291553	Cosmopolita; Colombia (Magdalena: Santa Marta)	CO	
+gbif.org/species/1168828		CO	
+biolib.cz/en/taxon/id689179/	Colombia (sin localidad específica), Ecuador, Surinam, Venezuela	CO	
+biolib.cz/en/taxon/id775145/		CO	
+gbif.org/species/1169439		CO	
+biolib.cz/en/taxon/id775147/	Colombia (Antioquia, Caldas, Huila, Magdalena, Nariño, Putumayo, Quindío, Risaralda, Valle del Cauca), Costa Rica, Honduras, México, Panamá; Japón; Burma, India, Indonesia, Malacca, Sri Lanka, Sumatra; Islas del Océano Pacífico, Australia (I), Nueva Guinea; Madagascar, Reunión, Seychelles	CO	
+biolib.cz/en/taxon/id1362530/		CO	
+gbif.org/species/1170746		CO	
+gbif.org/species/1170754	Bolivia, Brasil, Colombia (Bolívar: Guamo; Chocó: Tadó; Nariño: Tumaco; Valle del Cauca: Buenaventura), Ecuador, Guyana, Guyana Francesa, Perú, Surinam, Venezuela; Panamá	CO	
+gbif.org/species/1170237		CO	
+gbif.org/species/10273933	Argentina, Bolivia, Brasil, Colombia (Antioquia, Bolívar, Boyacá, Caldas, Casanare, Cauca, Cesar, Chocó, Córdoba, Cundinamarca, Guaviare, Huila, Magdalena, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, Santander, Sucre, Tolima, Valle del Cauca), Ecuador, Guyana, Guyana Francesa, Paraguay, Peru, Surinam, Tobago, Trinidad, Uruguay, Venezuela; Belice, Costa RIca, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá; Cuba, Dominica, Guadalupe, Martinica, St. Vincent; Estados Unidos, Canadá	CO	
+biolib.cz/en/taxon/id244367/		CO	
+gbif.org/species/1168738		CO	
+organismnames.com/details.htm?lsid=1611550	"Colombia (Chocó: Andagoya; Valle del Cauca: Buenaventura [Río Dagua], Cali; ""Villaviciosa"" [Pasto?]), Ecuador, Venezuela; Panamá"	CO	
+biolib.cz/en/taxon/id689185/	Colombia (Cundinamarca: Bogotá, Cananche [Camancha?]; Santander: Carare; Valle del Cauca), Ecuador, Costa Rica, Nicaragua, Panamá	CO	
+biolib.cz/en/taxon/id689190/	Brasil, Colombia (localidad dudosa); México; Cuba (en duda)	CO	
+biolib.cz/en/taxon/id689190/-01	Brasil, Colombia (Cundinamarca: Bogotá), Trinidad, Venezuela; Costa Rica, El Salvador, Guatemala, Honduras, México, Nicaragua	CO	
+biolib.cz/en/taxon/id689193/	Colombia (Boyacá: Muzo), Venezuela; Costa Rica, Guatemala, México, Panamá; Estados Unidos	CO	
+biolib.cz/en/taxon/id1741237/	Colombia ('San Antonio')	CO	Endémica
+biolib.cz/en/taxon/id689196/	Colombia (Boyacá: Muzo), Ecuador; Costa Rica, México, Nicaragua, Panamá	CO	
+biolib.cz/en/taxon/id689199/	Bolivia, Brasil, Colombia (Boyacá: Muzo; Meta: Río Guayuriba; Putumayo: Puerto Umbria, Río Guineo), Ecuador, Perú; Costa Rica, Nicaragua, Panamá	CO	
+biolib.cz/en/taxon/id689201/	Colombia (Boyacá: Muzo; Cundinamarca: Bogotá, Cananche [Camancha?]); Panamá	CO	
+biolib.cz/en/taxon/id1741244/	Colombia (Valle del Cauca: Río Aguacatal), Ecuador	CO	
+biolib.cz/en/taxon/id689206/	Colombia (Boyacá: Muzo; Cundinamarca: Cananche [Camancha?]; Santander: Puerto Wilches), Ecuador; Belice, Costa Rica, Guatemala, Honduras, México, Nicaragua, Panamá	CO	
+biolib.cz/en/taxon/id1741228/	Colombia (localidad dudosa), Perú; México	CO	
+biolib.cz/en/taxon/id689211/	Colombia (Meta: Villavicencio), Ecuador, Venezuela; Costa Rica	CO	
+biolib.cz/en/taxon/id689212/	Colombia (sin localidad específica), Ecuador; Guatemala, Honduras, México, Panamá	CO	
+biolib.cz/en/taxon/id689214/	"Colombia (Tolima: Ibagué; ""Villaviciosa"" [Pasto?]), Ecuador, Perú, Surinam; Costa Rica, Nicaragua, Panamá"	CO	
+gbif.org/species/1169984		CO	
+gbif.org/species/1169988	Colombia (Antioquia, Arauca, Atlántico, Boyacá, Caldas, Caquetá, Casanare, Cesar, Cundinamarca, Huila, La Guajira, Magdalena, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, San Andres Islas, Santander, Tolima, Valle del Cauca), Venezuela; Costa Rica, El Salvador, Honduras, México, Panamá; Cuba, Dominica, Guadalupe, haití, Jamaica, Puerto Rico; Viejo Mundo	CO	
+gbif.org/species/1170676		CO	
+biolib.cz/en/taxon/id1741231/	Bolivia, Brasil, Colombia (Cundinamarca: Bogotá), Ecuador, Perú	CO	
+biolib.cz/en/taxon/id1741232/	Bolivia, Brasil, Colombia (sin localidad específica), Venezuela	CO	
+organismnames.com/details.htm?lsid=2460845	Argentina, Brasil, Colombia (sin localidad específica), Ecuador, Guyana Francesa, Perú	CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=3508	Bolivia, Brasil, Colombia (sin localidad específica)	CO	
+gbif.org/species/9550253	Bolivia, Brasil, Colombia (Nariño: Tumaco), Guyana Francesa, Trinidad, Venezuela; Panamá	CO	
+organismnames.com/details.htm?lsid=2460848	Bolivia, Brasil, Colombia (Meta: Villavicencio), Ecuador, Guyana, Guyana Francesa, Perú, Trinidad, Venezuela; Honduras	CO	
+gbif.org/species/1170676-01	Colombia (Antioquia: Medellín)	CO	Endémica
+biolib.cz/en/taxon/id689227/	Bolivia, Brasil, Colombia (Boyacá: Muzo; Valle del Cauca: Buenaventura), Ecuador, Guyana Francesa, Venezuela; Costa Rica, Honduras, México (en duda), Panamá	CO	
+biolib.cz/en/taxon/id689229/	Brasil, Colombia (Cundinamarca: Río Suárez; Magdalena: Río Frío), Ecuador, Guyana, Guyana Francesa, Perú, Trinidad; Costa Rica, Guatemala, México, Nicaragua, Panamá; Java	CO	
+biolib.cz/en/taxon/id1615053/	Argentina, Brasil, Colombia (Valle del Cauca: Cali, Cartago), Paraguay, Venezuela	CO	
+gbif.org/species/9504083	"Colombia (""Santa Margarita; Río Agua"")"	CO	Endémica
+biolib.cz/en/taxon/id689233/	Bolivia, Colombia (Antioquia, Boyacá, Caldas, Cauca [?], Cundinamarca, Huila, Magdalena, Meta, Nariño, Norte de Santander, Quindío, Risaralda, Santander, Tolima, Valle del Cauca), Ecuador, Guyana, Perú, Venezuela; Costa Rica, Nicaragua, Panamá	CO	
+gbif.org/species/1170706	Argentina, Bolivia, Brasil, Colombia (Amazonas, Antioquia, Atlántico, Boyacá, Caldas, Casanare, Cesar, Chocó, Cundinamarca, Guaviare, Magdalena, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, Santander, Tolima, Valle del Cauca), Ecuador, Guyana, Guyana Francesa, Perú, Surinam, Trinidad, Uruguay, Venezuela; Antigua, Barbados, Bequia, Dominica, Granada, Guadalupe, Jamaica, Martinica, Montserrat, Puerto Rico, St. Croix, St. Kitts, St. Thomas, St. Vincent	CO	
+organismnames.com/details.htm?lsid=1299491	Colombia (Antioquia: Medellín, Puerto Berrío; Cauca; Cesar: Ciénaga de Zapatosa; Cundinamarca: Bogotá; Tolima: Ibagué; Valle del Cauca: Buenaventura, Ecuador, Venezuela; Costa Rica, Honduras, Nicaragua, Panamá; Cuba, Haití, Jamaica, República Dominicana	CO	
+gbif.org/species/9151964	Colombia (Valle del Cauca: Buenaventura)	CO	Endémica
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=111582	"Colombia (""Río Agua-tal"")"	CO	Endémica
+gbif.org/species/1170719	"Colombia (Cauca: ""Villa Elvira""), Perú; Costa Rica, Panamá"	CO	
+gbif.org/species/11190171	Colombia (Valle del Cauca: Río Yurumangui)	CO	Endémica
+gbif.org/species/1170732	"Bolivia, Colombia (Cauca, ""Caucathal""), Ecuador"	CO	
+organismnames.com/details.htm?lsid=2832536	Colombia (Antioquia; Boyacá: Muzo), Ecuador, Venezuela	CO	
+organismnames.com/details.htm?lsid=2460818	Brasil, Colombia (Putumayo: Caucayá), Ecuador, Guyana Francesa, Perú	CO	
+biolib.cz/en/taxon/id689249/	Colombia (Antioquia); Costa Rica, Nicaragua, Panamá	CO	
+gbif.org/species/1170743	"Bolivia, Brasil, Colombia (""Caucathal"", ""San Antonio""), Ecuador, Guyana, Guyana Francesa, Perú, Venezuela"	CO	
+gbif.org/species/1170733	"Colombia (Antioquia, Caldas, Chocó, Cundinamarca, Magdalena, Meta, Risaralda, Tolima [Ibagué], Valle del Cauca, ""Caucathal""), Ecuador, Venezuela; Costa Rica, Nicaragua, Panamá"	CO	
+gbif.org/species/9402317	Bolivia, Brasil, Colombia (Putumayo: Mocoa), Ecuador, Guyana, Guyana Francesa, Perú, Surinam	CO	
+gbif.org/species/1170676-02	Colombia (Antioquia: Medellín)	CO	Endémica
+gbif.org/species/1170695	"Bolivia, Brasil, Colombia (Cundinamarca: Bogotá; Meta: Río Guatiquía; ""Esmeralda""), Ecuador, Guyana Francesa, Perú, Venezuela"	CO	
+gbif.org/species/9528263	Bolivia, Colombia (sin localidad específica), Ecuador	CO	
+gbif.org/species/1169494		CO	
+gbif.org/species/1169564	Colombia (Cundinamarca: Bogotá; Magdalena: Río Frío); Belice, Costa Rica, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá	CO	
+gbif.org/species/1169563	"Colombia (Caldas: Manizales; Valle del Cauca: Calima; ""Caucathal"")"	CO	Endémica
+gbif.org/species/1169542	"Brasil, Colombia (Caldas, Manizales; Cundinamarca: Bogotá; Magdalena: Santa Marta, Florida; Norte de Santander: Ocaña; ""Caucathal""; ""San Antonio""), Guyana Francesa, Trinidad, Uruguay Venezuela· Costa Rica, Guatemala, Honduras, Nicaragua, Panamá"	CO	
+biolib.cz/en/taxon/id1880428/	Colombia (Valle del Cauca)	CO	Endémica
+gbif.org/species/1169539	Colombia (Valle del Cauca: Anchicayá); Costa Rica, Nicaragua, Panamá	CO	
+gbif.org/species/9564392	Colombia: Magdalena	CO	Endémica
+gbif.org/species/1169592	Colombia (Río Magdalena)	CO	Endémica
+gbif.org/species/1169494-01	Bolivia, Colombia (Cundinamarca: Bogotá, Fusagasugá), Ecuador	CO	
+biolib.cz/en/taxon/id689270/	Brasil, Colombia (Bolívar: Cartagena; Cundinamarca: Bogotá; Magdalena: Sierra San Lorenzo), Trinidad, Venezuela; Belice, Costa Rica, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá	CO	
+gbif.org/species/1169578	Bolivia, Colombia (Boyacá: Muzo; Cundinamarca: Bogotá; Río Magdalena), Ecuador, Perú; Panamá	CO	
+gbif.org/species/1169511	Colombia (Cundinamarca: Bogotá), Ecuador, Paraguay	CO	
+biolib.cz/en/taxon/id689273/	Colombia (Meta: Villavicencio), Ecuador, Guyana Francesa, Perú, Surinam; Costa Rica, Panamá	CO	
+biolib.cz/en/taxon/id689275/	Brasil, Colombia (Antioquia: Medellín; Boyacá: Muzo; Caldas: Manizales; Cundinamarca: Bogotá, Camancha [Cananche]; Meta: Río Guayuriba; Santander: Cararé, Landázuri; Valle del Cauca), Ecuador; Costa Rica, Panamá	CO	
+biolib.cz/en/taxon/id689277/	Colombia (Valle del Cauca), Costa Rica, Panamá	CO	
+gbif.org/species/1169588	"Colombia (Boyacá: Muzo; Cundinamarca: Bogotá, Camancha [Cananche]; Santander: Landázuri; Tolima: Ibagué; ""Río Chili""), Ecuador; Panamá"	CO	
+gbif.org/species/9350275	Colombia (Cundinamarca: Bogotá; Valle del Cauca: Anchicayá), Ecuador, Perú	CO	
+gbif.org/species/1169995		CO	
+gbif.org/species/5008491	Brasil, Colombia (sin localidad específica), Venezuela; Belice, Costa Rica, El Salvador, Guatemala, Honduras, México, Nicaragua; Cuba, Jamaica, República Dominicana; Estados Unidos	CO	
+gbif.org/species/1169637		CO	
+organismnames.com/details.htm?lsid=36472	Argentina, Brasil, Colombia (Amazonas: Leticia), Guyana, Guyana Francesa, Paraguay, Surinam, Trinidad, Uruguay, Venezuela; Guadalupe	CO	

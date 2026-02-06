@@ -1,0 +1,417 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="3fad68b9-2ab5-409f-98f7-8e6283b43f32/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/l1vnio</alternateIdentifier>
+  <alternateIdentifier>3fad68b9-2ab5-409f-98f7-8e6283b43f32</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=canth</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Cantharidae (Coleoptera: Elateroidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/4552216154711556</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Gabriel</givenName>
+      <surName>Biffi</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>biffigabriel@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/2613303924858477</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-7532-3822</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/4552216154711556</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Gabriel</givenName>
+      <surName>Biffi</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>biffigabriel@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/2613303924858477</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-7532-3822</userId>
+      </metadataProvider>
+  <pubDate>
+      2024-01-30
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Cantharidae (Coleoptera: Elateroidea) registradas para el territorio colombiano. Se listan cuatro subfamilias, 3 tribus, 13 géneros, 121 especies y 8 subespecies. 110 taxones (incluyendo todas las subespecies) se consideran endémicos. La información ha sido recopilada a partir de información disponible en los principales catálogos del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica o que incluyan claves de identificación. Algunos nombres ausentes o escritos equivocadamente en otras bases de datos son incluidos en esta lista y escritos correctamente según su aceptación actual.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Cantharidae (Coleoptera: Chrysomeloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. Son registradas especies en 13 departamentos del país, siendo Cundinamarca el que presento la mayor riqueza, con 43 especies, seguido de Tolima con 6, Antioquia con 4, Caldas, Magdalena, Meta y Valle del Cauca con 3 cada uno, Atlántico, Cauca y Nariño con 2 cada uno y Bolívar, Cesar y Chocó con 1 especie, respectivamente. De las especies registradas para el país, 64 no tienen localidad especifica conocida.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1758</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Cantharidae (Coleoptera: Elateroidea) registradas para el territorio colombiano. Se listan 4 subfamilias: Cantharinae, Chauliognathinae, Dysmorphocerinae y Silinae. En Cantharinae se registra una tribu, Cantharini, un género y una especie. En Chauliognathinae, una tribu, Chauliognathini, 7 géneros y 54 especies. Dysmorphocerinae registró un único género y dos especies. Finalmente, Silinae, con una tribu, Silini, 4 géneros y 64 especies. La información ha sido recopilada a partir de información disponible en los principales catálogos del grupo y en literatura reciente. Es importante resaltar que la subfamilia Cantharinae no ocurre en la región neotropical y la única especie de Colombia actualmente clasificada en esta subfamilia necesita ser revisada para ser correctamente clasificada.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cantharidae</taxonRankValue>
+                  <commonName>Soldier beetles</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Silinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Chauliognathinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Discodon</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Polemius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Silis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Trachelychnus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Plectonotum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Belotus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Chauliognathus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Daiphron</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lobetus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Malthesis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Malthopterus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Microdaiphron</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/4552216154711556</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Gabriel</givenName>
+      <surName>Biffi</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>biffigabriel@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/2613303924858477</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-7532-3822</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Delkeskamp (1977). La lista inicial fue complementada con trabajos posteriormente publicados a este catálogo (Biffi, 2019, 2020; Brancucci, 1979, 1981, 1982; Constantin, 2008, 2009; Martínez &amp; Morales, 2020).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue confirmada en las descripciones originales, en el catálogo de Delkeskamp y en revisiones taxonómicas recientes.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Para los nombres que aún no han sido incorporados en bases de datos disponibles, se construyó un taxonID utilizando el taxonID del género y un número consecutivo adicional para que fueran únicos.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies dentro del territorio colombiano fue obtenida a partir de las descripciones originales, el catálogo de Delkeskamp (1977) y los trabajos recientemente publicados y ya mencionados en el primer paso de esta metodología.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Cantharidae (Coleoptera: Elateroidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Cantharidae (Coleoptera: Elateroidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado inicial se obtuvo a partir del catálogo de Delkeskamp (1977) y trabajos recientemente publicados que incluyen fauna colombiana (Biffi, 2019, 2020; Brancucci, 1979, 1981, 1982; Constantin, 2008, 2009; Martínez &amp; Morales, 2020). Los nombres fueron verificados en las descripciones originales, así como en el catálogo que aquí se menciona.
+A lo largo del tiempo algunas bases de datos han incorporado errores de tipeo en el nombre de algunas especies, como por ejemplo Chauliognathus particularkornis Pic, 1927 en vez de Chauliognathus particularicornis Pic, 1927; Discodon cincticolk Pic, 1927 en vez de Discodon cincticolle Pic, 1927. También fueron encontrados algunos casos de nombres aún no han sido incorporados en otras bases de datos disponibles, como por ejemplo: Malthesis ater Motschulsky, 1853; Polemius atricolor Pic, 1926.
+En esta lista se incluyen todos los nombres registrados para Colombia y válidos y su grafía se incluye como encontradas en las descripciones originales y/o como aceptadas actualmente.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Todos los nombres fueron verificados en las descripciones originales, en el catálogo que aquí se menciona y en los trabajos de revisión taxonómica que incluyan nombres listados en este recurso.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Juan Pablo</givenName>
+          <surName>Botero</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Gabriel</givenName>
+          <surName>Biffi</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-7532-3822</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-05-24T14:54:13.112+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/l1vnio">Botero J P, Biffi G (2024): Listado de las especies de Cantharidae (Coleoptera: Elateroidea) de Colombia. v1.3. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/l1vnio</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.1163/1876312X-00002208">Biffi, G. 2019. Taxonomic revision of Microdaiphron Pic, 1926 (Coleoptera: Cantharidae: Chauliognathinae). Insect Systematics &amp; Evolution 51[2020]: 408–443.</citation>
+                <citation identifier="https://doi.org/10.3161/00034541ANZ2020.70.2.001">Biffi, G. 2020. A review and morphological study of Lobetus Kiesenwetter, 1852 (Coleoptera: Cantharidae). Annales Zoologici 70(2): 143–179.</citation>
+                <citation identifier="http://www.biodiversitylibrary.org/item/36399#page/128/mode/1up">Bourgeois, J. 1900. Description de deux Malacodermes nouveaux (Col.) de l&apos;Amérique Méridionale. Bulletin de la Société entomologique de France (1900): 118–119.</citation>
+                <citation>Brancucci, M. 1979. Révision du genre Belotus Gorham (Col. Cantharidae). Entomologica Basiliensia 4: 361–430.tt</citation>
+                <citation>Brancucci, M. 1980. Morphologie comparée, évolution et systématique des Cantharidae (Insecta: Coleoptera). Entomologica Basiliensia 5: 215–388.</citation>
+                <citation>Brancucci, M. 1981. Révision du genre Maronius Gorham et notes sur les genres voisins (Coleoptera: Cantharidae). Entomologica Basiliensia 6: 328–367.</citation>
+                <citation>Brancucci, M. 1982. Révision du genre Lobetus Kiesw. (Col. Cantharidae). Entomologica Basiliensia 7: 315–339.</citation>
+                <citation identifier="http://www.archive.org/stream/transactionsofen1914roya#page/128/mode/2up">Champion, C.G. 1914. Revision of the Mexican and Central American Chauliognathinae (Fam. Telephorinae) based on the genital armature of the males. Transactions of the Entomological Society of London, Part I, 1914: 128–168.</citation>
+                <citation identifier="http://www.archive.org/stream/transactionsofen1915roya#page/n7/mode/2up">Champion, C.G. 1915. Revision of the Mexican and Central American Telephorinae (Fam. Telephoridae) with descriptions of new species. Transactions of the Entomological Society of London, Part I: 16–146.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/25890#page/36/mode/1up">Charpentier, T. von. 1825. Horae entomologicae, adjectis tabulis novem coloratis. A. Gosohorsky, Wratislaviae. xvi + 255 + 5 pp. + 9 pls.</citation>
+                <citation>Constantin, R. 2008. A contribution to the genus Plectonotum Gorham, 1891, in Ecuador (Coleoptera, Cantharidae). Entomologica Basiliensia et Collectionis Frey 30: 49–74.</citation>
+                <citation>Constantin, R. 2009. A contribution to the genus Silis Charpentier, 1825, in Ecuador (Coleoptera, Cantharidae). Entomologica Basiliensia et Collectionis Frey 31: 55–87.</citation>
+                <citation>Delkeskamp, K. 1939. Coleopterorum Catalogus, Pars 165, Col. Cantharidae. Dr. W. Junk, ‘s‑Gravenhage, 357p.</citation>
+                <citation>Delkeskamp, K. 1977. Coleopterorum Catalogus Suplementa, Pars 165, fasc 1. Col. Cantharidae. Dr W. Junk, The Hague, 1–485.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/51238#page/93/mode/1up">Erichson, G.F. 1847. Conspectus Insectorum Coleopterorum, quae in Republica Peruana observata sunt. Archiv für Naturgeschichte 13(1): 67–185.</citation>
+                <citation identifier="https://archive.org/details/cataloguscoleopt06gemm/page/n9/mode/2up?view=theater">Gemminger, M. &amp; Harold, E. 1869. Catalogus Coleopterorum hucusque descriptorum synonymicus et systematicus. Monachii, sumptu E.H. Gummi 6: 1609-1880.</citation>
+                <citation identifier="http://www.sil.si.edu/DigitalCollections/bca/">Gorham, H.S. 1880–1886. In: Godman, F.D. &amp; Salvin, O. (Eds.). Biologia Centrali-Americana. Insecta, Coleoptera, Malacodermata (Lycidae, Lampyridae, Telephoridae, Lymexylonidae, Melyridae, Cleridae, Ptinidae, Bostrychidae, Cioidae). London, Porter. v. 3, pt 2, 372p. + 13 colour plates.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/19446#page/20/mode/1up">Guérin-Méneville, F.E. 1843. Insectes nouveaux, observés dur les plateaux de Cordillères et dans les vallées chaudes de la Nouvelle-Grenade. Revue Zoologique: 12–22.</citation>
+                <citation identifier="http://www.biodiversitylibrary.org/item/79813#page/508/mode/1up">Hentz, N.M. 1830. Remarks on the use of the Maxillae in Coleopterous Insects, with an Account of two Species of the Family Telephoridae, and of three of the Family Mordellidae, which ought to be the Type of two distinct Genera. Transactions of the American Philosophical Society, new series 3: 458–462.</citation>
+                <citation identifier="https://www.digitale-sammlungen.de/en/view/bsb10307690?page=226,227">Imhoff, L. 1856. Versuch einer Einführung in das Studium der Koleoptern. L. Imhoff, Basel, xxxi + [2] + 118 + [2] + 272 + [25] pp. + 25 pls.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Linnaea-Entomologica_7_0239-0324.pdf">Kiesenwetter, E. A. H. von. 1852. Beiträge zu einer Monographie der Malthinen. Linnaea Entomologica, 7: 239–324.</citation>
+                <citation identifier="http://www.biodiversitylibrary.org/item/34938#page/58/mode/1up">Kirsch, T. 1865. Beiträge zur Käferfauna von Bogotà. Berliner Entomologische Zeitschrift 9: 40–104.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/34397#page/414/mode/1up">Kirsch, T. 1870. Beiträge zur Käferfauna von Bogotà. Berliner Entomologische Zeitschrift 14: 337–378. [Incorrect pagination]</citation>
+                <citation identifier="http://digital.slub-dresden.de/werkansicht/dlf/92789/3/">Kirsch, T. 1889. Coleopteren gesammelt in den Jahren 1868–1877 auf einer Reise durch Süd Amerika von Alphons Stübel. Abhandlungen und Berichte desköniglichen Zoologischen und Anthropologisch- Ethnographischen Museum, Dresden 4: 1–58.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k61302z/f230.item.texteImage">Latreille, A. 1809. Insectes de l’Amérique équinoxiale, recueillis pendant le voyage de MM. de Humboldt et Bonpland. Pp. 197–283, 344–397 + pls 15–18, 22–25. In. von Humboldt, A. &amp; Bonpland. Recueil d’observations de zoologie et d’anatomie comparée; faites dans l’océan Atlantique, dans l’intérieur du nouveau continent et dans la mer du sud, pendant les années 1799, 1800, 1801, 1802 et 1803, par Al. de Humboldt et A. Bonpland. Tome 1. Levrault, Schoell et Comp.ie, Paris.</citation>
+                <citation identifier="http://www.archive.org/stream/proceedingsofaca05acad#page/n7/mode/2up">Leconte, J.L. 1851. Synopsis of the Lampyrides of Temperate North America. Proceedings of the Academy of Natural Sciences of Philadelphia 5: 331–347.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/10277#page/422/mode/1up">Linnaeus, C. 1758. Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata. Holmiae: L. Salvii, 824 pp.</citation>
+                <citation identifier=" https://doi.org/10.15560/16.6.1679 ">Martínez, D.C. &amp; Morales, I. 2020. Annotated list of beetles (Insecta, Coleoptera) in an urban area of the Eastern Andes of Colombia. Check List 16 (6): 1679–1693.</citation>
+                <citation identifier="http://www.jstor.org/pss/2989730">Miskimen, G.W. 1972. Environmental Factors Affecting Soldier Beetle Distribution and Coloration in Columbia. Biotropica 4(2): 85–92.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/212559#page/9/mode/1up">Motschulsky, V. 1853. Malthinides. Études Entomologiques 1, 1852 (1853): 1–15.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/109809#page/358/mode/1up">Mulsant, É. 1862. Mollipennes. Histoire naturelle des Coléoptères de France. Magnin, Blanchard &amp; Cie., Paris, [4] + 440 pp. + 3 pls.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/285236#page/99/mode/1up">Pic, M. 1906. Noms nouveaux et diagnoses de &quot;Cantharini&quot; (Telephorides) européens et exotiques. L&apos;Échange, Revue Linnéenne 22(264): 89–92.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/285147#page/229/mode/1up">Pic, M. 1911. Coléoptères exotiques nouveaux ou peu connus. L’Échange, Revue Linnéenne 27: 164–167.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/285147#page/234/mode/1up">Pic, M. 1911. Coléoptères exotiques nouveaux ou peu connus. L’Échange, Revue Linnéenne 27: 172–174.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/285147#page/236/mode/1up">Pic, M. 1911. Contribution à l&apos;étude du genre &quot;Plectonotum&quot; Gorham. L’Échange, Revue Linnéenne 27(322): 174–175.</citation>
+                <citation>Pic, M. 1911. Diagnoses préliminaires de 30 Coléoptères exotiques. L’Échange, Revue Linnéenne 27(316): 122–124.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/22103#page/182/mode/1up">Pic, M. 1912. Malacodermes nouveaux du genre Chauliognathus Hentz (Col.). Bulletin de la Société Zoologique de France 37: 146–148.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k121916b/f485.item">Pic, M. 1912. Notes entomologiques. Bulletin de la Société d&apos;Histoire Naturelle d&apos;Autun 25: 100–103.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/46151#page/313/mode/1up">Pic, M. 1912. Trois nouveaux Discodon de l&apos;Amérique Meridionale. Annales de la Société entomologique de Belgique 56: 305–306.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/112096#page/21/mode/1up">Pic, M. 1913. Espèces et variétés nouvelles, ou peu connues, rentrant dans diverses familles. Mélanges Exotico-Entomologiques 7: 10–20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/204140#page/149/mode/1up">Pic, M. 1914. Coléoptères exotiques en partie nouveaux. L’Échange, Revue Linnéenne 30(358): 71.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/112083#page/10/mode/1up">Pic, M. 1914. Descriptions abrégées de Malacodermes et Hétéromères. Mélanges Exotico-Entomologiques 11: 8–20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/112086#page/21/mode/1up">Pic, M. 1915. Diagnoses et descriptions de Chauliognathus Hentz. Mélanges exotico-entomologiques 13: 14–20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36510232#page/7/mode/1up">Pic, M. 1917. Descriptions abrégées diverses. Mélanges exotico-entomologiques 24: 2–24.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/112100#page/21/mode/1up">Pic, M. 1919. Nouveautés diverses. Mélanges Exotico-Entomologiques 31: 11–24</citation>
+                <citation>Pic, M. 1924. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 40(148, hors–text): 1–4.</citation>
+                <citation>Pic, M. 1925. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 41(422, hors-texte): 17–20.</citation>
+                <citation>Pic, M. 1926. Malacodermes exotiques. L’Échange, Revue Linnéenne 42 (426, hors-texte): 33–36.</citation>
+                <citation>Pic, M. 1926. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 42(423, hors-texte): 21–24.</citation>
+                <citation>Pic, M. 1926. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 42(424, hors-texte): 25–28.</citation>
+                <citation>Pic, M. 1926. Sur le genre &quot;Malthesis&quot; Mots. L’Échange, Revue Linnéenne 42(426): 14–15.</citation>
+                <citation>Pic, M. 1927. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 43(428, hors-texte): 41–44.</citation>
+                <citation>Pic, M. 1927. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 43(429, hors-texte): 45–48.</citation>
+                <citation>Pic, M. 1927. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 43(430, hors-texte): 49–52.</citation>
+                <citation>Pic, M. 1927. Nouveau coléoptères du globe II. Bulletin de la Société zoologique de France 52: 106–110.</citation>
+                <citation>Pic, M. 1928. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 44(431, hors-texte): 53–56</citation>
+                <citation>Pic, M 1928. Malacodermes exotiques. L’Échange, Revue Linnéenne 44(433, hors-texte): 61–64.</citation>
+                <citation>Pic, M 1928. Malacodermes exotiques. L’Échange, Revue Linnéenne 44(434, hors-texte): 65–68.</citation>
+                <citation>Pic, M. 1928. Neue Malacodermen. Zoologischer Anzeiger 76: 95–98.</citation>
+                <citation>Pic, M. 1934. Malacodermes exotiques (suite). L&apos;Échange, Revue Linnéenne 50(458, hors-texte): 133–136.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/EntAnz_15_0253-0256.pdf">Pic, M. 1935. Neue Malacodermata (Coleopteren). Entomologischer Anzeiger 15: 253–256.</citation>
+                <citation>Pic, M. 1937. Malacodermes exotiques (suite). L&apos;Échange, Revue Linnéenne 53(469, hors-texte): 141–144.</citation>
+                <citation>Pic, M. 1939. Malacodermes exotiques. L&apos;Échange, Revue Linnéenne 55(475, hors-texte): 165–168.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/235035#page/9/mode/1up">Pic, M. 1942. [no title]. Opuscula martialia 8: 1–13.</citation>
+                <citation>Pic, M. 1943. L&apos;Échange, Revue Linnéenne 59: 6.</citation>
+                <citation>Pic, M. 1947. [no title]. Diversités entomologiques 2: 1–16.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/190799#page/11/mode/1up">Pic, M. 1949. Notes et descriptions. Diversités entomologiques 5: 9–16.</citation>
+                <citation>Pic, M. 1950. Coléoptères du globe (suite). L&apos;Échange, Revue Linnéenne 66(521): 9–12.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/191832#page/17/mode/1up">Pic, M. 1950. Descriptions et notes variées. Diversités entomologiques 7: 1–16.</citation>
+                <citation>Pic, M. 1954. Malacodremata (Col.): Cantharidae, Malachiidae, Dasytidae, Drilidae, Lampyridae. pp. 170-175. In: Titschack, E. (Ed.). Beiträge zur Fauna Perus nach der Ausbeute der Hamburger Südperu-Expedition, 1936, anderen Sammlungen, wie auch auf Grund von Literaturangaben. Band IV. Wissenschaftliche Bearbeitungen. Gustav Fischer Verlag, Jena, viii+386pp.</citation>
+                <citation>Pic, M. 1955. Coléoptères du Globe. L’Échange, Revue Linnéenne 71(540): 5–8.</citation>
+                <citation>Pic, M. 1955. Nouveaux coléoptères de la collection Oberthur. Revue française d&apos;entomologie 22: 228–236.</citation>
+                <citation>Pic, M. 1955. Nouveaux Coléoptères exotiques. Bulletin de la Société entomologique de France 60: 173–175.</citation>
+                <citation identifier="http://www.biodiversitylibrary.org/item/45285#page/355/mode/1up">Waterhouse, C.O. 1878. Descriptions of new Telephoridae from Central and South America. Transactions of the Entomological Society of London 1878: 325–332.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/173050#page/485/mode/1up">Wittmer, W. 1959. 21. Beitrag zur Kenntnis der neotropischen Malacodermata (Col.). Entomologische Arbeiten aus dem Museum Georg Frey 10: 467–474.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/173066#page/140/mode/1up">Wittmer, W. 1963. Neue neotropische Malacodermata aus dem Museum G. Frey (Col.) (23. Beitrag zur Kenntnis der neotropischen Malacodermata). Entomologische Arbeiten aus dem Museum Georg Frey 14(1): 128–135.</citation>
+                <citation>Wittmer, W. 1972. Synonymische und systematische Notizen sowie neue Taxa in Cantharidae (Col.). Verhandlungen der Naturforschenden Gesellschaft in Basel 82(1): 105­–121.</citation>
+                <citation>Wittmer, W. 1974. Chauliognathus aus der Gruppe pallidus Waterh. und sulphureus Waterh. (Col. Cantharidae) (31. Beitrag zur Kenntnis der neotropischen Cantharidae). Mitteilungen der Entomologischen Gesellschaft Basel N.F. 24(4): 137–144.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>3fad68b9-2ab5-409f-98f7-8e6283b43f32/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

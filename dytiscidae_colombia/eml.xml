@@ -1,0 +1,690 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=dytiscidae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/m1c5nc</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=dytiscidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Dytiscidae (Coleoptera: Adephaga) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unaledu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2023-01-18
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Dytiscidae (Coleoptera: Adephaga) con ocurrencia conocida para el territorio colombiano. Se listan ocho subfamilias, 17 tribus, 32 géneros, cuatro subgéneros, 64 especies y dos subespecies. 24 especies son consideradas endémicas. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>taxonomicAuthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Lista de chequeo</keyword>
+            <keyword>Escarabajos Buceadores</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Dytiscidae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se presentaron registros de especies en los departamentos de: Amazonas, Antioquia, Atlántico, Boyacá, Caldas, Cauca, Chocó, Córdoba, Cundinamarca, Magdalena, Meta, Nariño, Putumayo, Quindío y Valle del Cauca. Para 21 especies no se conocen localidades específicas en el país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1767-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Dytiscidae (Coleoptera: Adephaga) registrados para Colombia. Se reportan 65 especies distribuidas en 32 géneros, 17 tribus y ocho subfamilias. Los géneros Copelatus, Liodessus y Neobidessus mostraron el mayor número de especies registradas en Colombia con diez, siete y seis especies, respectivamente. El género Laccophilus exhibió amplia distribución en Colombia.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Dytiscidae</taxonRankValue>
+                  <commonName>Escarabajos Buceadores</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Agabinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Agabini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Agabus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Platynectini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Platynectes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Platynectes (Platynectes)</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Platynectes (Agametrus)</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Colymbetinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Colymbetini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Meridiorhantus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhantus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Copelatinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Copelatini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Aglymbus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Copelatus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Cybistrinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Cybistrini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Megadytes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Dytiscinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Aciliini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Thermonectus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Aubehydrini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Notaticus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Eretini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Eretes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Hydaticini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydaticus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Hydaticus (Prodaticus)</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Hydrodytinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Hydrodytini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrodytes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Hydroporinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Bidessini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Amarodytes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Anodocheilus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Bidessodes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Bidessonotus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Brachyvatus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hemibidessus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrodessus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Liodessus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neobidessus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Uvarus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Hydrovatini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrovatus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Queda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Hyphydrini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Desmopachria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Methlini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Celina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Pachydrini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pachydrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Vatellini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Derovatellus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Vatellus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Laccophilinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Laccophilini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Laccodytes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Laccomimus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Laccophilus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento del listado fue basado a partir de los catálogos de Nilsson y Hájek (2021) y de Blackwelder (1944). Esta información fue soportada con revisiones taxonómicas, filogenias, listados y descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La verificación de los nombres y autorías se realizó con los catálogos anteriormente mencionados y las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La verificación ID del taxón se realizó en bases de datos como GBIF (https://www.gbif.org/) y el Index of Organism names (ION; http://www.organismnames.com/).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución geográfica de las especies al interior del país fue tomada de los artículos que reportan cada especie para Colombia. Algunos de los catálogos no mencionan localidad específica (departamento) del registro.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir la literatura disponible. Se proveen enlaces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Dytiscidae (Coleoptera: Adephaga) que se han registrado para Colombia de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias bibliográficas de las especies de la familia Dytiscidae (Coleoptera: Adephaga) que han sido registradas para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente del catálogo mundial de la familia Dytiscidae version 1.I. de Nilsson y Hájek (2021) y del catálogo de Blackwelder (1944). Posteriormente, se consultaron revisiones taxonómicas que incluían tribus y géneros para el continente americano (Biström, 1988;  Biström et al. 1997; Young 1967, 1969), así como las descripciones originales de las especies reportadas para el país (Biström  1990, 1997; Guignot 1939, 1942, 1946, 1953, 1955; Miller 2001, 2002, 2005, 2016, 2017; Toledo y Michat 2015; Trémouilles et al. 2005; Young 1974, 1977, 1980, 1981, 1986, 1989, 1990) y trabajos filogéneticos (Miller 2000, 2001; Miller y Bergsten 2014; Miller et al. 2009). Recientemente se han descrito nuevas especies con especímenes colombianos (Balke et al. 2019; Megna et al. 2019; Short et al. 2020; Balke et al. 2021).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>La nomenclatura de las especies fue verificada en las descripciones originales, así como en los catálogos de Nilsson y Hájek (2021) y de Blackwelder (1944).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los Coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis Mairu</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol/listados) que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar, y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura, catálogos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-11-21T18:58:22.318+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/m1c5nc">Hincapié-Montoya D M (2023): Listado de las especies de Dytiscidae (Coleoptera: Adephaga) de Colombia. v1.0. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/m1c5nc</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34502841">Aubé C. (1836-1838). Iconographie et histoire naturelle des coléoptères d’Europe. Tome Cinquième. Hydrocanthares. Paris: Méquignon-Marvis, xi + 416 pp. + 46 pls. [Pp. 1-64 published in 1836; Pp. 65-224 published in 1837; Pp. 225-416 published 31 December 1838.]</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9374118">Aubé C. (1838). Hydrocanthares et gyrinides. In: Dejean, P. F. Species general des coleóptères de la collection de M. le Compte Dejean. Vol. 6. París: Méquignon Père et Fils, xvi + 804 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13709001">Babington C.C. (1842). Dytiscidae Darwinianae. The Transactions of the Entomological Society of London 3(1) (1841-1843): 1-17 + 1 pl.</citation>
+                <citation identifier=" https://doi.org/10.1111/j.1365-2311.1939.tb00250.x">Balfour-Browne J. (1939). On Copelatus Er. and Leiopterus Steph. (Col. Dytiscidae) with descriptions of new species. The Transactions of the Royal Entomological Society of London 88: 57-88.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1947.tb01057.x">Balfour-Browne J. (1947). A revision of the genus Bidessonotus Régimbart (Coleoptera: Dytiscidae). Transactions of the Royal Entomological Society 98(9): 425-448.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-3113.1953.tb00056.x">Balfour-Browne J. (1953). Hydrodessus gen. n. Hydroporinarum (Coleoptera: Dytiscidae). Proceedings of the Royal Entomological Society of London (Series B) 22: 55–56.</citation>
+                <citation identifier="https://www.zobodat.at/publikation_articles.php?id=312333">Balke M. (1992). Taxonomische Untersuchungen an neotropischen Wasserkäfern der Gattung Rhantus Dejean (Insecta: Coleoptera: Dytiscidae). Reichenbachia 29(6): 27-39.</citation>
+                <citation identifier="https://www.zobodat.at/publikation_articles.php?id=312395">Balke M. (1993). Neotropische Wasserkäfer der Gattung Rhantus Dejean. IV. Liste und Notizen über die “groβen” Arten (Insecta: Coleoptera: Dytiscidae). Reichenbachia, 30(6): 21-32.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/KOR_68_1998_0071-0079.pdf">Balke M. (1998). Updating the Pacific, Indomalayan and Neotropical Rhantus-fauna (Coleoptera: Dytiscidae). Koleopterologische Rundschau, 68, 71-79.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4258.1.7">Balke M., Hájek J. &amp; Hendrich L. (2017). Generic reclassification of species formerly included in Rhantus Dejean (Coleoptera, Dytiscidae, Colymbetinae). Zootaxa 4258(1): 91-100</citation>
+                <citation identifier="https://alpineentomology.pensoft.net/article/37308/">Balke, M, Ospina-Torres R, Suarez-Megna Y, Laython M &amp; Hendrich L. (2019). A new species of Rhantus diving beetles from the wetlands of the City of Bogota and surroundings (Coleoptera, Dytiscidae, Colymbetinae). Alpine Entomology, 3, 169.</citation>
+                <citation identifier="https://doi.org/10.1163/22119434-20192084">Balke M, Ospina-Torres R, Suarez-Megna Y &amp; Hendrich L. (2019). Liodessus lacunaviridis sp. n. from the high Andes of Colombia (Coleoptera: Dytiscidae: Hydroporinae: Bidessini). Tijdschrift voor Entomologie, 163(1), 1-5.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.1059.70134">Balke M, Suarez-Megna Y, Ospina-Torres R, Venegas JS, Prieto C, Hendrich L. (2021). A new Colombian species of Liodessus diving beetles from the Páramo de Sumapaz (Coleoptera, Dytiscidae, Bidessini). ZooKeys 1059: 79–87.</citation>
+                <citation identifier="http://sea-entomologia.org/PDF/BOLETIN_32/B32-007-037.pdf">Benetti CJ, Régil Cueto JA &amp; Garrido González J. (2003). Estudio Faunístico de Hydradephaga (Coleoptera: Dytiscidae, Gyrinidae, Haliplidae, Noteridae) en el municipio de Gramado. Boletín de la Sociedad Entomólogica Aragonesa 32: 37-44.</citation>
+                <citation identifier="https://doi.org/10.1163/187631280X00392">Biström O. (1980). Notes on non-African Derovatellus species (Coleoptera: Dytiscidae). Entomologica Scandinavica 11: 78-80.</citation>
+                <citation>Biström O. (1988). Generic review of the Bidessini (Coleoptera, Dytiscidae). Acta Zoologica Fennica 184: 1-41.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52013423">Biström O. (1990). Revision of the genus Queda Sharp (Coleoptera, Dytiscidae). Quaestiones Entomologicae 26: 211-220</citation>
+                <citation identifier="https://www.google.com/books/edition/_/CgFNAAAAYAAJ">Biström O. (1997). Taxonomic revision of the genus Hydrovatus Motschulsky (Coleoptera, Dytiscidae). Entomologica Basiliensia 19 (1996): 57-584.</citation>
+                <citation identifier="https://doi.org/10.33338/ef.83921">Biström O., Nilsson A.N. &amp; Wewalka G. (1997). A systematic review of the tribes Hyphydrini Sharp and Pachydrini n. trib. (Coleoptera, Dytiscidae). Entomologica Fennica 8: 57-82.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE. (1944). Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="http://www.sea-socios.com/Boletines/PDF/Boletin58/123-129BSEA58.pdf">Blanco Aller R &amp; Régil JA. (2016). Los Géneros Agametrus Sharp, 1882 y Rhantus Dejean, 1833 (Coleoptera: Adephaga: Dytiscidae) en Costa Rica: Composición faunística y nuevas citas. Boletín de la Sociedad Entomológica Aragonesa (S.E.A.), 58: 123–129.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A. (2011). Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation>Brinck P. (1945). Nomenklatorische und systematische Studien über Dytisciden. III. Die Klassifikation der Cybisterinen. Kungliga Fysiografiska Sällskapets Handlingar 56(4): 1-20.</citation>
+                <citation identifier="https://doi.org/10.2307/25076279">Crotch G.R. (1873). Revision of the Dytiscidae of the United States. Transactions of the American Entomological Society 4: 383-424.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9322478">Dejean P.F.M.A. (1833). Catalogue des coléoptères de la collection de M. le Comte Dejean. Livraisons 1 &amp; 2. Paris: Méquignon-Marvis, 176 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33163040">Erichson W.F. (1832). Genera Dyticeorum. Berolini: Nietackianis, ii + 48 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42139591">Erichson W.F. (1837). Die Käfer der Mark Brandenburg. Erster Band. Erste Abtheilung. Berlin: F.H. Morin, viii + 384 pp. [published 15 September 1837]</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51985494">Fabricius JC. (1792). Entomologia systematica emendata et aucta. Secundum classes, ordines, genera, species adjectis synonymis, locis, observationibus, descriptionibus. Tom. I. Pars II. København, Denmark: C.G. Proft, 538 pp. https://doi.org/10.5962/bhl.title.122153</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10174177">Gemminger M. &amp; Harold E. von (1868). Catalogus Coleopterorum hucusque descriptorum synonymicus et systematicus. Tom. II. Dytiscidae, Gyrinidae, Hydrophilidae, Staphylinidae, Pselaphidae, Gnostidae, Paussidae, Scydmaenidae, Silphidae, Trichopterygidae, Scaphidiidae. Monachii: E.H. Gummi, pp. 425-752 + 6.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13256290">Gistel JNFX. (1848). Faunula monacensis cantharologica. Isis von Oken 1848: (6) [unn. pp.”1–3”]; (7): [unn. pp. “4–6”]; (8): [unn. p. “7”]; (9): [unn. pp. “8–9”]; (10): [unn. pp. “10–11”]; (11): [unn. pp. «12–13»]</citation>
+                <citation>Guéorguiev V.B. (1968). Essai de classification des coléoptères Dytiscidae. I. Tribus Copelatini (Colymbetinae). Izvestija na Zoologitjeskija Institut s Musei Sofia 28: 5-45.</citation>
+                <citation>Guéorguiev V.B. (1971). Notes sur les Agabini (Coleoptera, Dytiscidae). I. Les genres Agametrus Sharp, Leuronectes Sharp et Andonectes gen. n. Izvestija na Zoologitjeskija Institut s Musei Sofia 33: 165-176.</citation>
+                <citation>Guéorguiev V.B. (1972). Haliplidae, Dytiscidae, Gyrinidae IV. Ergebnisse der zoologischen Forschungen von Dr. Z. Kaszab in der Mongolei (Coleoptera). Faunistische Abhandlungen, Staatlichen Museum für Tierkunde in Dresden 4: 31-44.</citation>
+                <citation>Guignot F. (1939). Contribution à l’étude des Bidessus. Bulletin de la Société d’Étude des Sciences Naturelles de Vaucluse 10(4): 51-61.</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1938_num_43_19_15327">Guignot F. (1939). Nouveaux Copelatus de l’Amérique du Sud et des Antilles (Col. Dytiscidae). Bulletin de la Société Entomologique de France 43(19-20) (1938): 245-250.</citation>
+                <citation identifier="https://www.persee.fr/doc/linly_0366-1326_1942_num_11_1_9631">Guignot F. (1942). Description d’un genre nouveau de Dytiscidae. Bulletin Mensuel de la Société Linnéenne de Lyon 11: 10-13</citation>
+                <citation identifier="https://books.google.fr/books?hl=fr&amp;id=IF7wAAAAMAAJ&amp;focus=searchwithinvolume&amp;q=Platynectes">Guignot F. (1946). Génotypes des Dytiscoidea et des Gyrinoidea. Revue Française d’Entomologie 13: 112-118.</citation>
+                <citation identifier="https://www.google.com/books/edition/Revue_fran%C3%A7aise_d_entomologie/_sAgAQAAMAAJ?hl=en">Guignot F. (1952). Description de dytiscides inédits de la collection Régimbart. Revue Française d’Entomologie 19: 17-31.</citation>
+                <citation>Guignot F. (1953). Trente-neuvième note sur les hydrocanthares. Revue Française d’Entomologie 20: 109-117.</citation>
+                <citation identifier="https://books.google.mg/books?hl=fr&amp;id=21XwAAAAMAAJ&amp;focus=searchwithinvolume&amp;q=Amarodytes">Guignot F.  (1955). Quarante-deuxieme note sur les Hydrocanthares. Revue Française d&apos;Entomologie, 22: 270-276.</citation>
+                <citation>Guignot F. (1959). Revision des hydrocanthares d’Afrique (Coleoptera Dytiscoidea). Première partie. Annales du Musée Royal du Congo Belge, Série 8vo (Sciences Zoologiques) 70: 1-313.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8541535">Kirsch, T.F.W. (1865). Beitrage zur Kaferfauna von Bogota. Berliner entomologische Zeitschrift. 2. 9: 40-104.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9623497">Lacordaire J.T. (1854). Histoire naturelle des insectes. Genera des coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Premier. Paris: Roret, xx + 486 pp.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6348530c/f9.item">Laporte F.L.N. Caumont de (1833). Mémoire sur cinquante espèces nouvelles ou peu connues d’insectes. Annales de la Société Entomologique de France 1 (1832): 386-415</citation>
+                <citation identifier="https://books.google.fr/books?id=Ws9CAQAAMAAJ&amp;printsec=frontcover&amp;hl=es&amp;source=gbs_ViewAPI&amp;redir_esc=y#v=onepage&amp;q&amp;f=false">Laporte, F.L.N. Caumont de (1834–1835). Études entomologiques. Première partie. Carnassiers. Paris: Méquignon-Marvis Père et Fils, 159 pp., 4 pls. [pp. 1–94, pls. 1–2 published in 1834, pp. 95–159, pls. 3–4 in 1835]</citation>
+                <citation identifier="https://cdnsciencepub.com/doi/book/10.1139/9780660179674">Larson D.J., Alarie Y. &amp; Roughley R.E. (2000). Predaceous diving beetles (Coleoptera: Dytiscidae) of the Nearctic Region, with emphasis on the fauna of Canada and Alaska. Ottawa: NRC Research Press, 982 pp.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k61302z/f135.item.texteImage">Latreille P.A. (1809). Insectes de l’Amérique équinoxiale, recueillis pendant le voyage de Mm. de Humboldt et Bonpland. Pp. 197-283 + 344-397. In: Humboldt F.W.H.A. von (Ed.): Voyage aux régions equinoxiales du nouveau continent, fait en 1799, 1800, 1801, 1802, 1803 et 1804, par Al. de Humboldt et A. Bonpland.</citation>
+                <citation identifier="https://repositorio.unal.edu.co/handle/unal/62324">Laython M. (2017). Los Coleópteros Acuáticos (Coleoptera: Insecta) en Colombia: Distribución y Taxonomía. Trabajo presentado como parte de los requisitos para obtener el título de Magister en Ciencias Biológicas. Universidad Nacional de Colombia, Facultad de Ciencias, Departamento de Biología. pp. 281.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/17493547">Leach W.E. (1815). Entomology. Pp. 57-172. In: Brewster D. (Ed.). The Edinburgh encyclopaedia. Vol. 9. Part 1. Edinburgh: Baldwin, 384 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28686804">Leach, W.E. (1817). XIX. Synopsis of the stirpes and genera of the family Dytiscidae. In: The zoological miscellany; being descriptions of new or interesting animals. Vol. 3. E. Nodder &amp; Son, London, pp. 68–73.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/461997">Linnaeus C. (1767). Systema naturae, per regna tria naturae, secundum classes, ordines, genera, species, cum caracteribus, differentiis, synonymis, locis. Editio duodecima, reformata. Tom. I. Pars II. Holmiae: L. Salvii, pp. 533-1327</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_2017_num_122_2_3201">Manuel M. (2017). Notes on the genus Laccomimus, with first record for Guadeloupe and clarification of the identity of Laccophilus perparvulus Régimbart, 1895 (Coleoptera, Dytiscidae). Bulletin de la Société Entomologique de France 122(2): 215-222.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4615.1.5">Megna YS, Balke M, Apenborrn R &amp; Hendrich L. (2019). A review of Peruvian diving beetles of the genus Hydaticus Leach, 1817, with description of Hydaticus (Prodaticus) panguana sp. nov. and notes on other Neotropical species (Coleoptera: Dytiscidae). Zootaxa, 4615(1), 113-130.</citation>
+                <citation identifier="https://doi.org/10.1080/01650424.2018.1538521">Megna YS, Hendrich L, García-Hernández AL, Ospina-Torres R, Prieto C &amp; Balke M. (2019). Diving beetles of the genus Liodessus Guignot, 1953 in Colombia, with description of three new species (Coleoptera: Dytiscidae), Aquatic Insects, 40:2, 99-122.</citation>
+                <citation identifier="https://doi.org/10.1163/187631298X00113">Miller K.B. (1998). Revision of the Nearctic Liodessus affinis (Say 1823) species group (Coleoptera: Dytiscidae, Hydroporinae, Bidessini). Entomologica Scandinavica 29: 281-314.</citation>
+                <citation identifier="https://doi.org/10.1163/187631200X00363">Miller K.B. (2000). Cladistic analysis of the tribes of Dytiscinae and the phylogenetic position of the genus Notaticus Zimmermann (Coleoptera: Dytiscidae). Insect Systematics &amp; Evolution 31: 165-177.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009598">Miller K.B. (2001). Descriptions of New Species of Desmopachria Babington (Coleoptera: Dytiscidae: Hydroporinae: Hyphydrini) with a Reassessment of the Subgenera and Species Groups and a Synopsis of the Species, The Coleopterists Bulletin 55(2), 219-240.</citation>
+                <citation identifier="https://doi.org/10.1163/187631201X00029">Miller K.B. (2001). On the phylogeny of the Dytiscidae (Insecta: Coleoptera) with emphasis on the morphology of the female reproductive system. Insect Systematics &amp; Evolution 32(1): 45-92.</citation>
+                <citation identifier="https://doi.org/10.1076/aqin.24.4.247.8238">Miller K.B. (2002). Revision of the genus Eretes Laporte, 1833 (Coleoptera: Dytiscidae). Aquatic Insects 24(4): 247-272.</citation>
+                <citation identifier="https://doi.org/10.1076/aqin.23.4.253.4876">Miller K.B. (2002). Revision of the Neotropical genus Hemibidessus Zimmermann (Coleoptera: Dytiscidae: Hydroporinae: Bidessini). Aquatic Insects 23(2001): 253-275.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1096-3642.2005.00180.x">Miller K.B. (2005). Revision of the New World and south-east Asian Vatellini (Coleoptera: Dytiscidae: Hydroporinae) and phylogenetic analysis of the tribe. Zoological Journal of the Linnean Society, vol. 144, (4): 415 - 510.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.622.9155">Miller K.B. (2016). New species of Bidessonotus Régimbart, 1895 with a review of the South American species (Coleoptera, Adephaga, Dytiscidae, Hydroporinae, Bidessini). ZooKeys 622: 95-127</citation>
+                <citation identifier="https://zookeys.pensoft.net/articles.php?id=8153">Miller K.B. (2016). Revision of the Neotropical diving beetle genus Hydrodessus J. Balfour-Browne, 1953 (Coleoptera, Dytiscidae, Hydroporinae, Bidessini). ZooKeys, (580), 45-124</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.658.10928">Miller K.B. (2017). A review of the Neotropical genus Bidessodes Régimbart, 1895 including description of four new species (Coleoptera, Adephaga, Dytiscidae, Hydroporinae, Bidessini). ZooKeys, (658), 9.</citation>
+                <citation identifier="https://doi.org/10.1111/syen.12243">Miller K.B. &amp; Bergsten J. (2014). The phylogeny and classification of predaceous diving beetles, pp. 49-171. In: Yee D.A. (ed.). Ecology, systematics, and the natural history of predaceous diving beetles (Coleoptera: Dytiscidae). New York: Springer, 468 pp.</citation>
+                <citation identifier=" https://doi.org/10.1111/j.1463-6409.2009.00393.x">Miller K.B., Bergsten J. &amp; Whiting M.F. (2009). Phylogeny and classification of the tribe Hydaticini (Coleoptera: Dytiscinae): partition choice for Bayesian analysis with multiple nuclear and mitochondrial protein-coding genes. Zoologica Scripta 38(6): 591-615.</citation>
+                <citation identifier="https://doi.org/10.1111/cla.12074">Morinière, J., Michat, M. C., Jäch, M. A., Bergsten, J., Hendrich, L., &amp; Balke, M. (2015). Anisomeriini diving beetles—an Atlantic–Pacific Island disjunction on Tristan da Cunha and Robinson Crusoe Island, Juan Fernández?. Cladistics, 31(2), 166-176.</citation>
+                <citation>Motschulsky, V. de. (1853). Hydrocanthares de la Russie. Helsingfors, Imprimerie de la Société de Litérature Finnoise. 15 pp (1855)</citation>
+                <citation identifier="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwju_vTfz4f6AhVF44UKHZL5BWUQFnoECAcQAQ&amp;url=https%3A%2F%2Fwww.zobodat.at%2Fpdf%2FANNA_61_0278-0287.pdf&amp;usg=AOvVaw2BUVqQ-uKtguIqOL5vDwv0">Mouchamps R. (1957). Contribution à la connaissance des Cybisterini (Col. Dytiscidae) du Musée d’Histoire Naturelle de Vienne (9e note). Annalen des Naturhistorischen Museum in Wien 61: 278-287.</citation>
+                <citation identifier="https://www.researchgate.net/publication/266082260_On_the_genus_Agabetes_Crotch_Coleoptera_Dytiscidae_with_a_new_species_from_Iran">Nilsson A.N. (1989). On the genus Agabetes Crotch (Coleoptera, Dytiscidae), with a new species from Iran. Annales Entomologici Fennici 55: 35-40.</citation>
+                <citation identifier="https://doi.org/10.1163/187631289X00348">Nilsson A.N., Roughley R.E. &amp; Brancucci M. (1989). A review of the genus- and family-group names of the family Dytiscidae Leach (Coleoptera). Entomologica Scandinavica 20: 287-316.</citation>
+                <citation identifier="https://waterbeetles.eu/documents/W_CAT_Dytiscidae_2021.pdf">Nilsson AN and Hajek J. (2021). A World Catalogue of the Family Dytiscidae, or the Diving Beetles (Coleoptera, Adephaga), Version 1.I.2021. 1-315.</citation>
+                <citation identifier="https://revistaaccb.org/r/index.php/accb/article/view/95">Quiroz Rodríguez JA, Dueñas P &amp; Ballesteros J. (2010). Macroinvertebrados asociados a las raíces de Eichhornia crassipes (mart). solms, en dos sectores del complejo cenagoso del bajo Sinú, departamento de córdoba, Colombia. Revista de la Asociación Colombiana de Ciencias Biológicas, 1(22).</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k63357904/f453.item.r=Dytiscidae">Régimbart M. (1879). Étude sur la classification des Dytiscidae. Annales de la Société Entomologique de France (5) 8 (1878): 447-466 + pl. 10</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6342729j/f331.item.r">Régimbart M. (1895). Dytiscides trouvés dans les tabacs par les soins de M. Antoine Grouvelle. Annales de la Société Entomologique de France 64: 321–348.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12237757">Régimbart M. (1895). Révision des Dytiscidae et Gyrinidae d’Afrique, Madagascar et îles voisines. Mémoires de la Société Entomologique de Belgique 4: 1-244.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7991476">Régimbart M. (1899). Dytiscidae et Gyrinidae nouveaux du Musée Civique de Gênes. Annali del Museo Civico di Storia Naturale, Genova (2) 20: 193-198.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7991807">Régimbart M. (1900). Sur quelques dytiscides nouveaux de l’Amérique méridionale. Annali del Museo Civico di Storia Naturale, Genova (2) 20 (1899): 524-530.</citation>
+                <citation identifier="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwjdpbSY8Z76AhUGQhoKHQzdAd0QFnoECAMQAQ&amp;url=http%3A%2F%2Fnature.berkeley.edu%2F~kipwill%2FQE%2520documents%2520for%2520public%2FRoughley%2520and%2520Pengelly%25201981%2520QEv17n3_4%2520249_309%2520CC%2520released.pdf&amp;usg=AOvVaw2cuZ8iuQlNHsQVw_d-dsgV">Roughley R.E. &amp; Pengelly D.H. (1981). Classification, phylogeny, and zoogeography of Hydaticus Leach (Coleoptera: Dytiscidae) of North America. Quaestiones Entomologicae 17: 249-314.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4482440">Say T. (1823). Descriptions of insects of the families of Carabici and Hydrocanthari of Latreille, inhabiting North America. Transactions of the American Philosophical Society (New Series) 2(1) (1825): 1-109 [published in November 1823, see Bousquet (2012)].</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=hvd.32044106291669&amp;view=1up&amp;seq=151">Sharp D. (1880). Avis préliminaire d’une nouvelle classification de la famille des Dytiscidae. Annales de la Société Entomologique de Belgique 23, Comptes Rendus: cxlvii-cli.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/577038">Sharp D. (1882). Biologia Centrali-Americana. Zoologia. Insecta. Coleoptera. Vol. 1. Part 2. London: Published for the editors by R. H. Porter, xvi + 144 pp. + 4 pls.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10137421">Sharp D. (1882). On aquatic carnivorous Coleoptera or Dytiscidae. Scientific Transactions of the Royal Dublin Society, 2(2): 179- 1003.</citation>
+                <citation identifier="https://www.biotaxa.org/AEMNP/article/view/63636">Short AE, Benetti C, Gustafson G. (2020). New records of Platynectes (s. str.) diving beetles from South America with description of two new species (Coleoptera: Dytiscidae: Agabinae).  Acta Entomologica Musei Nationalis Pragae Vol 60 (2): 437-447.</citation>
+                <citation identifier="http://dx.doi.org/10.18002/10612/7077">Sondermann W. (2017). La distribución altitudinal de coleópteros acuáticos de la familia Dytiscidae, depredadores de estadios preimaginales de vectores merolimnéticos, en Colombia (Insecta: Coleoptera: Adephaga). Tesis doctorado. Departamento de Biodiversidad y Gestión Ambiental. Universidad de León, España. p. 639</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34560667">Spangler P.J. (1973). The nomenclature, bionomics, and distribution of Notaticus fasciatus (Coleoptera: Dytiscidae: Aubehydrinae). Proceedings of the Biological Society of Washington 86: 495-500.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56171452#page/67/mode/1up">Spangler P.J. (1981). Two new genera, two new species of bidessine water beetles from South America (Coleoptera: Dytiscidae). The Pan-Pacific entomologist. v.57:no.1-4.</citation>
+                <citation identifier="https://doi.org/10.22201/ib.20078706e.2020.91.3394">Šťastny, J; Vondraček, D; Arriaga-Varela, E, Hajek, J. (2020). The genus Platynectes (Coleoptera: Dytiscidae: Agabinae) in Central America, with the discovery of the northernmost Neotropical species in Oaxaca, Mexico, and nomenclatural notes on the subgenus Agametrus. Rev. Mex. Biodiv. vol.91, e913394. https://doi.org/10.22201/ib.20078706e.2020.91.3394</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54317809">Thomson C.G. (1867). Skandinaviens Coleoptera, synoptiskt bearbetade. IX. Tom. Lund: Lundbergska Boktryckeriet, 407 pp.</citation>
+                <citation identifier="http://dx.doi.org/10.11646/zootaxa.3990.3.1">Toledo M, Michat M. (2015). Description of Laccomimus gen. n. and eleven new species from the Neotropical region (Coleoptera, Dytiscidae, Laccophilinae). Zootaxa 3990 (3): 301-354,</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.2347.1.2">Toledo M., Spangler P.J. &amp; Balke M. (2010). Taxonomic revision of the Neotropical diving beetles genus Laccodytes Régimbart, 1895 (Coleoptera: Dytiscidae). Zootaxa 2347: 37-58.</citation>
+                <citation identifier=" https://doi.org/10.1111/ecog.02195">Toussaint E.F.A., Hendrich L., Hájek J., Michat M.C., Panjaitan R., Short A.E.Z. &amp; Balke M. (2017). Evolution of Pacific Rim diving beetles sheds light on Amphi-Pacific biogeography. Ecography 40: 500-510.</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/36543">Trémouilles E.R. (1989). Contribución para el conocimiento del género Thermonectus Dejean en la Argentina y áreas limitrofes (Coloptera, Dytiscidae). Revista de la Sociedad Entomológica Argentina 46: 95-115.</citation>
+                <citation>Trémouilles E.R. (1996). Revisión del género Hydaticus Leach en América del sur, con descripción de tres nuevas especies (Coleoptera, Dytiscidae). Physis, Buenos Aires 52B(122-123) (1994): 15-32.</citation>
+                <citation identifier="http://revista.macn.gob.ar/ojs/index.php/RevMus/article/view/155">Trémouilles E.R. (2000). Observaciones sobre el género Leuronectes Sharp, aspectos de su morfología y distribución geográfica (Coleoptera, Dytiscidae, Agabini). Revista del Museo Argentino de Ciencias Naturales nueva serie, 2(2), 195-202.</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/40915">Trémouilles E.R. &amp; Bachmann A.O. (1980). La tribu Cybisterini en la Argentina (Coleoptera, Dytiscidae). Revista de la Sociedad Entomológica Argentina 39: 101-125.</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/26521">Trémouilles ER, Michat MC &amp; Torres PL. (2005). A synopsis of the South American Hydrovatus (Coleoptera: Dytiscidae: Hydroporinae), with notes on habitat and distribution, and a key to species. Revista de la Sociedad Entomológica Argentina, 64(1-2), 61-69.</citation>
+                <citation identifier="https://books.google.com/books?id=6g1DAAAAYAAJ&amp;printsec=frontcover&amp;#v=onepage&amp;q&amp;f=false">Van den Branden C. (1885). Catalogue des coléoptères carnassiers aquatiques (Haliplidae, Amphizoidae, Pelobiidae et Dytiscidae). Annales de la Société Entomologique de Belgique 29(1): 5-118.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8988084">Wehncke E. (1876). Neue Dytisciden. Stettiner Entomologische Zeitung 37: 356–360.</citation>
+                <citation identifier="https://www.jstor.org/stable/24314787">Young F.N. (1963). The Nearctic species of Copelatus Erichson (Coleoptera: Dytiscidae). Quarterly Journal of the Florida Academy of Sciences 26: 56-77.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999236">Young F.N. (1967). A Key to the Genera of American Bidessine Water Beetles, with Descriptions of Three New Genera (Coleoptera: Dytiscidae, Hydroporinae). Coleopterists Bulletin, 21:75-84.</citation>
+                <citation identifier="https://doi.org/10.5479/si.00810282.33">Young F.N. (1969). A checklist of the American Bidessini (Coleoptera: Dytiscidae - Hydroporinae). Smithsonian Contributions to Zoology 33: 1-5.</citation>
+                <citation identifier="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/57106/OP670.pdf">Young F.N. (1974). Review of the predaceous water beetles of genus Anodocheilus (Coleoptera: Dytiscidae: Hydroporinae). Occasional papers of the museum of zoology University of Michigan Número 670: 1-28.</citation>
+                <citation identifier="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/57117/OP681.pdf">Young F.N. (1977). Predaceous water beetles of the genus Neobidessus Young in the Americas North of Colombia (Coleoptera: Dytiscidae, Hydropodrinae).  Occasional papers of the Museum of Zoology University of Michigan, N° 681: 1-24.</citation>
+                <citation identifier="https://revistas.ucr.ac.cr/index.php/rbt/article/view/25549">Young F.N. (1980). Predaceous water beetles of the genus Desmopachria Babington: the subgenera wih descriptions of new taxa (Coleoptera: Dytiscidae). Revista de Biología Tropical 28(2): 305-321</citation>
+                <citation identifier="https://www.jstor.org/stable/4007905">Young F.N. (1981). Predaceous water beetles of the genus Neobidessus Young from South America (Coleoptera: Dytiscidae). Coleopts Bull., 35(3): 317-340.</citation>
+                <citation identifier="https://www.google.com/books/edition/Entomologica_Basiliensia/4AdNAAAAYAAJ?hl=en">Young F.N. (1986). Review of the predaceous water beetles of the genus Bidessodes Régimbart (Coleoptera, Dytiscidae). Entomologica Basiliensia 11: 203-220.</citation>
+                <citation identifier="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiunsjG5qv6AhUIg_0HHciJD9MQFnoECA8QAQ&amp;url=https%3A%2F%2Fdownloads.hindawi.com%2Fjournals%2Fpsyche%2F1989%2F017185.pdf&amp;usg=AOvVaw08Kb30n6XF2dz8fm4WvdW5">Young F.N. (1989). A new species of Desmopachria (s. str.) from the Antillean-Caribbean region (Coleoptera: Dytiscidae). Psyche, 96(3-4), 307-309.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52013571">Young F.N. (1990). A review of classification of the water beetles of the New World genus Bidessonotus Régimbart (Coleoptera: Dytiscidae: Hydroporinae: Bidessini). Quaestiones Entomologicae, 26(3), 355-381.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/403">Young F.N. (1990). New Neotropical Species of Desmopachria (Desmopachria s. str.) Babington (Coleoptera: Dytiscidae). Insecta Mundi. 403.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Archiv-Naturgeschichte_83A_12_0068-0249.pdf">Zimmermann A. (1919). Die Schwimmkäfer des Deutschen Entomologischen Museums in Berlin-Dahlem. Archiv für Naturgeschichte, Abteilung A 83(12) (1917): 68-249.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Archiv-Naturgeschichte_87A_3_0181-0206.pdf">Zimmermann A. (1921). Beitrage zur Kenntnis 41 Neubeschreibungen. Archiv. fur Nature-I IU. gesch. 87, Abt. A, 3 Heft, pp. 181-206</citation>
+                <citation identifier="https://www.zobodat.at/pdf/WEZ_44_0165-0187.pdf">Zimmermann A. (1928). Neuer Beitrag zur Kenntnis der Schwimmkafer. Weiner Ent. Zeit. 44(3&amp;4) : 165-187.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>CASENT</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/66c45745-a918-40b2-9320-91f3a6266f8d</collectionIdentifier>
+                <collectionName>California Academy of Sciences</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>CNC</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/3154a9c4-a36f-4458-8218-5e3026547b23</collectionIdentifier>
+                <collectionName>Canadian National Collection of Insects, Arachnids, and Nematodes</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>CIUQ</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/39b171c0-4b52-4d45-8e00-1dab90ae9cbe</collectionIdentifier>
+                <collectionName>Colección de Insectos de la Universidad del Quindío</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>ICN-MNH</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/32b51f25-9fb2-4086-8631-0b60a0adca1c</collectionIdentifier>
+                <collectionName>Colección de Zoología del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/f707aa14-d87b-4fec-a081-28f3e4ec6a6f</collectionIdentifier>
+                <collectionName>Colecciones Biológicas del Instituto Alexander von Humboldt</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>USNM</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4</collectionIdentifier>
+                <collectionName>Entomology</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>FSCA</parentCollectionIdentifier>
+                  <collectionIdentifier>https://thefsca.org/</collectionIdentifier>
+                <collectionName>Florida State Collection of Artropods</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MCZ</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/1cfca87c-083e-4d67-8e60-cb7d311f6058</collectionIdentifier>
+                <collectionName>Harvard University, Museum of Comparative Zoology</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>LIAUN</parentCollectionIdentifier>
+                <collectionName>Laboratorio de Invertebrados Acuáticos de la Universidad Nacional de Colombia</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>LHIC</parentCollectionIdentifier>
+                <collectionName>Lars Hendrich Collection</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MCMC</parentCollectionIdentifier>
+                <collectionName>Mariano C. Michat Collection</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MTP</parentCollectionIdentifier>
+                <collectionName>Mario Toledo Collection</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MEM</parentCollectionIdentifier>
+                  <collectionIdentifier>https://mississippientomologicalmuseum.org.msstate.edu/</collectionIdentifier>
+                <collectionName>Mississippi Entomological Museum</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MIZA</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.miza-ucv.org.ve/</collectionIdentifier>
+                <collectionName>Museo del Instituto de Zoología Agrícola</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MNHU</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.museumfuernaturkunde.berlin/de/wissenschaft/kaefer-und-faecherfluegler</collectionIdentifier>
+                <collectionName>Museum für Naturkunde Berlin</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MTD</parentCollectionIdentifier>
+                  <collectionIdentifier>https://museumdresden.senckenberg.de/de/</collectionIdentifier>
+                <collectionName>Museum für Tierkunde</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MNHN</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/6a6ac6c5-1b8a-48db-91a2-f8661274ff80</collectionIdentifier>
+                <collectionName>Muséum national d’Histoire naturelle</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>NMW</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.nhm-wien.ac.at/forschung/2_zoologie_insekten</collectionIdentifier>
+                <collectionName>Naturhistorisches Museum Wien</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>SEMC</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/992b8c97-c6ae-4bda-b58b-1762cd1105d5</collectionIdentifier>
+                <collectionName>Snow Entomological Museum Collection</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>NHMUK</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                <collectionName>The Natural History Museum</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>ZMUK</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.zoologisches-museum.uni-kiel.de/de/sammlungen</collectionIdentifier>
+                <collectionName>Zoological Museum der Universität Kiel</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>SNSB-ZSM</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/774f65a5-ed87-4356-9515-ea9fd8d68650</collectionIdentifier>
+                <collectionName>Zoologische Staatssammlung München</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

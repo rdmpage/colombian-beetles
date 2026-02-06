@@ -1,0 +1,186 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/7836		CO	
+organismnames.com/details.htm?lsid=5483725		CO	
+organismnames.com/details.htm?lsid=4346918		CO	
+gbif.org/species/4762244		CO	
+organismnames.com/details.htm?lsid=4249307	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4121411		CO	
+organismnames.com/details.htm?lsid=3439449		CO	Endémica
+organismnames.com/details.htm?lsid=4249308	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4939571	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4938490		CO	Endémica
+organismnames.com/details.htm?lsid=4249309	Bogotá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=4249310	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/es/species/8446927	Fusagasugá (Cundinamarca), Muzo (Boyacá), San Antonio (Tolima)	CO	
+organismnames.com/details.htm?lsid=4947796	Bogotá (Cundinamarca), La Luzéra (Localidad desconocida)	CO	Endémica
+organismnames.com/details.htm?lsid=4093470	La Luzéra (Localidad desconocida)	CO	Endémica
+ubio.org/browser/details.php?namebankID=5506426		CO	
+organismnames.com/details.htm?lsid=1763681		CO	
+gbif.org/species/4762542		CO	
+organismnames.com/details.htm?lsid=4249198	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/10772898	Muzo (Boyacá)	CO	
+organismnames.com/details.htm?lsid=4249224	"Bogotá (Cundinamarca), ""entre Naré y Honda"", ""entre El Regidor y Chucurri"	CO	Endémica
+organismnames.com/details.htm?lsid=4015494	"Bogotá (""Frailijon"", 2800m) (Cundinamarca)"	CO	Endémica
+gbif.org/species/4718358		CO	
+gbif.org/species/8523128	San Antonio (Tolima)	CO	Endémica
+gbif.org/species/8571399	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4572732		CO	
+gbif.org/species/8633767	San Antonio (Tolima), Aguatal (Localidad desconocida)	CO	Endémica
+gbif.org/species/8646258		CO	Endémica
+gbif.org/species/8698980	San Antonio (Tolima), Carmen (Localidad especifica desconocida)	CO	Endémica
+gbif.org/species/4762511		CO	
+gbif.org/species/4762511-00	Bogotá , Fusagasugá , La Vega (Cundinamarca)	CO	
+gbif.org/species/4762511-01		CO	Endémica
+organismnames.com/details.htm?lsid=3313472		CO	Endémica
+organismnames.com/details.htm?lsid=3313473		CO	Endémica
+organismnames.com/details.htm?lsid=4249200	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3267592	San Antonio (Tolima)	CO	Endémica
+organismnames.com/details.htm?lsid=4249204	Bogotá, Fusagasugá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4015486	Silvia (2530m) (Cauca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249212	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3267594	San Antonio (Tolima)	CO	Endémica
+gbif.org/species/4762511-02	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3313477		CO	Endémica
+organismnames.com/details.htm?lsid=3313478	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3313478-00		CO	Endémica
+organismnames.com/details.htm?lsid=4249219	Bogotá, Fusagasugá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3267598	Villa Elvira (Localidad desconocida)	CO	Endémica
+organismnames.com/details.htm?lsid=4249220	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249226	Bogotá, Fusagasugá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249233	Bogotá, La Vega, Fusagasugá, Paime (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3313480		CO	Endémica
+ubio.org/browser/details.php?namebankID=5440352		CO	
+gbif.org/species/1162452		CO	
+organismnames.com/details.htm?lsid=4249209	Bogotá (Cundinamarca)	CO	Endémica
+ubio.org/browser/details.php?namebankID=1021976	Entre Santa Rosa y Manizales	CO	Endémica
+ubio.org/browser/details.php?namebankID=5506421	Bogotá, Fusagasugá, La Vega (Cundinamarca)	CO	Endémica
+ubio.org/browser/details.php?namebankID=1043995	Bogotá (Cundinamarca)	CO	
+gbif.org/species/1162378		CO	
+organismnames.com/details.htm?lsid=4096148	Ocaña (Norte de Santander), Ubáque (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4096429	"Muzo (Boyacá), San Esteban (Antioquia), ""entre Naré y Honda"	CO	
+organismnames.com/details.htm?lsid=3129965		CO	Endémica
+ubio.org/browser/details.php?namebankID=994261	Bogotá, Fusagasugá (Cundinamarca), Muzo (Boyacá), La Luzéra (Localidad desconocida)	CO	
+organismnames.com/details.htm?lsid=4096433	Medellín (Antioquia)	CO	Endémica
+organismnames.com/details.htm?lsid=3223041		CO	Endémica
+organismnames.com/details.htm?lsid=4306187		CO	Endémica
+ubio.org/browser/details.php?namebankID=2894817	Bogotá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=4093433	Bogotá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=4249205	Bogotá, La Vega, Fusagasugá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=4121408	Bogotá, La Vega (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4096150	La Vega (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4096152	"entre Las Tápias y Maquanál"" (Boyacá)"	CO	Endémica
+organismnames.com/details.htm?lsid=4093435	Bogotá, La Vega, Fusagasugá (Cundinamarca), Muzo (Boyacá), La Luzéra (Localidad desconocida)	CO	Endémica
+organismnames.com/details.htm?lsid=4096434	entre Naré y Honda	CO	Endémica
+organismnames.com/details.htm?lsid=4093436	Bogotá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=4096154	Manizáles (Caldas)	CO	Endémica
+organismnames.com/details.htm?lsid=5100000		CO	Endémica
+organismnames.com/details.htm?lsid=4249211	Bogotá, La Vega (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3965905	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4043845		CO	Endémica
+organismnames.com/details.htm?lsid=4096436	La Vega (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4096156	Naré (Puerto Naré, Antioquia)	CO	
+organismnames.com/details.htm?lsid=4096439	Medellín (Antioquia)	CO	Endémica
+biolib.cz/en/taxon/id1375021/	"Bogotá, Viani (Cundinamarca), Muzo (Boyacá), Cartago (Valle del Cauca), ""entre Las Pavas y Piedra de Molér"	CO	
+organismnames.com/details.htm?lsid=4093437	Bogotá, Fusagasugá (Cundinamarca), Medellin (Antioquia), Muzo (Boyacá)	CO	Endémica
+ubio.org/browser/details.php?namebankID=1031862	"Bogotá, Fusagasugá (Cundinamarca), Manizáles (Caldas), Santa Marta (Magdalena) ""entre Peñol y San Cárlos"	CO	
+organismnames.com/details.htm?lsid=4249223	Bogotá, Fusagasugá (Cundinamarca)	CO	Endémica
+ubio.org/browser/details.php?namebankID=1034988	Bogotá, Fusagasugá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=4096158	Santa Rosa (Localidad especifica no conocida)	CO	Endémica
+organismnames.com/details.htm?lsid=4017968		CO	Endémica
+organismnames.com/details.htm?lsid=4096445	La Luzéra (Localidad desconocida)	CO	Endémica
+organismnames.com/details.htm?lsid=5095079	Medellin (Antioquia)	CO	
+organismnames.com/details.htm?lsid=4096160	Guayabál (Localidad especifica no conocida)	CO	Endémica
+organismnames.com/details.htm?lsid=3222562	Calarca (Quindío)	CO	Endémica
+organismnames.com/details.htm?lsid=4096446	Rio Negro (Antioquia)	CO	Endémica
+organismnames.com/details.htm?lsid=4096162	entre Las Tápias y Las Cruces	CO	Endémica
+organismnames.com/details.htm?lsid=5094652	Fusagasugá (Cundinamarca)	CO	
+gbif.org/species/9358391	Bonda, Santa Marta (Magdalena), Darien (Valle del Cauca)	CO	
+gbif.org/species/9358391-00		CO	
+organismnames.com/details.htm?lsid=4096448	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4096449	Ubaque (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3991110	Bogotá, Paime (Cundinamarca), Barranquilla (Atlántico), Muzo (Boyacá), Naré (Puerto Naré, Antioquia)	CO	
+gbif.org/species/4760171		CO	
+organismnames.com/details.htm?lsid=4425346	Cartago (Valle del Cauca)	CO	Endémica
+gbif.org/species/1162376		CO	
+organismnames.com/details.htm?lsid=4249194	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/1162376-00		CO	Endémica
+organismnames.com/details.htm?lsid=4310348	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=1711455	Pasto (cerca Cocha) 2800m	CO	
+organismnames.com/details.htm?lsid=4015483	Tolima (4000m)	CO	Endémica
+organismnames.com/details.htm?lsid=4249206	Bogotá, La Vega (Cundinamarca), La Luzéra (Localidad desconocida)	CO	Endémica
+organismnames.com/details.htm?lsid=1711438	Fusagasugá (Cundinamarca), Ubáque (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4015487	Pasto (2500m) (Nariño)	CO	Endémica
+organismnames.com/details.htm?lsid=3441936	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/1162376-01		CO	Endémica
+organismnames.com/details.htm?lsid=4015491	"Cocha ""cerca de Pasto"" (2800m) (Nariño), Toribio (Cauca), ""Páramo de Bardancillo (3400m)"" (Localidad desconocida)"	CO	Endémica
+organismnames.com/details.htm?lsid=4015492	Toribio (1600m) (Cauca)	CO	Endémica
+organismnames.com/details.htm?lsid=5093826	Bogotá, Ubáque (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3398594		CO	Endémica
+organismnames.com/details.htm?lsid=4249238	Bogotá, Fusagasugá (Cundinamarca)	CO	Endémica
+gbif.org/species/1162455		CO	
+organismnames.com/details.htm?lsid=1711456	Fusagasugá (Cundinamarca)	CO	
+gbif.org/species/4762576		CO	
+organismnames.com/details.htm?lsid=3441991	Bogotá (Cundinamarca)	CO	Endémica
+ubio.org/browser/details.php?namebankID=1024951	"Bogotá (Cundinamarca), Muzo (Boyacá), ""entre Cañoas y Naré"", ""entre Naré y Honda"	CO	
+organismnames.com/details.htm?lsid=4186467	Bogotá (Cundinamarca)	CO	Endémica
+ubio.org/browser/details.php?namebankID=1044294	Bogotá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=839240		CO	
+gbif.org/species/1162360		CO	
+organismnames.com/details.htm?lsid=4186471	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4346925		CO	
+gbif.org/species/4574455		CO	
+organismnames.com/details.htm?lsid=3311760	Calarca (Quindío)	CO	Endémica
+organismnames.com/details.htm?lsid=4043869	La Vega (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4043872	Fusagasugá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249213	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249214	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249218	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3354260		CO	Endémica
+organismnames.com/details.htm?lsid=4015499	Cocha (2800m) (Nariño)	CO	Endémica
+organismnames.com/details.htm?lsid=4249239	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4716738		CO	
+organismnames.com/details.htm?lsid=3354330		CO	Endémica
+organismnames.com/details.htm?lsid=4346927		CO	
+gbif.org/species/4755952		CO	
+organismnames.com/details.htm?lsid=3684177		CO	Endémica
+organismnames.com/details.htm?lsid=4065946		CO	
+organismnames.com/details.htm?lsid=4121413	Ubáque (Cundinamarca), Ocaña (Norte de Santander), Muzo (Boyacá)	CO	Endémica
+organismnames.com/details.htm?lsid=4018004	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4017998		CO	Endémica
+organismnames.com/details.htm?lsid=1488794		CO	
+gbif.org/species/4735724		CO	
+organismnames.com/details.htm?lsid=3402462		CO	Endémica
+gbif.org/species/3263508		CO	
+organismnames.com/details.htm?lsid=3788076	(Cauca), Manizales (Caldas)	CO	Endémica
+organismnames.com/details.htm?lsid=3306750		CO	Endémica
+gbif.org/species/5737639	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3965672		CO	
+gbif.org/species/8448510	Bogotá (Cundinamarca)	CO	
+gbif.org/species/3263508-00	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/3263508-01	Bogotá (Cundinamarca)	CO	
+gbif.org/species/3263508-02		CO	Endémica
+organismnames.com/details.htm?lsid=4043874		CO	Endémica
+organismnames.com/details.htm?lsid=4043876		CO	Endémica
+gbif.org/species/3263508-03		CO	Endémica
+gbif.org/species/3263508-04		CO	Endémica
+organismnames.com/details.htm?lsid=3730401		CO	Endémica
+organismnames.com/details.htm?lsid=4535678		CO	Endémica
+organismnames.com/details.htm?lsid=4535681	Bogotá (Cundinamarca)	CO	
+gbif.org/species/3263508-05		CO	Endémica
+gbif.org/species/3263508-06		CO	Endémica
+organismnames.com/details.htm?lsid=3008917	Sierra San Lorenzo (magdalena), (Tolima)	CO	Endémica
+gbif.org/species/3263508-07		CO	Endémica
+organismnames.com/details.htm?lsid=4535709		CO	Endémica
+organismnames.com/details.htm?lsid=4535741		CO	Endémica
+gbif.org/species/3263508-08		CO	Endémica
+organismnames.com/details.htm?lsid=4096466	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/3263508-09		CO	Endémica
+organismnames.com/details.htm?lsid=3173685	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/3263508-10		CO	Endémica
+gbif.org/species/3263508-11		CO	
+gbif.org/species/3263508-12		CO	Endémica
+organismnames.com/details.htm?lsid=3008919		CO	Endémica
+organismnames.com/details.htm?lsid=4070202		CO	
+organismnames.com/details.htm?lsid=4015503	Cocha (2800m) (Nariño)	CO	Endémica
+gbif.org/species/4765973		CO	
+organismnames.com/details.htm?lsid=3402468	Alto de Las Cruces (Localidad especifica no conocida)	CO	Endémica

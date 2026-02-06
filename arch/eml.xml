@@ -1,0 +1,237 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=arch/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/vfcq3h</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=arch</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Archeocrypticidae (Coleoptera: Tenebrionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2021-08-27
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Archeocrypticidae (Coleoptera: Tenebrionoidea) con ocurrencia conocida para el territorio colombiano. Se lista un género y una especie. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Género</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Coleópteros</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reporta una especie de la familia Archeocrypticidae (Coleoptera: Tenebrionoidea) para el departamento de Cundinamarca.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1878</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se lista un género y una especie de la familia Archeocrypticidae (Coleoptera: Tenebrionoidea) para Colombia. Históricamente los miembros de Archeocrypticidae hacían parte de la familia Tenebrionidae dentro de la tribu Archeocrypticini Kaszab (1964). Posteriormente Watt (1974) reconoció por primera vez a Archeocrypticidae como una familia. Este grupo de escarabajos cuenta con tan solo 53 especies descritas a nivel mundial (Gimmel et al. 2018) siendo un grupo pequeño y poco estudiado. La especie listada fue descrita con especímenes de Colombia.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Archeocrypticidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Enneboeus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Gimmel et al. (2018). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogo anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Archeocrypticidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Archeocrypticidae (Coleoptera: Tenebrionoidea) registradas para Colombia en la literatura. El listado se obtuvo a partir de Gimmel et al. (2018).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos disponibles para el grupo, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Yudy Paulina</givenName>
+          <surName>Sissa-Dueñas</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-08-01T22:23:00.662+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/vfcq3h">Sissa-Dueñas Y P (2021): Listado de las especies de Archeocrypticidae (Coleoptera: Tenebrionoidea) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/vfcq3h</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1-972.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/14606">Champion, G. C. (1893) Supplement. 477–572 pp. In: Biologia Centrali-Americana. Insecta. Coleoptera. Volume 4. Part 1. Heteromera (F. D. Godman and O. Salvin, editors). Taylor and Francis, London, UK, 572 p.</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-72.2.269">Gimmel, M. L., Johnston, M. A., Merkl, O. (2018) Enneboeus marmoratus Champion new to the USA, with a World Catalog of the Family Archeocrypticidae (Coleoptera: Tenebrionoidea). The Coleopterists Bulletin 72(2): 269-278.</citation>
+                <citation identifier="http://publication.nhmus.hu/annales/cikkreszletes.php?idhoz=941">Kaszab, Z. (1964) The zoological results of Gy. Topál’s collectings in South Argentina. 13. Coleoptera - Tenebrionidae. Annales Historico-Naturales Musei Nationalis Hungarici Pars Zoologica, Tomo 56, 353–387.</citation>
+                <citation identifier="http://publication.nhmus.hu/pdf/folentom/FoliaEntHung_1981_Vol_34_1_95.pdf">Kaszab, Z. (1981) Die Gattungen und Arten der Tribus Archeocrypticini (Coleoptera: Tenebrionidae). Folia Entomologica Hungarica 42/34(1): 95–115.</citation>
+                <citation identifier="https://www.jstor.org/stable/4000029">Triplehorn, C. A. &amp; Wheeler, Q. D. (1979) Systematic placement and distribution of Uloporus ovalis Casey (Coleoptera: Heteromera: Archeocrypticidae). The Coleopterists Bulletin 33(2): 245–250.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/45285">Waterhouse, C. O. (1878) New Coleoptera from Australia and Tasmania, in the collection of the British Museum. Transactions of the Entomological Society of London, London, 225–237.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>BMNH</parentCollectionIdentifier>
+                <collectionName>British Museum of Natural History</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

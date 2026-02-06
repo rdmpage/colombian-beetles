@@ -1,0 +1,425 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="4bd8e7b0-0537-4e86-8cf9-fe7bb7bffa78/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/p9fc2m</alternateIdentifier>
+  <alternateIdentifier>4bd8e7b0-0537-4e86-8cf9-fe7bb7bffa78</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lucanidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Lucanidae (Coleoptera: Scarabaeoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Juan Sebastián</givenName>
+      <surName>Dueñas Cáceres</surName>
+    </individualName>
+    <organizationName>Universidade Federal Rural de Pernambuco</organizationName>
+    <positionName>Candidato Doctoral</positionName>
+    <address>
+        <city>Recife</city>
+        <administrativeArea>Pernambuco</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>juansebastianduenascaceres@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3067-5976</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Indiana Cristóbal</givenName>
+      <surName>Ríos Málaver</surName>
+    </individualName>
+    <organizationName>Instituto Alexander von Humboldt</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <city>Villa de Leyva</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>cristomelidae@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5779-0483</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Juan Sebastián</givenName>
+      <surName>Dueñas Cáceres</surName>
+    </individualName>
+    <organizationName>Universidade Federal Rural de Pernambuco</organizationName>
+    <positionName>Candidato Doctoral</positionName>
+    <address>
+        <city>Recife</city>
+        <administrativeArea>Pernambuco</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>juansebastianduenascaceres@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3067-5976</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-30
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Lucanidae (Coleoptera: Scarabaeoidea) con ocurrencia conocida para el territorio colombiano. Se listan dos subfamilias, tres tribus, cinco géneros, 19 especies y tres subespecies. Ocho especies son consideradas endémicas. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Lucánidos</keyword>
+            <keyword>Ciervos Volantes</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Lucanidae (Coleoptera: Scarabaeoidea) de los siguientes departamentos de Colombia: Antioquia, Boyacá, Caldas, Caquetá, Cauca, Cesar, Chocó, Cundinamarca, Huila, Magdalena, Meta, Putumayo, Quindío, Risaralda, Norte de Santander, Santander, Tolima y Valle del Cauca. El departamento con el mayor número de especies registradas es Tolima (siete especies), seguido por Boyacá y Valle del Cauca, cada uno con cinco especies. Ocho especies se consideran endémicas. Se desconocen registros específicos de localidad para una de las especies.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1804-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2019-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan dos subfamilias, tres tribus, cinco géneros, 19 especies y dos subespecies de la familia Lucanidae (Coleoptera: Scarabaeoidea) para Colombia. El género con mayor número de especies es Sphaenognathus, representado por 12 especies. Los demás géneros están representados por una o dos especies. Ocho de las especies se consideran endémicas de Colombia.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lucanidae</taxonRankValue>
+                  <commonName>Ciervo volante</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Lucaninae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Chiasognathini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sphaenognathus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Lucanini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Aegognathus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cantharolethrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Onorelucanus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Syndesinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Syndesini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Psilodon</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Juan Sebastián</givenName>
+      <surName>Dueñas Cáceres</surName>
+    </individualName>
+    <organizationName>Universidade Federal Rural de Pernambuco</organizationName>
+    <positionName>Candidato Doctoral</positionName>
+    <address>
+        <city>Recife</city>
+        <administrativeArea>Pernambuco</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>juansebastianduenascaceres@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3067-5976</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Indiana Cristóbal</givenName>
+      <surName>Ríos Málaver</surName>
+    </individualName>
+    <organizationName>Instituto Alexander von Humboldt</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <city>Villa de Leyva</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>cristomelidae@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5779-0483</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Paulsen (2019). Adicionalmente, se consultaron las descripciones originales y trabajos taxonómicos y faunísticos para extraer loaclidades dentro del país.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, catálogos, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Lucanidae (Coleoptera: Scarabaeoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Lucanidae (Coleoptera: Scarabaeoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado inicial se obtuvo a partir de Paulsen (2019).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Juan Sebastián</givenName>
+          <surName>Dueñas Cáceres</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-3067-5976</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Julián</givenName>
+          <surName>Clavijo Bustos</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Indiana Cristóbal</givenName>
+          <surName>Ríos Málaver</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-5779-0483</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-11-05T20:45:31.887+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/p9fc2m">Dueñas Cáceres J S, Clavijo Bustos J, Ríos Málaver I C (2024): Listado de las especies de Lucanidae (Coleoptera: Scarabaeoidea) de Colombia. v1.1. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/p9fc2m</citation>
+          <bibliography>
+                <citation>Bartolozzi, L. &amp; Bomans, H. (1989). Onorelucanus aequatorianus n. gen., n. sp. di Lucanidae dell’Ecuador (Coleoptera). Bollettino della Società Entomologica Italiana, Genova, 121: 53-58.</citation>
+                <citation>Bartolozzi, L., Bomans, H.E. &amp; Onore, G. (1991). Contributo  alla conoscenza dei Lucanidae dell´Ecuador (Insecta: Coleoptera). Frustula entomologica n.s. XIV (XXVII): 143-246</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2403265">Benesh, B. (1955). Some notes on Neotropical stagbeetles (Coleoptera: Lucanidae). Entomological news, 66: 97-104.</citation>
+                <citation>Benesh, B. (1960). Coleopterorum Catalogus Supplementa, pars 8: Lucanidae (sic.). W. Junk, Gravenhage, Netherlands. 178 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R.E. (1944). Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8260719">Boileau, H. (1899). Note sur quelques Lucanides nouveaux ou peu connus de l&apos;Amérique du Sud. Bulletinde la Société entomologique de France, 1899(1): 296-300.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/44538408">Boileau, H. (1904). Description de Coléoptères nouveaux. Le Naturaliste, 26: 284-285.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14765450">Boileau, H. (1911). Description de quelques espèces nouvelles de Lucanides appartenant aux collections du British Museum.  Transactions of the Entomological Society of London, 59(2): 426-451.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011). Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="http://www.bio-nica.info/biblioteca/Brochier2000LucanidaeSphaenognathus.pdf">Brochier, B. &amp; Chalumeau, F. (2000). Une Nouvelle espece de Chiasognathinae des Andes: Sphaenognathus bordoni (Coleoptera: Lucanidae). La Nouvelle Revue dÉntomologique (NS) 17 (3): 253-255.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2328183">Buquet, L. (1838). Genre Sphenognathe, Sphoenognathus Buquet. Revue Zoologique, p. 104.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14220284">Buquet, M.L. (1840). D´une nouvelle espèce de Lucanidae. Annales de la société entomologique. 375-377.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8258647">Buquet, M.L. (1843). Communication. Annales de la Sociéte Entomologique de France. 1843: LI-LII.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9195052">Burmeister, H.C.C. (1847). Besondere Entomologie. Fortsetzung. Coleoptera Lamellicornia Xylophila et Pectinicornia. Handbuch der Entomologie. Fünfter Band. T.C.F. Enslin, Berlin, viii + 584 pp.</citation>
+                <citation identifier="https://doi.org/10.1080/00222933.2019.1692089">Cáceres, J.S.D., Ríos-Málaver, C. &amp; Grossi, P. C. (2019). Taxonomic contribution on the Andean species of Aegognathus (Coleoptera: Lucanidae) with two new species from Colombian and Peru. Journal of Natural History, 53(35-36): 2145-2164.</citation>
+                <citation identifier="ISBN: 9788090273474">Chalumeau, F. &amp; Brochier, B. (2007) Les Chiasognathinae des Andes. Taita publishers. Hradec Králové, Czech Republic. 324 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40827734">DeLisle, M.O. (1967). Note sur quelques Coleoptera Lucanidae nouveaux ou peu connus. Revue Suisse Zoolgie, 74(10): 521- 544.</citation>
+                <citation identifier="https://www.google.com/books/edition/Catalogue_illustr%C3%A9_des_Lucanides_du_glo/O04gAQAAMAAJ?hl=en">Didier, R. &amp; Séguy, E. (1953). Catalogue illustré des Lucanides du Globe Part I. Paul Lechevalier, Paris, Francia. 223 pp.</citation>
+                <citation identifier="https://www.google.com/books/edition/Catalogue_illustr%C3%A9_des_lucanides_du_glo/mAAIzgEACAAJ?hl=en">Didier, R. &amp; Séguy, E. (1953). Catalogue illustré des Lucanides du Globe Part II. Paul Lechevalier, Paris, Francia. 112 Plates.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.2139.1.2">Grossi, P.C. &amp; Paulsen, M.J. (2009). Generic limits in South American stag beetles: taxa currently misplaced in Sclerostomus Burmeister (Coleoptera: Lucanidae: Lucaninae: Sclerostomini). Zootaxa, 2139: 23-42.</citation>
+                <citation identifier="https://www.jstor.org/stable/24773290">Grossi, P.C. &amp; Aguiar, N.O. (2014). Discovery of a third Stag Beetle in the Amazonian region, with description of a new species of Psilodon Perty (Coleoptera: Lucanidae: Syndesinae: Syndesini). The Coleopterists Bulletin 68(1): 83-90.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2328468">Guérin-Méneville., F.E. (1838). Sur un insecte coléoptère nouveau du genre Chyasognathus de Stephens. Revue Zoologique: 287-288.</citation>
+                <citation>Krajcik, M. (2001). Lucanidae of the World - Catalogue - Part I. Checklist of the Stag Beetles of the World (Coleoptera: Lucanidae). Milan Krajcik, Most, Czech Republic. 108 pp.</citation>
+                <citation>Krajcik, M. (2003). Lucanidae of the World Catalogue - Part II, Encyclopedia of the Lucanidae (Coleoptera: Lucanidae). Milan krajcik, Plzen, Czech Republic. 197pp.</citation>
+                <citation>Lacroix, J.P. (1987). Description de Sphaenognathus (Col: Lucanidae) nouveaux de la faune Sud-américaine. Bulletin de la Société Sciences Nat. Compiègne, 56: 11-13.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/15587272">Latreille, P.A. (1804) Histoire naturelle, générale et particulière des crustacés et des insectes. Tome Dixième. L’Imprimerie de F. Dufart, Paris, 445 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16326563">Leuthner, F. (1883). Aegognathus waterhousei, a new genus and species of Dorcidae from Peru. Transactions of the Royal Entomological Society of London, 31(4): 445-446.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33071033">MacLeay, W.S. (1819). Appendix. Genera entomologica ad animadversiones praecedentes illustrandas, necnon queadam nova ad natralem Petalocerorm ordinem detegendum nune primum constructa. Horae entomologicae, or, Essays on the annulose animals. (1): 95-160.</citation>
+                <citation identifier="https://www.researchgate.net/publication/311800922_Lista_de_los_Lucanidae_Coleoptera_del_Mundo">Maes, J.M. (1992). Lista de los Lucanidae (Coleoptera) del Mundo. Revista Nicaraguense de Entomologia 22, 1–121.</citation>
+                <citation identifier="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0123-30682011000100020&amp;lng=en&amp;nrm=iso">Pardo-Locarno, L.C. &amp; Ríos-Málaver, C. (2012). Psilodon paschoali n. sp. y descripción de la hembra de Psilodon aequinoctiale Buquet (Coleoptera: Lucanidae) en la región Norandina de Colombia. Boletín científico del Museo de Historia Natural de la Universidad de Caldas, 15(1): 246-250.</citation>
+                <citation identifier="http://frankfiedler.com/wp-content/uploads/Beetles_World_16_fpa3ho26faad02dhe.pdf">Pardo-Lorcano, L.C. (2017). Adiciones a la distribución de Cantharolethrus luxerii inflexus Boileau y de Cantharolethrus steinheili Parry (Coleoptera-Lucanidae) en Colombia. Beetles World, 16: 19-23.</citation>
+                <citation identifier="http://vip.ucaldas.edu.co/boletincientifico/downloads/Boletin_Cientifico_20(2)_Completo.pdf">Pardo-Lorcano, L.C. &amp; Villalobos-Moreno, A. (2016). Chiasognathini colombianos: redescripción y adiciones a la distribución de Sphaenognathus rotundatus LaCroix, y Sphaenognathus prionoides Buquet, (Coleoptera: Lucanidae). Boletín Científico Centro de Museos Museo de Historia Natural. 20(2): 235-249.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14778313">Parry, F.J.S. (1872). Descriptions of new species of Lucanoid Coleoptera; with remarks on the genus Cantharolethrus, and supplementary list. Transactions of the entomological society of London, 20(1): 73-84.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14921679">Parry, F.J.S. (1874). Further descriptions of Lucanoid Coleoptera. Transactions of the Entomological Society of London, 22(3): 365-372.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10890677">Parry, F.J.S. (1875). Description of a new species of the Lucanoid genus Cantharolethrus, Thomson. Cistula Entomologica, 2: 51-52 .</citation>
+                <citation identifier="https://unsm-ento.unl.edu/Guide/Scarabaeoidea/Lucanidae/Lucanidae-Catalog/LucanidaeC.htm">Paulsen, M.J. (2019) Annotated Checklist of the New World Lucanidae. Online.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.9366">Perty, J.A.M. (1830). De Insectorum in America Meridionali habitantium vitae genere, moribus ac distributione geographica, observationes nonnulae. En: J. Spix &amp; C. Martius (Eds.), Delectus animalium articulatorum, quae in itinere per Brasiliam annis MDCCCXVII—MDCCCXX jussu et auspiciis Maximiliani Josephi I. Bavariae regis augustissimi peracto collegerunt Dr. J. B. de Spix, et Dr. C. F. Ph. de Martius. Digessit, descripsit, pingenda curavit Dr. Maximilianus Perty, praefatus est edidit Carol. Frederic. Philip. de Martius, accedit dissertatio de insectorum in America Meridionali habitantum vitae genere, moribus et distributione geographica. (fasc. 1), Frid. Fleischer, Monachii, pp. 1–44.</citation>
+                <citation identifier="https://doi.org/10.1201/9781420041231">Ratcliffe, B.C. (2002). 23. Lucanidae Latreille 1804. En: Arnett, R.H., M.C. Thomas, P.E. Skelley y J.H. Frank. (Eds.). In: American Beetles; Polyphaga: Scarabaeoidea through Curculionoidea. CRC Press, Boca Raton, Florida, USA, pp. 6–9.</citation>
+                <citation identifier="https://revistasojs.ucaldas.edu.co/index.php/boletincientifico/article/view/5265">Salazar, J., Ríos-Málaver, C. &amp; Martínez-Agudelo, J.F. (2010). Noticias sobre los lucánidos colombianos Sphaenognathus pubescens (Waterhouse), S. bordoni (Brochier &amp; Chalumeau); S. bellicosus (Boileau) y S. nobilis colombiensis (Moxey) (Coleoptera: Lucanidae). Boletín Científico. Centro de Museos, 14(2), 141-154.</citation>
+                <citation identifier="http://frankfiedler.com/wp-content/uploads/Beetles_World_15_opasho28ssad04dxe.pdf">Schenk, K.D. (2017). Description of a new subspecies of Cantharolethrus steinheili (Coleoptera, Lucanidae). Beetles World, 15: 5-9.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8239331">Thomson, J. (1862). Catalogue des Lucanides. Annales de la Société entomologique de France, 4: 392-436.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10851883">Van De Poll, J.R.H. (1886). Description of a second species of the Lucanoid genus Aegognathus Leuthner 29: tijdschrift voor Entomologie. 29: 153–154.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/59168298">van Roon, G. (1910) Coleopterorum Catalogus, Pars. 8 Lucanidae. W. Junk, Berlin, 70 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9271436">Waterhouse, C.O. (1873). Description of a new species of Lucanidae. The Entomologist´s monthly magazine. X: 110-111.</citation>
+                <citation>Weinreich, E. (1963). Revision südamerikanischer Lucanidae (Ins. Col.), III. Die Gattungen Pholidotus, Aegognathus, Macrocrates, Auxicerus, und Ergänzungen zu Metadorcus, Scortizus, Beneshius, und Sclerostomus. Senckenbergiana Biologica 44: 183-212.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14674128">Westwood, J.O. (1875). Description of a new species of Lucanidae, with a note on Lissotes obtusatus. Transactions of the entomological society of London. 1875: 243-245.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>CERPE</parentCollectionIdentifier>
+                  <collectionIdentifier>https://collectory.sibbr.gov.br/collectory/public/show/co287?lang=en_GB</collectionIdentifier>
+                <collectionName>Coleção Entomológica da Universidade Federal Rural de Pernambuco</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>CFPL</parentCollectionIdentifier>
+                  <collectionIdentifier>Registro Único Nacional de Colecciones Biológicas:087</collectionIdentifier>
+                <collectionName>Colección Familia Pardo Locarno</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MIZA</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.museodata.com/museos/85-venezuela/558-miza-francisco-fernandez-yepes.html</collectionIdentifier>
+                <collectionName>Colección del Museo del Instituto de Zoología Agrícola</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MNHN</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/6a6ac6c5-1b8a-48db-91a2-f8661274ff80</collectionIdentifier>
+                <collectionName>Muséum national d’Histoire naturelle</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>NHMUK</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                <collectionName>The Natural History Museum</collectionName>
+              </collection>
+          <dc:replaces>4bd8e7b0-0537-4e86-8cf9-fe7bb7bffa78/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

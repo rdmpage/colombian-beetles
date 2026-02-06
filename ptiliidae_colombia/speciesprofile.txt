@@ -1,0 +1,9 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+catalogueoflife.org/data/taxon/64P43	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+catalogueoflife.org/data/taxon/4QMV5	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+catalogueoflife.org/data/taxon/72F34	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+catalogueoflife.org/data/taxon/4W54F	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+catalogueoflife.org/data/taxon/64P43	FALSO	VERDADERO	FALSO	Larva	Terrestre
+catalogueoflife.org/data/taxon/4QMV5	FALSO	VERDADERO	FALSO	Larva	Terrestre
+catalogueoflife.org/data/taxon/72F34	FALSO	VERDADERO	FALSO	Larva	Terrestre
+catalogueoflife.org/data/taxon/4W54F	FALSO	VERDADERO	FALSO	Larva	Terrestre

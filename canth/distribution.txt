@@ -1,0 +1,154 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/1162463-00		CO	Endémica
+gbif.org/species/1162463-01	(Tolima)	CO	Endémica
+gbif.org/species/1162463-02		CO	Endémica
+gbif.org/species/1162463-03		CO	Endémica
+gbif.org/species/1162463-04		CO	Endémica
+gbif.org/species/1162463-05	Medellin (Antioquia)	CO	
+gbif.org/species/1162463-06		CO	Endémica
+gbif.org/species/1162463-07		CO	Endémica
+gbif.org/species/1162463-08	Manizales (Caldas)	CO	Endémica
+gbif.org/species/1162463-09		CO	Endémica
+gbif.org/species/1162463-010	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/1162463-011	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4717084-00		CO	
+gbif.org/species/4717084-01		CO	Endémica
+gbif.org/species/4717084-02		CO	Endémica
+gbif.org/species/4717084-03	Sabanilla (Atlántico)	CO	Endémica
+gbif.org/species/4717084-04		CO	Endémica
+gbif.org/species/4717084-05		CO	Endémica
+gbif.org/species/4717084-06		CO	Endémica
+gbif.org/species/4717084-07		CO	Endémica
+gbif.org/species/4717084-08		CO	Endémica
+gbif.org/species/4717084-09		CO	Endémica
+organismnames.com/details.htm?lsid=2271116	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4717084-011	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4717084-012		CO	Endémica
+gbif.org/species/4717084-013		CO	Endémica
+gbif.org/species/4717084-014	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4717084-015		CO	Endémica
+gbif.org/species/4717084-016		CO	Endémica
+gbif.org/species/4717084-017		CO	Endémica
+gbif.org/species/4717084-018		CO	Endémica
+gbif.org/species/4717084-019	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4717084-020		CO	Endémica
+gbif.org/species/4717084-021		CO	Endémica
+gbif.org/species/4717084-022		CO	
+gbif.org/species/4717084-023		CO	Endémica
+gbif.org/species/7777		CO	
+organismnames.com/details.htm?lsid=4989029		CO	
+organismnames.com/details.htm?lsid=1472936		CO	
+gbif.org/species/3237452		CO	
+gbif.org/species/3237452-00	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=210546		CO	
+organismnames.com/details.htm?lsid=210547		CO	
+gbif.org/species/4717084		CO	
+organismnames.com/details.htm?lsid=3529953		CO	Endémica
+organismnames.com/details.htm?lsid=3529998	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4290686	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249248	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3353936		CO	Endémica
+organismnames.com/details.htm?lsid=2153720	Bogotá (Cundinamarca)	CO	
+organismnames.com/details.htm?lsid=2271105	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4018237	Santa Marta (Magdalena)	CO	
+organismnames.com/details.htm?lsid=4018167		CO	
+organismnames.com/details.htm?lsid=3353951		CO	Endémica
+organismnames.com/details.htm?lsid=3008918		CO	
+organismnames.com/details.htm?lsid=3353961		CO	Endémica
+organismnames.com/details.htm?lsid=3353962		CO	Endémica
+organismnames.com/details.htm?lsid=2183485	Monterredondo, Prov. Cundinamarca, 1420 m (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3793280	Ibagué (Tolima)	CO	Endémica
+organismnames.com/details.htm?lsid=3008330		CO	Endémica
+organismnames.com/details.htm?lsid=2599213		CO	Endémica
+gbif.org/species/9565961		CO	
+organismnames.com/details.htm?lsid=3353969		CO	Endémica
+gbif.org/species/4726059		CO	
+gbif.org/species/4726059-00		CO	
+organismnames.com/details.htm?lsid=3354116		CO	Endémica
+gbif.org/species/4726059-01		CO	Endémica
+gbif.org/species/4726059-02		CO	Endémica
+organismnames.com/details.htm?lsid=5553327	Bogotá (Cundinamarca)	CO	
+gbif.org/species/4726059-03		CO	
+gbif.org/species/9616082		CO	
+gbif.org/species/4763640		CO	
+organismnames.com/details.htm?lsid=5525732		CO	
+gbif.org/species/4763137		CO	
+organismnames.com/details.htm?lsid=4186517	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4763137-00		CO	Endémica
+gbif.org/species/4763137-01		CO	Endémica
+organismnames.com/details.htm?lsid=4186519	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249313	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249315		CO	Endémica
+organismnames.com/details.htm?lsid=4186520	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4186521	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4186522	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4763137-02		CO	Endémica
+gbif.org/species/4763137-03		CO	Endémica
+organismnames.com/details.htm?lsid=4249316	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3222488		CO	Endémica
+organismnames.com/details.htm?lsid=4249318	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3354161		CO	Endémica
+gbif.org/species/4717745		CO	
+gbif.org/species/4717745-00		CO	Endémica
+gbif.org/species/4744216		CO	
+organismnames.com/details.htm?lsid=5521236	Umg. Medellin (Antioquia) | Popayán - 1800 m, Villa Elvira (Cauca) | Ibague (Tolima) | 33 mi. W. Cali, Valle, 1350 m (Valle del Cauca) | Aguatal | Carmen | Cauca-Tal” | Santo Antonio” | Tocoto.	CO	
+organismnames.com/details.htm?lsid=3354164		CO	Endémica
+organismnames.com/details.htm?lsid=2271106	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=2271109	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=2725002	Colombia, 6 miles west of Cali Valley (Valle del Cauca)	CO	Endémica
+organismnames.com/details.htm?lsid=4295151	Cauca	CO	Endémica
+organismnames.com/details.htm?lsid=3354176		CO	Endémica
+organismnames.com/details.htm?lsid=2271114	Colombia (Pasto) (Nariño)	CO	Endémica
+organismnames.com/details.htm?lsid=2599215	Colombia, Monterredondo, Cundinamarca, 1400 m (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3354183		CO	Endémica
+organismnames.com/details.htm?lsid=2271117	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3123678	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=2271120	Azufral de Túquerres, 3500 m (Nariño)	CO	Endémica
+organismnames.com/details.htm?lsid=2271125	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3357088	Sabanilla (Atlántico)	CO	Endémica
+organismnames.com/details.htm?lsid=2271127	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=2837878	Medellin (Antioquia)	CO	Endémica
+organismnames.com/details.htm?lsid=2271129	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4069733		CO	
+gbif.org/species/3260760		CO	
+gbif.org/species/3260760-00		CO	
+gbif.org/species/3260760-01		CO	Endémica
+organismnames.com/details.htm?lsid=2837896	Provincia Bolívar (Bolívar)	CO	Endémica
+organismnames.com/details.htm?lsid=4249344	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/3260760-02		CO	Endémica
+organismnames.com/details.htm?lsid=3354731	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/3260760-03		CO	Endémica
+organismnames.com/details.htm?lsid=4249346	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249350	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3354739	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=3354742		CO	Endémica
+organismnames.com/details.htm?lsid=4186513	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4249348	Bogotá (Cundinamarca)	CO	Endémica
+gbif.org/species/4429528		CO	
+organismnames.com/details.htm?lsid=3354905		CO	Endémica
+organismnames.com/details.htm?lsid=3354907		CO	Endémica
+organismnames.com/details.htm?lsid=3354911		CO	Endémica
+gbif.org/species/4429528-00		CO	Endémica
+organismnames.com/details.htm?lsid=3357098		CO	Endémica
+organismnames.com/details.htm?lsid=3398222		CO	Endémica
+organismnames.com/details.htm?lsid=4249357	Medellin, La Estrella, 1650–1720 m (Antioquia) | Manizales, 2000m (Caldas) | Curumani (Cesar) | Bogotá (Cundinamarca) | Ibagué (Tolima) | Cartago | Rio Pance, 10 miles SW Calí, 1000 m (Valle del Cauca)	CO	
+organismnames.com/details.htm?lsid=3354922		CO	Endémica
+organismnames.com/details.htm?lsid=3354925		CO	Endémica
+gbif.org/species/4429528-01		CO	Endémica
+gbif.org/species/1162719		CO	
+gbif.org/species/1162720	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=210495		CO	
+gbif.org/species/4755190		CO	
+gbif.org/species/4755190-00	Bogotá (Cundinamarca)	CO	Endémica
+organismnames.com/details.htm?lsid=4362957	Manizales (Caldas)	CO	Endémica
+organismnames.com/details.htm?lsid=374968		CO	
+organismnames.com/details.htm?lsid=287933		CO	
+gbif.org/species/4717189		CO	
+organismnames.com/details.htm?lsid=149478	Bogotá, Mamatoco - 450 m, Villeta (Cundinamarca) | Cano, Pachiaquiari, Peralonso (Meta) | Coyaima - 450 m (Tolima)	CO	
+organismnames.com/details.htm?lsid=149494	Apiay (Meta)	CO	
+organismnames.com/details.htm?lsid=149497	Bogotá, Finca Bella Vista, nr. Sasaima (Cundinamarca) | R. below Pto Berrio (Magdalena)	CO	
+organismnames.com/details.htm?lsid=149501	Nevada de Santa Marta, 1100 m (Magdalena) | Peralonso, Cano, Pachiaquiani (Meta) | Sierra de Perija, 1450-1500 m	CO	
+gbif.org/species/1162463		CO	
+organismnames.com/details.htm?lsid=2183480	Quebrada Dorcodo, Rio San Juan (Chocó)	CO	
+gbif.org/species/6067159	(Tolima)	CO	Endémica
+organismnames.com/details.htm?lsid=4249246	Bogotá (Cundinamarca)	CO	Endémica

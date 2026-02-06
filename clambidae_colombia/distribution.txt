@@ -1,0 +1,6 @@
+id	locality	countryCode
+catalogueoflife.org/data/taxon/C2L		
+catalogueoflife.org/data/taxon/KV4M8		
+catalogueoflife.org/data/taxon/DDHXM		
+catalogueoflife.org/data/taxon/KV4MD		
+catalogueoflife.org/data/taxon/MLVGH	Colombia: Magdalena (Rio Frio)	CO

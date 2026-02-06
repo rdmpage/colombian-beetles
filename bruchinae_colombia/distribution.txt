@@ -1,0 +1,168 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/7780		CO	
+organismnames.com/details.htm?lsid=715899		CO	
+NCBI:txid256832		CO	
+NCBI:txid256832-01		CO	
+gbif.org/species/3261270		CO	
+gbif.org/species/6994114	Colombia: sin localidad específica	CO	
+gbif.org/species/3261270-01	Colombia: sin localidad específica	CO	
+gbif.org/species/6994029	Colombia: sin localidad específica	CO	
+gbif.org/species/6723671	Colombia: Tolima (Natagaima)	CO	
+gbif.org/species/6723672	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=246877	Colombia: Boyacá (Chiquinquirá) | Cundinamarca (Bogotá) | Guajira (Uribia)	CO	
+gbif.org/species/6994083	Colombia: Amazonas (Leticia)	CO	
+gbif.org/species/6993999	Colombia: Valle del Cauca (Cali)	CO	
+NCBI:txid256832-02		CO	
+gbif.org/species/1048596		CO	
+organismnames.com/details.htm?lsid=1464442	Colombia: Atlántico (Puerto Colombia) | Bolívar (Cartagena) | Magdalena (Río Frío)	CO	
+organismnames.com/details.htm?lsid=1464445	Colombia: Bolívar (Cartagena) | Cundinamarca (Girardot) | Magdalena (Río Frío, Santa Marta) | Tolima (Honda)	CO	
+gbif.org/species/1048600	Colombia: Antioquia (Bello, Medellín) | Cundinamarca (Bogotá) | Magdalena (Zona Bananera cgto. Marconia) | Santander (Bucaramanga, San Juan de Girón) | Valle del Cauca (Palmira)	CO	
+organismnames.com/details.htm?lsid=206545		CO	
+organismnames.com/details.htm?lsid=5657219-00		CO	
+gbif.org/species/1047479		CO	
+organismnames.com/details.htm?lsid=842039	Colombia: Cundinamarca (Silvania)	CO	
+organismnames.com/details.htm?lsid=842040	Colombia: Magdalena (Santa Marta)	CO	Endémica
+organismnames.com/details.htm?lsid=367804	Colombia: Atlántico (Barranquilla) | Córdoba (Planeta Rica)	CO	
+organismnames.com/details.htm?lsid=367805	"Colombia: Tolima (Honda) | Valle del Cauca (Yotoco, ""Union-Retiro"")"	CO	
+organismnames.com/details.htm?lsid=367806	Colombia: Amazonas | Cundinamarca (Manta)	CO	
+organismnames.com/details.htm?lsid=544561	Colombia: Valle del Cauca (Buenaventura)	CO	
+organismnames.com/details.htm?lsid=842047	Colombia: Cundinamarca (Bogotá)	CO	Endémica
+organismnames.com/details.htm?lsid=367815	Colombia: Magdalena (Cienaga)	CO	
+organismnames.com/details.htm?lsid=842052	Colombia: Amazonas (Leticia)	CO	
+organismnames.com/details.htm?lsid=282068	Colombia: Chocó (Acandí)	CO	
+gbif.org/species/6949687	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=842054	Colombia: Cesar (Valledupar)	CO	Endémica
+organismnames.com/details.htm?lsid=842055	"Colombia: ""Pto. Magdalena"	CO	Endémica
+organismnames.com/details.htm?lsid=842056	Colombia: Atlántico (Barranquilla)	CO	
+organismnames.com/details.htm?lsid=842058	Colombia: Cundinamarca (Fusagasugá) | Magdalena (Río Frío, Santa Marta) | Santander (Barbosa) | Valle del Cauca (Palmira)	CO	
+gbif.org/species/1047507	Colombia: Bolívar (Cartagena) | Cundinamarca (Tocaima) | Santander (Barbosa)	CO	
+organismnames.com/details.htm?lsid=367827	Colombia: Valle del Cauca (Cali)	CO	
+organismnames.com/details.htm?lsid=367828	Colombia: Boyacá (Santana) | Cundinamarca | Meta | Norte de Santander	CO	
+gbif.org/species/6949648	Colombia: Antioquia (Medellín) | Magdalena (Río de Oro, San Sebastian de Rabago, Santa Marta) | Meta (Restrepo) | Norte de Santander (Ocaña)	CO	
+organismnames.com/details.htm?lsid=842060	Colombia: Meta (Villavicencio) | Norte de Santander (Prima)	CO	
+gbif.org/species/1047488	Colombia: Antioquia (La Pintada) | Huila (Neiva) | Sucre (Sincelejo) | Valle del Cauca (Palmira)	CO	
+organismnames.com/details.htm?lsid=367836	Colombia: Magdalena | Valle del Cauca (Buga, Palmira)	CO	
+organismnames.com/details.htm?lsid=181956	Colombia: Valle del Cauca (Riofrio-Salonica)	CO	
+organismnames.com/details.htm?lsid=367841	Colombia: Antioquia (La Pintada) | Bolívar (Cartagena) | Cauca (Mondomo) | Córdoba (Planeta Rica) | Cundinamarca (Boqueron) | Sucre (Sincelejo) | Tolima (Natagaima) | Valle del Cauca (Cali, Palmira, Roldanillo)	CO	
+organismnames.com/details.htm?lsid=842069	Colombia: Valle del Cauca (Cali)	CO	
+organismnames.com/details.htm?lsid=181957	Colombia: Boyacá (Santana) | Cundinamarca (Manta) | Magdalena | Santander (Barbosa) | Valle del Cauca (Cali)	CO	
+gbif.org/species/1047513	Colombia: Valle del Cauca (Miranda)	CO	
+organismnames.com/details.htm?lsid=842071	Colombia: Cundinamarca (Sasaima)	CO	
+organismnames.com/details.htm?lsid=842072	"Colombia: Cauca (Palmira, ""Plamira-Chinche"") | Cundinamarca"	CO	
+gbif.org/species/1047515	Colombia: Valle del Cauca (Palmira)	CO	
+gbif.org/species/1047525	Colombia: Antioquia (Bello, Medellín) | Boyacá (Moniquirá, Tunja) | Cundinamarca (Anolaima, Bogotá, Funza, Ubaque) | Santander (Suaita) | Valle del Cauca (Palmira)	CO	
+organismnames.com/details.htm?lsid=367866	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=367871	Colombia: Boyacá | Cundinamarca (Boquerón) | Huila (Neiva) | Magdalena | Tolima	CO	
+gbif.org/species/6949580	Colombia: Valle del Cauca (Buenaventura)	CO	
+organismnames.com/details.htm?lsid=367872	Colombia: Valle del Cauca (Roldanillo)	CO	
+organismnames.com/details.htm?lsid=194521	Colombia: Valle del Cauca (Buenaventura)	CO	
+organismnames.com/details.htm?lsid=367874	Colombia: Cundinamarca | Magdalena	CO	
+organismnames.com/details.htm?lsid=2270604	Colombia: Bolívar	CO	
+irmng.org/aphia.php?p=taxdetails&id=11673877	Colombia: Magdalena	CO	
+gbif.org/species/1047487	Colombia: Antioquia (Bello, La Pintada) | Cauca (Corinto) | Tolima (Guayabal) | Valle del Cauca (Cali, Palmira)	CO	
+gbif.org/species/1047516	Colombia: Magdalena (Pueblo Viejo) | Norte de Santender | Tolima	CO	
+organismnames.com/details.htm?lsid=842082	Colombia: Norte de Santander (Pamplona)	CO	Endémica
+gbif.org/species/1047509	Colombia: sin localidad específica	CO	
+gbif.org/species/1047499	Colombia: Cundinamarca | Magdalena	CO	
+organismnames.com/details.htm?lsid=4715384	Colombia: Atlántico	CO	
+organismnames.com/details.htm?lsid=842085	Colombia: Magdalena (Ciénaga) | Valle del Cauca (Palmira, Santa Helena)	CO	
+organismnames.com/details.htm?lsid=367896	Colombia: Cauca (Corinto-Rio Palo) | Valle del Cauca	CO	
+organismnames.com/details.htm?lsid=3313334	Colombia: Cundinamarca (Cachipay, Girardot, Tocaima) | Huila (Aipe, Neiva) | Tolima (Guamo, Natagaima)	CO	
+organismnames.com/details.htm?lsid=2359266	Colombia: Antioquia | Boyacá (Moniquirá) | Cundinamarca (Boquerón) | Sucre (Sincelejo) | Tolima (Alvarado) | Valle del Cauca (Buga, Palmira, Yumbo)	CO	
+organismnames.com/details.htm?lsid=367902	Colombia: Magdalena | Valle del Cauca (Palmira)	CO	
+gbif.org/species/1047438		CO	
+gbif.org/species/6949875	Colombia: Magdalena (Pueblo viejo, Santa Marta)	CO	
+gbif.org/species/1047339		CO	
+gbif.org/species/1047341	Colombia: Antioquia (Medellín)	CO	
+gbif.org/species/1047343	Colombia: Antioquia (Bello, Medellín) | Cesar (Agustín Codazzi) | Córdoba (Montería) | Magdalena (Ciénaga) | Meta (Villavicencio) | Norte de Santander (El Carmen) | Sucre (Ovejas) | Tolima (Espinal)	CO	
+gbif.org/species/1047342	Colombia: Antioquia (Bello, Girardota, Medellín) | Valle del Cauca (Jamundí, Palmira)	CO	
+gbif.org/species/8239670		CO	
+gbif.org/species/6950567	Colombia: Caquetá (El Doncello)	CO	
+organismnames.com/details.htm?lsid=2200151	Colombia: Tolima (Coyaima)	CO	
+organismnames.com/details.htm?lsid=124521	Colombia: Magdalena (Río Frío)	CO	
+organismnames.com/details.htm?lsid=2200155	Colombia: Cundinamarca (Bogotá)	CO	
+organismnames.com/details.htm?lsid=2200157	"Colombia: ""Llano Grande"""	CO	
+organismnames.com/details.htm?lsid=2200159	Colombia: Antioquia (Copacabana)	CO	
+gbif.org/species/1048621	"Colombia: Bolívar (Cartagena) | Magdalena (Río Frío) | Santander (Bucaramanga) | Valle del Cauca (""Hacienda Arizona, 12 mi. S. Cali"") |""Santa Maria"	CO	
+gbif.org/species/1048620	Colombia: Magdalena (Río Frío)	CO	
+organismnames.com/details.htm?lsid=5021706	Colombia: Valle del Cauca (Huasanó, Sevilla) | Boyacá (Muzo) | Magdalena (Río Frío)	CO	
+organismnames.com/details.htm?lsid=5458302	Colombia: Magdalena (Río Frío) | Tolima (Ibagué)	CO	
+organismnames.com/details.htm?lsid=5638536	Colombia: Cundinamarca (Melgar)	CO	
+organismnames.com/details.htm?lsid=5458303	Colombia: Magdalena (Aracataca, Río Frío)	CO	
+organismnames.com/details.htm?lsid=2200173	Colombia: Cundinamarca (Anolaima) | Magdalena (Sevilla)	CO	
+gbif.org/species/6950574	Colombia: Antioquia (Cáceres) | Magdalena (Aracataca, Río Frío)	CO	
+organismnames.com/details.htm?lsid=4712701	Colombia: Bolívar (Cartagena) | Magdalena (Río Frío, Sevilla)	CO	
+organismnames.com/details.htm?lsid=5081965	Colombia: Magdalena (Río Frío)	CO	
+gbif.org/species/4572699		CO	
+gbif.org/species/9293330	Colombia: sin localidad específica	CO	Endémica
+gbif.org/species/1048562		CO	
+gbif.org/species/6951204	Colombia: Magdalena (Río Frío)	CO	
+gbif.org/species/1048435		CO	
+organismnames.com/details.htm?lsid=1547009	Colombia: Antioquia (San José) | Magdalena (Cacagualito, Minca)	CO	
+organismnames.com/details.htm?lsid=2229309	Colombia: Caldas (Manizales) | Cundinamarca (La Mesa, Mesitas, Sasaima, Villeta) | Meta (Villavicencio) | Valle del Cauca | Tolima	CO	
+gbif.org/species/6950728	Colombia: Tolima (Honda)	CO	
+gbif.org/species/1048437	Colombia: Antioquia (San José) | Boyacá (Río Garagoa) | Meta (Restrepo) | Tolima (Ibagué)	CO	
+gbif.org/species/119409938		CO	
+gbif.org/species/6950688	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=181970	Colombia: Antioquia (Santa Fé de Antioquia, Sopetrán) | Guaviare (San José del Guaviare) | Magdalena (Río Frío)	CO	
+gbif.org/species/1048509		CO	
+gbif.org/species/1048514	Colombia: Magdalena (Santa Marta)	CO	
+gbif.org/species/1048513	Colombia: Antioquia (Medellín, San Jerónimo) | Magdalena (Riohacha) |Valle del Cauca (Tuluá)	CO	
+gbif.org/species/6757729		CO	
+organismnames.com/details.htm?lsid=1821336	Colombia: Cundinamarca (Macheta)	CO	Endémica
+organismnames.com/details.htm?lsid=1821337	Colombia: Norte de Santander | Quindío	CO	
+gbif.org/species/4732807		CO	
+gbif.org/species/6950381	Colombia: Antioquia (Andes, Bolombolo, Medellín) | Guajira (Fonseca)	CO	
+organismnames.com/details.htm?lsid=2317552	Colombia: Valle del Cauca (Palmira)	CO	
+gbif.org/species/1048262		CO	
+gbif.org/species/8984923	Colombia: Bolívar (Cartagena)	CO	
+gbif.org/species/9068633	Colombia: Cundinamarca (Funza)	CO	
+gbif.org/species/6950281	Colombia: Valle del Cauca (Cali, Jamundí)	CO	
+gbif.org/species/6950249	Colombia: Magdalena (Aracataca, Río Frío, Sevilla)	CO	
+gbif.org/species/1048272	Colombia: Cundinamarca (Puerto Salgar) | Cauca (Santander de Quilichao)	CO	
+gbif.org/species/1048273	Colombia: Bolívar (Cartagena)	CO	
+gbif.org/species/6950266	Colombia: Antioquia (Bello, San José) | Cesar (Valledupar) | Córdoba (Cereté) | Cundinamarca (Girardot) | Tolima (Espinal)	CO	
+gbif.org/species/6950317	Colombia: Antioquia (Bello, San José) | Valle del Cauca (Palmira)	CO	
+gbif.org/species/6950298	Colombia: sin localidad específica	CO	
+gbif.org/species/1048480		CO	
+organismnames.com/details.htm?lsid=2126723	Colombia: Antioquia (Turbo) | Valle del Cauca (La Cumbre)	CO	
+gbif.org/species/6948988	Colombia: Magdalena (Pivijai)	CO	
+gbif.org/species/1048487	Colombia: Arauca (Arauquita, Santa Fe de Antioquia, Sopetrán) | Valle del Cauca (Tulúa)	CO	
+gbif.org/species/1048482	Colombia: sin localidad específica	CO	
+gbif.org/species/6948981	Colombia: sin localidad específica	CO	
+gbif.org/species/6949002	Colombia: sin localidad específica	CO	
+iberfauna.mncn.csic.es/showficha.aspx?rank=T&idtax=20450		CO	
+gbif.org/species/3262781		CO	
+gbif.org/species/5752155	Colombia: Antioquia (Rionegro) |Boyacá (Chiquinquirá) | Cundinamarca (Bogotá) | Valle del Cauca (Buenaventura)	CO	
+gbif.org/species/5752157	Colombia: Cundinamarca (Bogotá)	CO	
+organismnames.com/details.htm?lsid=206545-01		CO	
+gbif.org/species/8313537		CO	
+organismnames.com/details.htm?lsid=287661		CO	
+organismnames.com/details.htm?lsid=1088977	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=287722	Colombia: Magdalena (Río Frío); Valle del Cauca (Palmira)	CO	
+organismnames.com/details.htm?lsid=287730	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=287734	Colombia: Magdalena (Río Frío); Risaralda (Pereira)	CO	
+organismnames.com/details.htm?lsid=287735	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=287738	Colombia: Bolívar (Cartagena)	CO	
+organismnames.com/details.htm?lsid=287740	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=1088978		CO	
+organismnames.com/details.htm?lsid=287742	"Colombia: Magdalena (Río Frío, San Marta) | ""Río Raposo"	CO	
+organismnames.com/details.htm?lsid=287744	Colombia: Antioquia (La Estrella)	CO	
+organismnames.com/details.htm?lsid=287746	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=287747	Colombia: Magdalena (Aracataca)	CO	
+organismnames.com/details.htm?lsid=287750		CO	
+organismnames.com/details.htm?lsid=287753	Colombia: sin localidad específica	CO	
+organismnames.com/details.htm?lsid=287756	Colombia: Magdalena (Río Frío)	CO	
+iberfauna.mncn.csic.es/showficha.aspx?rank=T&idtax=20531		CO	
+fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=336965		CO	
+gbif.org/species/1047736		CO	
+gbif.org/species/1047737	Colombia: Antioquia (San Jerónimo, Santa Fe de Antioquia) | Magdalena (Santa Marta)	CO	
+bugguide.net/node/view/891136		CO	
+gbif.org/species/4578168		CO	
+organismnames.com/details.htm?lsid=1432627	Colombia: sin localidad específica	CO	
+gbif.org/species/6950643	Colombia: Meta (Villavicencio)	CO	
+gbif.org/species/3260350		CO	
+gbif.org/species/6951238	Colombia: Bolívar (Cartagena) | Chocó (Parque los Katíos) | Valle del Cauca (Cali)	CO	
+gbif.org/species/6951245	Colombia: Cesar (Agustín Codazzi) | Magdalena (Aracataca) | Meta (Acacías) | Risaralda | Valle del Cauca	CO	
+gbif.org/species/4732147		CO	
+gbif.org/species/6950654	Colombia: Bolívar (El Banco) | Meta	CO	

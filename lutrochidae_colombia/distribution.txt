@@ -1,0 +1,3 @@
+id	locality	countryCode
+gbif.org/species/7835		CO
+gbif.org/species/1033695	Colombia: Caldas, Caquetá, Cauca, Chocó, La Guajira, Huila, Risaralda, Valle del Cauca	CO

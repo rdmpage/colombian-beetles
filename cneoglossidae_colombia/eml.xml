@@ -1,0 +1,302 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="e435cdaf-6c47-4f4c-8310-d056ad5fb220/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/rsgvlo</alternateIdentifier>
+  <alternateIdentifier>e435cdaf-6c47-4f4c-8310-d056ad5fb220</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cneoglossidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Cneoglossidae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Cneoglossidae (Coleoptera: Byrrhoidea) con ocurrencia conocida para el territorio colombiano. Se listan un género y una especie. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos del cedro</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan un género y una especie de la familia Cneoglossidae (Coleoptera: Byrrhoidea) en Colombia. Para la única especie registrada no se conocen localidades específicas en el país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1843-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>La familia Cneoglossidae (Coleoptera: Byrrhoidea) es un grupo pequeño de escarabajos con distribución neotropical que presenta nueve especies en un sólo género a nivel mundial. Se listan un género y una especie para Colombia. El grupo no ha sido revisado en nuestro país. El género Cneoglossa fue originalmente anidado en Dascillidae y posteriormente asignado a su propia familia por Crowson en 1972 (Costa et al. 1999).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cneoglossidae</taxonRankValue>
+                  <commonName>Escarabajos del cedro</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cneoglossa</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margacologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1944). Adicionalmente, fueron consultados trabajos recientemente publicados para revisar si existían especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogo de Blackwelder (1944) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución geográfica de la única especie registrada fue tomada de la descripción original para Colombia. Sin embargo, esta descripción no menciona la localidad específica del registro.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros, catálogos y revisiones. Se proveen enlaces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Cneoglossidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Cneoglossidae (Coleoptera: Byrrhoidea) que se han registrado para Colombia a partir de la literatura. El listado se obtuvo a partir del catálogo de Blackwelder (1944), además de trabajos posteriormente publicados.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres de las especies fueron verificados en las descripciones originales (Champion,1897; Guérin-Méneville, 1843 y 1849), así como en el catálogo anteriormente mencionado.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcela</givenName>
+          <surName>González-Córdoba</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-17T08:56:25.711+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/rsgvlo">Hincapié-Montoya D M, González-Córdoba M (2024): Listado de las especies de Cneoglossidae (Coleoptera: Byrrhoidea) de Colombia. v1.1. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/rsgvlo</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876600">Blackwelder, RE. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876600</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/579143">Champion, GC. (1897). Elateridae - Dascillidae. In: Godman FD, Salvin O (Eds) Biologia Centrali-Americana. Insecta. Coleoptera. Vol. III. Part 1. Serricornia. Taylor &amp; Francis, London, xvi + 690 pp. + 27 pls. [Feb 1887 (pp. 586–608), Mar (609–624), May (625–656), Aug 1887 (657–662). https://www.biodiversitylibrary.org/page/579143</citation>
+                <citation identifier="https://doi.org/10.11606/issn.2176-7793.v35i3p231-300">Costa, C., Vanin, S. A., &amp; Ide, S. (1999). Systematics and bionomics of Cneoglossidae with a cladistic analysis of Byrrhoidea sensu Lawrence &amp; Newton (1995) (Coleoptera, Elateriformia). Arquivos De Zoologia, 35(3), 231-300. https://doi.org/10.11606/issn.2176-7793.v35i3p231-300</citation>
+                <citation>Crowson RA (1972) A review of the classification of Cantharoidea (Coleoptera), with the definition of two new families, Cneoglossidae and Omethidae. Revista de la Universidad de Madrid. Estudios de Entomologia 21 (82): 35–77.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2271350">Guérin-Méneville, FE. (1843) Note sur un groupe naturel ou une petite tribu de Coléoptères de la famille des Malacodermes. Revue Zoologique 6: 193–194. https://www.biodiversitylibrary.org/page/2271350</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6583137x.texteImage">Guérin-Méneville, FE. (1849). Species et iconographie générique des animaux articulés ou représentation des genres, avec leur description et celle de toutes les especes de cette grande division du règne animal. De La Revue Zoologique et du Magasin de Zoologie,  livraison 9 (n°36): 1. https://gallica.bnf.fr/ark:/12148/bpt6k6583137x.texteImage</citation>
+                <citation identifier="https://www.zin.ru/animalia/coleoptera/pdf/lawrence_newton_1995_families_and_subfamilies_coleoptera_part-1.pdf">Lawrence, J.F. &amp; Newton, A.F.Jr. (1995). Families and subfamilies of Coleoptera (with selected genera, notes, references and data on family-group names): 779-1006. Biology, phylogeny, and classification of Coleoptera. Papers celebrating the, 80th Birthday of Roy A. Crowson. https://www.zin.ru/animalia/coleoptera/pdf/lawrence_newton_1995_families_and_subfamilies_coleoptera_part-1.pdf</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/issue/view/9116">Wittmer, W. (1949). 7.  Beitrag zur Kenntnis der neotropischen Malacodermata. Revista de la Sociedad Entomológica Argentina 14(4): 215-222. https://www.biotaxa.org/RSEA/issue/view/9116</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/fr/coleopteres</collectionIdentifier>
+                <collectionName>MNHN - Muséum nationale d’Histoire naturelle, Paris, Francia</collectionName>
+              </collection>
+          <dc:replaces>e435cdaf-6c47-4f4c-8310-d056ad5fb220/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

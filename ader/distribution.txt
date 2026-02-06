@@ -1,0 +1,7 @@
+id	locality	countryCode
+gbif.org/species/1047172		CO
+biolib.cz/en/taxon/id856278/		CO
+biolib.cz/en/taxon/id856282/		CO
+gbif.org/species/1047208		CO
+biolib.cz/en/taxon/id1002895/	Colombia, Bogotá	CO
+biolib.cz/en/taxon/id1003153/	Colombia, Bogotá	CO

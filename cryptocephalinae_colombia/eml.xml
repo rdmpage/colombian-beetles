@@ -1,0 +1,507 @@
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=cryptocephalinae_colombia/v2.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+    <dataset>
+        <alternateIdentifier>10.15472/usxvea</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cryptocephalinae_colombia</alternateIdentifier>
+        <shortName>Cryptocephalinae (Chrysomelidae) Colombia</shortName>
+        <title xml:lang="spa">Listado de las especies de Cryptocephalinae (Coleoptera: Chrysomelidae) de Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Javier</givenName>
+                <surName>Utria Suarez</surName>
+            </individualName>
+            <organizationName>Universidad del Atlántico</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>CO</country>
+            </address>
+            <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5010-915X</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Javier</givenName>
+                <surName>Utria Suarez</surName>
+            </individualName>
+            <organizationName>Universidad del Atlántico</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>CO</country>
+            </address>
+            <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5010-915X</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Javier</givenName>
+                <surName>Utria Suarez</surName>
+            </individualName>
+            <organizationName>Universidad del Atlántico</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>CO</country>
+            </address>
+            <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5010-915X</userId>
+            <role>author</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+            <role>reviewer</role>
+        </associatedParty>
+        <pubDate>
+            2025-11-11
+        </pubDate>
+        <language>spa</language>
+        <abstract>
+            <para>Este recurso presenta el listado de las especies de la subfamilia Cryptocephalinae (Coleoptera: Chrysomelidae) con ocurrencia conocida para el territorio colombiano. Se lista una subfamilia, cuatro tribus, cinco subtribus, 21 géneros y 125 especies. De acuerdo con los catálogos disponibles, 71 especies se han reportado sólo para Colombia. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de catálogos disponibles para el grupo.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Lista de referencia</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos de las hojas</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Checklist</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Se reportan 125 especies de la subfamilia Cryptocephalinae (Coleoptera: Chrysomelidae).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+                    <northBoundingCoordinate>12.555</northBoundingCoordinate>
+                    <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>1802-01-01</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>2020-12-31</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se lista una subfamilia, cuatro tribus, cinco subtribus, 21 géneros y 125 especies de la subfamilia Cryptocephalinae (Coleoptera: Chrysomelidae) para Colombia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                    <commonName>escarabajos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>family</taxonRankName>
+                    <taxonRankValue>Chrysomelidae</taxonRankValue>
+                    <commonName>escarabajos de las hojas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subfamily</taxonRankName>
+                    <taxonRankValue>Cryptocephalinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Clytrini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Cryptocephalini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Fulcidacini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Pachybrachini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subtribe</taxonRankName>
+                    <taxonRankValue>Babiina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subtribe</taxonRankName>
+                    <taxonRankValue>Clytrina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subtribe</taxonRankName>
+                    <taxonRankValue>Cryptocephalina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subtribe</taxonRankName>
+                    <taxonRankValue>Megalostomidina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subtribe</taxonRankName>
+                    <taxonRankValue>Monachulina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Anomoea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Babia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Chlamisus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Coscinoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Cryptocephalus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Diachus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Euryscopa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Exema</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Fulcidax</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Griburius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Ischiopachys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Lexiphanes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Megalostomis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Metallactus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Pachybrachis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Paraurodera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Proctophana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Pseudochlamys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Temnodachrys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Themesia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Urodera</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Javier</givenName>
+                <surName>Utria Suarez</surName>
+            </individualName>
+            <organizationName>Universidad del Atlántico</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>CO</country>
+            </address>
+            <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5010-915X</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1946). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo y actualizaciones taxonómicas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La grafía y autoría de cada nombre fue verificada en los catálogos y en las descripciones originales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y trabajos de revisión taxonómica.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El listado compila los nombres de las especies de la subfamilia Cryptocephalinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Cryptocephalinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente a partir de Blackwelder (1946) con actualizaciones de trabajos publicados posteriormente.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos y trabajos que aquí se mencionan.</para>
+                </description>
+            </qualityControl>
+        </methods>
+        <project>
+            <title>Listado de los coleópteros de Colombia</title>
+            <personnel>
+                <individualName>
+                    <givenName>Jennifer C.</givenName>
+                    <surName>Girón Duque</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+                <role>reviewer</role>
+            </personnel>
+            <abstract>
+                <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo Coleoptera de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+            </abstract>
+            <funding>
+                <para>Recursos propios.</para>
+            </funding>
+            <studyAreaDescription>
+                <descriptor name="generic"
+                            citableClassificationSystem="false">
+                    <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Toda la información presentada en estos listados proviene de la literatura: descripciones originales, catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+                </description>
+            </designDescription>
+        </project>
+    </dataset>
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-04-21T17:26:23.947+00:00</dateStamp>
+                <hierarchyLevel>dataset</hierarchyLevel>
+                <citation identifier="https://doi.org/10.15472/usxvea">Utria Suarez J (2025). Listado de las especies de Cryptocephalinae (Coleoptera: Chrysomelidae) de Colombia. Version 2.0. Coleoptera de Colombia. Checklist dataset. https://doi.org/10.15472/usxvea</citation>
+                <bibliography>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/33769264">Achard, J. (1914) Genera Insectorum. Fascicule LX. Coleoptera Phytophaga. Subfam. Chlamydinae &amp; Sphaerocharinae. , 1–25.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/33664338">Agassiz, J.L.R. (1846) Nomina systematica generum coleopterorum, tam viventium quam fossilium. Jent &amp; Gassmann. Solothurn.</citation>
+                    <citation identifier="https://doi.org/10.1111/j.1365-3113.2011.00584.x">Agrain, F.A. &amp; Roig-Juñent, S. (2011) Systematics and cladistics of Megalostomis Chevrolat, and the biogeography of Clytrini (Coleoptera: Cryptocephalinae). Systematic Entomology 36, 672–704.</citation>
+                    <citation identifier="https://doi.org/10.11646/zootaxa.3748.1.1">Agrain, F.A. (2013) A taxonomic review of the genus Megalostomis Chevrolat (Coleoptera, Cryptocephalinae, Chrysomelidae). Zootaxa 3748, 1–109.</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.425.7631">Agrain, F.A. (2014) An interactive multi-entry key to the species of Megalostomis Chevrolat, with description of a new species from Paraguay (Chrysomelidae, Cryptocephalinae). ZooKeys 425, 59–69.</citation>
+                    <citation identifier="https://doi.org/10.1163/187631207788754402">Agrain, F.A., Roig-Juñent, S. &amp; Domíngues, M.C. (2007) Taxonomic revision and preliminary phylogenetic analysis of the subgenus Megalostomis (Scaphigenia) Lacordaire (Coleoptera: Chrysomelidae). Insect Systematics &amp; Evolution 38, 335–359.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/10890821">Baly, J.S. (1877) Descriptions of new species of phytophagous Coleoptera. Cistula Entomologica 2, 179–185.</citation>
+                    <citation identifier="https://doi.org/10.1649/072.070.0104">Barney, R.J. (2016) Pachybrachis Chevrolat (Coleoptera: Chrysomelidae: Cryptocephalinae) Endemic to Florida, Including Descriptions of Four New Species. The Coleopterists Bulletin 70, 31–52.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/7876985">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185, 1–1492.</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88, 1–972.</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.1194.106440">Bouchard, P., Bousquet, Y., Davies, A.E. &amp; Cai, C. (2024) On the nomenclatural status of type genera in Coleoptera (Insecta). ZooKeys, 1194, 1–981.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/34261327">Burmeister, H.C.C. (1877) Phytophaga Argentina. Stettiner Entomologische Zeitung 38, 52–67.</citation>
+                    <citation identifier="https://doi.org/10.4289/0013-8797.118.1.150">Chaboo, C.S., Chamorro, M.L. &amp; Schöller, M. (2016) Catalogue of Known Immature Stages of Camptosomate Leaf Beetles (Coleoptera, Chrysomelidae, Cryptocephalinae and Lamprosomatinae). Proceedings of the Entomological Society of Washington 118, 150–217.</citation>
+                    <citation identifier="https://doi.org/10.23885/1814-3326-2013-9-1-201-206">Chamorro, M.L. (2013) On the identity of Mastacanthus Suffrian, 1852 and Sternoglosus Suffrian, 1866 and key to World genera of Pachybrachina (Chrysomelidae: Cryptocephalinae: Cryptocephalini). Caucasian Entomological Bulletin 9, 201–206.</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.8.90">Chamorro-Lacayo, M.L. &amp; Konstantinov, A. (2009) Synopsis of warty leaf beetle genera of the world (Coleoptera, Chrysomelidae, Cryptocephalinae, Chlamisini). ZooKeys 8, 63–88.</citation>
+                    <citation identifier="https://doi.org/10.11646/zootaxa.676.1.1">Chamorro-Lacayo, M.L. &amp; Konstantinov, A.S. (2004) Morphology of the prothorax and procoxa in the New World Cryptocephalini (Coleoptera: Chrysomelidae: Cryptocephalinae). Zootaxa 676, 1–46.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/9654857">Chapuis, F. (1874) 10 Histoire naturelle des insectes. Genera des coléoptères, ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Librairie encyclopédique de Roret, Paris, 476 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/60239049">Chevrolat, L.A.A. (1836) In: Dejean PFMA. Catalogue des coléoptères de la collection de M. le comte Dejean. [Livraison 5]. In: Catalogue des coléoptères de la collection de M. le comte Dejean. Troisiéme édition, revué, corrigée et augmentée. Mequignon-Marvis, Paris, pp. 361–443.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/10431031">Clavareau, H. (1913) Pars 53: Chrysomelidae: 5. Megascelinae, 6. Megalopodinae, 7. Clytrinae, 8. Cryptocephalinae, 9. Chlamydinae, 10. Lamprosominae. In: Coleopterorum catalogus. Berlin, p. 278.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/35303511">Erichson, W.F. (1848) Die Insecten. In: Schomburgk, R., Reisen in Britisch-Guiana in den Jahren 1840 - 1844: nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Muller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern. J. J. Weber, Leipzig, pp. 553–617.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/12058371">Fabricius, J.C. (1787) 1 Mantissa Insectorum: Sistens Eorvm Species Nvper Detectas. Adiectis Characteribvs, Genericis, Differentiis Specificis, Emendationibvs, Observationibvs. Proft, Hafniae, 348 pp.</citation>
+                    <citation identifier="https://www.digitale-sammlungen.de/de/view/bsb10477542?page=61&amp;q=auratus">Fabricius, J.C. (1801) Systema eleutheratorum secundum ordines, genera, species: Adiectis synonymis, locis, observationibus, descriptionibus. Tomus II. impensis Bibliopolii Academici novi, Kiliae, 687 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/5308684">Fall, H.C. (1915) A Revision of the North American Species of Pachybrachys. Transactions of the American Entomological Society 41, 291–486.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/255748">Forster, J.R. (1771) Novæ species insectorum. Centuria I. Londini, T. Davies, B. White, 1771, 116 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/10178297">Gemminger, M. &amp; Harold, E. (1874) Catalogus Coleopterorum hucusque descriptorum synonymicus et systematicus. Tom. XI. Chrysomelidae (Pars I.). Monachii [= München]: G. Beck. 3233–3478 + [4 (Index Generum ad Tom. XI; Corrigenda)] pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/51065">Geoffroy, E.L. (1762) Histoire abrégée des insectes qui se trouvent aux environs de Paris; dans laquelle ces animaux sont rangés suivant un ordre méthodique. Tome premier. A Paris, Chez Durand, 1762, 612 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/225998#page/13/mode/1up">Germar, E. (1824) Insectorum species novae aut minus cognitae, descriptionibus illustratae. C. Hendelii et Filii, Halae, 624 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/25780913#page/7/mode/1up">Gistel, J. (1848) Abtheilung I. Thierreich. Pp. 1–626. In: GISTEL JNFX &amp; BROMME T: Handbuch der Naturgeschichte aller drei Reiche, für Lehrer und Lernende, für Schule und Haus. [1850]. R. Hoffmann, Stuttgart, 1037 pp.</citation>
+                    <citation identifier="https://doi.org/10.1111/zsc.12501">Gómez-Zurita, J. &amp; Cardoso, A. (2021) Molecular systematics, higher-rank classification and Gondwanan origins of Cryptocephalinae leaf beetles. Zoologica Scripta 50, 592–615.</citation>
+                    <citation identifier="https://doi.org/10.1093/aesa/39.1.84">Gressitt, J.L. (1946) Chinese chrysomelid beetles of the subfamily Chlamisinae. Annals of the Entomological Society of America 39, 84–100.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/10264205">Gyllenhal, L. (1813) Insecta Suecica, Classis I. Coleoptera sive Eleuterata. Tomi I, Pars III. F. J. Leverentz, Scaris [Skara], Sweden, 730 + 4 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/35780335">Haldeman, S.S. (1849) Cryptocephalinarum Boreali-Americae diagnoses cum speciebus novis musei lecontiani. Journal of the Academy of Natural Sciences of Philadelphia 2, 245–265.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/11192156">Ihering, H. von (1904) O Rio Juruá. Revista do Museu Paulista 6, 426–452.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/62783719">Jacobson, G.G. (1924) Annotationes synonymicae et systematicae de Coleopteris. Russkoe Entomologicheskoe Obozrenie 18, 237–244.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/33991582">Jacoby, M. &amp; Clavareau, H. (1907) Genera Insectorum. Fascicule XLIX. Coleoptera Phytophaga. Subfam. Clytrinae. , 1–87.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/28518429">Jacoby, M. (1877) Descriptions of new Species of Phytophagous Coleoptera. Proceedings of the Zoological Society of London, 510–520.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/12654908">Jacoby, M. (1878) Verzeichniss der von Herrn Ed. Steinheil in Neu-Granada gesammelten Cryptocephalini und Criocerini. Mittheilungen des Münchener Entomologischen Vereins 2, 134–162.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/584555">Jacoby, M. (1880) Biologia Centrali-Americana. Insecta. Coleoptera. Vol. VI, part 1. Phytophaga (part). 625 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/585199">Jacoby, M. (1888) Biologia Centrali-Americana. Insecta. Coleoptera. Vol. VI, part 1. Supplement. Phytophaga (part). 1–80 pp.</citation>
+                    <citation identifier="https://doi.org/10.1111/j.1469-7998.1907.tb06961.x">Jacoby, M. (1907) Descriptions of new Species of South-American Beetles of the Cryptocephaline Division of the Family Chrysomelidae. Proceedings of the Zoological Society of London 1907, 829–855.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/27207377">Kirby, W. (1837) The insects. In: Richardson J. (Ed.), Fauna boreali-Americana; or the zoology of the northern parts of British America: containing descriptions of the objects of natural history collected on the late northern land expeditions, under command of Captain Sir John Franklin, RN. Part 4. , p. 325 + [2] pp., 8.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/8541595">Kirsch, T. (1865) Beiträge zur Käferfauna von Bogotà. Berliner entomologische Zeitschrift 9, 40–104.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/8341001">Kirsch, T. (1870) Beiträge zur Käferfauna von Bogotà. Berliner Entomologische Zeitschrift 14, 337–378.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/11115654">Knoch, A.W. (1801) Neu Beyträge zur Insectenkunde. Erster Theil. Leipzig, Schwickertschen Verlage, 1–208.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/109371">Lacordaire, T. (1848) 2 Monographie des coléoptères subpentamères de la famille des phytophages. Bruxelles, C. Muquardt, 890 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/81425">Laporte de Castelnau, F.L.N. de C. (1840) Histoire naturelle des insectes: Coléoptères; avec une introduction renfermant l’anatomie et la physiologie des animaux articulés, par M. Brullé. Tome deuxième. Paris, P. Duménil, 1840-1842, 652 pp.</citation>
+                    <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille, P.A. (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/61550634">Latreille, P.A. (1811) Insectes de l’Amerique equinoxiale. In: Humboldt H. &amp; Bonpland. A. (eds.) Recueil d’Observations de Zoologie et d’Anatomie Comparée; faites dans l’ocean Atlantique, dans l’Interieur du nouveau continent et dans la mer du Sud, pendant les années 1799, 1800, 1801, 1802 et 1803. 1811-1833, pp. 127–252.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/89200">LeConte, J.L. &amp; Horn, G.H. (1883) Classification of the Coleoptera of North America. Prepared for the Smithsonian Institution. Smithsonian Miscellaneous Collections 26, 1–567.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/7545547">LeConte, J.L. (1880) Short studies of North American Coleoptera. Transactions of the American Entomological Society and proceedings of the Entomological Section of the Academy of Natural Sciences 8, 163–218.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/32550633">Lefèvre, E. (1884) Megalostomis unicincta, Corynodes rutilans, Balya jacobyi. Bulletin de la Société Entomologique de France 6, CXLIX–CL.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/54703">Leng, C.W. (1920) Catalogue of the Coleoptera of America, north of Mexico. Mount Vernon, N.Y, J.D. Sherman, Jr, 1920-, 470 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/44107032">Mannerheim, C.G. (1843) Beitrag zur Kaefer-Fauna der Aleutischen Inseln, der Insel Sitkha und Neu-Californiens. Bulletin de la Société Impériale des Naturalistes de Moscou 16, 175–314.</citation>
+                    <citation identifier="https://doi.org/10.1111/j.1096-3642.1876.tb02617.x">Martin, J. (1876) Description of new genera and species of phytophagous Coleoptera. Proceedings of the Zoological Society of London 1876, 807–817.</citation>
+                    <citation identifier="http://leb.daba.lv/36-m1.pdf">Medvedev, L.N. (1998) To the knowledge of the North American larvae of Clytrinae (Coleoptera, Chrysomelidae). Latvijas Entomologs 36, 36–43.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/1659443">Melsheimer, F.E. (1847) Descriptions of new species of Coleoptera of the United States. Proceedings of the Academy of Natural Sciences of Philadelphia 3, 158–181.</citation>
+                    <citation identifier="https://www.jstor.org/stable/i383711">Moldenke, A.R. (1971) A revision of the Clytrinae of North America north of the Isthmus of Panama (Coleoptera: Chrysomelidae). The Coleopterists Bulletin, 25 (4), 126.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/45974763">Moldenke, A.R. (1981) A generic reclassification of the New world Clytrinae (Coleoptera: Chrysomelidae) with a description of new species. Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München 29–30, 75–116.</citation>
+                    <citation identifier="https://www.biotaxa.org/RSEA/article/view/49714">Monrós, F. (1951) Descripción de diez especies nuevos de Babiini neotropicales (Col., Chrys.). Revista de la Sociedad Entomológica Argentina 15, 149–161.</citation>
+                    <citation identifier="https://doi.org/10.1080/00222935108654245">Monrós, F. (1951) Descriptions of new Neotropical Clytrinae (Col., Chrysomelidae). Annals and Magazine of Natural History Series 12 4, 1146–1158.</citation>
+                    <citation>Monrós, F. (1952) Descripciones de ‘Clytrinae’ Americanas (Col., Chrysomelidae). Revista Brasileira de Biologia, 12 (4), 349–362.</citation>
+                    <citation>Monrós, F. (1953) Revision de la especies argentinas de Chlamisinae (5a contribución al conocimiento de Chlamisinae). Acta Zoologica Lilloana, (10), 489–672.</citation>
+                    <citation>Monrós, F. (1953) Revisión sistemática de las especies de Clytrinae de la Argentina, Paraguay, Uruguay y Chile (Col. Chrysomelidae). Acta Zoologica Lilloana 14, 5–274.</citation>
+                    <citation identifier="https://www.jstor.org/stable/3998675">Monrós, F. (1953) Some Corrections in the Nomenclature of Clytrinae (Chrysomelidae). The Coleopterists Bulletin 7, 45–50.</citation>
+                    <citation>Monrós, F. (1954) Descripciónes y comentarios sôbre Chlamisinae (7 a contribución) (Col. Chrysomelidae). Acta Zoologica Lilloana, 13, 77–95.</citation>
+                    <citation identifier="https://doi.org/10.1155/1953/45329">Monrós, F. (1954) Some new synonyms in Clytrinae (Coleoptera, Chrysomelidae). Psyche 60, 148–150.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/48874955">Navajas, E. (1944) Algumas notas sobre a nomenclatura dos Fulcidacideos. Papéis Avulsos do Departamento de Zoologia, Secretaria de Agricultura 4, 213–220.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/7604689">Olivier, G.A. (1791) Encyclopédie méthodique. Histoire naturelle. Insectes. Tome sixieme. Chez Panckoucke, Librarie, Paris, 704 pp.</citation>
+                    <citation>Papp, C. (1949) Einige neue beiträge zur Kenntnis der Chrysomeliden fauna (38. Beitrag zur Kenntnis der Chrysomeliden). Miscellanea Entomologica 46, 11–16.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/28257335">Papp, C. (1951) Some new Phytophaga from South-America and India (42d Contribution to the knowledge of the Chrysomelidae). Tijdschrift voor Entomologie 93, 131–133.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/188066">Rafinesque, C.S. (1815) 1815 Analyse de la nature : or, Tableau de l’univers et des corps organisés. Palerme, Aux dépens de l’auteur, 1815, 242 pp.</citation>
+                    <citation identifier="https://www.coleopsoc.org/wp-content/uploads/2022/11/ColeopteristsSocietySpecialPublication1.pdf">Riley, E.G., Clark, S.M. &amp; Seeno, T.N. (2003) Catalog of the leaf beetles of America North of Mexico (Coleoptera: Megalopididae, Orsodacnidae and Chrysomelidae, excluding Bruchinae). Coleopterists Society Special Publication, 290.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/46972419">Rye, E.C. (1873) Coleoptera. The Zoological Record 8, 222–330.</citation>
+                    <citation identifier="https://doi.org/10.5281/zenodo.8147499">Sassi, D. (2023) Revision of the Griburius scutellaris (Fabricius, 1801) species group (Coleoptera: Chrysomelidae: Cryptocephalinae). Zootaxa 5315, 501–548.</citation>
+                    <citation identifier="https://doi.org/10.11646/ZOOTAXA.4413.1.2">Sassi, D. (2023) Revision of the Metallactus kollari species-group with a new diagnosis of the genus (Coleoptera: Chrysomelidae: Cryptocephalinae). Zootaxa 4413.</citation>
+                    <citation identifier="https://doi.org/10.11646/ZOOTAXA.5406.2.1">Sassi, D. (2024) Revision of the Griburius posticatus (Suffrian, 1866) species group (Coleoptera: Chrysomelidae: Cryptocephalinae). Zootaxa 5406.</citation>
+                    <citation identifier="https://www.zobodat.at/pdf/LBB_0037_2_1559-1566.pdf">Schöller, M. (2005) Eine neue Art der Gattung Pachybrachis Chevrolat 1837 aus Kolumbien (Coleoptera, Chrysomelidae). Linzer Biologische Beiträge 37, 1559–1566.</citation>
+                    <citation identifier="https://www.zobodat.at/pdf/Mitt-Int-Ent-Ver_33_2009_0109-0118.pdf">Schöller, M. (2009) Pachybrachis pallens Blanchard, 1851 collected by Charles Darwin and more new records and a new species of Neotropical Pachybrachina (Coleoptera: Chrysomelidae: Cryptocephalinae). Mitteilungen des Internationalen Entomologischen Vereins 33, 109–118.</citation>
+                    <citation>Seeno, T.N. &amp; Wilcox, J.A. (1982) Leaf Beetle Genera (Coleoptera: Chrysomelidae). Entomography 1, 1–221.</citation>
+                    <citation identifier="https://doi.org/10.1111/j.0307-6946.2005.00659.x">St Pierre, M.J., Hendrix, S.D. &amp; Lewis, C.K. (2005) Dispersal ability and host-plant characteristics influence spatial population structure of monophagous beetles. Ecological Entomology 30, 105–115.</citation>
+                    <citation identifier="https://doi.org/10.1664/0028-7199(2002)110[405:CCTITH]2.0.CO;2">Staines, C.L. (2002) Chrysomelidae (Coleoptera) Types in the Hunterian Museum, University of Glasgow. Journal of the New York Entomological Society 110, 405–412.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/43966850">Stål, C. (1857) Till kännedomen af Phytophaga. Öfversigt af Kongliga Svenska Vetenskaps-Akademiens Förhandlingar 14, 53–63.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/44483913">Suffrian, E. (1852) Zur Kenntniss der Nordamerikanischen Cryptocephalen. Linnaea Entomologica 7.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/44060205">Suffrian, E. (1863) Zur Kenntniss der Südamerikanischen Cryptocephalen. Linnaea entomologica: Zeitschrift herausgegeben von dem Entomologischen Vereine in Stettin 15, 1–344.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/44060205">Suffrian, E. (1866) Zur Kenntniss der sudamerikanischen Cryptocephalen. Linnaea entomologica : Zeitschrift herausgegeben von dem Entomologischen Vereine in Stettin 16, 1–483.</citation>
+                    <citation identifier="https://doi.org/10.21930/agrosavia.manual.7404944">Vergara-Navarro, E.V., Montenegro-Silva, L.M. &amp; Serna, F. (2021) Catálogo de Coleoptera de la Colección Taxonómica Nacional de Insectos: “Luis María Murillo” (CTNI). Editorial AGROSAVIA.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/item/54503">Voet, Johannes Eusebius (1806) Catalogus systematicus coleopterorum. Catalogue systématique des coléoptères. Systematische naamlijst van dat geslacht van insecten dat men torren noemt. Tomus II. À la Haye, Chez G. Bakhusen, [1804]-1806, 412 pp.</citation>
+                    <citation identifier="https://doi.org/10.1002/mmnd.200700005">Wąsowska, M. (2007) Morphology of the first instar larva and of the egg of Labidostomis longimana (Linnaeus, 1761) and of Labidostomis tridentata (Linnaeus, 1758) (Coleoptera, Chrysomelidae, Clytrinae), with a key to clytrine genera with the first instar larva known. Deutsche Entomologische Zeitschrift 54, 51–67.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Listados de especies publicados por el Grupo Coleoptera de Colombia</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Página web</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-coleocol.png</resourceLogoUrl>
+                <collection>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/institution/d2a27206-87ab-47ea-b5fc-d2e57054b688</collectionIdentifier>
+                    <collectionName>California Academy of Sciences - CA</collectionName>
+                </collection>
+                <collection>
+                    <collectionName> Commonwealth Institute of Entomology - CIE</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>Colección personal</collectionIdentifier>
+                    <collectionName>Col. Monrós - CM</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/institution/9c227b27-8f4d-4db1-98a4-b2e3d917bba6</collectionIdentifier>
+                    <collectionName>The Hunterian, University of Glasgow - GLAHM</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/institution/1cfca87c-083e-4d67-8e60-cb7d311f6058</collectionIdentifier>
+                    <collectionName>Harvard University, Museum of Comparative Zoology - MCZ</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>Colección personal</collectionIdentifier>
+                    <collectionName>Privatsammlung Matthias Schöller - MESC</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>MHNG</collectionIdentifier>
+                    <collectionName>Muséum d&apos;histoire naturelle de Genève</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                    <collectionName>Natural History Museum - NHMUK</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/institution/c2bfdeef-9c03-435e-8465-c483dadd6995</collectionIdentifier>
+                    <collectionName>Royal Belgian Institute of Natural Sciences - RBINS</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/institution/586ee56e-b0fe-4dff-b7f9-aeb104f3308a</collectionIdentifier>
+                    <collectionName>Smithsonian Institution, National Museum of Natural History - USNM</collectionName>
+                </collection>
+                <collection>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/institution/ac439ab0-b80a-43ea-b2c3-bdaeaf0a52bd</collectionIdentifier>
+                    <collectionName>Museum für Naturkunde der Humboldt-Universitat - ZMBH</collectionName>
+                </collection>
+                <dc:replaces>https://ipt.biodiversidad.co/sib/resource?id=cryptocephalinae_colombia/v2.xml</dc:replaces>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+</eml:eml>

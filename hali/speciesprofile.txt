@@ -1,0 +1,11 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm
+organismnames.com/details.htm?lsid=3779582	TRUE	FALSE	FALSE	Adulto
+gbif.org/species/10012119	TRUE	FALSE	FALSE	Adulto
+gbif.org/species/1044407	TRUE	FALSE	FALSE	Adulto
+gbif.org/species/1044427	TRUE	FALSE	FALSE	Adulto
+organismnames.com/details.htm?lsid=3364002	TRUE	FALSE	FALSE	Adulto
+organismnames.com/details.htm?lsid=3779582	TRUE	FALSE	FALSE	Larva
+gbif.org/species/10012119	TRUE	FALSE	FALSE	Larva
+gbif.org/species/1044407	TRUE	FALSE	FALSE	Larva
+gbif.org/species/1044427	TRUE	FALSE	FALSE	Larva
+organismnames.com/details.htm?lsid=3364002	TRUE	FALSE	FALSE	Larva

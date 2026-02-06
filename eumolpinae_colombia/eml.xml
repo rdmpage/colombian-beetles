@@ -1,0 +1,677 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=eumolpinae_colombia/v2.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/off6un</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=eumolpinae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Eumolpinae (Coleoptera: Chrysomelidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Juan Sebastian</givenName>
+      <surName>Palacios Rodríguez</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigador asociado</positionName>
+    <address>
+        <city>Bogotá</city>
+        <administrativeArea>Cundinamarca</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>Sebbio97@hotmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5109-9520</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Juan Sebastian</givenName>
+      <surName>Palacios Rodríguez</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigador asociado</positionName>
+    <address>
+        <city>Bogotá</city>
+        <administrativeArea>Cundinamarca</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>Sebbio97@hotmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5109-9520</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Juan Sebastian</givenName>
+      <surName>Palacios Rodríguez</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigador asociado</positionName>
+    <address>
+        <city>Bogotá</city>
+        <administrativeArea>Cundinamarca</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>Sebbio97@hotmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5109-9520</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-08-02
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Eumolpinae (Coleoptera: Chrysomelidae) con ocurrencia conocida para el territorio colombiano. Se listan 6 tribus, 54 géneros y 231 especies. 107 especies son consideradas endémicas. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>escarabajos</keyword>
+            <keyword>coleópteros</keyword>
+            <keyword>listado</keyword>
+            <keyword>endemismo</keyword>
+            <keyword>especies endémicas</keyword>
+            <keyword>Coleoptera</keyword>
+            <keyword>Chrysomelidae</keyword>
+            <keyword>Phytophaga</keyword>
+            <keyword>Colombia</keyword>
+            <keyword>Eumolpinae</keyword>
+            <keyword>Megascelidini</keyword>
+            <keyword>Eumolpini</keyword>
+            <keyword>Habrophorini</keyword>
+            <keyword>Typophorini</keyword>
+            <keyword>Caryonodini</keyword>
+            <keyword>Cubispini</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan 231 especies de la subfamilia Eumolpinae (Coleoptera: Chrysomeloidea: Chrysomelidae) de 23 departamentos de Colombia: Cundinamarca (61 especies), Antioquia (41 especies), Tolima (27 especies), Boyacá (25 especies), siendo los departamentos con mayor cantidad de reportes; seguidos de Norte de Santander (20 especies), Magdalena (19 especies) y Valle del Cauca (17 especies); por último los departamentos de Meta (11 especies), Cauca (9 especies), Bolívar (7 especies), Atlántico, Nariño y Santander  (6 especies), Caldas (5 especies), Córdoba (4 especies), Cesar, Sucre y Putumayo (2 especies) y Amazonas, Arauca, Casanare, Chocó y Huila (1 especie). Los departamentos restantes no presentan reportes para Eumolpinae en la literatura consultada y de las especies registradas para el país 74 no poseen localidad específica conocida o no se puede identificar el departamento de la localidad dada por los autores.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1771-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-12-12</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan 6 tribus, 54 géneros y 231 especies. 107 especies son consideradas endémicas a partir de la revisión y los géneros Podocolaspis y Dolichenus parecen ser endémicos para el país. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. La información para este grupo se encuentra bastante dispersa, resaltando los aportes de Flowers y Bechyné  para el neotrópico, mientras que los estudios para Colombia son prácticamente inexistentes. A nivel de géneros y especies el grupo requiere de una amplia revisión y trabajo; diferentes autores se han referido a Eumolpinae como una subfamilia taxonómicamente desordenada y caótica (Reid, 1995; Gómez-Zurita et al., 2005).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chrysomelidae</taxonRankValue>
+                  <commonName>Escarabajos de las hojas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Eumolpinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Caryonodini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Caryonoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Cubispini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lobispa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Eumolpini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Adorea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Agrosterna</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Alethaxius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Allocolaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Antitypona</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Apterodina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Argoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Beltia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Brachypnoea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Callicolaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cayetunya</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Chalcophana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Chalcoplacis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Clisithera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Colaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Colaspoides</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Corysthea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Costalimaita</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Coytiera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Deuteronoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Dolichenus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Dryadomolpus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Endocephalus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Eumolpus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ephyraea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Fractipes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Glyptoscelis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hermesia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hylax</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Iphimeis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ledesmodina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Llanomolpus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Longeumolpus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Melinodea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Metaxyonycha</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Myochrous</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Nodocolaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Otilea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Percolaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Phanaeta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Podocolaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Prionodera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhabdocolaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhabdopterus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sphaeropis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Spintherophyta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Zenocolaspis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Habrophorini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Habrophora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Megascelidini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Megascelis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Typophorini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Metachroma</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Paria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Typophorus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Juan Sebastian</givenName>
+      <surName>Palacios Rodríguez</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigador asociado</positionName>
+    <address>
+        <city>Bogotá</city>
+        <administrativeArea>Cundinamarca</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>Sebbio97@hotmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5109-9520</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1946) y Bechyné (1953). Adicionalmente, fueron consultados trabajos más recientemente publicados para incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía, validez y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Eumolpinae (Coleoptera: Chyrsomeloidea: Chrysomelidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Eumolpinae (Coleoptera: Chrysomeloidea: Chrysomelidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo principalmente a partir de Bechyné (1953) y Blackwelder (1946), junto con trabajos posteriormente publicados.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Juan Sebastian</givenName>
+          <surName>Palacios Rodríguez</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-5109-9520</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-07-17T05:09:41.004+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/off6un">Palacios Rodríguez J S (2022): Listado de las especies de Eumolpinae (Coleoptera: Chrysomelidae) de Colombia. v2.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/off6un</citation>
+          <bibliography>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1914_num_19_2_25480">Achard J (1914) Rectification à la nomenclature des Chrysomelidae [Col.] Bulletin de la Société Entomologique de France 19(2): 71–72. https://www.persee.fr/doc/bsef_0037-928x_1914_num_19_2_25480</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/18638039">Baly JS (1859) Descriptions of new genera and species of Phytophagous insects. (Concluded from p. 61.). Annals and Magazine of Natural History. Series 3. 4(20): 124–128. DOI: 10.1080/00222935908697096</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51723351">Baly JS (1860) Descriptions of new genera and species of Eumolpidae. The Journal of Entomology 1: 23–36. https://www.biodiversitylibrary.org/page/51723351</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13387821">Baly JS (1864) Descriptions of new genera and species of Eumolpidae. Journal of Entomology, 2: 219-223.	https://www.biodiversitylibrary.org/page/13387821</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9187489">Baly JS (1864) Descriptions of some uncharacterized genera of Phytophaga. The Entomologist&apos;s Monthly Magazine. 1: 133–135. https://www.biodiversitylibrary.org/page/9187489</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13388035">Baly JS (1865) Attempt at a classification of the Eumolpidae. The Journal of entomology, 2: 433-442.	https://www.biodiversitylibrary.org/page/13388035</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14764253">Baly JS (1865) Descriptions of new genera and species of Phytophaga. Transactions of the Entomological Society of London, 3(2): 333-357. https://www.biodiversitylibrary.org/page/14764253</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32000198">Baly JS (1877) Descriptions of new species of phytophagous beetles belonging to the family Eumolpidae and a monograph of the genus Eumolpus. Transactions of the Entomological Society of London, 1: 37–56.	https://www.biodiversitylibrary.org/page/32000198</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14698478">Baly JS (1881) Descriptions of uncharacterized species of Eumolpidae, with notices of some previously described insects belonging to the same family. Transactions of the Entomological Society of London, 1881: 491-506.	https://www.biodiversitylibrary.org/page/14698478</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/585626">Baly JS (1885) Hispidae. pp. 1–124. In: Biologia Centrali-Americana. Insecta. Coleoptera. Vol. VI. Part 2. Phytophaga (part). London: Dulau &amp; Co. x + 249 pp., xiii pl. https://www.biodiversitylibrary.org/page/585626</citation>
+                <citation identifier="https://books.google.com.co/books?id=b2xZAAAAcAAJ&amp;lpg=PA1&amp;dq=A%20catalogue%20of%20Phytophaga%20(Coleoptera%2C%20Pseudotetramera)&amp;hl=es&amp;pg=RA1-PP1#v=onepage&amp;q=A%20catalogue%20of%20Phytophaga%20(Coleoptera,%20Pseudotetramera)&amp;f=false">Bates HW &amp; Clark H (1866) An appendix containing descriptions of new species. In Clark, H. A catalogue of Phytophaga (Coleoptera, Pseudotetramera), 1-88 pp. London.	https://books.google.com.co/books?id=b2xZAAAAcAAJ&amp;lpg=PA1&amp;dq=A%20catalogue%20of%20Phytophaga%20(Coleoptera%2C%20Pseudotetramera)&amp;hl=es&amp;pg=RA1-PP1#v=onepage&amp;q=A%20catalogue%20of%20Phytophaga%20(Coleoptera,%20Pseudotetramera)&amp;f=false</citation>
+                <citation identifier="https://kramerius.lib.cas.cz/view/uuid:a48dfda3-bac8-11e1-2544-001143e3f55c?page=uuid:a48dfdf5-bac8-11e1-2544-001143e3f55c">Bechyně J (1947) Příspěvek k poznání Středoamerických druhů rodu Chalcophana Chevrl. Adnotationes ad cognitionem specierum Americae Centralis generis Chalcophana Chevrl. (Col. Phytophaga, Eumolpidae.). Časopis Československé Společnosti Entomologické 44(3–4): 81–85. https://kramerius.lib.cas.cz/view/uuid:a48dfda3-bac8-11e1-2544-001143e3f55c?page=uuid:a48dfdf5-bac8-11e1-2544-001143e3f55c</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1948_Separata_47.pdf">Bechyně J (1948) Notes sur des &quot;Chrysomeloidea&quot; de l&apos;Amérique du Sud. Acta Zoologica Lilloana 5: 185–202.	http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1948_Separata_47.pdf</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1949_Separata_54.pdf">Bechyné J (1949) Liste provisoire des Eumolpides de la Republique Argentine et observations diverses sur les Eumolpides de l&apos;Amerique du Sud (Col., Chrysomeloidea). Acta Zoologica Lilloana, 8: 457–535.	http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1949_Separata_54.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/29138310">Bechyné J (1950) Les générotypes des Eumolpides de l’Amérique du Sud et du Centre avec les diagnoses des formes nouvelles (Col. Phytoph. Chrysomeloidea). Mitteilungen der Münchner Entomologischen Gesellschaft, 40: 264–292.	https://www.biodiversitylibrary.org/page/29138310</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45935149">Bechyné J (1950). Notes sur les Chrysomeloidea de l&apos;Amerique du Sud et du Centre. (Col. Phytoph.). Entomologische Arbeiten aus dem Museum G. Frey, 1: 237–269. https://www.biodiversitylibrary.org/page/45935149</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/29138291">Bechyne J (1950) Notes sur les Eumolpides Americains (Col. Phytophaga). Mitteilungen de Munchner Entomologischen Gesellschaft, 40: 245–263. https://www.biodiversitylibrary.org/page/29138291</citation>
+                <citation identifier="https://doi.org/10.1080/00222935008654043">Bechyné J (1950) Notes sur les Eumolpides de l&apos;Amérique du Sud, (Col. Phytophaga). Annals and Magazine of Natural History, (12) 3(25): 70–85.	https://doi.org/10.1080/00222935008654043</citation>
+                <citation identifier="https://doi.org/10.1080/00222935008654120">Bechyné J (1950) Notes sur les Eumolpides de l&apos;Amérique du Sud. Annals and Magazine of Natural History, (12) 3(36): 1067–1091. https://doi.org/10.1080/00222935008654120</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1950_Separata_63.pdf">Bechyné J (1950) Nuovi Eumolpidi Sud - Americani. Memorie del Museo Civico di Storie Naturale di Verona, 2: 99–106. http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1950_Separata_63.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45935465">Bechyné J (1951) Liste provisoire des Eumolpides de Bolivie et observations diverses sur les especes de l&apos;Amerique du Sud (Col. Phytophaga). Entomologische Arbeiten aus dem Museum G. Frey, 2 (2):227–352.	https://www.biodiversitylibrary.org/page/45935465</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/49645311">Bechyné J (1953) Katalog der neotropischen Eumolpiden (Col. Phytoph. Chrysomeloidea). Entomologische Arbeiten aus dem Museum G. Frey, 4: 26–304. https://www.biodiversitylibrary.org/page/49645311</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/content/la-liste-des-eumolpides-de-rio-grande-do-sul-br%C3%A9sil-et-observations-diverses-sur-les-esp%C3%A9ces">Bechyné J (1954) La liste des eumolpides de Rio Grande do Sul (Brésil) et observations diverses sur les espèces néotropicales. Arquivos do Museu Paranaense, 10: 143–240. http://chrysomelidae.miza-ucv.org.ve/content/la-liste-des-eumolpides-de-rio-grande-do-sul-br%C3%A9sil-et-observations-diverses-sur-les-esp%C3%A9ces</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45918278">Bechyné J (1955) Reise des Herrn G. Frey in Südamerika: Eumolpidae (Col. Phytophaga). Entomologische Arbeiten aus dem Museum G. Frey, 6(2): 569–657. https://www.biodiversitylibrary.org/page/45918278</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34909536">Bechyné J (1957) Eumolpides neotropicaux de la collection du Museo Civico di Storia Naturale “Giacomo Doria” di Genova. Annali del Museo Civico di Storia Naturale “Giacomo Doria”, 69: 226-247.	https://www.biodiversitylibrary.org/page/34909536</citation>
+                <citation identifier="https://helda.helsinki.fi/handle/10138/31387">Bechyné J (1957) Les Chrysomeloidea néotropicaux des collections du Muséum Zool. de l&apos;Université à Helsingfors. (2e contribution). Notulae Entomologicae, 37: 53–57. https://helda.helsinki.fi/handle/10138/31387</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45990136">Bechyné J (1958) Notizen zu den neotropischen Chrysomeloidea (Col. Phytophaga). Entomolgische Arbeiten aus dem Museum G. Frey, 9: 478-706.	https://www.biodiversitylibrary.org/page/45990136</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/LibroAzulParte01.pdf">Bechyné J (1997) Savini V (ed.) Evaluación de los datos sobre los Phytophaga dañinos en Venezuela (Coleoptera). Parte I. Boletín de Entomología Venezolana. Serie Monografias, 1: 1–278. http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/LibroAzulParte01.pdf</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1967_Separata_169.pdf">Bechyné J &amp; Špringlová de Bechyné B (1967) Notes sur les Phytophaga neotropicaux (Coleoptera). Revista de la Facultad de Agronomia, Universidad Central de Venezuela, 4(2): 5–47. http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1967_Separata_169.pdf</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1968_Separata_175.pdf">Bechyné J &amp; Špringlová de Bechyné B (1968) Notas sobre el genero Colaspis (Col. Phytophaga Eumolpidae). Memoria de la Sociedad de Ciencias Naturales La Salle, 28(81): 225–264. http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1968_Separata_175.pdf</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1969_Separata_180.pdf">Bechyné J &amp; Špringlová de Bechyné B (1969) La posición sistemática de Megascelis Chevrolat (Col. Phytophaga). Revista de la Facultad de Agronomía, Universidad Central de Venezuela, 5(3): 65–76. http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1969_Separata_180.pdf</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1969_Separata_179.pdf">Bechyné J &amp; Špringlová de Bechyné B (1969) Notas sobre Phytophaga americanos (Coleoptera). Revista de la Facultad de Agronomia, Universidad Central de Venezuela, 5(3): 5–64. http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1969_Separata_179.pdf</citation>
+                <citation identifier="http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1969_Separata_179.pdf">Bechyné J &amp; Špringlová de Bechyné B (1969) Notas sobre Phytophaga americanos (Coleoptera). Revista de la Facultad de Agronomia, Universidad Central de Venezuela, 5(3): 5–64. http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1969_Separata_179.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE (1946). Checklist of the coleopterous insects of Mexico, Central America, the West Indies, and South America, pt. 4. Bulletin of the United States National Museum. i–iii, 551-763. https://doi.org/10.5479/si.03629236.185.4</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25142781">Blake DH (1947) The species of Myochrous from the West Indies (Coleoptera). Proceedings of the Entomological Society of Washington, 49(1): 22–28. https://www.biodiversitylibrary.org/page/25142781</citation>
+                <citation identifier="https://repository.si.edu/bitstream/handle/10088/16523/1/USNMP-101_3271_1950.pdf">Blake DH (1950) A revision of the beetle genus Myochrous. Proceedings of the United States National Museum, 101(3271): 1-68. https://repository.si.edu/bitstream/handle/10088/16523/1/USNMP-101_3271_1950.pdf</citation>
+                <citation identifier="https://repository.si.edu/bitstream/handle/10088/16957/USNMP-123_3604_1967.pdf">Blake DH (1967) Revision of the Beetles of Genus Glyptoscelis (Coleoptera: Chrysomelidae). Proceedings of the United States National Museum, 123 (3604): 1–53. 	https://repository.si.edu/bitstream/handle/10088/16957/USNMP-123_3604_1967.pdf</citation>
+                <citation identifier="https://repository.si.edu/bitstream/handle/10088/5405/SCtZ-0057-Lo_res.pdf">Blake DH (1970) A Review of the Beetles of the Genus Metachroma CHEVROLAT (Coleoptera: Chrysomelidae). Smithsonian Contributions to Zoology, 57: 1–111. DOI: 10.5479/si.00810282.57</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16290744">Blake DH (1973) Colaspis fulvotestacea Lefèvre and its close relatives (Coleoptera: Chrysomelidae). Proceedings of the Entomological Society of Washington, 75 (1): 84-88. https://www.biodiversitylibrary.org/page/16290744</citation>
+                <citation identifier="https://www.jstor.org/stable/24536605">Blake DH (1975) Colaspis melancholica Jacoby and its close relatives (Coleoptera: Chrysomelidae). Journal of the Washington Academy of Sciences, 65(4): 158–162. https://www.jstor.org/stable/24536605</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/58741489">Blake DH (1976) A note on four old species names in Colaspis (Coleoptera: Chrysomelidae). The Coleopterists Bulletin, 30(3): 291–292. https://www.biodiversitylibrary.org/page/58741489</citation>
+                <citation identifier="https://books.google.com.co/books?id=lLYoAAAAYAAJ&amp;pg=PA1&amp;redir_esc=y#v=onepage&amp;q&amp;f=false">Blake DH (1976) The brown semicostate and costate species of Colaspis in Mexico and Central America (Coleoptera: Chrysomelidae). Technical Bulletin (United States. Dept. Of Agriculture) No. 1534: 1–40.	https://books.google.com.co/books?id=lLYoAAAAYAAJ&amp;pg=PA1&amp;redir_esc=y#v=onepage&amp;q&amp;f=false</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12120117">Bowditch FC (1921) South American Eumolpidae, mostly of the group Colaspini. The Entomologist, 54, pp. 25-30, 72-76, 169-172, 190-195, 214-216, 234-236, 253-256. https://www.biodiversitylibrary.org/page/12120117</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9654857">Chapuis F (1874) Histoire naturelle des Insectes. Genera des coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome dixième. Famille des phytophages. Librairie Encyclopédique de Roret, Paris, 455 pp. https://www.biodiversitylibrary.org/page/9654857</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9322797">Chevrolat LAA (1836) In: Dejean PFMA. Catalogue des coléoptères de la collection de M. le comte Dejean. [Livraison 5]. Méquignon-Marvis, Paris, pp. 361-443. https://www.biodiversitylibrary.org/page/9322797</citation>
+                <citation identifier="https://www.google.com/books/edition/A_Catalogue_of_Phytophaga_Coleoptera_Pse/b2xZAAAAcAAJ?hl=en&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover">Clark H &amp; Bates HW (1866) A Catalogue of Phytophaga-Coleoptera, Pseudotetramera. Part I. I. Sagridæ. II. Donacidæ. III. Crioceridæ. IV. Megalopidæ. With an appendix, containing descriptions of new species, by H. W. Bates and Rev. H. Clark. United Kingdom: Williams &amp; Norgate. https://www.google.com/books/edition/A_Catalogue_of_Phytophaga_Coleoptera_Pse/b2xZAAAAcAAJ?hl=en&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/1966705">Crotch GR (1873) Materials for the Study of the Phytophaga of the United States. Proceedings of the Academy of Natural Sciences of Philadelphia, 25(1): 19–83. https://biodiversitylibrary.org/page/1966705</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9322797">Dejean PFMA (1836) Catalogue des coléoptères de la collection de M. le comte Dejean. [Livraison 5]. Méquignon-Marvis, Paris, pp. 361-443. https://www.biodiversitylibrary.org/page/9322797</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7251438">Erichson GF (1847) Conspectus insectorum coleopterorum quae in Republica Peruana observata sunt. Archiv für Naturgeschichte, 13: 67-185.	https://www.biodiversitylibrary.org/page/7251438</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35303535">Erichson WF (1848) Die Insecten. In: M.R. Schomburgk, Reisen in Britisch Guiana. Weber, Leipzig, 3: 533–617.	https://www.biodiversitylibrary.org/page/35303535</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25551417">Fabricius JC (1775) Systema entomologiae, sistens insectorum classes, ordines, genera, species, adiectis synonymis, locis, descriptionibus, observationibus. Libraria Kortii, Flensburgi et Lipsiae. xvi+ 832 pp.	https://www.biodiversitylibrary.org/page/25551417</citation>
+                <citation identifier="https://books.google.com.co/books?id=KYo-AAAAcAAJ&amp;hl=es&amp;pg=PR1#v=onepage&amp;q&amp;f=false">Fabricius JC (1787) Mantissa Insectorum: Sistens Eorvm Species Nvper Detectas. Adiectis Characteribvs, Genericis, Differentiis Specificis, Emendationibvs, Observationibvs, Vol. 1, 348 pp. https://books.google.com.co/books?id=KYo-AAAAcAAJ&amp;hl=es&amp;pg=PR1#v=onepage&amp;q&amp;f=false</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/51985786">Fabricius JC (1792) Entomologia systematica emendata et aucta. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. Tomus I. Pars 2. Hafniae: C.G. Proft, 538 pp.	https://biodiversitylibrary.org/page/51985786</citation>
+                <citation identifier="https://books.google.com.co/books?id=8Eo3AQAAMAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false">Fabricius JC (1801) Systema eleutheratorum secundum ordines, genera, species, vol. 1, 506 pp. 	https://books.google.com.co/books?id=8Eo3AQAAMAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/16152249">Flowers RW (1995) Hermesia Lefèvre, a resurrected genus of neotropical Eumolpinae (Coleoptera: Chrysomelidae). Proceedings of the Entomological Society of Washington, 97(1): 35–45.	https://biodiversitylibrary.org/page/16152249</citation>
+                <citation identifier="https://journals.flvc.org/flaent/article/view/59163/56842">Flowers RW (1995) Some corrections to the generic records of Central American Eumolpinae (Chrysomelidae: Coleoptera). The Florida Entomologist, 78(3): 553–557. https://journals.flvc.org/flaent/article/view/59163/56842</citation>
+                <citation identifier="http://www.inbio.eas.ualberta.ca/papers/eumolpinae/index.html">Flowers RW (1996) La subfamilia Eumolpinae (Coleoptera: Chrysomelidae) en América Central. Revista de Biología Tropical Special Publication 2: 1–59. http://www.inbio.eas.ualberta.ca/papers/eumolpinae/index.html</citation>
+                <citation identifier="https://www.jstor.org/stable/4009312">Flowers RW (1997) Revision of the genus Cayetunya Bechyné (Coleoptera: Chrysomelidae: Eumolpinae), with descriptions of three new species. The Coleopterists Bulletin, 51(4): 384–399. https://www.jstor.org/stable/4009312</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.631.1.1">Flowers RW (2004) A review of the Neotropical genus Prionodera Chevrolat (Coleoptera, Chrysomelidae, Eumolpinae) with description of a new genus. Zootaxa, 631: 1–54. https://doi.org/10.11646/zootaxa.631.1.1</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.549.1.1">Flowers RW (2004) New flightless Eumolpinae of the genera Apterodina Bechyné and Brachypterodina n. gen. (Coleoptera: Chrysomelidae) from the Neotropics. Zootaxa, 549: 1–18. https://doi.org/10.11646/zootaxa.549.1.1</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/1182/">Flowers RW (2018) A review of the genus Beltia Jacoby (Chrysomelidae: Eumolpinae: Eumolpini), with descriptions of fourteen new species from Costa Rica, Panama, and northwestern South America. Insecta Mundi, 672: 1–43. 	https://digitalcommons.unl.edu/insectamundi/1182/</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/1381/">Flowers RW (2021) A new species and significant range extension for the genus Fractipes Bechynĕ (Coleoptera: Chrysomelidae: Eumolpinae: Eumolpini). Insecta Mundi, 0890: 1–6.	https://digitalcommons.unl.edu/insectamundi/1381/</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53456289">Germar EF (1824) Insectorum species novae aut minus cognitae, descriptionibus illustratae. C. Hendelii et Filii, Halae. xxiv + 624 pp. + 2 pls. https://www.biodiversitylibrary.org/page/53456289</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25780913">Gistel JNFX (1848) Abtheilung I. Thierreich. Pp. 1–626. In: GISTEL JNFX &amp; BROMME T: Handbuch der Naturgeschichte aller drei Reiche, für Lehrer und Lernende, für Schule und Haus. [1850], R. Hoffmann, Stuttgart, 1037 pp. + 48 pls. https://www.biodiversitylibrary.org/page/25780913</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25118453">Harold E (1874) VII. Beiträge zur Kenntniss der amerikanischen Eumolpiden. Coleopterologische Hefte, München, 12: 53 - 87. https://www.biodiversitylibrary.org/page/25118453</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25118609">Harold E (1875) Beschreibung zweiter neuen Eumolpiden. Coleopterologische Hefte, München, 13: 31-32.	https://www.biodiversitylibrary.org/page/25118609</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25118939">Harold E (1875) Diagnosen neuer Arten. Coleopterologische Hefte, 14: 137-140.	https://www.biodiversitylibrary.org/page/25118939</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25118897">Harold E (1875) Ueber Chrysomelidae aus Cordova. Coleopterologische Hefte, 14: 95–106. 	https://www.biodiversitylibrary.org/page/25118897</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42664685">Hope FW (1840) The coleopterist’s manual. Part the third, Various families, genera, and species, of beetles, recorded by Linneus and Fabricius. Also, descriptions of newly discovered and unpublished insects, J. C. Bridgewater and Bowdery &amp; Kerby, London, 191 pp. https://www.biodiversitylibrary.org/page/42664685</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28519706">Jacoby M (1878) Description of new species of phytophagous Coleoptera from Central and South America. Proceedings of the Zoological Society of London, pp. 982-996. https://www.biodiversitylibrary.org/page/28519706</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12654906">Jacoby M (1878) Verzeichniss der von Herrn Ed. Steinheil in Neu-Granada gesammelten Cryptocephalini und Criocerini. Mittheilungen Des Münchener Entomologischen Vereins, 2, 134–162.	https://www.biodiversitylibrary.org/page/12654906</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/584574">Jacoby M (1881) Crioceridae. Insecta. Coleoptera. Biologia Centrali-Americana, Vol. 6: 2-19.	https://www.biodiversitylibrary.org/page/584574</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/30759610">Jacoby M (1881) Descriptions of new genera and species of phytophagous Coleoptera. Proceedings of the Zoological Society of London, 1881: 439-450. https://www.biodiversitylibrary.org/page/30759610</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/584677">Jacoby M (1881) Eumolpidae. Insecta. Coleoptera. Biologia Centrali-Americana, Vol. 6: 105–187.	https://www.biodiversitylibrary.org/page/584677</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/585199">Jacoby M (1888) Crioceridae. Insecta. Coleoptera, Supplement to Phytophaga. Biologia Centrali-Americana, Vol. 6: 8-56. https://www.biodiversitylibrary.org/page/585199</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/585383">Jacoby M (1890) Eumolpidae. Insecta. Coleoptera, Supplement to Phytophaga. Biologia Centrali-Americana, Vol. 6: 183–241.	https://www.biodiversitylibrary.org/page/585383</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13945752">Jacoby M (1893) Descriptions of some new species of phytophagous Coleoptera from Bolivia. Annales de la Societé entomologique de Belgique, 37: 272-281. https://www.biodiversitylibrary.org/page/13945752</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11654534">Jacoby M (1899) Descriptions of new species of South American phytophagous Coleoptera. The Entomologist, 32: 270-273.	https://www.biodiversitylibrary.org/page/11654534</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7991634">Jacoby M (1899) Descriptions of two new species of Hermesia (Chrysomelidae, fam. Eumolpidae). Annali del Museo Civico di Storia Naturale di Genova. Series 2, 40: 351–353.	https://www.biodiversitylibrary.org/page/7991634</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12030762">Jacoby M (1900) Descriptions of new species and a new genus of South American Eumolpidae, with remarks on some of the genera. Transactions of the Entomological Society of London, 1900: 453-510.	https://www.biodiversitylibrary.org/page/12030762</citation>
+                <citation identifier="https://doi.org/10.1515/9783110274462.189">Jolivet P, Lawrence JF, Verma KK, Slipinski A (2014) 2.7.3 Eumolpinae C. G. Thomson, 1859. In: Leschen RAB, Beutel RG (Eds.). Handbook of Zoology, Arthropoda: Insecta: Coleoptera, Volume 3: Morphology and Systematics (Phytophaga). De Gruyter, Berlin, Germany, pp. 217–225. https://doi.org/10.1515/9783110274462.189</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340963">Kirsch T (1870) Beiträge zur Käferfauna von Bogotà. Berliner Entomologische Zeitschrift, 14: 337–378.	https://www.biodiversitylibrary.org/page/8340963</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32915534">Lacordaire T (1845) Monographie des coléoptères subpentamères de la famille des phytophages. Vol. 1. C. Muquardt, Paris, 740 pp. https://www.biodiversitylibrary.org/page/32915534</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25529134">Laporte MFL (1833) Mémoire sur les divisions du genre Colaspis. Revue entomologique, 1: 18-25.	https://www.biodiversitylibrary.org/page/25529134</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp. https://biodiversitylibrary.org/page/24884921</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24864461">Latreille PA (1825) Familles naturelles du règne animal, exposées succinctement et dans un ordre analytique, avec l’indication de leurs genres. J.B. Baillière, Paris, 570 pp. https://www.biodiversitylibrary.org/page/24864461</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/1852094">Latreille PA (1829) Tome V. Suite et fin des insectes. In: Cuvier G.: Le règne animal distribué d&apos;après son organisation, pour servir de base a l&apos;histoire naturelle des animaux et d&apos;introduction à l&apos;anatomie comparée, Nouvelle édition, revue et augmentée. Déterville, Paris, xxii + 556 pp. https://www.biodiversitylibrary.org/page/1852094</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/30021373">Latreille PA (1833) Insectes de l&apos;Amerique equinoxiale. pp. 9-138. in Humboldt H. &amp; Bonpland. A. (eds.) Recueil d&apos;Observations de Zoologie et d&apos;Anatomie Comparée; faites dans l&apos;ocean Atlantique, dans l&apos;Interior du nouveau continent et dans le mer du Sud, pendant les années 1799, 1800, 1801, 1802 et 1803, 2. J. Smith et Gide, Paris; 352 pp + Pl. xli-lvii. https://www.biodiversitylibrary.org/page/30021373</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/47535599">LeConte JL (1858) Description of new species of Coleoptera, chiefly collected by the United States and Mexican Boundary Commission, under Major W. H. Emory, U. S. A. Proceedings of the Academy of Natural Sciences of Philadelphia, 10: 59–89.	https://www.biodiversitylibrary.org/page/47535599</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33047493">Lefèvre E (1875) Descriptions d&apos;eumolpides nouveaux ou peu connus. Deuxiéme mémoire. Revue et magasin de zoologie pure et appliquée (3), 3: 102-139. https://www.biodiversitylibrary.org/page/33047493</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33761242">Lefèvre E (1876) Descriptions d&apos;eumolpides nouveaux ou peu connus. Revue et magasin de zoologie pure et appliquée (3), 4: 278-311. https://www.biodiversitylibrary.org/page/33761242</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8244443">Lefèvre E (1877) Descriptions de coléopterés nouveaux ou peu connus de la famille des eumolpides. Part I. Annales de la Société entomologique de France, (5) 7: 115-166. https://www.biodiversitylibrary.org/page/8244443</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8244944">Lefèvre E (1877) La description suivante d&apos;un genre nouveau de coléoptères, appartenant à la famille des eumolpides. Bulletin de la Société entomologique de France, (5)7: 178-179. https://www.biodiversitylibrary.org/page/8244944</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12654884">Lefèvre E (1878) Voyage de M.E. Steinheil la Nouvelle Grenade. Eumolpides. Mitteilungen Muenchener Entomologischen Vereinigung, 2: 112–133. https://www.biodiversitylibrary.org/page/12654884</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32550528">Lefèvre E (1884) Description d&apos;un nouveau genre de la famille des eumolpides. Bulletin de la Société entomologique de France, 4: 44-45. https://www.biodiversitylibrary.org/page/32550528</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52116991">Lefèvre E (1884) Descriptions de quatre genres nouveaux et de plusieurs espèces nouvelles de coléoptères de la famille des eumolpides. Bulletin de la Société entomologique de Belgique, 28: 193-206.	https://www.biodiversitylibrary.org/page/52116991</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52117079">Lefèvre E (1884) Descriptions of new species of Chrysomelidae. Bulletin de la Société entomologique de Belgique (3), 41: 281-282. https://www.biodiversitylibrary.org/page/52117079</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52116953">Lefèvre E (1884) Insectes déterminés. Bulletin ou Comptes-Rendus des Séances de la Société Entomologique de Belgique, 1884: clv–clvi.	https://www.biodiversitylibrary.org/page/52116953</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32550604">Lefèvre E (1884) Le diagnoses de nouvelles espèces d&apos;Eumolpides. Bulletin de la Société Entomologique de France. Série 6. 4: 120-121. https://www.biodiversitylibrary.org/page/32550604</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32550529">Lefèvre É (1884) Les rectifications suivantes, concernant la famille des Eumolpides. Bulletin de la Société entomologique de France, 1884: xlv–xlvi. https://www.biodiversitylibrary.org/page/32550529</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10172165">Lefèvre E (1885) Description de quatre nouvelles espèces d&apos;eumolpides. Bulletin de la Société entomologique de France, series 6. 5: 189-191. https://www.biodiversitylibrary.org/page/10172165</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27434526">Lefèvre É (1885) Eumolpidarum hucusque cognitarum catalogus, sectionum conspectu systematico, generum sicut et specierum nonnullarum novarum descriptionibus adjunctis. Mémoires de la Société Royale des Sciences de Liège (2) 11: 1–172. https://www.biodiversitylibrary.org/page/27434526</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34027038">Lefèvre É (1886) Descriptions de quatre nouvelles espèces de coléoptères de la famille des eumolpides, qui lui ont été communiquées par M. Alfred Guillot. Bulletin de la Société entomologique de France, series 6. 6: 138-139.	https://www.biodiversitylibrary.org/page/34027038</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32438889">Lefèvre È (1889) Descriptions d&apos;un genre nouveau et de plusieurs nouvelles espèces de coléoptères phytophages de la famille des eumolpides. Annales de la Société entomologique de France, (6), 9: 337-340. 	https://www.biodiversitylibrary.org/page/32438889</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32438881">Lefèvre E (1889) Voyage de M. E. Simone au Venezuela. 6° mémoire. Clytrides, Lamprosomides et Eumolpides. Annales de la Société entomologique de France, (6), 9: 329-336.	https://www.biodiversitylibrary.org/page/32438881</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12304179">Lefèvre E (1891) Descriptions d&apos;espèces nouvelles de clytrides et d&apos;eumolpides. Annales de la Société entomologique de Belgique, 35: 248-279. https://www.biodiversitylibrary.org/page/12304179</citation>
+                <citation identifier="http://www.bio-nica.info/RevNicaEntomo/18-Chrysomelidae.pdf">Maes JM &amp; Staines CL (1991) Catálogo de los Chrysomelidae (Coleoptera) de Nicaragua. Revista Nicaragüense de Entomología, 18: 1-53. http://www.bio-nica.info/RevNicaEntomo/18-Chrysomelidae.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16179072">Monrós F (1954) Notes and synonyms in Chrysomelidae (Coleoptera). Proceedings of the Entomological Society of Washington 56(1): 23–26. https://www.biodiversitylibrary.org/page/16179072</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/45942645">Monrós F &amp; Bechyné J (1956) Über einige verkannte Chrysomeliden-Namen. Entomologische Arbeiten aus dem Museum G. Frey, 7(3): 1118–1137.	https://biodiversitylibrary.org/page/45942645</citation>
+                <citation identifier="https://doi.org/10.1515/9783110274462.189">Morse G, Borowiec L, Świętojańska J, Verma KK, Lawrence JF, Ślipiński A, Chamorro ML, Vencl FV, Leschen RAB, Nadein KS, Bezdêk J, Konstantinov AS, Reid CAM (2014) 2.7. Chrysomelidae Latreille, 1802. En Hanbook of Zoology  Arthropoda: Insecta: Coleoptera. Volume 3 Morphology and Systematics. In: Volume 3 Morphology and Systematics. De Gruyter, pp. 189–284. https://doi.org/10.1515/9783110274462.189	https://doi.org/10.1515/9783110274462.189</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40642901">Olivier GA (1808) Entomologie, ou histoire naturelle des insectes, avec leurs caractères génériques et spécifiques, leur description, leur synonymie, et leur figure enluminée. Coléoptères. Tome sixième. pp. 613–1104. Desray, Paris.	https://www.biodiversitylibrary.org/page/40642901</citation>
+                <citation identifier="https://doi.org/10.2307/3493857">Ostmark HE (1975) Banana pests in the genus Colaspis, including description of a new species (Coleoptera: Chrysomelidae). The Florida Entomologist, 58(1), 1–8. https://doi.org/10.2307/3493857</citation>
+                <citation>Papp C (1949) Einige neue beiträge zur Kenntnis der Chrysomeliden fauna (38. Beitrag zur Kenntnis der Chrysomeliden). Miscellanea Entomologica, 46: 11-16.</citation>
+                <citation>Papp CS (1952) Neubeschreibungen über einige Chrysomeliden aus Südamerika (Coleopt.). Acta Zoologica Lilloana, 10: 291–298.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57932815">Perty M (1832) Delectus Animalium Articulatorum quae in itinere per Brasiliam annis MDCCCXVII - MDCCCXX jussu et auspiciis Maximiliani Josephi I. Bavariae Regis Augustissimi, peracto collegerunt Dr J. B. de Spix et Dr. C. F. Ph. de Martius, München 2: 122. https://www.biodiversitylibrary.org/page/57932815</citation>
+                <citation identifier="https://doi.org/10.1007/978-3-030-35143-4_10">Pinzón-Florián OP (2020) Pests management in Colombian forest plantations (p.: 145-169). In: Estay, S. (eds) Forest Pest and Disease Management in Latin America. p. 239. Springer, Cham.  https://doi.org/10.1007/978-3-030-35143-4_10</citation>
+                <citation identifier="https://web.archive.org/web/20200722181033/http://saber.ucv.ve/jspui/bitstream/123456789/13403/1/1993_Savini_Nuevas%20contribuciones%20al%20g%c3%a9nero%20Maecolaspis.pdf">Savini VP (1993) Nuevas contribuciones al género Maecolaspis (Coleoptera, Chrysomelidae: Eumolpinae). Boletín de Entomología Venezolana N.S., 8(2): 151–155. 	https://web.archive.org/web/20200722181033/http://saber.ucv.ve/jspui/bitstream/123456789/13403/1/1993_Savini_Nuevas%20contribuciones%20al%20g%c3%a9nero%20Maecolaspis.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45986179">Scherer G (1964) Beitrag Zur Kenntnis Der Neotropischen Eumolpidenfauna (Coleoptera: Chrysomelidae: Eumolpinae). Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München, 15: 111–128.	https://www.biodiversitylibrary.org/page/45986179</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/69.5.877">Schultz WT (1976) Review of the genus Spintherophyta (Coleoptera: Chrysomelidae) in North America North of Mexico. Annals of the Entomological Society of America. 69 (5): 877–881. https://doi.org/10.1093/aesa/69.5.877</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32651107">Sharp D, Kolbe HJ, Jacoby M (1901) Beschreibung der neuen Arten. In Reise von der Prinzessin Therese von Bayern in Süd-Amerika. Berliner Entomologische Zeitschrift, 46: 478-485. 	https://www.biodiversitylibrary.org/page/32651107</citation>
+                <citation identifier="http://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-royal-institute-of-natural-sciences-of-belgium-second-series/60-1960/vol-60-3800216-text.pdf">Špringlová B (1960) Essai monographique du genre Eumolpus (Coleoptera Phytophaga). Institut Royal des Sciences Naturelles de Belgique, Mémoires (Deuxième Série) 60: 1–79. http://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-royal-institute-of-natural-sciences-of-belgium-second-series/60-1960/vol-60-3800216-text.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16279340">Staines CL (2001) A new genus and two new species of Eumolpinae (Coleoptera: Chrysomelidae) from tropical America. Proceedings of the Entomological Society of Washington, 103(1): 98–102.	https://www.biodiversitylibrary.org/page/16279340</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-75.4.779">Sublett CA, Cook JL (2021) A comprehensive revision of the genus Metaparia Crotch, 1873 (Coleoptera: Chrysomelidae: Eumolpinae) and description of a new genus. The Coleopterists Bulletin, 75, 779-811. https://doi.org/10.1649/0010-065X-75.4.779</citation>
+                <citation identifier="https://doi.org/10.21930/agrosavia.manual.7404944">Vergara EV, Montenegro LM, Serna F (2021) Catálogo de Coleoptera de la Colección Taxonómica Nacional de Insectos: “Luis María Murillo” (CTNI). https://doi.org/10.21930/agrosavia.manual.7404944</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8894862">Weber F (1801) Observationes entomologicae, continentes novorum quae dondidit generum characteres, et nuper detectarum specierum descriptiones, Kiliae, 116 pp. https://www.biodiversitylibrary.org/page/8894862</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12558567">Weise J (1913) Synonymische Bemerkungen. Wiener entomologische Zeitung, 32: 17-18.	https://www.biodiversitylibrary.org/page/12558567</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/6412960">Weise J (1921) Wissenschaftliche Ergebnisse der schwedischen entomologischen Reise des Herrn Dr. A. Roman in Amazonas 1914—1915. 6. Chrysomelidae. Arkiv för Zoologi, 14(1): 1–205.	https://www.biodiversitylibrary.org/page/6412960</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>AUEM</parentCollectionIdentifier>
+                  <collectionIdentifier>gbif.org/grscicoll/collection/129dc3ab-c515-4369-abf0-555ecc14faa9</collectionIdentifier>
+                <collectionName>Auburn University Entomological Museum, Auburn, Alabama, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>CNCI</parentCollectionIdentifier>
+                  <collectionIdentifier>http://www.canacoll.org/</collectionIdentifier>
+                <collectionName>Canadian National Collection of Insects, Arachnids, and Nematodes, Agriculture and Agri-Food Canada, Ottawa, Canadá</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>CTNI</parentCollectionIdentifier>
+                  <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 057</collectionIdentifier>
+                <collectionName>Colección Taxonómica Nacional de Insectos &quot;Luis Maria Murillo&quot;, Tibaitatá, Cundinamarca Colombia</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>FSCA</parentCollectionIdentifier>
+                  <collectionIdentifier>gbif.org/grscicoll/collection/fb57ab82-a270-41e7-b72d-474d782c1421</collectionIdentifier>
+                <collectionName>Florida State Collection of Arthropods, Museo de Entomología, Gainesville, Florida, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                  <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 003</collectionIdentifier>
+                <collectionName>Instituto Alexander von Humboldt, Villa de Leyva, Boyacá, Colombia</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>NHMB</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.nmbs.ch/home/en/museum/sammlungen/biowissenschaftlich/insekten/kaefersammlung-Frey.html</collectionIdentifier>
+                <collectionName>Naturhistorisches Museum, Basel, Suiza</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>QCAZ</parentCollectionIdentifier>
+                  <collectionIdentifier>gbif.org/grscicoll/collection/35f8d503-c5ef-4c83-9338-2bed1e2c4e33</collectionIdentifier>
+                <collectionName>Museo de Zoología, Pontificia Universidad Católica de Ecuador, Quito, Ecuador</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>USNM</parentCollectionIdentifier>
+                  <collectionIdentifier>gbif.org/grscicoll/collection/65a66985-00f1-4b99-8378-ca41f6bcc9c1</collectionIdentifier>
+                <collectionName>National Museum of Natural History, Washington D.C., Estados Unidos</collectionName>
+              </collection>
+          <dc:replaces>https://ipt.biodiversidad.co/sib/resource?id=eumolpinae_colombia/v2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

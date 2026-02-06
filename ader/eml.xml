@@ -1,0 +1,251 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=ader/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/bo97af</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ader</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Aderidae (Coleoptera: Tenebrionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2021-08-27
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Aderidae (Coleoptera: Tenebrionoidea) con ocurrencia conocida para el territorio colombiano. Se lista una tribu, una subtribu, un género y dos especies. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica. Para esta familia se evidencia una escasez de estudios en el país y de los pocos estudios que han recolectado especímenes de la familia Aderidae no reportan géneros ni especies.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Escarabajos hormiga</keyword>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Género</keyword>
+            <keyword>Tribu</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia familia Aderidae (Coleoptera: Tenebrionoidea) únicamente para el departamento de Cundinamarca, más específicamente para Bogotá.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1829</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se lista una tribu, una subtribu, un género y dos especies de la familia Aderidae (Coleoptera: Tenebrionoidea) para Colombia. En clasificaciones tempranas los aderidos fueron considerados como subfamilia de anthicidae (Böving &amp; Craighead, 1931), sin embargo, Crowson (1955) señaló varias peculiaridades características en los aderidos adultos que los distinguía de Anthicidae. En Bouchard et el. (2011) Aderidae Csiki, 1909 es el nombre dado precedencia sobre Euglenesidae Seidlitz, 1875 y colocado en the Official List of Family-Group Names in Zoology (ICZN 1989, como Aderidae A. Winkler (1927)). La familia Aderidae representa una pequeña porción de escarabajos poco estudiados, con aproximadamente 1.000 especie a nivel mundial (Gompel, 2017), en la cual se espera una mayor revisión taxonómica para los especimes suramericanos ya que los pocos trabajos taxonómicos pertenecen a la región de Norte América (Werner, 1990,1992).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Aderidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Aderini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Aderina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Aderus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1944). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y nuevos registros.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Aderidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. Sólo se conocen registros de Bogotá, Cundinamarca.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Aderidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano a partir de Blackwelder 1944. Para este listado no se encontró literatura reciente, debido a la falta de estudios sobre esta familia tanto para Suramérica como para Colombia.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Yudy Paulina</givenName>
+          <surName>Sissa-Dueñas</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-08-01T21:51:24.378+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/bo97af">Sissa-Dueñas Y P (2021): Listado de las especies de Aderidae (Coleoptera: Tenebrionoidea) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/bo97af</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32998091">Csiki, E. (1909) Újabb adatok Magyarország bogárfaunájához. Rovartani Lapok 16(1): 3–6. [28 Jan 1909 (footer p. 1)].</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1907_num_12_8_24100">Pic, M. (1907) Deux Hylophilus nouveaux de I&apos;Amérique méridionale (Col.). Bulletin de la Société entomologique de France. 12(8): 131-132.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35749740">Stephens, J. F. (1829) The nomenclature of British insects; being a compendious list of such species as are contained in the Systematic Catalogue of British Insects, and forming a guide to their classification, &amp;c. &amp;c. Baldwin and Cradock, London, [2] + 68 + [1] pp.</citation>
+                <citation>Crowson, R. A. (1955) The Natural Classification of the Families of Coleoptera. 187 pp. Nathaniel Lloyd, London.</citation>
+                <citation>Böving, A. G. &amp; Craighead, F. C. (1931) An illustrated synopsis of the principal larval forms of the order Coleoptera. – Entomologica Americana. The Brooklyn Entomological Society 11: 1–351.</citation>
+                <citation identifier=" https://www.biodiversitylibrary.org/item/44487#page/215/mode/1up">ICZN (1989) Opinion 1549. Euglenidae Stein, 1878 (Protista, Flagellata) and Euglenidae
+Seidlitz, 1875 (Insecta, Coleoptera): homonymy removed, and Aderidae Winkler, 1927
+(Insecta, Coleoptera): given precedence over Euglenesidae Seidlitz, 1875. Bulletin of Zoological Nomenclature 46: 193–194.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

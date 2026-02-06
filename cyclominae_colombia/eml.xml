@@ -1,0 +1,285 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="d18dd2d6-0a06-4bd6-8481-5399ae74d49d/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/mv3ql4</alternateIdentifier>
+  <alternateIdentifier>d18dd2d6-0a06-4bd6-8481-5399ae74d49d</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cyclominae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Cyclominae (Coleoptera: Curculionidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+  <pubDate>
+      2022-06-17
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Cyclominae (Coleoptera: Curculionidae) con ocurrencia conocida para el territorio colombiano. Se listan una tribu, cinco géneros y nueve especies. Todas las especies y uno de los géneros se consideran endémicos. La información ha sido recopilada a partir de información disponible en los principales catálogos (Wibmer y O&apos;Brien 1986) y en literatura más reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Gorgojos</keyword>
+            <keyword>Picudos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la subfamilia Cyclominae (Coleoptera: Curculionidae) de los siguientes departamentos de Colombia: Cauca (tres especies), Cundinamarca (tres especies), Huila (una especie), Nariño (una especie) y Risaralda (una especie).</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1802-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan una tribu, cinco géneros y nueve especies de la subfamilia Cyclominae (Coleoptera: Curculionidae) en Colombia. La mayoría de las especies conocidas en el país fueron descritas entre 1994 y 1996. El género con mayor número de especies es Macrostyphlus con cuatro especies.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Cyclominae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Listroderini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Acroriellus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Acrorius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Andesianellus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Macrostyphlus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rupanius</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento inicial de las especies registradas para el país se hizo a partir del catálogo de Wibmer y O&apos;Brien (1986). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogo de Wibmer y O&apos;Brien (1986) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de las descripciones originales.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Cyclominae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Cyclominae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo en parte del catálogo de Wibmer y O&apos;Brien (1986) y trabajos posteriormente publicados describiendo nuevos taxones.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales y actualizados conforme al catálogo de Wibmer y O&apos;Brien (1986) para las especies descritas antes de 1986. Para las especies más recientemente descritas se consultaron las descripciones originales y catálogos epecíficos para la subfamilia (Morrone 2002) y la tribu (Morrone 2011).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>contentProvider</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-01-11T17:57:08.231+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/mv3ql4">Girón Duque J C (2022): Listado de las especies de Cyclominae (Coleoptera: Curculionidae) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/mv3ql4</citation>
+          <bibliography>
+                <citation identifier="https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf">Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp. 	https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf</citation>
+                <citation identifier="https://doi.org/10.1163/187631296X00098">Anderson RS, Morrone JJ (1996) A new genus of microphthalmic Rhytirrhinini from Andean leaf litter (Coleoptera: Curculionidae). Insect Systematics &amp; Evolution 27: 259–278. https://doi.org/10.1163/187631296X00098</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. 	https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972.	https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia">Girón JC, Cardona-Duque J (2018) Estado del conocimiento de los Curculionidae en Colombia. In: Deloya, C. &amp; Gasca Álvarez, H. J. (Eds). Escarabajos del Neotrópico (Insecta: Coleoptera). S y G editores, Mexico, 167–199.	https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33470151">Kirsch T (1889) Coleopteren gesammelt in den Jahren 1868-1877 auf einer Reise durch Süd Amerika von Alphons Stübel. Abhandlungen und Berichte des Königl. Zoologischen und Anthropologisch-Etnographischen Museums zu Dresden. 1888–1889: 1-58 + 4pt. https://www.biodiversitylibrary.org/page/33470151</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp. https://biodiversitylibrary.org/page/24884921</citation>
+                <citation identifier="https://www.jstor.org/stable/982412">LeConte JL, Horn GH (1876) The Rhynchophora of America, North of Mexico. Proceedings of the American Philosophical Society 15: vii–442. https://www.jstor.org/stable/982412</citation>
+                <citation identifier="https://www.jstor.org/stable/4009120">Morrone JJ (1994) Systematics of the Andean genus Acrorius Kirsch (Coleoptera: Curculionidae). The Coleopterists Bulletin 48: 101–114.  https://www.jstor.org/stable/4009120</citation>
+                <citation identifier="http://digitallibrary.amnh.org/handle/2246/4937">Morrone JJ (1994) Systematics, cladistics, and biogeography of the Andean weevil genera Macrostyphlus, Adioristidius, Puranius, and Amathynetoides, new genus (Coleoptera, Curculionidae). American Museum novitates 3104: 1–63. http://digitallibrary.amnh.org/handle/2246/4937</citation>
+                <citation identifier="https://revistas.unal.edu.co/index.php/cal/article/view/17320">Morrone JJ (1995) A new genus of Rhytirrhinini from Colombia (Coleoptera: Curculionidae). Caldasia 17: 603–605. https://revistas.unal.edu.co/index.php/cal/article/view/17320</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/31937">Morrone JJ (2002) Checklist of the species of Cyclominae (Coleoptera: Curculionidae) occurring in America south of the United States. Revista de la Sociedad Entomológica Argentina 61. https://www.biotaxa.org/RSEA/article/view/31937</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3119.1.1">Morrone JJ (2011) Annotated checklist of the tribe Listroderini (Coleoptera: Curculionidae: Cyclominae). Zootaxa 3119: 1-68-1–68. https://doi.org/10.11646/zootaxa.3119.1.1</citation>
+                <citation identifier="https://doi.org/10.1111/j.1463-6409.1995.tb00403.x">Morrone JJ, Ocampo F (1995) Acroriellus, a new weevil genus of northern Andean Listroderina (Insecta: Coleoptera: Curculionidae). Zoologica Scripta 24(3): 257–262. https://doi.org/10.1111/j.1463-6409.1995.tb00403.x</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.9327">Schönherr CJ (1826) Curculionidum dispositio methodica cum generum characteribus, descriptionibus atque observationibus variis seu Prodromus ad Synonymiae Insectorum. Apud Fridericum Fleischer, Lipsiae. https://doi.org/10.5962/bhl.title.9327</citation>
+                <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute 39: 1–563.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.amnh.org/research/invertebrate-zoology</collectionIdentifier>
+                <collectionName>AMNH - American Museum of Natural History, New York, USA</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://nature.ca/en/research-collections/collections/animals</collectionIdentifier>
+                <collectionName>CMN - Canadian Museum of Nature, Ottawa, Canadá</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>http://www.canacoll.org/</collectionIdentifier>
+                <collectionName>CNCI - Canadian National Collection of Insects, Arachnids, and Nematodes, Agriculture and Agri-Food Canada, Ottawa, Canadá</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>ICN-MHN</parentCollectionIdentifier>
+                  <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 5</collectionIdentifier>
+                <collectionName>Zoologia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.museo.fcnym.unlp.edu.ar/div_entomologia</collectionIdentifier>
+                <collectionName>MLP - Museo de La Plata, La Plata, Argentina</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://museumdresden.senckenberg.de/en/</collectionIdentifier>
+                <collectionName>SMTD - Staatliches Museum für Tierkunde, Dresden, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>USNM</parentCollectionIdentifier>
+                  <collectionIdentifier>https://naturalhistory.si.edu/research/entomology</collectionIdentifier>
+                <collectionName>USNM - National Museum of Natural History, Washington D.C., USA</collectionName>
+              </collection>
+          <dc:replaces>d18dd2d6-0a06-4bd6-8481-5399ae74d49d/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

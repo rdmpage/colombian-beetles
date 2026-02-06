@@ -1,0 +1,15 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+gbif.org/species/9454351	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+gbif.org/species/9615915	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+gbif.org/species/9534840	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+gbif.org/species/9535394	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+organismnames.com/details.htm?lsid=31837-01	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+organismnames.com/details.htm?lsid=31837-02	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+organismnames.com/details.htm?lsid=31837-03	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+gbif.org/species/9454351	FALSO	VERDADERO	FALSO	Larva	Terrestre
+gbif.org/species/9615915	FALSO	VERDADERO	FALSO	Larva	Terrestre
+gbif.org/species/9534840	FALSO	VERDADERO	FALSO	Larva	Terrestre
+gbif.org/species/9535394	FALSO	VERDADERO	FALSO	Larva	Terrestre
+organismnames.com/details.htm?lsid=31837-01	FALSO	VERDADERO	FALSO	Larva	Terrestre
+organismnames.com/details.htm?lsid=31837-02	FALSO	VERDADERO	FALSO	Larva	Terrestre
+organismnames.com/details.htm?lsid=31837-03	FALSO	VERDADERO	FALSO	Larva	Terrestre

@@ -1,0 +1,5 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+organismnames.com/details.htm?lsid=4302593	TRUE	FALSE	FALSE	Larva	Acuática
+organismnames.com/details.htm?lsid=4302593	FALSE	TRUE	FALSE	Adulto	Terrestre
+gbif.org/species/1161928-00	TRUE	FALSE	FALSE	Larva	Acuática
+gbif.org/species/1161928-00	FALSE	TRUE	FALSE	Adulto	Terrestre

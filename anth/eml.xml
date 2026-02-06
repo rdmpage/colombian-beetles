@@ -1,0 +1,381 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="6c477542-03ff-495e-9f1e-efdea9a75f85/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/8vgvor</alternateIdentifier>
+  <alternateIdentifier>6c477542-03ff-495e-9f1e-efdea9a75f85</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=anth</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Anthicidae (Coleoptera: Tenebrionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-30
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Anthicidae (Coleoptera: Tenebrionoidea) con ocurrencia conocida para el territorio colombiano. Se listan cinco subfamilias, dos tribus, 13 géneros y 50 especies. 15 especies se consideran endémicas. La información ha sido recopilada a partir de los principales catálogos que tratan el grupo. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Género</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Coleópteros</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Son registradas especies en 8 departamentos del país, siendo Cundinamarca y Magdalena los que presentaron la mayor riqueza, con 10 especies cada uno, seguido de Bolívar con 3, Norte de Santander con 2 y Antioquia, Amazonas y Meta con 1 especie cada uno, respectivamente. De las especies registradas para el país, 25 (la mitad) no tienen localidad especifica conocida. Finalmente, para el caso de las especies Macratria funcki, Macratria sericeus y Macratria filiformis, en las descripciones originales aparecen registradas para Cumaná y Nueva Valencia ambas localidades de Venezuela, sin embargo, en Blackwelder (1944) estas especies aparecen registradas para Colombia y no para Venezuela por lo que se hace necesario una confirmación de los registros en Colombia.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1758</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan 5 subfamilias: Anthicinae, Notoxinae, Tomoderinae, Macratriinae y Eurygeniinae. En Anthicinae se registra una tribu, 6 géneros y 36 especies. Notoxinae registró 3 géneros y 3 especies. Tomoderinae 2 generos y 4 especies. Macratriinae un género y 6 especies. Finalmente, Eurygeniinae con una tribu, un género y una especie. Las subfamilias Macratriinae y Eurygeniinae colocadas como “Pseudo-Anthicides”, actualmente son incluidas dentro de Anthicidae (Chandler, 2010), con las especies listadas anteriormente en géneros de la familia obsoleta Pedilidae (Blackwelder, 1944). De las especies listadas para Colombia casi la mitad corresponden al género Acanthinus. La información ha sido recopilada a partir de información disponible en los principales catálogos del grupo y en literatura reciente.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Anthicidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Anthicinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Eurygeniinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Macratriinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Notoxinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Tomoderinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Anthicini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Eurygeniini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Acanthinus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Anthicus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ischyropalpus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sapintus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Vacusus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Squamanotoxus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Plesionotoxus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Notoxus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Tomoderus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Holcopyge</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Omonadus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Macratria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cadogenius</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Yudy Paulina</givenName>
+      <surName>Sissa-Dueñas</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Bióloga</positionName>
+    <address>
+        <city>Duitama</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>megalopinus0926@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1944) y revisiones taxonómicas (Bonadona 1961, Werner 1961, 1965, 1966, 1967, 1970, 1983; Chandler 1978). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, revisiones taxonómicas, nuevos registros o actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Anthicidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Anthicidae (Coleoptera: Tenebrionoidea) que se han registrado para Colombia a partir de la literatura. El listado se obtuvo a partir de Blackwelder (1944), revisiones taxonómicas (Bonadona 1961, Werner 1961, 1965, 1966, 1967, 1970, 1983; Chandler 1978) y trabajos publicados y no incluidos en esos catálogos que incluyen fauna colombiana. Es importante resaltar que no se encontraron revisiones taxonómicas actuales para el género Macratria que cuenta con 6 especies, 3 de ellas requieren verificación del registro para Colombia. La familia no ha sido estudiada en el país y varias de las especies colombianas no figuran en bases de datos públicas. Hasta donde sabemos, las especies aquí reportadas son válidas, confirmadas por el especialista Donald Chandler.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Yudy Paulina</givenName>
+          <surName>Sissa-Dueñas</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-8134-8612</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-08-23T21:45:03.839+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/8vgvor">Sissa-Dueñas Y P (2024): Listado de las especies de Anthicidae (Coleoptera: Tenebrionoidea) de Colombia. v1.1. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/8vgvor</citation>
+          <bibliography>
+                <citation>Abdullah, M. (1967) Eurygenius villosus Champion, a Colombian species of Cadogenius Heller (Coleoptera: Anthicidae: Eurygeniinae). Pakist. Journal of Scientific and Industrial Research 10: 272-273.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation>Bonadona, P. (1961) Les Tomoderini de l’Afrique noire et de la région Malgache (Coleoptera Anthicidae). Annales du Musée Royal de l’Afrique Centrale, Tervuren (Série 8vo: Sciences Zoologiques) 91: 1–78.</citation>
+                <citation>Bonadona, P. (1961) Révision des Ischyropalpus LaFerté (Col. Anthicidae). Revue Française D&apos;Entomologie. 28: 150-177.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972.</citation>
+                <citation identifier="https://repository.naturalis.nl/pub/506150">Buck, F. D. (1960) Anthicid Beetles from Venezuela, Colombia, Cuba, and the Netherlands Antilles. Studies on the Fauna of Curaçao and other Caribbean Islands. 10(1): 64–71.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1749-6632.1894.tb55429.x">Casey, T. L. (1894) XV.-Coleopterological Notices. VI. Annals of the New York Academy of Sciences. 8(1): 435–838.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/14607">Champion, G. C. (1890) Anthicidae. In Biologia Centrali-Americana. Insecta-Coleoptera Heteromera (1889-1893), volumen 4, part 2. Porter, R. H. London. 494 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33379072">Champion, G. C. (1890) On a new genus of Anthicidae from tropical South America. The Entomologist´s Monthly Magazine. 26: 292-293.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/55138">Champion, G. C. (1916) On new and little-known Lagriidae and Pedilidae. Transactions of the Entomological Society of London.  181-242.</citation>
+                <citation identifier="https://www.jstor.org/stable/25078761">Chandler, D. (2001) A New Genus of Notoxini Based on the Elegans and Schenklingi Groups of Mecynotarsus (Coleoptera: Anthicidae). Transactions of the American Entomological Society (1890-). 127(4): 473-494.</citation>
+                <citation identifier="https://doi.org/10.1515/9783110911213.729">Chandler, D. S. (2010) 11.26. Anthicidae Latreille, 1819. 729-741 pp. In: Leschen, R. A. B., Beutel, R. G. &amp; Lawrence, J. F. (eds.).Coleoptera, Beetles. Volume 2: Morphology and Systematics (Elateroidea, Bostrichiformia, Cucujiformia partim). Arthropoda Insecta. Handbook of Zoology. De Gruyter, Berlin &amp; New York.</citation>
+                <citation>Chandler, D. S. (1978) A revision of the Central and South American Notoxus and description of a new genus, Plesionotoxus (Coleoptera: Anthicidae). Contributions of the American Entomological Institute. 15(3): 83.</citation>
+                <citation identifier="https://www.researchgate.net/publication/280056745">Chandler, D. S; Nardi, G; Telnov, D. (2004) Nomenclatural notes on the Palaearctic Anthicidae (Coleoptera). Mitteilungen des Internationalen Entomologischen Vereins. 29(4): 109-173.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/51065">Geoffroy, E. L. (1762) Histoire abrégée des insectes qui se trouvent aux environs de Paris dans laquelle ces animaux sont rangés suivant un ordre méthodique. Durand, Paris, 1- 523.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10627802">Heller, K. M. (1918) Eine neue Pediliden-Gattung (Col.) aus Ecuador. Entomologische Mitteilungen. 7: 212-214.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6583137x">LaFerté-Sénectére, F. T. de. (1849 a [1848]) In Guérin-Méneville, F.-E. (ed.) Species et Iconographie Générique des Animaux Articulés ou Representation des Genres, avec leur Description et celle de toutes les Espèces de cette Grande Division du Règne Animal. Première Partie: Insectes Coléoptères. Paris, de Fain et Thunot. 16 parts in 6 Livraisons.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33059540">LaFerté-Sénectére, F. T. de. (1849 b [1848]) Monographie des Anthicus et genres voisins, Coléoptères Hétéromères de la tribu des Trachélides. De Sapia, Paris; xxii + 340.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/64021">Latreille, P. A. (1819) Trachélides. Nouveau dictionnaire d’histoire naturelle, appliquée aux arts, a l’agriculture, a l’économie rurale et domestique, a la médecine, etc Par une société de naturalistes et d’agriculteurs Nouvelle édition Tome XXXIV. Déterville, Paris, 362–364 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/85732">LeConte, J. L. (1862) Classification of the Coleoptera of North America. Part I (cont.). Smithsonian Miscellaneous Collections. 3 (136): 209–278.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/10277">Linnaeus, C. von. (1758) Systema Naturae per Regna Tria Naturae : Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis. Impensis Direct. Laurentii Salvii, Holmiae, 824 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/37052">Mulsant, E. &amp; Rey, C. (1866) Histoire naturelle des coléoptéres de France. Colligéres, Paris. 1-179.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8982176">Newman, E. (1838) Entomological notes. The Entomological Magazine. 5: 372-402.</citation>
+                <citation identifier="https://archive.org/details/gustavipayk1217891790payk/page/n4/mode/1up">Paykull, G. (1798) Fauna Suecica: Insecta (Coleoptera). Tomus I Joh. F. Edman, Upsaliae, viii + 358 + [2, errata] pp. [17 Jan 1798 (date of Proëmium); before 20 Jun 1798 (Allgem. Litt. Zeit.)].</citation>
+                <citation identifier="https://archive.org/details/lechangeorganede1113natu/page/n5">Pic, M. (1895) Examen des Anthicides de la colección Lethierry. L&apos;échange. 11(122): 18-20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10335291">Pic, M. (1897) Descriptions de coleopteres nouveaux. Naturaliste. 19: 156-157.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/VZBG_50_0138-0139.pdf">Pic, M. (1900) Neue Pedilidae und Anthicidae. Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien. 50: 138-139.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/44498493">Pic, M. (1902) Description de coleopteres bresiliens nouveaux. Naturaliste. 2: 21.</citation>
+                <citation identifier="https://publicaciones.fcnym.unlp.edu.ar/rmlp/article/view/1284/1409">Pic, M. (1910) Plusieurs nouveaux Coleopteres de la Republique Argentine. Revista del Museo de La Plata. 17: 108-110.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/3119382">Pic, M. (1914) Anthicides exotiques nouveaux ou peu connus (Col.). Bulletin de le Société Zoologique de France. 39: 181-184.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50515590">Pic, M. (1914) Descriptions abrégées d´Anthicides exotiques. L’Échange, Revue Linnéenne. 30(353): 34-36.</citation>
+                <citation identifier="http://hdl.handle.net/10111/UIUCBB:picmau0001melexov00000i00011">Pic, M. (1914) Descriptions abrégées de Malacodermes et Hétéromères. Melanges Exotico-Entomol. fasc. 11: 8-20.</citation>
+                <citation identifier="http://hdl.handle.net/10111/UIUCBB:picmau0001melexov00000i00014">Pic, M. (1915) Nouveatues rentrant dans diverses families. Mélanges Exotico-Entomologiques. fasc. 14: 2-20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/37014">Stephens, J.F. (1829). A systematic catalogue of British insects: being an attempt to arrange all the hitherto discovered indigenous insects in accordance with their natural affinities. Containing also the references to every English writer on entomology, and to the principal foreign authors. With all the published British genera to the present time. [Part 1, Insecta Mandibulata]. Baldwin and Cradock. London, xxxiv, 416 pp.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/54.6.798">Werner, F. G. (1961) A Revision of the Genus Vacusus Casey (Coleoptera: Anthicidae), Annals of the Entomological Society of America. 54(6): 798–809.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/59.1.218">Werner, F. G. (1966) Notes on the South American Species of Vacusus, with a New Species and Two New Synonyms (Coleoptera: Anthicidae), Annals of the Entomological Society of America. 59(1): 218–222.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50935612">Werner, F. G. (1965) A redefinition of Ischyropalpus and six new species (Coleoptera: Anthicidae), Psyche. 72(3): 191-209.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/59.4.746">Werner, F. G. (1966) A Revision of Acanthinus (Coleoptera: Anthicidae). II. The Angusticollis-Group. Annals of the Entomological Society of America. 59(4): 746–751.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/59.6.1267">Werner, F. G. (1966) A Revision of Acanthinus (Coleoptera: Anthicidae). III. The Spinicollis-Group, Annals of the Entomological Society of America. 59(6): 1267–1276.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/60.1.255">Werner, F. G. (1967) A Revision of Acanthinus (Coleoptera: Anthicidae). IV. Annals of the Entomological Society of America. 60(1): 255–273.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/60.6.1217">Werner, F. G. (1967) A Revision of Acanthinus (Coleoptera: Anthicidae). VI. Annals of the Entomological Society of America. 60(6): 1217–1234.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/63.1.111">Werner, F. G. (1970) A Revision of Acanthinus (Coleoptera: Anthicidae). VII. Annals of the Entomological Society of America. 63(2): 486–490.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/63.3.718">Werner, F. G. (1970) A Revision of Acanthinus (Coleoptera: Anthicidae). IX. the Leporinus, Scitulus, Cuyabanus, and Myrmecops-Groups, Annals of the Entomological Society of America. 63(3): 718–731.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/63.3.859">Werner, F. G. (1970) A revision of Acanthinus (Coleoptera: Anthicidae). X. albicinctus-group and conclusion. Annals of the Entomological Society of America. 63(3):  859–876.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16179822">Werner, F. G. (1983) Neotropical Sapintus, with a general key to species (Coleoptera: Anthicidae). Proceedings of the Entomological Society of Washington. 85: 405–425.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://mcz.harvard.edu/entomology</collectionIdentifier>
+                <collectionName>MCZ Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, USA</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://naturalhistory.si.edu/research/entomology</collectionIdentifier>
+                <collectionName>USNM National Museum of Natural History, Washington D.C, USA</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nmbs.ch/home/en/museum/sammlungen/biowissenschaftlich/insekten/kaefersammlung-Frey.html</collectionIdentifier>
+                <collectionName>NHMB Naturhistorisches Museum, Basel, Switzerland [Frey Beetle Collection]</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN Muséum National d&apos;Histoire Naturelle, Paris, France.</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.calacademy.org/scientists/entomology-collection</collectionIdentifier>
+                <collectionName>CAS California Academy of Sciences, San Francisco, California, USA.</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH The Natural History Museum, London, United Kingdom [Biologia Centrali-Americana]</collectionName>
+              </collection>
+          <dc:replaces>6c477542-03ff-495e-9f1e-efdea9a75f85/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,341 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="b39103e8-43d9-4f8b-a6b7-cc9c42a0e15a/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/9mqxev</alternateIdentifier>
+  <alternateIdentifier>b39103e8-43d9-4f8b-a6b7-cc9c42a0e15a</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=coss</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Cossoninae (Coleoptera: Curculionidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Purdue University</organizationName>
+    <positionName>Investigadora postdoctoral</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Juliana</givenName>
+      <surName>Cardona-Duque</surName>
+    </individualName>
+    <organizationName>Universidad CES</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-2469-8162</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Purdue University</organizationName>
+    <positionName>Investigadora postdoctoral</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Juliana</givenName>
+      <surName>Cardona-Duque</surName>
+    </individualName>
+    <organizationName>Universidad CES</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-2469-8162</userId>
+      </metadataProvider>
+  <pubDate>
+      2021-09-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Se realiza un listado de las especies de la subfamilia Cossoninae Schönherr, 1825 (Curculionidae) que han sido registradas en Colombia a partir de datos de literatura. Se incluyó toda la información proveniente del catálogo de especies de Suramérica (Wibmer &amp; O&apos;Brien 1986) y adicionalmente se hicieron búsquedas considerando la biología de algunas especies, que pueden ser barrenadoras de madera, de manera que se consideraran todos los registros provenientes de la literatura formalmente publicada. Se registran cuatro tribus, siete géneros, 23 especies y cuatro de ellas identificadas a subespecie. Cuatro especies se consideran endémicas y existe un registro de un género introducido que ataca madera de pino (Pinus patula).</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Gorgojos</keyword>
+            <keyword>Picudos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la subfamilia Cossoninae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se reportan especies de los departamentos de Antioquia, Quindío y Valle del Cauca.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1792</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se realiza un listado de las especies de la subfamilia Cossoninae Schönherr, 1825 (Curculionidae). Se registran cuatro tribus, siete géneros, 23 especies y cuatro de ellas identificadas a subespecie. Cuatro especies se consideran endémicas y un registro de un género introducido. El género Cossonus presentó el mayor número de especies registradas (17 especies, cuatro de ellas identificadas a subespecie), seguido por el género Howdeniola con dos especies. Los géneros Acamptus, Allopentarthrum, Catolethrus y Pseudopentarthrum presentan una especie cada uno. El género Hexarthrum está reportado para el país pero los registros no se han identificado a nivel de especie.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Curculionidae</taxonRankValue>
+                  <commonName>Gorgojos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Cossoninae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Acamptini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Acamptus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Cossonini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cossonus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Dryotribini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Allopentarthrum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Catolethrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Howdeniola</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Onycholipini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hexarthrum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pseudopentarthrum</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Purdue University</organizationName>
+    <positionName>Investigadora postdoctoral</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Juliana</givenName>
+      <surName>Cardona-Duque</surName>
+    </individualName>
+    <organizationName>Universidad CES</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-2469-8162</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder Wibmer &amp; O&apos;Brien (1986). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros o actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Cossoninae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Cossoninae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo del listado de Wibmer &amp; O&apos;Brien (1986) y trabajos posteriormente publicados y no incluidos en ese catálogo.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Juliana</givenName>
+          <surName>Cardona-Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-2469-8162</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-05-29T14:51:30.731+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/9mqxev">Girón Duque J C, Cardona-Duque J (2021): Listado de las especies de Cossoninae (Coleoptera: Curculionidae) de Colombia. v1.2. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/9mqxev</citation>
+          <bibliography>
+                <citation>Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/583729 ">Champion GC (1909) 4(7) Biologia Centrali-Americana. Insecta. Coleoptera. Rhynchophora. R. H. Porter, London, 221 pp. https://www.biodiversitylibrary.org/page/583729</citation>
+                <citation identifier="https://www.google.com/books?id=NfITAAAAQAAJ">Clairville JP de, Schellenberg JR (1798) Entomologie helvétique ou catalogue des insectes de la Suisse, rangés d’après une nouvelle méthode, avec descriptions et figures. Orell, Füssli et Compagnie, Zurich, 236 pp.  https://www.google.com/books?id=NfITAAAAQAAJ</citation>
+                <citation identifier="http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S0120-07392009000100005&amp;lng=en&amp;nrm=iso&amp;tlng=es ">Díaz Pulgarín JA (2009) Insectos perforadores de las trece maderas más comercializadas en el Valle de Aburrá (Antioquia, Colombia). Colombia Forestal 12: 51–61. http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S0120-07392009000100005&amp;lng=en&amp;nrm=iso&amp;tlng=es</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.125869">Fabricius JC (1792) Entomologia systematica emandata et aucta. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus descriptionibus. Tom. I. Pars II. Impensis Christ. Gottl. Proft., Hafniae, 852 pp. https://doi.org/10.5962/bhl.title.125869</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/part/205780">Faust J (1896) Reise von E. Simon in Venezuela. Curculionidae. Pars tertia. Entomologische Zeitung. 57: 33–136. https://www.biodiversitylibrary.org/part/205780</citation>
+                <citation identifier="https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia">Girón JC, Cardona-Duque J (2018) Estado del conocimiento de los Curculionidae en Colombia. In: Deloya, C. &amp; Gasca Álvarez, H. J. (Eds). Escarabajos del Neotrópico (Insecta: Coleoptera). S y G editores, Mexico, 167–199. https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia</citation>
+                <citation identifier="http://rchn.biologiachile.cl/pdfs/1937/1/Hustache_1937.pdf">Hustache A (1938) Cossonides nouveaux de l’Amérique méridionale. Revista chilena de historia natural 41: 62–67. http://rchn.biologiachile.cl/pdfs/1937/1/Hustache_1937.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8343931">Kirsch T (1869) Beiträge zur Käferfauna von Bogotà. (Fünftes Stück: Phanerognathe Curculionen aus der Gruppe der Apostasimeriden). Berliner entomologische Zeitschrift 13: 187–224. https://www.biodiversitylibrary.org/page/8343931</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/part/143736">Kuschel G (1959) Beitrage zur Kenntnis der Curculioniden von Venezuela und Trinidad-Insel (1. Lieferung). Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München 10: 478–514. https://www.biodiversitylibrary.org/part/143736</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp. https://biodiversitylibrary.org/page/24884921</citation>
+                <citation identifier="https://www.jstor.org/stable/982412 ">LeConte JL, Horn GH (1876) The Rhynchophora of America, North of Mexico. Proceedings of the American Philosophical Society 15: vii–442. https://www.jstor.org/stable/982412</citation>
+                <citation>Osella, G. (1980) Nuovi curculionidi ciechi della regione Neotropicale (Coleoptera). Fragmenta Entomologica, 15, 365–422.</citation>
+                <citation identifier="https://www.cenicafe.org/es/publications/pinus.pdf">Ospina Penagos CM, Hernández Restrepo RJ, Rincón EA, Sánchez Ocampo FA, Urrego Mesa JB, Rodas Peláez CA, Ramírez Cardona CA, Riaño Herrera NM (2011) Guías silviculturales para el manejo de especies forestales con miras a la producción de madera en la zona andina colombiana. El pino Pátula. https://www.cenicafe.org/es/publications/pinus.pdf</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.158694">Perty M (1832) Insecta Brasiliensia. In: Delectus animalium articulatorum, quae in itinere per Brasiliam, annis MDCCCXVII-MDCCCXX: jussu et auspiciis Maximiliani Josephi I. Impensis Editoris, Monachii, 1–190. https://doi.org/10.5962/bhl.title.158694</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27509108">Schönherr CJ (1825) Curculionides [Tabula synoptica familiae Curculionidum]. En: Isis von Oken. 581–588. https://www.biodiversitylibrary.org/page/27509108</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4111774">Schönherr CJ (1838) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quartus, pars secunda. Roret, Paris, 601–1121 pp. https://www.biodiversitylibrary.org/page/4111774</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4114205">Schönherr CJ (1845) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae. Tomus octavus, Pars secunda. Roret, Paris, 504 pp. https://www.biodiversitylibrary.org/page/4114205</citation>
+                <citation>Voss E (1947) Ueber Curculioniden, vorwiegend aus dem Gebiet der Anden (Col. Curc.). (111. Beitrag zur Kenntnis der Curculioniden). Revista de Entomología Rio de Janeiro 18(1-2): 45-64, illus.</citation>
+                <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute 39: 1–563.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/18658785">Wollaston TV (1860) On additions to the Madeiran Coleoptera. Annals and Magazine of Natural History 3: 448–459. https://www.biodiversitylibrary.org/page/18658785</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14774859">Wollaston TV (1873) On the genera of the Cossonidae. Transactions of the Entomological Society of London 1873: 427–657. https://www.biodiversitylibrary.org/page/14774859</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>b39103e8-43d9-4f8b-a6b7-cc9c42a0e15a/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

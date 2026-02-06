@@ -1,0 +1,6 @@
+id	locality	establishmentMeans
+gbif.org/species/9523		
+organismnames.com/details.htm?lsid=1939199		
+gbif.org/species/1073147		
+gbif.org/species/10673670	Nova Granada	Endémica
+gbif.org/species/10750403	Colombia	Endémica

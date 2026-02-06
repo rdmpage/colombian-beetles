@@ -1,0 +1,110 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4737		CO	
+organismnames.com/details.htm?lsid=5391961		CO	
+biolib.cz/en/taxon/id651647/		CO	
+gbif.org/species/3263368		CO	
+gbif.org/species/6990378	Colombia	CO	
+gbif.org/species/7968034	Colombia: Bogotá	CO	
+gbif.org/species/7994731	Colombia	CO	
+gbif.org/species/8117198	Colombia	CO	
+gbif.org/species/7892983	Colombia	CO	
+gbif.org/species/8090029	Colombia	CO	
+gbif.org/species/8416147	Colombia	CO	
+gbif.org/species/8338471	Colombia	CO	
+organismnames.com/details.htm?lsid=1254406		CO	
+gbif.org/species/3257510		CO	
+gbif.org/species/7774995	Colombia	CO	Endémica
+gbif.org/species/3263900		CO	
+gbif.org/species/8165396	Colombia: Bogotá	CO	Endémica
+gbif.org/species/7967072	Colombia	CO	Endémica
+organismnames.com/details.htm?lsid=5157467		CO	
+gbif.org/species/4756034		CO	
+gbif.org/species/8028006	Colombia: Bogotá	CO	
+gbif.org/species/7621787	Colombia	CO	
+gbif.org/species/7877993	Colombia: Bogotá	CO	
+gbif.org/species/8074842	Colombia	CO	
+gbif.org/species/8381692	Colombia: Bogotá	CO	
+gbif.org/species/1162739		CO	
+gbif.org/species/7538805	Colombia: Bogotá	CO	
+gbif.org/species/8351956	Colombia: Bogotá	CO	
+gbif.org/species/175564287	Colombia: Bogotá	CO	
+gbif.org/species/8101084	Colombia	CO	
+gbif.org/species/8177354	Colombia	CO	Endémica
+gbif.org/species/8411792	Colombia	CO	
+gbif.org/species/4756005		CO	
+gbif.org/species/7820308	Colombia	CO	Endémica
+gbif.org/species/7560847	Colombia	CO	
+gbif.org/species/7367332	Colombia	CO	Endémica
+gbif.org/species/8316468	Colombia	CO	Endémica
+gbif.org/species/6990359	Colombia	CO	
+gbif.org/species/4756005-00	Colombia	CO	
+organismnames.com/details.htm?lsid=5457476		CO	
+gbif.org/species/4756071		CO	
+gbif.org/species/7914911	Colombia	CO	
+gbif.org/species/7585873	Colombia: Bogotá	CO	
+gbif.org/species/7944231	Colombia	CO	Endémica
+gbif.org/species/4573813		CO	
+gbif.org/species/8164405	Colombia	CO	Endémica
+gbif.org/species/1162850		CO	
+gbif.org/species/8354678	Colombia	CO	
+gbif.org/species/8224828	Colombia	CO	
+organismnames.com/details.htm?lsid=1952209		CO	
+gbif.org/species/1162732		CO	
+gbif.org/species/7625297	Colombia	CO	
+gbif.org/species/7945228	Colombia	CO	
+gbif.org/species/8158428	Colombia	CO	
+gbif.org/species/7719743	Colombia	CO	
+gbif.org/species/7535713	Colombia	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=953232#null	Colombia	CO	Endémica
+gbif.org/species/7927413	Colombia	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=953233#null	Colombia	CO	
+gbif.org/species/4747880		CO	
+gbif.org/species/6990633	Colombia	CO	Endémica
+gbif.org/species/1162746		CO	
+gbif.org/species/7796136	Colombia	CO	Endémica
+gbif.org/species/7609826	Colombia	CO	
+gbif.org/species/8079770	Colombia	CO	
+gbif.org/species/7847521	Colombia	CO	
+gbif.org/species/7942585	Colombia	CO	
+gbif.org/species/7908141	Colombia	CO	
+gbif.org/species/7713145	Colombia	CO	Endémica
+gbif.org/species/8028671	Colombia	CO	
+gbif.org/species/4760785		CO	
+gbif.org/es/species/4760785-00	Colombia	CO	
+catalogueoflife.org/data/taxon/L62	Colombia	CO	
+gbif.org/species/4756010	Colombia	CO	
+gbif.org/species/7594460	Colombia	CO	Endémica
+biolib.cz/en/taxon/id651646/		CO	
+gbif.org/species/4736673		CO	
+gbif.org/species/7405044	Colombia	CO	Endémica
+gbif.org/species/8341778	Colombia	CO	Endémica
+gbif.org/species/8180679	Colombia: Bogotá	CO	
+gbif.org/species/4736607		CO	
+gbif.org/species/8310411	Colombia	CO	
+gbif.org/species/8144738	Colombia	CO	
+catalogueoflife.org/data/taxon/K5C		CO	
+gbif.org/species/4756060		CO	
+gbif.org/species/8199760	Colombia	CO	
+organismnames.com/details.htm?lsid=3311763	Colombia	CO	
+gbif.org/species/7658093	Colombia	CO	
+gbif.org/species/7686090	Colombia	CO	
+gbif.org/species/1162810		CO	
+gbif.org/species/8072913	Colombia	CO	
+gbif.org/species/7798684	Colombia	CO	
+gbif.org/species/8058639	Colombia	CO	
+gbif.org/species/7448367	Colombia: Bogotá	CO	
+gbif.org/species/8354021	Colombia	CO	
+gbif.org/species/7520181	Colombia	CO	
+gbif.org/species/8181665	Colombia: Bogotá	CO	
+gbif.org/species/7819338	Colombia: Bogotá	CO	
+gbif.org/species/1162742		CO	
+gbif.org/species/8097373	Colombia	CO	
+gbif.org/species/6990558	Colombia	CO	
+gbif.org/species/7872841	Colombia	CO	
+gbif.org/species/8069738	Colombia	CO	
+organismnames.com/details.htm?lsid=1405829		CO	
+gbif.org/species/4721571		CO	
+gbif.org/species/7571387	Colombia: Bogotá	CO	Endémica
+gbif.org/species/8144138	Colombia	CO	Endémica
+gbif.org/species/7515516	Colombia	CO	Endémica
+gbif.org/species/7941586	Colombia	CO	Endémica

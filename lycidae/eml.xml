@@ -1,0 +1,428 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="b1372a0c-89b6-4ba3-a7fd-5ac12f3b2e79/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/iftego</alternateIdentifier>
+  <alternateIdentifier>b1372a0c-89b6-4ba3-a7fd-5ac12f3b2e79</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lycidae</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Lycidae (Coleoptera: Elateroidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Elynton Alvesdo</givenName>
+      <surName>Nascimento</surName>
+    </individualName>
+    <organizationName>Universidade Estadual do Centro-Oeste</organizationName>
+    <positionName>Profesor</positionName>
+    <address>
+        <city>Irati</city>
+        <administrativeArea>Paraná</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>elynton@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/5446193587520573</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9071-2823</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Elynton Alves do</givenName>
+      <surName>Nascimento</surName>
+    </individualName>
+    <organizationName>Universidade Estadual do Centro-Oeste</organizationName>
+    <positionName>Profesor</positionName>
+    <address>
+        <city>Irati</city>
+        <administrativeArea>Paraná</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>elynton@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/5446193587520573</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9071-2823</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Elynton Alves do</givenName>
+      <surName>Nascimento</surName>
+    </individualName>
+    <organizationName>Universidade Estadual do Centro-Oeste</organizationName>
+    <positionName>Profesor</positionName>
+    <address>
+        <city>Irati</city>
+        <administrativeArea>Paraná</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>elynton@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/5446193587520573</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9071-2823</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+    <role>editor</role>
+      </associatedParty>
+  <pubDate>
+      2021-09-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Lycidae (Coleoptera: Elateroidea) con ocurrencia conocida para el territorio colombiano. Se listan una subfamilia, seis tribus, 19 géneros, 152 especies y cuatro subespecies. 125 especies son consideradas endémicas. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica. Algunos nombres ausentes o escritos equivocadamente en otras bases de datos son incluidos en esta lista y escritos correctamente según su aceptación actual.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos alas de red</keyword>
+            <keyword>Lícidos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Este recurso presenta el listado de las especies de la familia Lycidae (Coleoptera: Elateroidea) con ocurrencia conocida para el territorio colombiano. El departamento que presentó el mayor número de especies registradas fue Cundinamarca con 73, seguido de Boyacá con 11, Antioquia y Tolima con 8 especies cada uno, Cauca y Nariño con cuatro especies cada uno, después Caldas, Magdalena y Valle del Cauca, cada uno con tres especies. Norte de Santander y Quindío registraron una especie cada uno. Se registran 41 especies sin localidad específica y 8 especies con localidades ambiguas que no permitieron la identificación de una ubicación específica conocida.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1811</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2012</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Lycidae (Coleoptera: Elateroidea) con ocurrencia conocida para el territorio colombiano. Se listan una subfamilia, seis tribus, 19 géneros, 152 especies y cuatro subespecies. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan del del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica. En este trabajo se sigue la clasificación de Bocak &amp; Bocakova (2008).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Macrolygistopterus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Calopteron</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Plateros</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cyrtopteron</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Falsocaenia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lycomorphon</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mesopteron</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Caenia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cartagonum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Idiopteron</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Leptoceletes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Metapteron</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Eros</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Emplectus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Haplobothris</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Celiasis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ryncheros</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cavoplateros</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cephalolycus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lycidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Lycinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Calochromini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Calopterini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Acroleptina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Calopterina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Erotini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Eurrhacini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Lycini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Platerodini</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Elynton Alves do</givenName>
+      <surName>Nascimento</surName>
+    </individualName>
+    <organizationName>Universidade Estadual do Centro-Oeste</organizationName>
+    <positionName>Profesor</positionName>
+    <address>
+        <city>Irati</city>
+        <administrativeArea>Paraná</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>elynton@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/5446193587520573</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9071-2823</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Kleine (1933). Esta lista inicial fue comparada y complementada con el catálogo de Blackwelder (1945). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dichos catálogos.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros o actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Lycidae (Coleoptera: Elateroidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Lycidae (Coleoptera: Elateroidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo de Kleine (1933), Blackwelder (1945) y trabajos posteriormente publicados y no incluidos en esos catálogos. Los nombres fueron verificados en las descripciones originales, así como en publicaciones posteriores. A lo largo del tiempo algunas bases de datos han incorporado errores de tipeo en el nombre de algunas especies, como por ejemplo Calopteron vagipictum Bourgeois, 1879 en vez de Calopteron vagepictum Bourgeois, 1879; Emplectus phaenicuroides Kirsch, 1884 en vez de Emplectus phoenicuroides Kirsch, 1884. Además, varias especies se asignaron a otros géneros. También fueron encontrados algunos casos de nombres que aún no han sido incorporados en otras bases de datos disponibles. En esta lista se incluyen todos los nombres válidos registrados para Colombia y su grafía se incluye como encontradas en las descripciones originales y/o como aceptadas actualmente.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Elynton Alves do</givenName>
+          <surName>Nascimento</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-9071-2823</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-05-22T15:40:54.843+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/iftego">Nascimento E A (2021): Listado de las especies de Lycidae (Coleoptera: Elateroidea) de Colombia. v1.3. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/iftego</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876679">Blackwelder, R.E. 1945. Checklist of the coleopterous insects of Mexico, Central America, the West Indians and South America – Part 3. Bulletin, United States National Museum 185: 343-550. https://www.biodiversitylibrary.org/page/7876679</citation>
+                <citation identifier="https://doi.org/10.1163/187631204788912472">Bocakova, M. (2005) Phylogeny and classification of the tribe Calopterini (Coleoptera, Lycidae). Insect Syst. Evol., 35: 437-447. https://doi.org/10.1163/187631204788912472</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3478.1.27">Bocakova M, Baciakova B, Nascimento EA (2012) Revision of the genus Falsocaenia (Coleoptera: Lycidae). Zootaxa, 3478: 282-296. https://doi.org/10.11646/zootaxa.3478.1.27</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8244691">Bourgeois J (1877) Diagnoses des Lycides nouveuax, 1re partie. Annales de la Société entomologique de France 5 (7): 363-366. https://www.biodiversitylibrary.org/page/8244691</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8232730">Bourgeois J (1878) Diagnoses des Lycides nouveaux ou peu connus, 2re partie. Annales de la Société entomologique de France 5 (8): 165-174. https://www.biodiversitylibrary.org/page/8232730</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8250290">Bourgeois J (1879) Contribution a la faune entomologique des États-Unis de Colombie: Catalogue des Lycides recueillis par M. Ed. Steinheil (1872-1873) avec les diagnoses des espèces nouvelles. Annales de la Société entomologique de France 5 (9): 13-42. https://www.biodiversitylibrary.org/page/8250290</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12371593">Bourgeois J (1879) Lycides recueillis au Brésil par C. Van Volxem. Ann Soc Entomol Belg 22 (comptes-rendus): 15-19. https://www.biodiversitylibrary.org/page/12371593</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8232412">Bourgeois J (1880) [Calopteron gorhami] Bulletin des séances de la Société entomologique de France 2: 148-149. https://www.biodiversitylibrary.org/page/8232412</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8997453">Bourgeois J (1882) Diagnoses des Lycides nouveaux ou peu connus, 3e partie. Annales de la Société entomologique de France 6 (2): 141-144. https://www.biodiversitylibrary.org/page/8997453</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10171571">Bourgeois J (1885) Diagnoses des Lycides nouveaux ou peu connus, 5e partie. Annales de la Société entomologique de France 6 (9): 71-84. https://www.biodiversitylibrary.org/page/10171571</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8241365">Bourgeois J (1888) Communications [Plateros aurifex]. Bulletin entomologique - Annales de la Société entomologique de France 6 (8): 165-167. https://www.biodiversitylibrary.org/page/8241365</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32438786">Bourgeois J (1889) Diagnoses des Lycides nouveaux ou peu connus, 6e partie. Annales de la Société entomologique de France 6 (9): 225-236. https://www.biodiversitylibrary.org/page/32438786</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8431866">Bourgeois J (1899) Diagnoses de Lycides nouveaux ou peu connus, 7e partie. Annales de la Société entomologique de France 68: 658-665. https://www.biodiversitylibrary.org/page/8431866</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10976452">Bourgeois J (1903) Voyage de M. le Dr. Ed. Bugnion au Venezuela, en Colombia et aux Antilles. Malacodermes. Revue d&apos;Entomologie, 22: 5-7. https://www.biodiversitylibrary.org/page/10976452</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32495032">Bourgeois J (1905) Les lycides du Mus‚um d&apos;Histoire Naturelle de Paris. Annales de la Société entomologique de France 74: 109-126. https://www.biodiversitylibrary.org/page/32495032</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14714558">Buquet L (1842) Description de cinq espèces nouvelles de Coléoptères du genre Lycus de Fabricius (Dictyoptera Latr. Dictyopterus Guér.). Revue Zoologique, 5: 6-8. https://www.biodiversitylibrary.org/page/14714558</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25528835">Castelneau FL (1838) Etudes entomologiques ou descriptions des insectes nouveaux et observations sur le synonymie. Rev Entomol 4: 5-60. https://www.biodiversitylibrary.org/page/25528835</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32798939">Castelnau FL (1840) Histoire naturelle des Animaux articulés, annelides, crustac‚s, arachnides, myriapodes et insectes. Histoire naturelle des Insectes Coléoptères. Tome deuxième. P. Duménil, Paris, 563 pp., 38 pls. https://www.biodiversitylibrary.org/page/32798939</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14785052">Erichson WF (1847) Conspectus Insectorum Coleopterorum, quae Republica Peruana observata sunt. Archiv für Naturgeschichte 13: 67-185. https://www.biodiversitylibrary.org/page/14785052</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4105.4.2">Ferreira VS (2016) A revision of the genus Macrolygistopterus Pic, 1929 (Coleoptera, Lycidae, Calochromini). Zootaxa, 4105(4): 321-338. https://doi.org/10.11646/zootaxa.4105.4.2</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-70.3.663">Ferreira VS, Ivie MA (2016) Redescription of Cephalolycus major Pic, 1926 (Coleoptera: Elateroidea: Lycidae) and a discussion on its taxonomic position. The Coleopterists Bulletin 70 (3): 663-666. https://doi.org/10.1649/0010-065X-70.3.663</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/579919">Gorham HS (1881) Fam. Lycidae. Biologia Centrali-Americana: Insecta, Coleoptera, Malacodermata, 3 (2): 1-29. https://www.biodiversitylibrary.org/page/579919</citation>
+                <citation identifier="https://www.jstor.org/stable/25077596">Green JW (1949) The Lycidae of the United States and Canada I. The tribe Lycini (Coleoptera). Transactions of the American Entomological Society (1890-) 75: 53-70. https://www.jstor.org/stable/25077596</citation>
+                <citation identifier="https://www.jstor.org/stable/25077637">Green JW (1952) The Lycidae of the United States and Canada. IV. The tribe Calopterini (Coleoptera). Transactions of the American Entomological Society 78 (1): 1-19. https://www.jstor.org/stable/25077637</citation>
+                <citation identifier="https://kmkjournals.com/upload/PDF/REJ/20/ent20_2_155_191_Kazantsev.pdf">Kazantsev SV (2011) New and little known taxa of Platerodini, with a note on biogeography of the tribe (Coleoptera: Lycidae). Russian Entomological Journal 20 (2): 151-187. https://kmkjournals.com/upload/PDF/REJ/20/ent20_2_155_191_Kazantsev.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8541569">Kirsch T (1865) Beiträge zur Käferfauna von Bogotà. Berliner entomologische Zeitschrift 9: 40-68. https://www.biodiversitylibrary.org/page/8541569</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340988">Kirsch T (1870) Beiträge zur Käferfauna von Bogotà.. Berliner Entomologische Zeitschrift 14: 337-378. https://www.biodiversitylibrary.org/page/8340988</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10427102">Kirsch T (1884) Neue südamerikanische Käfer. Berliner entomologische Zeitschrift 27: 43-54. https://www.biodiversitylibrary.org/page/10427102</citation>
+                <citation>Kleine R (1929) Neue indische Lycidae nebst faunistischen Bermerkungen. The Indian Forest Records (Entomology Series) 13 (6): 221-269.</citation>
+                <citation>Kleine, R. 1933. Lycidae. In S. Schenkling (ed.). Coleopterorum Catalogus auspiciis et auxilio Pars 128. Berlin: W. Junk. 145 p.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28982892">Kleine R (1942) Neue Lyciden des äthiopischen und neotropischen Faunengebietes (Col.). Mitteilungen der Münchener Entomologische Gesellschaft 32: 149-162. https://www.biodiversitylibrary.org/page/28982892</citation>
+                <citation identifier="http://publication.nhmus.hu/pdf/annHNHM/Annals_HNHM_1943_Vol_36_z_145.pdf">Kleine R (1943) Neue Lyciden aus dem Ungarischen National-Museum (Coleopt.) Annales Historico-Naturales Musei Nationalis Hungarici (pars zoologica) 36: 145-156. http://publication.nhmus.hu/pdf/annHNHM/Annals_HNHM_1943_Vol_36_z_145.pdf</citation>
+                <citation identifier="https://doi.org/10.1093/zoolinnean/zlaa055">Kusy D, Motyka M, Fusek L, Li Y, Bocek M, Bilkova R, Ruskova M, Bocak L (2020) Sexually dimorphic characters and shared aposematic patterns mislead the morphology-based classification of the Lycini (Coleoptera: Lycidae). Zoological Journal of the Linnean Society 191 (3): 902-927.  https://doi.org/10.1093/zoolinnean/zlaa055.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42573937">Lacordaire JT (1857) Histoire Naturelle des Insectes. Genera des Coléopteres. Volume 4. Libraire Encyclopédique de Roret, Paris. 579 pp. https://www.biodiversitylibrary.org/page/42573937</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25528835">Laporte FL (1836) Études entomologiques, ou Description d&apos;insectes nouveaux et observations sur la synonymie. Revue Entomologique, 4: 5-60. https://www.biodiversitylibrary.org/page/25528835</citation>
+                <citation>Latreille P (1811) Insectes de L’Amérique équinoxiale recueillis pendant le voyage de MM. de Humboldt et Bonpland. In: Voyage de Humboldt et Bonpland, deuxième partie. Observations de zoologie et d&apos;anatomie comparée, 1, pp. 127-252 + pl. 15-25.</citation>
+                <citation>Latreille PA (1833) Insectes de L’Amérique Equinoxiale. 2e partie, 9-26, In: Humboldt FHA von, Recuiel d’observations de Zoologie et D’anatomie compar: Faites dans l’Océan Atlantique, dans l’intérieur du nouveau continent et dans mer du sud pendant les anns 1799, 1800, 1801, 1802 et 1803.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7732770">LeConte JL (1881) Synopsis of the Lampyridae of the United States. Transactions of the American Entomological Society 9: 15-72. https://www.biodiversitylibrary.org/page/7732770</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.2132.1.2">Nascimento EA, Bocakova M (2009) A revision of the genus Lycomorphon (Coleoptera: Lycidae). Zootaxa 2132: 40-52. https://doi.org/10.11646/zootaxa.2132.1.2</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8982185">Newman E (1838) Entomological notes. The Entomological Magazine, 5: 372-402. https://www.biodiversitylibrary.org/page/8982185</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371524">Pic M (1913) Nouveaux genres et nouvelles spèces. Mélanges exotico-entomologiques, 6: 1-7. https://www.biodiversitylibrary.org/page/36371524</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57924635">Pic M (1922) Contribution a l’étude des Lycides. L’Échange (hors texte) 409: 21-24. https://www.biodiversitylibrary.org/page/57924635</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57924662">Pic M (1922) Malacodermes exotiques. L’Échange (hors texte) 410, 25-28. https://www.biodiversitylibrary.org/page/57924662</citation>
+                <citation>Pic M (1923) Contribution à l&apos;étude des Lycides. L’Échange (hors texte) 411: 29-32.</citation>
+                <citation>Pic M (1923) Contribution à l&apos;étude des Lycides. L’Échange (hors texte) 412: 33-36.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57924674">Pic M (1923) Coléoptères exotiques en partie nouveaux. L’Échange (hors texte) 413: 37-40. https://www.biodiversitylibrary.org/page/57924674</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00042/picmau0001melexov00000i00042.pdf">Pic M (1924) Nouveat‚s diverses. Mélanges Exotico-Entomologiques 42: 1-32. https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00042/picmau0001melexov00000i00042.pdf</citation>
+                <citation>Pic M (1925) Malacodermes exotiques. L’Échange (hors texte) 421, 13-16.</citation>
+                <citation>Pic M (1926) Malacodermes exotiques. L’Échange (hors texte) 423, 21-24.</citation>
+                <citation>Pic M (1926) Malacodermes exotiques. L’Échange (hors texte) 425, 29-32</citation>
+                <citation>Pic M (1927) Malacodermes exotiques. L’Échange (hors texte) 430, 49-52.</citation>
+                <citation>Pic M (1928) Malacodermes exotiques. L’Échange (hors texte) 432, 57-60.</citation>
+                <citation>Pic M (1929) Malacodermes exotiques. L’Échange (hors texte) 438, 73-76.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00053/picmau0001melexov00000i00053.pdf">Pic M (1929) Nouveautés diverses. Mélanges Exotico-Entomologiques, 53: 1-36. https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00053/picmau0001melexov00000i00053.pdf</citation>
+                <citation>Pic M (1930) Malacodermes exotiques. L’Échange (hors texte) 439, 77-80.</citation>
+                <citation>Pic M (1930) Nouveatés diverses. Mélanges Exotico-Entomologiques 55: 1-36.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/EntAnz_11_0377-0379.pdf">Pic M (1931) Neue exotische Coleopteren (Malacodermata). Entomologische Anzeiger, 11, 377-379. https://www.zobodat.at/pdf/EntAnz_11_0377-0379.pdf</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k5581950q/f10.item">Pic M (1931) Nouveaux Coléoptères de la Colombie. Bulletin de la Société entomologique de France, 12: 192-194. https://gallica.bnf.fr/ark:/12148/bpt6k5581950q/f10.item</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/download/36766/31507">Pic M (1932) Lycides nouveaux ou peu connus de L&apos;Amérique Méridionale. Revista de la Sociedad Entomologica Argentina, 5 (1): 1-5. https://www.biotaxa.org/RSEA/article/download/36766/31507</citation>
+                <citation identifier="https://www.zobodat.at/pdf/EntAnz_12_0250-0255.pdf">Pic M (1932) Neue exotische Coleopteren (Malacodermata). Entomologische Anzeiger, 12, 250-255. https://www.zobodat.at/pdf/EntAnz_12_0250-0255.pdf</citation>
+                <citation identifier="https://www.zobodat.at/pdf/EntAnz_14_0045-0047.pdf">Pic M (1934) Neue exotische Coleopteren (Malacodermata). Entomologische Anzeiger, 14, 45-47. https://www.zobodat.at/pdf/EntAnz_14_0045-0047.pdf</citation>
+                <citation>Pic M (1934) Nouveatés diverses. Mélanges Exotico-Entomologiques 63: 1-36.</citation>
+                <citation>Pic M (1935) Nouveatés diverses. Mélanges Exotico-Entomologiques 66: 1-36.</citation>
+                <citation>Pic M (1938) Malacodermes exotiques. L’Échange (hors texte) 54 (472), 153-156.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>b1372a0c-89b6-4ba3-a7fd-5ac12f3b2e79/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

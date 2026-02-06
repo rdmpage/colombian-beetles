@@ -1,0 +1,249 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=georissidae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/bdcxbe</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=georissidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Georissidae (Coleoptera: Hydrophiloidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Liza María</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>University of Kansas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Lawrence</city>
+        <administrativeArea>Kansas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Liza María</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>University of Kansas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Lawrence</city>
+        <administrativeArea>Kansas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-02-09
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado para la familia Georissidae (Coleoptera: Hydrophiloidea) con ocurrencia conocida para el territorio colombiano. Se lista un género para Colombia, sin embargo, no se lista ninguna especie, debido a que la literatura revisada no indica las especies a las que pertenecen los ejemplares colectados. La información de este listado está basada en datos disponibles en descripciones originales y literatura recientemente publicada.  Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Coleópteros acuáticos</keyword>
+            <keyword>Pequeños escarabajos amantes del barro</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se presenta el listado para la familia Georissidae (Coleoptera: Hydrophiloidea) en Colombia. Se cuenta con información relacionada a la presencia de un solo género en el país, pero no se cuenta con información taxonómica a nivel de especie. Se provee información del registro más reciente del género en el país, con presencia en el departamento del Chocó.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1840-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se presenta el listado para la familia Georissidae (Coleoptera: Hydrophiloidea) en Colombia. Solo se cuenta con el registro de un género de esta familia para Colombia. Cabe resaltar que esta familia es un grupo que no ha contado con una revisión juiciosa para el país, de hecho, la región neotropical solo cuenta con el reporte de dos especies: Georissus humeralis y Georissus minor de acuerdo con el catálogo de Hanssen, 1999. La información de este listado está basada en datos disponibles en descripciones originales, listados y literatura recientemente publicada.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Georissidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Georissus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Liza María</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>University of Kansas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Lawrence</city>
+        <administrativeArea>Kansas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento del listado fue basado a partir de literatura disponible para la familia Georissidae en Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Se contó con solo dos registros a nivel de género publicados recientemente por Mosquera y Mosquera Murillo et al. (2017) y Mosquera Murillo et al. (2018).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La verificación de los nombres y autorías se realizó con base en listados y descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución geográfica de los registros fue tomada de los artículos que reportan el género Georissus para Colombia</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de los taxones de la familia Georissidae (Coleoptera: Hydrophiloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se recopiló información sobre los nombres, autores y referencias de los taxones de la familia Georissidae (Coleoptera: Hydrophiloidea) que han sido registradas para Colombia. El listado se obtuvo Hansen (1999) y literatura posteriormente publicada. Los nombres fueron verificados en las descripciones originales y en la literatura anteriormente mencionada.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Liza María</givenName>
+          <surName>González-Rodríguez</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-01-24T17:00:22.729+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/bdcxbe">González-Rodríguez L M (2022): Listado de las especies de Georissidae (Coleoptera: Hydrophiloidea) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/bdcxbe</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25258139  ">Castelnau, F.L.N. (1840) Histoire naturelle des insectes coléoptéres, avec une introduction renfermant l’anatomie et la physiologie des animaux articulés, par M. Brullé. Histoire naturelle des Animaux articulés: annelidés, crustacés, arachnides, Myriapodes et Insectes. Tome 2: 1–563. P. Duménil, Paris. https://www.biodiversitylibrary.org/page/25258139</citation>
+                <citation>Hansen, M. (1999) World Catalogue of Insects 2: Hydrophiloidea (Coleoptera). Apollo Books, Stenstrup, 416 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42114245 ">Latreille, P. A. (1809) Genera Crustaceorum et Insectorum, secundum ordinem naturalem in Familias disposita, iconibus exemplisque plurimis explicata. Vol. 4. 399 pp. Amand Koe ni g, Paris iis et Argentorati. https://www.biodiversitylibrary.org/page/42114245</citation>
+                <citation identifier="https://doi.org/10.31910/rudca.v20.n1.2017.72 ">Murillo, Z. M., Mosquera, M. M. M. (2017) Diversidad de la entomofauna acuática y calidad de agua en quebradas del río San Juan, Chocó – Colombia. Revista U.D.C.A Actualidad &amp; Divulgación Científica 20: 149–161. https://doi.org/10.31910/rudca.v20.n1.2017.72</citation>
+                <citation identifier="https://doi.org/10.31910/rudca.v21.n1.2018.674 ">Mosquera Murillo, Z.; Sánchez Vázquez, S.P. (2018) Riqueza genérica y distribución de los coleópteros acuáticos del Departamento del Chocó – Colombia, depositados en la Colección Limnológica de la Universidad Tecnológica del Chocó. Rev. U.D.C.A Act. &amp; Div. Cient. 21(1): 155-165. https://doi.org/10.31910/rudca.v21.n1.2018.674</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

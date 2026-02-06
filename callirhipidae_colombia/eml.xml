@@ -1,0 +1,350 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="498b3b23-1d9f-45e3-9fe7-837e22b5a2b6/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/elddwn</alternateIdentifier>
+  <alternateIdentifier>498b3b23-1d9f-45e3-9fe7-837e22b5a2b6</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=callirhipidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Callirhipidae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>mairu03@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>http://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-30
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Callirhipidae (Coleoptera: Byrrhoidea) con ocurrencia conocida para el territorio colombiano. Se listaron dos géneros y cuatro especies. Dos especies son consideradas endémicas. La información de este listado ha sido recopilada a partir de registros disponibles en el catálogo mundial de esta familia (Hájek, 2011). Se incluyen las referencias de todos los registros publicados de dichos taxones. La familia es poco estudiada en nuestro país.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Callirhipidae</keyword>
+            <keyword>Colombia</keyword>
+            <keyword>Escarabajos del cedro</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Callirhipidae (Coleoptera: Byrrhoidea) de Colombia. Dos de las especies están reportadas para Bogotá (Cundinamarca); para las otras dos no se conoce la distribución en el territorio colombiano (sin localidad).</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1829</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan dos géneros y cuatro especies de la familia Callirhipidae (Coleoptera: Byrrhoidea) para Colombia. Tres de las especies pertenecen al género Callirhipis, la cuarta es del género Celadonia. Dos de las especies de Callirhipis se consideran endémicas, ambas reportadas de Bogotá.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Callirhipidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Callirhipis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Celadonia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Callirhipis bogotensis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Callirhipis plicata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Callirhipis unicostata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Celadonia laportei</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Hájek (2011).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La nomenclatura y autoría de cada especie fue verificada en el catálogo de Hájek (2011) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Callirhipidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Callirhipidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo a partir de Hájek (2011), el catálogo más reciente para el grupo.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogo de Hájek (2011).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcela</givenName>
+          <surName>González-Córdoba</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-01-03T11:14:59.592+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/elddwn">Hincapié-Montoya D, González-Córdoba M (2024): Listado de las especies de Callirhipidae (Coleoptera: Byrrhoidea) de Colombia. v1.3. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/elddwn</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE. (1944). Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A. (2011). Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/579732">Champion, GC. (1896). Fam. Rhipidoceridae, pp. 574–586 + plate 24. Biologia Centrali-Americana. Insecta. Coleoptera. Vol. III. Part 1. Serricornia (1882-1897), viii + 690 + 27 pls.</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=uc1.b3993071&amp;view=1up&amp;seq=102">Emden FI, van (1924). Zur Kenntnis der Sandalidae, II. u. III. Entomologische Blätter 20 (2): 86–99.</citation>
+                <citation identifier="No disponible en línea; no ISBN; enlace a contenidos de la revista: https://catalog.hathitrust.org/Record/000518864">Emden, FI van (1926). Die Sandalidae (Col.) des Zoologischen Staatsinstituts und Zoologischen Museum zu Hamburg. (Zur Kenntnis der Sandalidae IV). Mitteilungen aus dem Zoologischen Staatsinstitut und Zoologischen Museum in Hamburg, 42, 30–36 + pl. II.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.2914.1.1 ">Hájek J. (2011). World catalogue of the family Callirhipidae (Coleoptera: Elateriformia), with nomenclatural notes. Zootaxa 2914: 1–66.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14690620">Hope, FW. (1846). Descriptions of a few nondescript species of beetles. The Transactions of the Entomological Society of London, 1(1845–1847), 181–183 + pl. XIII.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32798621">Laporte de Castelnau, FL. (1840). Histoire Naturelle des Insectes Coléoptères, vol. 1. In: Histoire Naturelle des Animaux Articulés, Annelides, Crustacés, Arachnides, Myriapodes et Insectes. Duménil, Paris, 324 pp + 19 pls.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33374495">Latreille, PA. (1829). Tome IV. Crustacés, arachnides et partie des insectes. In: Cuvier G (Ed). Le règne animal distribué d’après son organisation, pour servir de base à l’histoire naturelle des animaux et d’introduction à l’anatomie comparée, avec figures dessinées d’après nature. Nouvelle édition, revue et augmentée. Déterville, Paris, xxvii + 584 pp.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00043/picmau0001melexov00000i00043.pdf">Pic, M. (1925). Nouveautés diverses. Mélanges Exotico-Entomologiques, 43, 1–32.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54323589">Pic, M. (1943). Opuscula martialia XI. L’Échange, Revue Linéenne, Numéro spécial, 1–16.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>BMNH</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH - Natural History Museum [fantes British museum (Natural History)], Londres, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MNHN</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN - Muséum nationale d’Histoire naturelle, Paris, France</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>OUMNH</parentCollectionIdentifier>
+                  <collectionIdentifier>https://oumnh.ox.ac.uk/insects</collectionIdentifier>
+                <collectionName>OUMNH - Oxford University Museum, Oxford, Reino Unido</collectionName>
+              </collection>
+          <dc:replaces>498b3b23-1d9f-45e3-9fe7-837e22b5a2b6/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

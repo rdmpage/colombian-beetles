@@ -1,0 +1,6 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/7849		CO	
+organismnames.com/details.htm?lsid=5271311		CO	
+gbif.org/species/1161928		CO	
+organismnames.com/details.htm?lsid=4302593	Colombia: Cundinamarca (Bogotá)	CO	Endémica
+gbif.org/species/1161928-00	Colombia: Cundinamarca (Bogotá)	CO	Endémica

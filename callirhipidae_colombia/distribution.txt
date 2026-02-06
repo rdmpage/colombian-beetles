@@ -1,0 +1,8 @@
+id	locality	countryCode	establishmentMeans	threatStatus
+gbif.org/species/3791		CO		
+gbif.org/species/3260770		CO		
+gbif.org/species/3260770-00	Colombia: Bogotá	CO	Endémica	NE
+organismnames.com/details.htm?lsid=3398866	Colombia: Bogotá	CO	Endémica	NE
+gbif.org/species/3260770-01	Colombia	CO		NE
+gbif.org/species/4745234		CO		
+irmng.org/aphia.php?p=taxdetails&id=11500762	Colombia [Columbia]	CO		NE

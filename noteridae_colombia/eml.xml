@@ -1,0 +1,354 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="04e49da0-431f-4cfb-b043-f61abae935b5/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/rwfj6h</alternateIdentifier>
+  <alternateIdentifier>04e49da0-431f-4cfb-b043-f61abae935b5</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=noteridae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Noteridae (Coleoptera: Adephaga) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Ingri Tatiana</givenName>
+      <surName>Cardenas Espitia</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>itcardenases@ut.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8107-2174</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+  <pubDate>
+      2022-08-30
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Noteridae (Coleoptera: Adephaga) con ocurrencia conocida para el territorio colombiano. Se listaron dos subfamilias, una tribu, cinco géneros y ocho especies. Hasta ahora no se conocen especies endémicas. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribu</keyword>
+            <keyword>Subfamilia</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos excavadores acuáticos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Noteridae (Coleoptera: Adephaga) para Colombia. De las ocho especies conocidas para el país sólo se conocen localidades específicas para dos de ellas en los departamentos de Cauca (un registro) y Magdalena (dos registros). Ninguna de las especies registradas en Colombia es endémica. El género Hydrocanthus presentó amplia distribución en el país (15 departamentos).</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1825-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2017-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listaron dos subfamilias, cinco géneros y ocho especies de la familia Noteridae (Coleoptera: Adephaga) para Colombia. Los géneros Hydrocanthus y Suphis están representados cada uno por una especie, mientras que el género Suphisellus está representado por seis especies en el territorio nacional. Los géneros Mesonoterus y Notomicrus no tienen especies registradas. Esta familia no se ha revisado para el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Noteridae</taxonRankValue>
+                  <commonName>escarabajos excavadores acuáticos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Noterinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Noterini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrocanthus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Suphisellus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mesonoterus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Suphis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Notomicrinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Notomicrus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colomba</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Nilsson (2011). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies y registros que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros o actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Noteridae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Noteridae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo a partir del catálogo de Nilsson (2011) y trabajos posteriormente publicados y no incluidos en ese catálogo.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Ingri Tatiana</givenName>
+          <surName>Cardenas Espitia</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-8107-2174</userId>
+        <role>contentProvider</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Denis</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-11-11T17:04:11.710+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/rwfj6h">Girón Duque J C, Cardenas Espitia I T, Hincapié-Montoya D (2022): Listado de las especies de Noteridae (Coleoptera: Adephaga) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/rwfj6h</citation>
+          <bibliography>
+                <citation identifier="https://www.redalyc.org/pdf/424/42443308.pdf">Arce Pérez R. (2004). Primer registro del género Suphis Aube, 1836 (Coleoptera: Noteridae) para México. Folia Entomológica Mexicana, 43(3): 321-322.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4323.2.11">Arce-Pérez R, Baca SM (2017) A new species of Suphisellus Crotch from Mexico (Coleoptera: Noteridae). Zootaxa 4323: 277-285-277–285. https://doi.org/10.11646/zootaxa.4323.2.11</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k441584v.texteImage">Aubé C. A. (1836). Hydrocanthares. In: Dejean et Boisduval (ed). Iconographie et histoire naturelle des colèoptères d’ Europe. V. Mequignon, France. 416 pp. https://gallica.bnf.fr/ark:/12148/bpt6k441584v.texteImage</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9374118">Aubé C (1838) Species général des Hydrocanthares et Gyriniens. In: Species général des Coléoptères de la collection de M. Le conte Dejean. Mequignon pére et fils, Paris, 1–832. https://www.biodiversitylibrary.org/page/9374118</citation>
+                <citation identifier="https://doi.org/10.1016/j.ympev.2016.10.016">Baca SM, Toussaint EFA, Miller KB, Short AEZ (2017) Molecular phylogeny of the aquatic beetle family Noteridae (Coleoptera: Adephaga) with an emphasis on partitioning strategies. Molecular Phylogenetics and Evolution 107: 282–292. https://doi.org/10.1016/j.ympev.2016.10.016</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7522750">Crotch GR (1873) Revision of the Dytiscidae of the United States. Transactions of the American Entomological Society 4: 383–424. https://www.biodiversitylibrary.org/page/7522750</citation>
+                <citation identifier="http://www.waterbeetles.eu/documents/W_CAT_Noteridae.pdf">Nilsson AN (2011) A world catalogue of the family Noteridae, or the burrowing water beetles (Coleoptera, Adephaga). Version 16.VIII.2011. http://www.waterbeetles.eu/documents/W_CAT_Noteridae.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8241127">Régimbart M (1889) Voyage de M. E. Simon au Venezuela (décembre 1887-avril 1888). Dytiscidae et Gyrinidae. Annales de la Société Entomologique de France 6: 379–387. https://www.biodiversitylibrary.org/page/8241127</citation>
+                <citation identifier="https://doi.org/10.2307/1005051">Say T (1825) Descriptions of Insects of the Families of Carabici and Hydrocanthari of Latreille, Inhabiting North America. Transactions of the American Philosophical Society 2: 1–109. https://doi.org/10.2307/1005051</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/577038">Sharp D (1882) Biologia Centrali-Americana. Zoologia. Insecta. Coleoptera Volume I, Part 2. 144 pp. + 4 pls pp. https://www.biodiversitylibrary.org/page/577038</citation>
+                <citation identifier="https://hdl.handle.net/2027/mdp.39015008611751?urlappend=%3Bseq=215%3Bownerid=13510798902040913-221 ">Sharp D (1882) On aquatic carnivorous Coleoptera or Dytiscidae. Scientific Transactions of the Royal Dublin Society 2: 179-1003 + pls. 7–18. https://hdl.handle.net/2027/mdp.39015008611751?urlappend=%3Bseq=215%3Bownerid=13510798902040913-221</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54328819">Thomson CG (1860) Skandinaviens Coleoptera, synoptiskt bearbetade. Volume 2. Tryckt uti Lundbergska boktryckereit, Lund, 316 pp. https://www.biodiversitylibrary.org/page/54328819</citation>
+                <citation identifier="https://doi.org/10.2307/3671297">Young FN (1979) Water beetles of the genus Suphisellus Crotch in the Americas North of Colombia (Coleoptera: Noteridae). The Southwestern Naturalist 24: 409–429. https://doi.org/10.2307/3671297</citation>
+                <citation identifier="https://www.jstor.org/stable/4064884">Young FN (1985) A key to the American species of Hydrocanthus Say, with descriptions of new Ttaxa (Coleoptera: Noteridae). Proceedings of the Academy of Natural Sciences of Philadelphia 137: 90–98. https://www.jstor.org/stable/4064884</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13316852">Zimmermann, A. (1919). Die Schwimmkäfer des Deutschen Entomologischen Museums in Berlin-Dahlem. Archiv für Naturgeschichte 83: 68-249. https://www.biodiversitylibrary.org/page/13316852</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>BMNH</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>Museo de Historia Natural de Londres</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>UMMZ</parentCollectionIdentifier>
+                  <collectionIdentifier>https://lsa.umich.edu/ummz/insects/collections.html</collectionIdentifier>
+                <collectionName>University of Michigan, Museum of Zoology, Ann Arbor, USA</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>MNHN</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>Muséum national d’Histoire naturelle, París, Francia</collectionName>
+              </collection>
+          <dc:replaces>04e49da0-431f-4cfb-b043-f61abae935b5/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

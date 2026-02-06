@@ -1,0 +1,6 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/8484670		CO	
+gbif.org/species/1042664		CO	
+gbif.org/species/1042667	Colombia, sin localidad específica	CO	
+biolib.cz/en/taxon/id692703/	Colombia: Magdalena (Sierra del Perijá); Norte de Santander (Poima)	CO	Endémica
+biolib.cz/en/taxon/id692710/	Colombia, sin localidad específica	CO	

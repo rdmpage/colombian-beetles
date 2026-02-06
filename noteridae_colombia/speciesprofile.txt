@@ -1,0 +1,17 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+gbif.org/species/1049602	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/1049602	VERDADERO	FALSO	FALSO	Larva	Acuático
+gbif.org/species/4990925	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/4990925	VERDADERO	FALSO	FALSO	Larva	Acuático
+gbif.org/species/4990930	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/4990930	VERDADERO	FALSO	FALSO	Larva	Acuático
+gbif.org/species/4990918	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/4990918	VERDADERO	FALSO	FALSO	Larva	Acuático
+gbif.org/species/4990928	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/4990928	VERDADERO	FALSO	FALSO	Larva	Acuático
+gbif.org/species/4990923	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/4990923	VERDADERO	FALSO	FALSO	Larva	Acuático
+gbif.org/species/4990924	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/4990924	VERDADERO	FALSO	FALSO	Larva	Acuático
+gbif.org/species/1049596	VERDADERO	FALSO	FALSO	Adulto	Acuático
+gbif.org/species/1049596	VERDADERO	FALSO	FALSO	Larva	Acuático

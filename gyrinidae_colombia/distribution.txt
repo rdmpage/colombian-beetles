@@ -1,0 +1,30 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/9646		CO	
+organismnames.com/details.htm?lsid=138727		CO	
+biolib.cz/en/taxon/id1146665/		CO	
+gbif.org/species/3261549	Colombia: Cauca | Valle del Cauca	CO	
+gbif.org/species/7003882	Colombia: Bolívar (Alto del Oso) | Caldas | Cauca | Cundinamarca (Fusagasugá) | Valle del Cauca (Buenaventura, río Dagua, río Yurumangui)	CO	
+gbif.org/species/4743650-01	Colombia: Caquetá | Cauca | Nariño | Quindío | Risaralda | Valle del Cauca	CO	
+gbif.org/species/4743650-02		CO	
+gbif.org/species/4743650-03	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/4743650-04	Colombia: Cundinamarca (Bogotá)	CO	Endémica
+gbif.org/species/166652318	Colombia: Cundinamarca (Bogotá, Choachí) | Meta (Villavicencio)	CO	
+gbif.org/species/4743650-05	Colombia, sin localidad específica	CO	
+gbif.org/species/4743650-06	Colombia: Boyacá (Muzo) | Cundinamarca (Tequendama)	CO	
+gbif.org/species/4743650-07	Colombia: Cauca (San Antonio) | Tolima (Combeima) | Valle del Cauca (río Aguacatal, Tocotá)	CO	Endémica
+gbif.org/species/166652342	Colombia: Antioquia (Medellín) | Caldas (Manizales, Salento) | Cauca (Popayán) | Valle del Cauca	CO	Endémica
+organismnames.com/details.htm?lsid=118613		CO	
+gbif.org/species/1034567	Colombia: Amazonas | Arauca | Casanare | Chocó | La Guajira | Guaviare | Meta | Risaralda | Santander | Valle del Cauca	CO	
+gbif.org/species/7004143	Colombia, sin localidad específica	CO	
+gbif.org/species/7004138	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=118611		CO	
+biolib.cz/en/taxon/id854635/		CO	
+gbif.org/species/7877186-01	Colombia: Amazonas | Bogotá | Cauca | Chocó | Cundinamarca | Guaviare | Huila | Santander | Valle del Cauca | Vaupés	CO	
+gbif.org/species/7877186-02		CO	
+organismnames.com/details.htm?lsid=5365953	Colombia: Bolívar (Cartagena) | Cundinamarca (Ubaque) | Norte de Santander (Ocaña) | Sucre	CO	
+gbif.org/species/7877186-03	Colombia: Caldas	CO	
+organismnames.com/details.htm?lsid=5031395	Colombia: Bolívar | Cundinamarca	CO	
+gbif.org/species/7877186-04	Colombia: Boyacá (Muzo) | Cundinamarca (Bogotá)	CO	
+organismnames.com/details.htm?lsid=5365956	Colombia: Probablemente Andes	CO	
+organismnames.com/details.htm?lsid=870798		CO	
+gbif.org/species/7003895	Colombia: Todas las macrocuencas	CO	

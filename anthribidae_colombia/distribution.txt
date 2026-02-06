@@ -1,0 +1,58 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4206		CO	
+ubio.org/browser/details.php?namebankID=1054192		CO	
+ubio.org/browser/details.php?namebankID=5580021		CO	
+gbif.org/species/1168172		CO	
+gbif.org/species/1168237	Colombia, sin localidad específica	CO	
+gbif.org/species/1168213	Colombia: Antioquia	CO	Endémica
+gbif.org/species/1168206	Colombia, sin localidad específica	CO	
+gbif.org/species/1168175	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=1385786		CO	
+gbif.org/species/1166026		CO	
+gbif.org/species/1166037	Colombia, sin localidad específica (N. Granada)	CO	
+gbif.org/species/1166085	Colombia: Valle del Cauca: Cali	CO	Endémica
+gbif.org/species/1166050	Colombia, sin localidad específica	CO	
+gbif.org/species/1166091	Colombia, sin localidad específica	CO	
+gbif.org/species/1166083	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1167529		CO	Endémica
+gbif.org/species/1167530	Colombia: Magdalena: Cacagualito	CO	Endémica
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=718788#null		CO	
+gbif.org/species/1166253		CO	
+gbif.org/species/5007992	Colombia: Valle del Cauca: Dagua	CO	Endémica
+gbif.org/species/5007991	Colombia: Valle del Cauca: Cali	CO	Endémica
+gbif.org/species/5007972	Colombia: Antioquia: Remedios |  Valle del Cauca: Dagua	CO	
+biolib.cz/en/taxon/id857962/		CO	
+gbif.org/species/1167980		CO	
+gbif.org/species/1167984	Colombia, sin localidad específica	CO	Endémica
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=718789#null		CO	
+gbif.org/species/8225436		CO	
+gbif.org/species/8229132		CO	
+gbif.org/species/4290742		CO	
+gbif.org/species/10710836	Colombia, sin localidad específica	CO	Endémica
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=718790#null		CO	
+gbif.org/species/6721385		CO	
+gbif.org/species/6721385-00	Colombia: Valle del Cauca: Dagua	CO	Endémica
+biolib.cz/en/taxon/id857964/		CO	
+gbif.org/species/1165947		CO	
+gbif.org/species/5007934	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=1815051	Colombia: Cundinamarca: Bogotá	CO	
+organismnames.com/details.htm?lsid=1815053	Colombia: Magdalena: Sierra Nevada de Santa Marta	CO	
+gbif.org/species/7378442	Colombia, sin localidad específica	CO	
+gbif.org/species/5007938	Colombia: Valle del Cauca: Cali	CO	Endémica
+organismnames.com/details.htm?lsid=1815062	Colombia, sin localidad específica	CO	
+gbif.org/species/1137609		CO	
+gbif.org/species/1166562	Colombia: Putumayo: Villa Amazónica	CO	
+gbif.org/species/1166558	Colombia, sin localidad específica	CO	
+gbif.org/species/1166564	Colombia: Putumayo: Villa Amazónica	CO	
+gbif.org/species/1166551	Colombia: Putumayo: Villa Amazónica	CO	
+gbif.org/species/1166565	Colombia, sin localidad específica	CO	
+gbif.org/species/1166553	Colombia: Bolívar: Cartagena |  Cesar: Chiriguaná |  Chocó: Darién, PNN Enseada de Utría |  Cundinamarca: Bogotá |  Valle del Cauca: Cali, Río Dagua	CO	
+gbif.org/species/1166554	Colombia: Cauca: Isla Gorgona	CO	
+gbif.org/species/1166547	Colombia: Vichada: PNNTuparro, Cerro Tomás	CO	
+ubio.org/browser/details.php?namebankID=9753904		CO	
+gbif.org/species/1168072		CO	
+gbif.org/species/1168097	Colombia: Bolívar: Cartagena	CO	
+gbif.org/species/1168099	Colombia: Antioquia |  Bolívar: Cartagena	CO	
+ubio.org/browser/details.php?namebankID=5166298		CO	
+gbif.org/species/1168387		CO	
+gbif.org/species/1168387-00	Colombia, sin localidad específica	CO	Endémica

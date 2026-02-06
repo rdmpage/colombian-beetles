@@ -1,0 +1,368 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=conoderinae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/yifvet</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=conoderinae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Conoderinae (Coleoptera: Curculionidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Mayelis</givenName>
+      <surName>Barros-Barrios</surName>
+    </individualName>
+    <organizationName>Universidad de Caldas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mayebarros3195@gmail.com</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Mayelis</givenName>
+      <surName>Barros-Barrios</surName>
+    </individualName>
+    <organizationName>Universidad de Caldas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mayebarros3195@gmail.com</electronicMailAddress>
+      </metadataProvider>
+  <pubDate>
+      2022-03-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Conoderinae (Coleoptera: Curculionidae) con ocurrencia conocida para el territorio colombiano. Se listan cuatro tribus, 14 géneros, 72 especies, ocho subespecies y una variedad. 18 especies son consideradas endémicas. La información ha sido recopilada a partir del catálogo de Wibmer y O&apos;Brien (1986) y actualizada de acuerdo con la clasificación presentada por Anzaldo (2017). Se incluyen las referencias de todas las descripciones originales y catálogos donde se listan estas especies.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Picudos</keyword>
+            <keyword>Gorgojos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la subfamilia Conoderinae (Coleoptera: Curculionidae) de los siguientes departamentos de Colombia: Antioquia (6 especies), Bolívar (3 especies), Boyacá (3 especies), Cauca (4 especies), Cundinamarca (7 especies), Magdalena (2 especies), Meta (5 especies), Risaralda (2 especies), Tolima (4 especies), Valle del Cauca (3 especies). Cinco de las especies incluidas en este listado no se han registrado para el país, pero sí algunas de sus subespecies o variedades. Hay una especie cuyo registro en el país necesita verificación, al menos cuatro especies indican localidades imprecisas, y 27 especies no presentan localidad específica más allá de &quot;Colombia&quot;. 
+Además de las especies aquí listadas, se conocen cuatro especies adicionales: dos de Antioquia, una de la Isla Gorgona y una del Valle del Cauca.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1758-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2019-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan cuatro tribus, 14 géneros, 72 especies, ocho subespecies y una variedad. 18 especies son consideradas endémicas. La tribu con mayor número de géneros representados en Colombia es Lechriopini con ocho géneros. El género con mayor número de especies es Cratosomus con 32 especies.
+
+Además de las especies aquí listadas, se conocen cuatro especies adicionales y endémicas del género Trichodocerus que fueron descritas en una tesis doctoral (Anzaldo 2019). Al no haber sido oficialmente publicadas, las hemos dejado por fuera de este listado.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Lechriopini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Copturomimus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Copturus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hoplocopturus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lechriops</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Macrocopturus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mnemynurus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Paramnemyne</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Poecilogaster</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Piazurini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cratosomus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Piazurus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pseudopinarus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Trichodocerini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Trichodocerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Zygopini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Philenis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Zygops</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Mayelis</givenName>
+      <surName>Barros-Barrios</surName>
+    </individualName>
+    <organizationName>Universidad de Caldas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mayebarros3195@gmail.com</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Wibmer y O&apos;Brien (1986). Adicionalmente, se consultaron los trabajos de Anzaldo (2017, 2019) para actualizar la clasificación a nivel de tribus.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogo de Wibmer y O&apos;Brien (1986) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de las descripciones originales y el catálogo de Wibmer y O&apos;Brien (1986).</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Conoderinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies subfamilia Conoderinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo a partir del catálogo de Wibmer y O&apos;Brien (1986) y actualizada de acuerdo con la clasificación presentada por Anzaldo (2017). Se incluyen las referencias de todas las descripciones originales y catálogos o revisiones donde se listan estas especies.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogo de Wibmer y O&apos;Brien (1986). Ninguno de los géneros de Conoderinae presentes en Colombia ha sido revisado recientemente. Con la excepción del género Trichodocerus que fue revisado en el marco de una tesis doctoral (Anzaldo 2019).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Mayelis</givenName>
+          <surName>Barros-Barrios</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: descripciones originales, catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-03-05T22:20:15.909+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/yifvet">Girón Duque J C, Barros-Barrios M (2022): Listado de las especies de Conoderinae (Coleoptera: Curculionidae) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/yifvet</citation>
+          <bibliography>
+                <citation identifier="https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf">Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp. https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.683.12080">Anzaldo SS (2017) Review of the genera of Conoderinae (Coleoptera, Curculionidae) from North America, Central America, and the Caribbean. ZooKeys 683: 51–138. https://doi.org/10.3897/zookeys.683.12080</citation>
+                <citation identifier="https://keep.lib.asu.edu/_flysystem/fedora/c7/220273/Anzaldo_asu_0010E_19322.pdf">Anzaldo, S. (2019). Systematics, Morphology, and Evolution of the New World Conoderinae Schoenherr, 1833 (Coleoptera: Curculionidae). Arizona State University. https://keep.lib.asu.edu/_flysystem/fedora/c7/220273/Anzaldo_asu_0010E_19322.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/582712">Champion, G.C. (1906) Curculionidae, Curculioninae, Zygopina, pp. 1–130. In Biologia Centrali-Americana, Insecta, Coleoptera, Volume IV, part 5; Godman, F.D., Salvin, O., Eds.; R. H. Porter: London, UK.	https://www.biodiversitylibrary.org/page/582712</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/582712">Champion, G.C. (1907) Biologia Centrali-Americana. Insecta. Coleoptera. Vol. IV, part 5. Rhynchophora, Curculionidae, Curculioninae (continued). R. H. Porter, London, 513 + pl. 23 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35303544">Erichson WF (1848) Insecten. In: Schomburgk, R. Reisen in Britisch-Guiana in den Jahren 1840-1844. Bd. 3. von J. J. Webster, Leipzig, 534–1260. https://www.biodiversitylibrary.org/page/35303544</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25551418">Fabricius JC (1775) Systema entomologiae: sistens insectorum classes, ordines, genera, species, adiectis synonymis, locis, descriptionibus, observationibus. Flensburgi, 852 pp. https://www.biodiversitylibrary.org/page/25551418</citation>
+                <citation identifier="https://www.google.com/books/edition/Systema_Eleutheratorum/ooo-AAAAcAAJ?hl=en&amp;gbpv=0">Fabricius JC (1801) Systema Eleutheratorum: secundum ordines, genera, species, adiectis synonymis, locis, observationibus, descriptionibus. Tomus II. Bibliopolii Academici Novi, Kiliae, 687. https://www.google.com/books/edition/Systema_Eleutheratorum/ooo-AAAAcAAJ?hl=en&amp;gbpv=0</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Ent-Nachrbl-Troppau_10_0007-0036.pdf">Fiedler C (1936) Bestimmungstabelle der gattung Piazurus. Entomologisches Nachrichtenblatt Troppau 10: 7–36. https://www.zobodat.at/pdf/Ent-Nachrbl-Troppau_10_0007-0036.pdf</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Ent-Nachrbl-Troppau_10_0113-0147.pdf">Fiedler C (1936) Neue Arten der Gattung Piazurus Schönh. (Col. Curc. Zygopidae). Entomologisches Nachrichtenblatt Troppau 10: 113–147. https://www.zobodat.at/pdf/Ent-Nachrbl-Troppau_10_0113-0147.pdf</citation>
+                <citation identifier="https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia">Girón JC, Cardona-Duque J (2018) Estado del conocimiento de los Curculionidae en Colombia. In: Deloya, C. &amp; Gasca Álvarez, H. J. (Eds). Escarabajos del Neotrópico (Insecta: Coleoptera). S y G editores, Mexico, 167–199. https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27814313">Guérin-Méneville FE (1829-1844) Iconographie du règne animal de G. Cuvier, ou, représentation d’après nature de l’une des espèces les plus remarquables, et souvent non encore figurées, de chaque genre d’animaux. Avec un texte descriptif mis au courant de la science. Insectes. J. B. Baillière, Paris, 576 pp. https://www.biodiversitylibrary.org/page/27814313</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k9757807q">Guérin-Méneville FE (1844) Insectes, Pt. 142. G. Cratosomus. Magasin de Zoologie: 1–2. https://gallica.bnf.fr/ark:/12148/bpt6k9757807q</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33470881">Heller KM (1895) Zygopiden-Studien II, mit besonder Berücksichtigung der Gattung Copturus. Abhandlungen und Berichte des Königl. Zoologischen und Anthropologisch-Etnographischen Museums zu Dresden 11: 1–70. https://www.biodiversitylibrary.org/page/33470881</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9010918">Heller KM (1906) Neue Rüsselkäfer aus Central- und Südamerika. Entomologische Zeitung 67: 3–50. https://biodiversitylibrary.org/page/9010918</citation>
+                <citation>Heller KM (1932) Neue Arten de Curculioniden-Gattung Polydius und Mnemynurus. Entomologische Blätter 28: 1–5.</citation>
+                <citation identifier="https://doi.org/10.3390/d10030084">Hespenheide, H. A. 2018. A review of Philenis Champion, 1906 (Coleoptera: Curculionidae: Conoderinae), with descriptions of new species from Central and South America. Diversity 10(84): 1-24. https://doi.org/10.3390/d10030084</citation>
+                <citation identifier="https://doi.org/10.1080/00222933208673466">Hustache A (1932) VIII.—Coléoptères nouveaux (Curculionidæ, Zygopides) du British Museum. Annals and Magazine of Natural History 9: 74–83. https://doi.org/10.1080/00222933208673466</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1936_num_41_2_14953">Hustache A (1936) Piazurus nouveaux [Col. Curculionidae]. Bulletin de la Société entomologique de France 41: 21–24. https://www.persee.fr/doc/bsef_0037-928x_1936_num_41_2_14953</citation>
+                <citation identifier="https://doi.org/10.3406/bsef.1936.15062">Hustache A (1936) Piazurus nouveaux [Col. Curculionidae]. Bulletin de la Société entomologique de France 41(19): 310–315. https://doi.org/10.3406/bsef.1936.15062</citation>
+                <citation>Hustache A (1937) Contribution aux Zygopinae de l’Amerique meridionale. Bulletin et annales de la Société entomologique de Belgique 77: 71–109.</citation>
+                <citation>Kissinger DG (1957) Description of a new Copturus pest of avocado from Mexico (Coleoptera: Curculionidae: Zygopinae). Acta Zoológica Mexicana 2: 1–8.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9614621">Lacordaire JT (1866) Histoire naturelle des insectes: Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Septième. Contenant la famille des Curculionides. Librairie encyclopédique de Roret, Paris, 620 pp. https://www.biodiversitylibrary.org/page/9614621</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp. https://biodiversitylibrary.org/page/24884921</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.542">Linnaeus C von (1758) 1 Systema Naturae per Regna Tria Naturae : Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis. Impensis Direct. Laurentii Salvii, Holmiae, 824 pp. https://doi.org/10.5962/bhl.title.542</citation>
+                <citation identifier="https://revistas.unal.edu.co/index.php/refame/article/view/29465">Mariño Moreno E (1947) El Copturomimus perseae Hustache nueva especie entomológica, grave plaga del aguacate en Colombia. Revista Facultad Nacional de Agronomía Medellín 7: 167–247. https://revistas.unal.edu.co/index.php/refame/article/view/29465</citation>
+                <citation identifier="http://academic.uprm.edu/~franz/WeevilCourseResources/OBrienWibmer1982-WeevilsNCAWI.pdf">O’Brien, C. W., &amp; Wibmer, G. J. (1982). Annotated checklist of the weevils (Curculionidae sensu lato) of North America, Central America, and the West Indies (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute, 34, 1–382. http://academic.uprm.edu/~franz/WeevilCourseResources/OBrienWibmer1982-WeevilsNCAWI.pdf</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.61905">Olivier GA (1807) Entomologie, ou Histoire naturelle des insectes: avec leurs caractères génériques et spécifiques, leur description, leur synonymie, et leur figure enluminée. Coléoptères. Tome Cinquieme. De l’Imprimerie de Baudoin, Paris, 612 pp. https://doi.org/10.5962/bhl.title.61905</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/16336574">Pascoe FP (1880) New Neotropical Curculionidae. Part I. The Annals and Magazine of Natural History 5: 419–428. https://biodiversitylibrary.org/page/16336574</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/15688956">Pascoe FP (1886) New Neotropical Curculionidae. Part VI. Annals and Magazine of Natural History. Series 5. 17: 415–428. https://www.biodiversitylibrary.org/page/15688956</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.158694">Perty M (1832) Insecta Brasiliensia. In: Delectus animalium articulatorum, quae in itinere per Brasiliam, annis MDCCCXVII-MDCCCXX: jussu et auspiciis Maximiliani Josephi I. Impensis Editoris, Monachii, 1–190. https://doi.org/10.5962/bhl.title.158694</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27509108">Schönherr CJ (1825) Curculionides [Tabula synoptica familiae Curculionidum]. In: Isis von Oken, 581–588.  https://www.biodiversitylibrary.org/page/27509108</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4108479">Schönherr CJ (1833) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus primus, pars prima. Roret, Paris, 681 pp. https://www.biodiversitylibrary.org/page/4108479</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4110949">Schönherr CJ (1837) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quartus, pars secunda. Roret, Paris, 1–600 pp. https://www.biodiversitylibrary.org/page/4110949</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4111774">Schönherr CJ (1838) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quartus, pars secunda. Roret, Paris, 601–1121 pp. https://www.biodiversitylibrary.org/page/4111774</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4113827">Schönherr CJ (1844) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae. Tomus octavus, Pars prima. Roret, Paris, 442 pp. https://www.biodiversitylibrary.org/page/4113827</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4114205">Schönherr CJ (1845) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae. Tomus octavus, Pars secunda. Roret, Paris, 504 pp. https://www.biodiversitylibrary.org/page/4114205</citation>
+                <citation>van Emden FI (1933) Revision der Gattung Cratosomus (Col. Curc.). Archiv für Naturgeschichte (N. Ser.) 2: 354–537.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4070050">Voet JE (1806) Catalogus systematicus coleopterorum. Catalogue systematique des coléoptères. Systematische naamlijst van dat geslacht van insecten dat men torren noemt. Pars secunda. Ordo secundus. https://www.biodiversitylibrary.org/page/4070050</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/10891087">Waterhouse CO (1879) Descriptions of new Coleoptera from Medellin, Colombia, recently added to the British Museum collection. Cistula Entomologica 2: 421–429. https://biodiversitylibrary.org/page/10891087</citation>
+                <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute 39: 1–563.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://nature.ca/en/research-collections/collections/animals</collectionIdentifier>
+                <collectionName>CMN - Canadian Museum of Nature, Ottawa, Canadá</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH The Natural History Museum, Londres, Reino Unido</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

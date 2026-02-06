@@ -1,0 +1,21 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/7780			
+biolib.cz/en/taxon/id11638/			
+biolib.cz/en/taxon/id857915/			
+gbif.org/species/3259975			
+organismnames.com/details.htm?lsid=4097318	Colombia: sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5079829	Colombia: sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5008579	Colombia: "Nueva Valencia	CO	
+organismnames.com/details.htm?lsid=5005183	Colombia: "La Guayra	CO	
+organismnames.com/details.htm?lsid=5005213	Colombia: sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5064695	Colombia: sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5075598	Colombia: "Nueva Valencia	CO	
+organismnames.com/details.htm?lsid=2716334			
+organismnames.com/details.htm?lsid=2716336	Colombia: Valle del Cauca ("Alto de las Cruces")	CO	Endémica
+organismnames.com/details.htm?lsid=4884947			
+organismnames.com/details.htm?lsid=5005189	Colombia: sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=5005231	Colombia: sin localidad específica	CO	Endémica
+gbif.org/species/1047590			
+gbif.org/species/163169524			
+gbif.org/species/1047590-01	Colombia: "Nueva Valencia	CO	
+organismnames.com/details.htm?lsid=5008521	Colombia: "Nueva Valencia	CO	

@@ -1,0 +1,4 @@
+id	locality	countryCode
+gbif.org/species/3785		CO
+gbif.org/species/1045145		CO
+organismnames.com/details.htm?lsid=3902094	Colombia, Bogotá	CO

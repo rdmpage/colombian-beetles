@@ -1,0 +1,36 @@
+id	locality	countryCode
+gbif.org/species/4739		CO
+ubio.org/browser/details.php?namebankID=1054358		CO
+eol.org/pages/47474879		CO
+gbif.org/species/1033142		CO
+gbif.org/species/1033144	Colombia: Meta: Carimagua	CO
+gbif.org/species/1033224	Colombia, sin localidad específica	CO
+gbif.org/species/1033212	Colombia: Magdalena: Aracataca	CO
+gbif.org/species/1033198	Colombia, sin localidad específica	CO
+gbif.org/species/1033193	Colombia, sin localidad específica	CO
+gbif.org/species/1033345		CO
+gbif.org/species/1033356	Colombia: Cauca: Popayán |  Magdalena: Río Frío	CO
+gbif.org/species/1033357	Colombia: Magdalena: Río Frío	CO
+gbif.org/species/1033362		CO
+gbif.org/species/1033363	Colombia, sin localidad específica	CO
+gbif.org/species/1033061		CO
+gbif.org/species/1033080	Colombia: Magdalena: Río Frío	CO
+gbif.org/species/1033083	Colombia: Magdalena	CO
+gbif.org/species/1033092	Colombia: Magdalena	CO
+gbif.org/species/1033270		CO
+gbif.org/species/1033300	Colombia: Magdalena: Aracataca	CO
+gbif.org/species/1033275	Colombia: Valle del Cauca: Buenventura	CO
+gbif.org/species/1033299	Colombia, sin localidad específica	CO
+gbif.org/species/1033225		CO
+gbif.org/species/1033234	Colombia, sin localidad específica	CO
+gbif.org/species/1033227	Colombia: Meta	CO
+ubio.org/browser/details.php?namebankID=6898028	Colombia, sin localidad específica	CO
+gbif.org/species/1033228	Colombia: Meta: Hac. Barbascul 30 km E. San Martin	CO
+gbif.org/species/1033232	Colombia: Meta: Carimagua	CO
+gbif.org/species/1033229	Colombia: Meta: Hac. Barbascal 30 km E. San Martin |  Carimagua	CO
+gbif.org/species/1033338		CO
+gbif.org/species/1033341	Colombia: Atlántico: Puerto Colombia	CO
+ubio.org/browser/details.php?namebankID=1095615		CO
+gbif.org/species/1033251		CO
+gbif.org/species/1033256	Colombia: Antioquia (Barranquila?), Atlántico (Pto. Colombia), Magdalena	CO
+gbif.org/species/1033254	Colombia: Antioquia (Barranquila?)	CO

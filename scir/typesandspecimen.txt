@@ -1,0 +1,3 @@
+id	typeStatus	typeDesignationType	typeDesignatedBy	scientificName	taxonRank	bibliographicCitation	institutionCode	collectionCode	locality
+organismnames.com/details.htm?lsid=4302593	Holotipo	original	Pic	Scirtes atronotatus	Especie	Pic, M. (1918) Courtes descriptions diverses. Mélanges exotico-entomologiques, 28: 1-24.	MNHN - Muséum national d’Histoire naturelle, París, Francia	MNHN	Bogotá, Cundinamarca, Colombia
+gbif.org/species/1161928-00	Holotipo	original	Pic	Scirtes bogotensis	Especie	Pic, M. (1918) Courtes descriptions diverses. Mélanges exotico-entomologiques, 28: 1-24.	MNHN - Muséum national d’Histoire naturelle, París, Francia	MNHN	Bogotá, Cundinamarca, Colombia

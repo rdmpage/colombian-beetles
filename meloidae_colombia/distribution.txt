@@ -1,0 +1,59 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4742		CO	
+organismnames.com/details.htm?lsid=1569273		CO	
+organismnames.com/details.htm?lsid=142083		CO	
+gbif.org/species/1046361-00		CO	
+irmng.org/aphia.php?p=taxdetails&id=11518040	Colombia [E Nova Granada]	CO	Endémica
+biolib.cz/en/taxon/id790340/		CO	
+gbif.org/species/1046510	"Colombia (Bogotá, Tacuyó y Páramo de Huila); Panama"	"CO,PA"	
+gbif.org/species/1046417	"Colombia (Barranquilla, Tolima), Panama, Trinidad, Venezuela"	"CO,PA,TT,VE"	
+biolib.cz/en/taxon/id790285/		CO	
+organismnames.com/details.htm?lsid=126936	"Colombia (Magdalena, Meta, Santander), Costa Rica, El Salvador, Honduras, Panama, Venezuela"	"CO,CR,SV,HN,PA,VE"	
+gbif.org/species/1046531	"Colombia, sin localidad específica; Costa Rica, Guatemala, Honduras, Mexico, Nicaragua, Panama, Venezuela"	"CO,CR,GT,HN,MX,NI,PA,VE"	
+irmng.org/aphia.php?p=taxdetails&id=11517941	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1046361-01	"Argentina, Bolivia, Brazil, Colombia (sin localidad específica), Costa Rica, El Salvador, Guatemala, Honduras, Panama, Paraguay, Uruguay, Venezuela"	"AR,BO,BR,CO,CR,SV,GT,HN,PA,PY,UY,VE"	
+irmng.org/aphia.php?p=taxdetails&id=11610643	"Brazil, Colombia (Barranquilla)"	"BR,CO"	
+gbif.org/species/1046361-02	"Argentina, Brazil, Colombia (Atlántico)"	"AR,BR,CO"	
+biolib.cz/en/taxon/id14464/		CO	
+gbif.org/species/1046543-00		CO	
+gbif.org/species/1046577	"Colombia, sin localidad específica;  Costa Rica, EEUU, Guatemala, Mexico, Panamá"	"CO,CR,US,GT,MX,PA"	
+gbif.org/species/1046543-01	"Colombia, sin localidad específica; Costa Rica, EEUU, Guatemala, Mexico"	"CO,CR,US,GT,MX"	
+biolib.cz/en/taxon/id14478/		CO	
+gbif.org/species/1046316		CO	
+gbif.org/species/1046322	"Colombia, sin localidad específica; Costa Rica, EEUU, Guatemala, Haití, Honduras, México, Nicaragua, Panamá, República Dominicana, Venezuela"	"CO,CR,US,GT,HT,HN,MX,NI,PA,DO,VE"	
+biolib.cz/en/taxon/id275196/		CO	
+gbif.org/species/4716901	"Colombia, sin localidad específica; Ecuador, Peru, Boliva, S Brazil and N Argentina"	"CO,EC,PE,BO,BR,AR"	
+irmng.org/aphia.php?p=taxdetails&id=11608111	"Colombia, Bolivia, Argentina"	"CO,BO,AR"	
+gbif.org/species/4721965	"Colombia, sin localidad específica; Peru y N. O. Argentina"	"CO,PE,AR"	
+organismnames.com/details.htm?lsid=792850	"Colombia, sin localidad específica; Peru"	"CO,PE"	
+biolib.cz/en/taxon/id854059/		CO	
+biolib.cz/en/taxon/id854060/		CO	
+gbif.org/species/1046651	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1046652	"Colombia, sin localidad específica"	CO	Endémica
+biolib.cz/en/taxon/id856254/		CO	
+gbif.org/species/4716098	"Colombia, sin localidad específica"	CO	Endémica
+organismnames.com/details.htm?lsid=2450478	"Colombia, sin localidad específica"	CO	Endémica
+biolib.cz/en/taxon/id14501/		CO	
+biolib.cz/en/taxon/id622376/		CO	
+gbif.org/species/1046306		CO	
+gbif.org/species/4990420-00	"Antillas, Argentina, Brasil; Colombia, sin localidad específica; Costa Rica, Ecuador, Guatemala, Güiana Francesa, Mexico, Nicarauga, Panamá, Perú, Venezuela "	"AR,BR,CO,CR,EC,GT,GF,MX,NI,PA,PE,VE"	
+gbif.org/species/4990420-01		CO	
+gbif.org/species/4990420-02		CO	
+biolib.cz/en/taxon/id14510/		CO	
+gbif.org/species/1046247-00		CO	
+gbif.org/species/1046247-01	Colombia (Ibague)	CO	Endémica
+gbif.org/species/4990415	"Colombia, sin localidad específica; Guatemala, México, Nicaragua, Panamá"	"CO,GT,MX,NI,PA"	
+biolib.cz/en/taxon/id165994/		CO	
+gbif.org/species/4735520	"Colombia, sin localidad específica"	CO	Endémica
+organismnames.com/details.htm?lsid=514173	Colombia (Cundinamarca: Fusagasugá)	CO	Endémica
+gbif.org/species/1046232		CO	
+irmng.org/aphia.php?p=taxdetails&id=11520308	"Colombia (Valle de Cauca [Amérique meridionnale, Caucathal])"	CO	Endémica
+irmng.org/aphia.php?p=taxdetails&id=11609719	"Colombia, sin localidad específica"	CO	Endémica
+eol.org/pages/40939474	"Argentina, Brasil, Colombia, sin localidad específica; Paraguay"	"AR,BR,CO,PY"	
+organismnames.com/details.htm?lsid=526075	"Colombia, sin localidad específica"	CO	Endémica
+irmng.org/aphia.php?p=taxdetails&id=11609976	Colombia (Bogotá)	CO	Endémica
+biolib.cz/en/taxon/id165998/	"Colombia, sin localidad específica"	CO	Endémica
+organismnames.com/details.htm?lsid=4094133	"Colombia, sin localidad específica"	CO	Endémica
+organismnames.com/details.htm?lsid=4094143	"Colombia, sin localidad específica; Nicaragua, Trinidad"	"CO,NI,TT"	
+irmng.org/aphia.php?p=taxdetails&id=11610271	"Colombia, sin localidad específica"	CO	Endémica
+biolib.cz/en/taxon/id165997/	"Brasil; Colombia, sin localidad específica; Guatemala, México, Nicaragua, Panamá, Surinam"	"BR,CO,GT,MX,NI,PA,SR"	

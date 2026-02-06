@@ -1,0 +1,299 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="1455c58d-b4ae-4365-9538-ebfd112470c2/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/r77dxh</alternateIdentifier>
+  <alternateIdentifier>1455c58d-b4ae-4365-9538-ebfd112470c2</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lista_coleopteros_disteniidae</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Disteniidae (Coleoptera: Chrysomeloidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+    <role>author</role>
+      </associatedParty>
+  <pubDate>
+      2021-09-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Disteniidae (Coleoptera: Chrysomeloidea) registradas para el territorio colombiano. Se listan tres tribus, 10 géneros y 37 especies. La información ha sido recopilada a partir de información disponible en los principales catálogos del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica o que incluyan claves de identificación.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>especies</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>longicornios</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>taxonomicAuthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/inicio</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Disteniidae (Coleoptera: Chrysomeloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. El departamento que presentó el mayor número de especies registradas fue Boyacá con seis, seguido de Amazonas, Cundinamarca y Nariño, cada uno con cinco especies y Chocó, Magdalena, Santander y Valle del Cauca con cuatro especies cada uno. Caquetá, Cauca y Norte de Santander registraron dos especies cada uno, Antioquia, Atlántico, Bolívar, Huila, Meta Y Risaralda apenas una especie. Los restantes 15 departamentos no presentaron registros de Disteniidae y de las especies registradas para el país, dos no poseen localidad especifica conocida.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1828</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Disteniidae (Coleoptera: Chrysomeloidea) registradas para el territorio colombiano. Se listan 3 tribus, 10 géneros y 37 especies. La información ha sido recopilada a partir de información disponible en los principales catálogos del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica o que incluyan claves de identificación.
+La familia Disteniidae ya fue considerada como subfamilia de Cerambycidae, sin embargo, actualmente, la mayor parte de los autores la considera como familia y, junto con Cerambycidae, Oxypeltidae e Vesperidae, forma el clado “Cerambycoidea”, un grupo sin categorización taxonómica valida y que hace parte de la superfamilia Chrysomeloidea (Švácha &amp; Lawrence 2014b). En este trabajo se sigue esta clasificación y el grupo es considerado con estatus de familia (Svacha &amp; Lawrence, 2014a; Monné, 2021).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Disteniidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Disteniini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Dynamostini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Heteropalpini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>America</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Arietocometes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Distenia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Disteniazteca</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Elytrimitatrix</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hovorestenia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Novantinoe</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Paracometes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Aiurasyma</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pseudocometes</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Juan Pablo</givenName>
+      <surName>Botero</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da USP</organizationName>
+    <positionName>Investigador Postdoctoral</positionName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>jp_bot@yahoo.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Monné (2021). Esta lista inicial fue comparada y complementada con el catálogo de Tavakilian &amp; Chevillotte (2020). Adicionalmente, fueron consultados trabajos recientemente publicados (Botero y Santos-Silva, 2020; Botero y Santos-Silva, 2021) para poder incluir especies que no hubieran sido incluidos en dichos catálogos.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia, de acuerdo con el catálogo de Tavakilian y Chevillotte (2020)</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas  a partir de los catálogos de Monné (2021) y Tavakilian y Chevillote (2020)</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Disteniidae (Coleoptera: Chrysomeloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Disteniidae (Coleoptera: Chrysomeloidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo de Monné (2021), Tavakilian y Chevillotte (2020) y trabajos recientemente publicados y no incluidos en esos catálogos (Botero y Santos-Silva, 2020; Botero y Santos-Silva, 2021). Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Juan Pablo</givenName>
+          <surName>Botero</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-5547-7987</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-04-05T18:40:11.568+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/r77dxh">Botero J P (2021): Listado de las especies de Disteniidae (Coleoptera: Chrysomeloidea) de Colombia. v1.3. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/r77dxh</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14719595#page/478/mode/1up">Bates, H.W. (1870) Contribution to an insect fauna of the Amazon Valley (Coleoptera: Cerambycidae). The Transactions of the Entomological Society of London, 1870, 243–335, 391–444.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1872.tb01888.x">Bates, H.W. (1872) On the longicorn Coleoptera of Chontales, Nicaragua. The Transactions of the Entomological Society of London, 1872, 163–238.</citation>
+                <citation>Bates, H.W. (1885) Biologia Centrali-Americana, Insecta, Coleoptera, suppl. to Longicornia. London, 5, 249–436.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4590.1.2">Botero, J.P. &amp; Almeida, L.M. (2019) New species and new geographical records in Disteniidae (Coleoptera, Chrysomeloidea) with revised keys to species of Novantinoe and American species of Distenia (Distenia). Zootaxa. 4500 (1): 040-058.</citation>
+                <citation identifier="https://doi.org/10.1206/3948.1">Botero, J.P. &amp; Gutiérrez, N. (2020) South American Disteniini (Disteniidae, Coleoptera): new species and new distribution records. American Museum Novitates, 3948: 1-10.</citation>
+                <citation identifier="https://doi.org/10.3956/2020-96.3.143">Botero, J.P. &amp; Santos-Silva, A. (2020) Three new species, taxonomic notes, and new geographical records of Neotropical Disteniidae (Coleoptera). The Pan-Pacific Entomologist 96(3):143–167.</citation>
+                <citation identifier="https://10.1111/aen.12516">Botero, J.P. &amp; Santos-Silva, A. (2021) Rediscovering the rare genus Arietocometes Santos-Silva and Tavakilian, 2009 (Coleoptera: Disteniidae): A review with description of three new species and an identification key. Austral Entomology, 60, 198–214.</citation>
+                <citation identifier="http://doi.org/10.11606/1807-0205/2020.60.special-issue.07">Botero, J.P. (2020) Review of the genus Hovorestenia Santos-Silva (Coleoptera: Disteniidae). Papeis Avulsos de Zoologia, v.60.special-issue: e202060(s.i.).07</citation>
+                <citation>Buquet, J.B.L. (1851) Notice monographique sur le genre Cometes, de la famille des Longics Lepturètes. Revue et Magasin de Zoologie, (2)3, 188-192.</citation>
+                <citation>Chevrolat, L.A. (1857) Description de trois longicornes nouveaux. Revue et Magasin de Zoologie, (2)9, 103-107.</citation>
+                <citation identifier="https://doi.org/10.5479/si.00963801.3201.329">Fisher, W. S. (1946) New Cerambycid beetles belonging to the tribe Disteniini from Central and South America. Proceedings of the United States National Museum, 96(3201), 329-333.</citation>
+                <citation identifier="https://www.scielo.br/pdf/paz/v47n8/a01v47n8.pdf">Hovore F.T. &amp; Santos-Silva A. (2007) Variação do colorido elitral, nova espécie e novos registros em Cometes Audinet-Serville, 1828 (Coleoptera, Cerambycidae, Disteniinae) Papéis Avulsos de Zoologia, São Paulo 47 (8), 113-125.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.67686">Lacordaire, J.T. (1869) Histoire Naturelle des Insectes. Genera des Coléoptères, ou exposé méthodique et critique de tous les genres proposés jusqu&apos;ici dans cet ordre d&apos;insectes. Librairie Encyclopédique de Roret, Paris, 9(1), 409 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/155986#page/497/mode/1up">Lepeletier de Saint Fargeau, A.L.M. &amp; Audinet-Serville, J.G. 1828. In: Encyclopédie méthodique. Histoire naturelle. Entomologie, ou histoire naturelle des Crustacés, des Arachnides et des insectes. Paris, 10(2), 345–832.</citation>
+                <citation>Martins, U.R. &amp; Galileo, M.H.M. (2001) Novos táxons de Disteniidae (Coleoptera) neotropicais. Iheringia¸Zoologia, 90, 15-20.</citation>
+                <citation identifier="https://doi.org/10.1080/00222937108696483">Pascoe, F.P. (1871) Descriptions of new genera and species of longicorns, including three new subfamilies. The Annals and Magazine of Natural History, (4)8, 268-281.</citation>
+                <citation>Santos-Silva &amp; Hovore, F.T. (2007) Espécies americanas de Distenia (Distenia) Lepeletier &amp; Audinet-Serville, 1828 (Coleoptera, Cerambycidae, Disteniinae). Les Cahiers Magellanes, 68, 1-28.</citation>
+                <citation identifier="https://doi.org/10.1590/S0031-10492007000100001">Santos-Silva, A. &amp; Hovore, F.T. (2007) Divisão do gênero Distenia Lepeletier &amp; Audinet-Serville, notas sobre a venação alar em Disteniini, homonimías, sinonímia e redescrições (Coleoptera, Cerambycidae, Disteniinae). Papéis Avulsos de Zoologia, 46(1), 1-29.</citation>
+                <citation>Santos-Silva, A. &amp; Hovore, F.T. (2007) Espécies de Novantinoe Santos-Silva &amp; Hovore (Coleoptera, Cerambycidae, Disteniinae). Lambilloinea, 107(4), 573-610.</citation>
+                <citation>Santos-Silva, A. &amp; Martins, U.R. (2010) Subfamília Disteniinae, pp. 80-255. In Martins, U. R. (org.) Cerambycidae Sul-Americanos (Coleoptera). Taxonomia, Sociedade Brasileira de Entomologia, São Paulo, 11, 274 pp.</citation>
+                <citation identifier="https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers19-08/010048003.pdf">Santos-Silva, A. &amp; Tavakilian, G.L. (2009) Démembrement du genre Cometes Lepeletier &amp; Audinet-Serville, 1828 2e partie (Coleoptera, Cerambycidae, Disteniinae). Les Cahiers Magellanes, 103, 25-46.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.9206">Thomson, J. (1861) Essai d&apos;une classification de la famille des cérambycides et matériaux pour servir a une monographie de cette famille. Bouchard-Huzard, Paris, 129-396.</citation>
+                <citation>Villiers, A. (1958) Démembremant du genre Cometes Serville. Description des genres Pseudocometes, Paracometes, Microcometes nov. et de plusieurs espèces nouvelles (Col., Cerambycidae, Disteniinae). Bulletin du Muséum National d’Histoire Naturelle de Paris, (2)29(5) , 407-413.</citation>
+                <citation>Villiers, A. (1958) Révision des genres Pseudocometes Villiers et Heteropalpus Buquet (Col., Cerambycidae, Disteniinae). Bulletin de la Sociétè Entomologique de France, 63, 37-40.</citation>
+                <citation>Villiers, A. (1959) Essai sur les Distenia Américains (Col., Cerambycidae). Revue Française d’Entomologie, 22(2), 55-76.</citation>
+                <citation>Villiers, A. (1962) Sur la structure des palpes maxillaires de quelques Disteniinae (Coleoptera, Cerambycidae). IXe International Congress of Entomology,1, 382-385.</citation>
+                <citation identifier="https://doi.org/10.1080/00222938009459456">Waterhouse, C.O. (1880) New South-American Coleoptera, chiefly from Ecuador. The Annals and Magazine of Natural History, (5)5, 285–302.</citation>
+                <citation identifier="https://cerambycids.com/catalog/ ">Monné, M. A. 2021. Catalogue of the Cerambycidae (Coleoptera) of the Neotropical region. Part III. Subfamilies Lepturinae, Necydalinae, Parandrinae, Spondylidinae and Families Oxypeltidae, Vesperidae and Disteniidae. Available from: https://cerambycids.com/catalog/</citation>
+                <citation>Švácha, P. &amp; Lawrence, J.F. 2014a. 2.3 Disteniidae J. Thomson, 1861, pp. 60–76. In: N.P. Kristensen &amp; Beutel, R.G. (Eds.). Handbook of Zoology, Coleoptera, Beetles, Volume 3: Morphology and Systematics (Phytophaga). Walter de Gruyter GmbH., Berlin, 675 pp.</citation>
+                <citation>Švácha, P. &amp; Lawrence, J.F. 2014b. 2.4 Cerambycidae Latreille, 1802, pp. 77–177. In: N.P. Kristensen &amp; Beutel, R.G. (Eds.). Handbook of Zoology, Coleoptera, Beetles, Volume 3: Morphology and Systematics (Phytophaga). Walter de Gruyter GmbH., Berlin, 675 pp.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>1455c58d-b4ae-4365-9538-ebfd112470c2/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

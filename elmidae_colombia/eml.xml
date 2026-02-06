@@ -1,0 +1,579 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="7c0d42a3-20cd-43e7-b2f6-2b93e4175724/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/8lqsij</alternateIdentifier>
+  <alternateIdentifier>7c0d42a3-20cd-43e7-b2f6-2b93e4175724</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=elmidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Elmidae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante Doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante Doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-30
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>La familia Elmidae (Coleoptera: Byrrhoidea) es una de las familias de escarabajos acuáticos más importantes debido a su gran riqueza de especies y a su distribución cosmopolita. Sus miembros habitan en los rápidos de ríos, riachuelos, quebradas y cataratas con buena disponibilidad de oxígeno. El presente recurso, presenta el listado de las especies de la familia Elmidae con ocurrencia conocida para el territorio colombiano. Se listan dos subfamilias, dos tribus, una subtribu, 30 géneros, 60 especies y una subespecie. Este grupo presenta seis especies endémicas para Colombia. El listado ha sido compilado a partir de información disponible en descripciones, revisiones taxonómicas y catálogos que tratan el grupo y en literatura reciente (registros). Se incluyen las referencias de todas las publicaciones disponibles en línea.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos de los rápidos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>La familia Elmidae (Coleoptera: Byrrhoidea) presenta una distribución cosmopolita. El listado compila las especies de la familia Elmidae que se han registrado para el territorio colombiano, principalmente en ecosistemas lóticos. Se establecieron registros en 29 de los 32 departamentos de Colombia (excepto para Guainía, San Andrés y Providencia, y Sucre), que incluyen las cinco vertientes hidrográficas: la del Caribe, del Pacífico, del Amazonas, del Orinoco, y del Catatumbo, y las principales cuencas: Magdalena-Cauca, Atrato, Meta, Guaviare, Caquetá, Putumayo, Patía y San Juan. Esta familia presenta el mayor número de registros en la región Andina, pero su mayor riqueza genérica está en la región Amazonía y Orinoquía.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1830-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Elmidae (Coleoptera: Byrrhoidea) es una de las familias de escarabajos acuáticos más importantes debido a su gran riqueza de especies y distribución cosmopolita. Este recurso presenta el listado de las especies de la familia Elmidae en Colombia. En total, se presentaron dos subfamilias, dos tribus, una subtribu, 30 géneros, 60 especies y una subespecie para el país. Los géneros Heterelmis y Macrelmis son de amplia distribución en Colombia. Por el contrario, Epodelmis, Gyrelmis, Holcelmis, Portelmis, Pilielmis y Phanoceroides son de distribución restringida.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Elminae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Elmini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Elmina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Austrelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Austrolimnius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cylloepus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Epodelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Gyrelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Heterelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hexacylloepus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hintonelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Holcelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Huleechius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Macrelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Microcylloepus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neocylloepus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neoelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neolimnius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Notelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Onychelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pilielmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Portelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Stegoelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Stenhelmoides</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Tyletelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Xenelmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Zunielmis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Larainae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Laraini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Disersus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hexanchorus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Phanoceroides</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Phancoerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pharceonus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pseudodoisersus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante Doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas en el país se hizo a partir de los trabajos de Gonzáles-Córdoba et al.(2015, 2016, 2019, 2020, 2021), Hincapié-Montoya (2018, 2019), y Lozano Bravo (2018). Adicionalmente, fueron consultados las publicaciones de (1934, 1935, 1936, 1937, 1939, 1940, 1941, 1971, 1972 y 1973), Dèleve (1968), Brown  (1970, 1971, 1981, 1984) y Spangler (1966, 1980, 1987, 1990, 1992) que realizaron principalmente en Centro y SurAmérica, así como el catálogo de Blackwelder (1944).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Para la validación de la nomenclatura se utilizaron bases de datos como GBIF (http://www.gbif.org/) o Index organism name (http://www.organismnames.com/).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todas las publicaciones en los que se cita cada taxón para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, revisiones, listados y registros. Se proveen enlaces a las publicaciones disponibles en línea y a los identificadores de cada taxón.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Elmidae (Coleoptera: Byrrhoidea) que se han registrado para Colombia de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias bibliográficas de las especies de la familia Elmidae (Coleoptera: Byrrhoidea) que se han reportado para Colombia a partir de la literatura. El listado se obtuvo a partir de los trabajos recientes de González-Córdoba y colaboradores (2015, 2016, 2019, 2020, 2021), Hincapié-Montoya (2018, 2019) y Lozano Bravo (2018). Adicionalmente, se revisó el catálogo de Blackwelder (1944), descripciones y revisiones taxonómicas de Hinton (1934, 1935, 1936, 1937, 1939, 1940, 1941, 1971, 1972 y 1973), Brown (1970, 1971, 1981, 1984), Dèleve (1968) y Spangler (1966, 1980, 1987, 1990, 1992).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>La nomenclatura fue verificada en las descripciones originales, así como en catálogos y revisiones taxonómicas del grupo.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcela</givenName>
+          <surName>González-Córdoba</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coléopteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coléopteros registrados para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar, y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies del orden Coleoptera (Insecta) que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, registros regionales o nacionales, revisiones taxonómicas, descripciones y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-06-06T10:58:24.726+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/8lqsij">Hincapié-Montoya D M, González-Córdoba M (2024): Listado de las especies de Elmidae (Coleoptera: Byrrhoidea) de Colombia. v1.1. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/8lqsij</citation>
+          <bibliography>
+                <citation identifier="https://revistas.unal.edu.co/index.php/cal/article/view/39222">Arias-Díaz, D, Reinoso-Flórez, G, Guevara-Cardona, G, &amp; Villa-Navarro, FA. (2007). Distribución espacial y temporal de los coleópteros acuáticos en la cuenca del río Coello (Tolima, Colombia). Caldasia, 29(1), 177-194.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876605">Blackwelder RE (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999469">Brown, H. P. (1970). Neocylleopus, a new genus from Texas and Central America. The Coleopterists Bulletin, 24(1): 1-28</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/58738091">Brown, H. P. (1971). A new species of Elsianus from Texas and Mexico, with records of other species in the United States (Coleoptera: Dryopoidea: Elmidae). The Coleopterists Bulletin, 25(2): 55-58.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56171655">Brown, H. P. (1981). Huleechius, a new genus of riffle beetle from Mexico and Arizona (Coleoptera, Dryopoidea, Elmidae). The Pan-Pacific Entomologist, 57(1): 228-244.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56171503">Brown, H. P. (1981). Key the world genera of Larinae (Coleoptera; Dryopoidea, Elmidae), with descriptions of new genera from Hispaniola, Colombia, Australia and New Guinea. The Pan-Pacific Entomologist, 57(1): 76-104.</citation>
+                <citation identifier="https://www.jstor.org/stable/4008157">Brown, H. P. (1984). Neotropical dryopoids, III. Major nomenclatural changes affecting Elsianus Sharp and Macrelmis Motschulsky, with cheklists of species (Coleoptera: Elmidae: Elminae). Coleopterists Bulletin, 38(2), 121-129</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/38710530">Carter, HJ &amp;  Zeck EH. (1929). A Monograph of the Australian Dryopidae. Order Coleoptera.  Australian Zoologist  6(1): 50-72.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2321525">Coquerel, J.C. (1851). Monographie du genre Potamophilus. Revue et Magasin de Zoologie, 2 (3), 591–603.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53942652">Curtis, J. (1830). Being illustrations and descriptions of the genera of insects found in Great Britain and Ireland: containing coloured figures from nature of the most rare and beautiful species, and in many instances of the plants upon which they are found.  London. Volumen I, Coleoptera part. I (1823-1840).</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50902683">Darlington, PJ. (1936) A list of the West Indian Dryopidae (Coleoptera), with a new genus and eight new species, including one from Colombia. Psyche, 43(2-3): 65-83.</citation>
+                <citation>Delève, J. (1968). Coleoptera Elminthidae. In: N. et J. Leleup 1964 - 1965 (eds.), Rèsultats scientifiques. Mission zoologique belge aux îles Galapagos et en Ecuador. Mus. Roy. Hist. Nat. Belgique, 1: 209-272.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8643299">Erichson, W. H. (1847). Naturgeschichte der Insecten Deutschlands. Abteilung 1, Coleoptera, 3(4): 481-640.</citation>
+                <citation identifier="https://www.zin.ru/Animalia/coleoptera/rus/ganglb04.htm">Ganglbauer, L. (1904). Die Käfer von Mitteleuropa. Wien: Karl Gerolds Sohn. 286 pages.</citation>
+                <citation identifier="http://revistas.humboldt.org.co/index.php/biota/article/view/375">González-Córdoba M, Zúñiga MdC &amp; Manzo V. (2015). Riqueza genérica y distribución de Elmidae (Insecta: Coleoptera, Byrrhoidea) en el departamento del Valle del Cauca, Colombia. Biota Colombiana, 16(2): 51-74</citation>
+                <citation identifier="https://ri.conicet.gov.ar/handle/11336/12895">González-Córdoba M, Zúñiga MdelC, Torres- Zambrano NN, Manzo V. (2015). Primer registro de las especies Neolimnius palpalis Hinton y Pilielmis apama Hinton (Coleoptera: Elmidae: Elminae) para Colombia y la cuenca del río Orinoco. Boletín del Museo de Entomología de la Universidad del Valle 16(1): 27–33.</citation>
+                <citation identifier="https://revistas.unimagdalena.edu.co/index.php/intropica/article/view/1865">González-Córdoba M, Zúñiga MdelC, Mosquera-Murillo Z Sánchez-Vásquez SP. (2016). Riqueza y distribución de Elmidae (Insecta: Coleoptera: Byrrhoidea) en el departamento del Chocó, Colombia. Intropica, 11(1), 85–95.</citation>
+                <citation identifier="https://ri.conicet.gov.ar/handle/11336/62275">Gonzalez Córdoba M, Zuñiga MdelC, Manzo V, Giraldo LP, Chará J.  (2016). Notelmis Hinton y Onychelmis Hinton (Coleoptera: Elmidae: Elminae) de Colombia: claves taxonómicas ilustradas. Universidad Del Valle. Boletín del Museo de Entomología de la Universidad del Valle. 16(2): 1-17.</citation>
+                <citation identifier="https://revistasojs.ucaldas.edu.co/index.php/boletincientifico/article/view/2677">González-Córdoba M, Zúñiga MDC, Manzo V, Granados-Martínez C, Panche J. (2019). Nuevos registros y datos de distribución de diez especies y cuatro géneros de élmidos (Coleoptera: Elmidae) para Colombia. Boletín Científico. Centro de Museos. Museo de Historia Natural, 23(1), 247-260.</citation>
+                <citation identifier="https://raccefyn.co/index.php/raccefyn/article/view/1062">González-Córdoba M, Zúñiga MdC, Manzo V. (2020). La familia Elmidae (Insecta: Coleoptera: Byrrhoidea) en Colombia: riqueza taxonómica y distribución. Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales, 44(171), 522-553.</citation>
+                <citation identifier="https://revistas.ucr.ac.cr/index.php/rbt/article/view/36702">González-Córdoba M, Zúñiga MdelC, Giraldo LP, Ramírez YP, Chará J. 2020. Sensibilidad de Elmidae (Insecta: Coleoptera) a la perturbación delhábitat y la calidad fisicoquímica del agua en ambientes lóticos de los Andes colombianos. Revista de Biología Tropical, 68(2), 601-622.</citation>
+                <citation identifier="https://www.nature.com/articles/s41598-020-62978-w">González-Córdoba M, Martínez-Román NR, Zúñiga MdelC, Manzo V, Archangelsky M. 2020. Description of the putative mature larva of the Neotropical genus Stenhelmoides Grouvelle (Coleoptera: Elmidae). Scientific reports, 10(1), 1-14.</citation>
+                <citation identifier="https://doi.org/10.31610/zsr/2021.30.2.248 ">Gonzalez Cordoba, M., Manzo, M. V., &amp; Granados Martínez, C. E. (2021). Zunielmis pax, a new genus and species of riffle beetles (Coleoptera: Elmidae) from Colombia. Zoosystematica Rossica, 30(2), 248-265.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8241141">Grouvelle, A. (1888). Nouvelles espèces d’Helmides. Annales de la Société Entomologique de France, 8(6), 393-410.</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1896_num_1_4_21786">Grouvelle, M. A. (1896). Note sur les subdivisions génériques des potamophiliens. Bulletin de la Société Entomologique de France, 1896: 77-79.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/39201448">Grouvelle, M. A. (1896). Potamophilides, Dryopides, Helmides et Heterocerides des Indes orientalis. Annali del Museo Civico di Storia Naturale de Genova, Serie 2, 17: 32-56.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9633522">Grouvelle, M. A. (1898). Note V. Clavicornes de Grenada et de St. Vincent (Antilles) récoltés par M. H. H. Smith, et appartenant au Musée de Cambridge. Notes from the Leyden Museum, 20: 35-48.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8241141">Grouvelle, A. (1889). Nouvelles espèces d’Helmides. Annales de la Société Entomologique de France, 8(6), 393-410. 1888 t.8 f.5</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35620422">Grouvelle, M. A. (1900). Insects de Congo, Clavicornes. Annales de la Société Entomologizue de Belgique, 44: 424.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8251865">Grouvelle, M. A. (1902). Voyage de M. le Dr. Ed. Bugnion au Vénézuela, en Colombie et aux Antilles. Coléoptères clavicornes. II. Nitidulidae, Colydiidae, Cucujidae, Cryptophagidae, Tritomidae et Dryopidae. Annales de la Société Entomologique de France, 71: 461-467.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/5031056">Grouvelle, M. A. (1908). Mission de M. F. Geay dans la Guyane (bassin du fleuve Carsevenne). Coléoptères: Helminthidae.Bulletin du Muséum National d&apos; Histoire Naturelle, 4: 181-186.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2271214">Guérin-Méneville, F. E. (1843). Insectes nouveaux, observés sur les plateaux des Cordillères et dans les vallées chaudes de la Nouvelle-Grenade. Revue de Zoologie, 1: 12-22.</citation>
+                <citation identifier="https://revistas.unal.edu.co/index.php/rfc/article/view/68045">Hincapié-Montoya DM &amp; Uribe-Soto SI. 2018. Primer registro de la especie Macrelmis tarsalis (Hinton, 1936) (Coleoptera: Elmidae) para Colombia. Rev. Fac. Cienc. Universidad Nacional de Colombia, Sede Medellín. 7 (1): 101-111.</citation>
+                <citation identifier="http://www.cep.uj.edu.pl/documents/139445489/139502777/LIBRO+MEMORIAS+46+CONG+SOCOLEN+2019+%281%29.pdf/7e650694-4088-424a-8f28-78b3073b690c">Hincapié-Montoya DM, Uribe-Soto SI. 2019. Nuevo registro del género Macrelmis Motschulsky, 1859 (Coleoptera: Elmidae) para Colombia. En J. H. Guarín-Molina, C. E. Giraldo-Sánchez, J. L. Jaramillo-González (Eds.). Congreso Sociedad Colombiana de Entomología, Memorias &amp; Resúmenes. 46 Congreso Socolen. Universidad Nacional de Colombia, Medellín, Colombia. 586 pp.</citation>
+                <citation identifier="http://www.cep.uj.edu.pl/documents/139445489/139502777/LIBRO+MEMORIAS+46+CONG+SOCOLEN+2019+%281%29.pdf/7e650694-4088-424a-8f28-78b3073b690c">Hincapié-Montoya DM. 2019. Registros nuevos de Larainae LeConte, 1861 y Elminae Curtis, 1830 (Elmidae: Coleoptera) para Colombia. En: Guarín-Molina J, Giraldo-Sánchez C, Jaramillo-González J. (Eds.). Congreso Sociedad Colombiana de Entomología, Memorias &amp; Resúmenes. 46 Congreso Socolen. Universidad Nacional de Colombia, Medellín, Colombia. 594 pp</citation>
+                <citation>Hinton, H.E. (1934). Miscellaneous studies in the Helminae (Dryopidae, Coleoptera). Revista de entomología vol. 4(2): 192-201.</citation>
+                <citation>Hinton, H. E. (1935). Notes on the Dryopoidea (Coleoptera). Stylops, 4(8); 169-179.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1936.tb01018.x">Hinton, H. E. (1936). Descriptions of new genera and species of Dryopidae (Coleoptera). Transactions of the Royal Entomological Society of London, 85(18), 415-434.</citation>
+                <citation>Hinton, H.E. (1936). Descriptions and figures of new Brazilian Dryopidae (Coleoptera). Entomologist, 69, 283–289.</citation>
+                <citation>Hinton H.E. (1937). Descriptions and figures of new peruvian Dryopidae (Coleoptera). The entomologist vol. 70(889): 131-138.</citation>
+                <citation>Hinton, H. E. (1939). On some new and little known South Ameridan Neoelmis Musgrave (Coleoptera, Elmidae). Entomologist&apos;s Monthly Magazine, 75: 228-235.</citation>
+                <citation identifier=" https://doi.org/10.1111/j.1365-2311.1939.tb01021.x">Hinton, H.E. (1939). On some new genera and species of Neotropical Dryopoidea (Coleoptera). Transactions of the Royal Entomological Society of London 89(3): 23–45.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1940.tb01027.x">Hinton, H.E. (1940). A monograph of Gyrelmis gen. n. with a study of the internal anatomy (Coleoptera, Elmidae). Transactions of the Royal Entomological Society of London, 90:375-409.</citation>
+                <citation identifier="https://doi.org/10.1080/00222934008527033">Hinton, H.E. (1940). A synopsis of the Brazilian species Neoelmis Musgrave (Coleoptera, Elmidae). Annals and Magazine of Natural History (ser.11) 5:129-153.</citation>
+                <citation>Hinton, H.E. (1941). A  synopsis of the American species of  Austrolimnius  Carter and Zeck (Coleoptera, Elmidae).  Entomologist&apos;s Monthly Magazine  77: 156-163.</citation>
+                <citation>Hinton, H.E. (1946). A key to the species of Xenelmis Hinton, with descriptions of three new species (Col., Elmidae). Entomologist Monthly Magazine, 82:237-241.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2329255">Hinton, H. E. (1971). The Elmidae (Coleoptera) of Trinidad and Tobago. Bulletin of the British Museum (Natural History), Entomology, 26(6): 245-265.</citation>
+                <citation>Hinton, H. E. (1971). Pilielmis, a new genus of Elmidae (Coleoptera). Entomologist&apos;s Monthly Magazine, 107: 161-166.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1971.tb00843.x">Hinton, H. E. (1971). A revision of the genus Hintonelmis Spangler (Coleoptera: Elmidae). Transactions of the Royal Entomological Society of London, 123(2): 189-208.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999401">Hinton, H.E. (1972). Two new genera of South American Elmidae (Coleoptera). The Coleopterists Bulletin, 26(2):37-41.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999618">Hinton, H.E. (1973). New genera and species of Bolivian Elmidae (Coleoptera). The Coleopterists Bulletin, 27(1):1-6.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9903682">Hope, FW. (1838). The coleopterist’s manual, part the second, containing the predaceous land and water beetles of Linneus and Fabricius. Henry G. Bohn, London, xvi + 168 pp., pls. 1–3. [1838 (title page); 4 Mar 1839 (Jour. Proc. Ent. Soc. London 3: xx)]</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12337953">ICZN. (1995). OPINION 1812. Elmidae Curtis, 1830 (Insecta, Coleoptera): conserved as the correct original spellingm and the gender of Elmis Latrielle, 1812 ruled to be feminine. Bulletin of Zoological Nomenclature, 52(2): 217-218.</citation>
+                <citation>Jäch, M.A. 2002. Notes on Uralohelmis (Coleoptera: Elmidae). Entomol. Probl. 32(2): 163-164.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/1779577">LeConte, J. L. (1852). Synopsis of the Parnidae of the United States. Proceedings of the Academy of Natural Sciences of Philadelphia, 6: 41-45.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/26620891">LeConte, J. L. (1861). Classification of the Coleoptera of North America. Smithsonian Miscellaneous Collections. Vol. 3. Smithsonian Institution</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28608523">LeConte, J. L. and G. H. Horn. (1883). Classification of the Coleoptera of North America. Smithsonian Miscellaneous Collections, 26(4), No. 507. 567 pp.</citation>
+                <citation identifier="https://revistaaccb.org/r/index.php/accb/article/view/155">Lozano Bravo JL, Guevara-Cardona G &amp; Reinoso-Flórez G. 2018. Diversidad espacio-temporal de la familia Elmidae (Insecta: Coleoptera) en la quebrada Las Perlas (Ibagué, Colombia). Magazine of the Colombian Association of Biological Sciences (ACCB), 1(30).</citation>
+                <citation identifier="https://doi.org/10.1080/01650521.2010.520210">Manzo, V., &amp; Moya, N. (2010). Description of the first South American species of Neocylloepus Brown (Coleoptera: Elmidae): N. chaparensis sp. nov. from Bolivia. Studies on Neotropical Fauna and Environment, 45(3), 129-138.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3389.1.2">Miranda G.S, Sampaio, B.H.L,  Dos Passos, M. I. D. S. (2012). Two new species of Austrolimnius Carter &amp; Zeck (Insecta: Coleoptera: Elmidae) from Southeastern Brazil. Zootaxa, 3389: 14-24.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3342.1.1">Monte, C., &amp; Mascagni, A. (2012). Review of the Elmidae of Ecuador with the description of ten new species (Coleoptera: Elmidae). Zootaxa, 3342(1), 1-38.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51901627">Motschulsky, V. (1859). Études Entomologiques. Pt. 8. II. Entomologie spéciale. Insectes des Indes Orientales, et de Contrées Analogues, 2, 25-118.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9333129">Mulsant, E. et Rey, C. 1872. Historie naturelle des Coléoptères de France. Improsternés, Uncifères Diversicornes, Spinipèdes. Deyrolle, Paris. 58 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16145393">Musgrave, P. N. (1935). Two new Elmidae from Puerto Rico with description of a new genus (Coleoptera). Proceedings of the Entomological Society of Washington, 37(2): 32-35.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56171733">Perkins, P. D. and Steiner, W. E. Jr. (1981). Two new Peruvian species of the riffle beetle genus Xenelmis (Coleoptera: Elmidae). The Pan-Pacific Entomologist, 57(1): 306-312.</citation>
+                <citation identifier="https://ianas.org/wp-content/uploads/2020/07/wbp13.pdf">Roldán G. (1988). Guía para el estudio de los macroinvertebrados acuáticos del departamento de Antioquia. Fondo FEN- Colombia. Edit. Presencia, Bogotá.</citation>
+                <citation identifier="https://www.aemnp.eu/acta-entomologica/volume-18/421/uralohelmis-genus-novum-helminarum-europae.html">Roubal J. (1940). Uralohelmis, genus novum Helminarum europae. Sbornik Entomologickeho Oddeleni Naradnino Museu Praze 18: 151-154</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3936.1.6">Sampaio, B. H. L., Passos, M. I. S., &amp; Ferreira, N. (2015). New species and new records of Xenelmis Hinton (Coleoptera: Elmidae) from Southeastern Brazil. Zootaxa, 3936(1), 115-122.</citation>
+                <citation identifier="https://www.jstor.org/stable/3998531">Sanderson, M.W. (1953) New species and a new genus of New World Elmidae with supplemental keys. The Coleopterists Bulletin, 7, 33–40.</citation>
+                <citation identifier="https://www.jstor.org/stable/25003459">Schaeffer, C. (1911). New Coleoptera and miscellaneous notes. Journal of the New York Entomological Society, 19: 113-126.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/577038">Sharp, D. (1882). Insecta, Coleoptera, Family Heteroceridae, Parnidae, Georissidae. Biologia Centrali-Americana 1(2): 116-141.</citation>
+                <citation>Spangler, P. J. (1966). XIII -- Aquatic Coleoptera (Dytiscidae; Noteridae; Gyrinidae; Hydrophilidae; Dascillidae; Helodidae; Psephenidae; Elmidae). In Patrick, et al. The Catherwood Foundation Peruvian-Amazon Expedition. Monographs of the Academy of Natural Sciences of Philadelphia, No. 14: 377-443.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16254708">Spangler, P. J. (1980). A new species of the riffle beetle genus Portelmis from Ecuador (Coleoptera: Elmidae). Proceedings of the Entomological Society of Washington, 82(1): 63-68.</citation>
+                <citation identifier="https://doi.org/10.5479/si.00810282.502">Spangler PJ. (1990). A revision of the Neotropical aquatic beetle genus Stegoelmis (Coleoptera: Elmidae). Smithsonian Contributions to Zoology, 502: 1-52.</citation>
+                <citation identifier=" https://doi.org/10.5479/si.00810282.446">Spangler PJ, Santiago S. (1987). A Revision of the Neotropical Aquatic Beetle Genera Disersus, Pseudodisersus, and Potamophilops (Coleoptera: Elmidae). Smithsonian contributions to zoology N°446: 1-40.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16198168">Spangler, P.J. and Santiago, S. (1991). A new species and new records from Colombia of the water beetle genus Onychelmis Hinton (Coleoptera: Elmidae: Elminae). Proceedings of the Entomological Society of Washington, 93(2): 495-498.</citation>
+                <citation identifier="https://doi.org/10.5479/si.00810282.528">Spangler PJ y Santiago-Fragoso S. (1992). The aquatic beetle subfamily Larainae (Coleoptera: Elmidae) in Mexico, Central America and the West Indies. Smithsonian Contributions to Zoology 528: 1-74.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35933523">Stephens JF. (1828) Illustrations of British entomology; or, a synopsis of indigenous insects: containing their generic and specific distinctions; with an account of their metamorphoses times of appearance, localities, food, and economy, as far as practicable. Mandibulata. Vol., times of appearance, localities, food, and economy, as far as practicable. Mandibulata. Vol.II [pp. 1–112, pls. 10–14]. Baldwin &amp; Cradock, London, 200 pp. + pls. 10–15]. [1829 (title page); 1 Jul 1828 (p. 1 footer); 1 Aug (p. 33); 1 Sep (p. 65); 1 Oct (p. 97)]</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35749740">Stephens JF. (1829). The nomenclature of British insects; being a compendious list of such species as are contained in the Systematic Catalogue of British Insects, and forming a guide to their classification, &amp;c. &amp;c. Baldwin and Cradock, London, [2] + 68 + [1] pp. [1 Jun 1829 (Blackwelder 1949: 92)]</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections/coleoptera-collections.html</collectionIdentifier>
+                <collectionName>BMNH - The Natural History Museum, Londres, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://ppgzoo.museunacional.ufrj.br/estrutura_MN.html</collectionIdentifier>
+                <collectionName>DZRJ - Colección Entomológica Profesor José Alfredo Pinheiro Dutra, Departamento de Zoología, Universidad Federal de Rio de Janeiro</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.naturalsciences.be/en/science/collections/overview/537</collectionIdentifier>
+                <collectionName>RBINS - Royal Belgian Institute of Natural Sciences, Bruselas, Bélgica</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.sma.unifi.it/p358.html</collectionIdentifier>
+                <collectionName>MZUF - Museo di Storia Naturale, Sezione di Zoologia La Specola, Universidad de Florencia, Italia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/fr/coleopteres</collectionIdentifier>
+                <collectionName>MNHN - Muséum nationale d’Histoire naturelle, Paris, Francia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://museodistorianaturalemilano.it/en/ricerca1/le-collezioni-di-zoologia-degli-invertebrati</collectionIdentifier>
+                <collectionName>MSMN - Museo Civico di Storia Naturale, Milan, Italia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://bioweb.puce.edu.ec/QCAZ/contenido/ColeccionInvertebrados</collectionIdentifier>
+                <collectionName>QCAZ - Museo de Zoología, Pontificia Universidad Católica de Ecuador, Quito, Ecuador</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://samnoblemuseum.ou.edu/collections-and-research/recent-invertebrates/</collectionIdentifier>
+                <collectionName>SNOMNH - Sam Noble Oklahoma Museum of Natural History, Norman, Oklahoma, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>http://www.fcyt.umss.edu.bo/investigacion/limnologia/</collectionIdentifier>
+                <collectionName>UMSS – ULRA - Unidad de Limnologia y Recursos Acuaticos, Universidad Mayor de San Simon de Bolivia, Cochabamba, Bolivia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://mcz.harvard.edu/entomology-research-collection</collectionIdentifier>
+                <collectionName>MCZ - Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.calacademy.org/scientists/entomology-collection</collectionIdentifier>
+                <collectionName>CAS - California Academy of Sciences, San Francisco, California, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/publisher/85be57ed-f187-49c9-b7ff-eaa622e06217</collectionIdentifier>
+                <collectionName>MUSENUV - Museo de Entomología de la Universidad del Valle, Cali, Colombia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://ibn.conicet.gov.ar/coleccion-ibn/</collectionIdentifier>
+                <collectionName>IBN - Instituto de Biodiversidad Neotropical, Tucumán, Argentina</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://essig.berkeley.edu/</collectionIdentifier>
+                <collectionName>EMEC - Essig Museum of Entomology, Berkeley, California, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://thefsca.org/coleoptera/</collectionIdentifier>
+                <collectionName>FSCA - Florida State Collection of Arthropods, Museo de Entomología, Gainesville, Florida, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://sta.uwi.edu/fst/lifesciences/uwi-zoology-museum</collectionIdentifier>
+                <collectionName>UWI - University of the West Indies, Saint Augustine, Trinidad, Trinidad y Tobago</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://nhm.org/research-collections/departments/entomology</collectionIdentifier>
+                <collectionName>LACM - Natural History Museum of Los Angeles County, Los Ángeles, California, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://lsm.byu.edu/research-collections</collectionIdentifier>
+                <collectionName>BYUC - Bean Life Science Museum, Brigham Young University, Provo, Utah, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.fieldmuseum.org/science/research/area/insects-arachnids-and-myriapods</collectionIdentifier>
+                <collectionName>FMNH - Field Museum of Natural History, Chicago, Illinois, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://biokic.asu.edu/collections/asuhic</collectionIdentifier>
+                <collectionName>ASUHIC - Hasbrouck Insect Collection, Arizona State University, Tempe, Arizona, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://collections.nmnh.si.edu/search/ento/</collectionIdentifier>
+                <collectionName>USNM - National Museum of Natural History, Washington D.C., Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>No disponible en línea</collectionIdentifier>
+                <collectionName>ZMMU - Zoological Museum of Moscow University, Moscú, Rusia</collectionName>
+              </collection>
+          <dc:replaces>7c0d42a3-20cd-43e7-b2f6-2b93e4175724/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

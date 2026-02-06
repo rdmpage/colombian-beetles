@@ -1,0 +1,7 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+gbif.org/species/1042667	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+biolib.cz/en/taxon/id692703/	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+biolib.cz/en/taxon/id692710/	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+gbif.org/species/1042667	FALSO	VERDADERO	FALSO	Larva	Terrestre
+biolib.cz/en/taxon/id692703/	FALSO	VERDADERO	FALSO	Larva	Terrestre
+biolib.cz/en/taxon/id692710/	FALSO	VERDADERO	FALSO	Larva	Terrestre

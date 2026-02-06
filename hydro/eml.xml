@@ -1,0 +1,412 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="80013c00-7ffd-4c8c-a5b1-554308b13181/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/l4lymo</alternateIdentifier>
+  <alternateIdentifier>80013c00-7ffd-4c8c-a5b1-554308b13181</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=hydro</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Hydrophilidae (Coleoptera: Hydrophiloidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Liza Maria</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>University of Kansas</organizationName>
+    <positionName>Asistente de Investigación de postgrado</positionName>
+    <address>
+        <deliveryPoint>Department of Ecology &amp; Evolutionary Biology</deliveryPoint>
+        <city>Lawrence</city>
+        <administrativeArea>Kansas</administrativeArea>
+        <postalCode>66045</postalCode>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Liza Maria</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>University of Kansas</organizationName>
+    <positionName>Asistente de Investigación de postgrado</positionName>
+    <address>
+        <deliveryPoint>Department of Ecology &amp; Evolutionary Biology</deliveryPoint>
+        <city>Lawrence</city>
+        <administrativeArea>Kansas</administrativeArea>
+        <postalCode>66045</postalCode>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </metadataProvider>
+  <pubDate>
+      2021-10-22
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Se presenta el listado de las especies de la familia Hydrophilidae (Coleoptera: Hydrophiloidea) registradas para Colombia. Se listan 5 subfamilias, 6 tribus, 20 géneros, y 53 especies. Seis especies son consideradas endémicas. La información de este listado está basada en datos disponibles en los principales catálogos del grupo y literatura recientemente publicada.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Hidrofílidos</keyword>
+            <keyword>Escarabajos acuáticos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>Información recientemente publicada por Girón (2018) data el estado actual del conocimiento de la familia Hydrophilidae en Colombia. En este documento es citado un estudio de tesis de maestría Layton (2017), quien reporta y provee distribuciones de los siguientes géneros para el país: Anacaena Thomson, Chaetarthria Stephens, Chasmogenus Sharp, Crenitis Bedel, Helobata Bergroth, Notionotus Spangler y Quadriops Hansen. Cabe destacar que estos géneros no son incluidos en el presente listado debido a que no han sido registrado formalmente. 
+
+
+Girón, J. C. (2018) Estado del conocimiento de la familia Hydrophilidae (Coleoptera: Hydrophiloidea) en Colombia. In: Deloya, C. &amp; Gasca Álvarez, H. J. (Eds), Escarabajos del Neotrópico (Insecta: Coleoptera). Mexico, pp. 55–79. https://drive.google.com/file/d/1ltzT_uz1F-ycP9wUCqBBqn8tre7TRnHJ/view 
+
+
+Layton, M. 2017. Los Coleópteros Acuáticos (Coleoptera: Insecta) en Colombia, Distribución y Taxonomía. Tesis de Maestría, Universidad Nacional de Colombia, Bogotá. https://repositorio.unal.edu.co/handle/unal/62323</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Hydrophilidae (Coleoptera: Hydrophiloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se conocen registros de los departamentos de Amazonas, Atlántico, Caldas, Cundinamarca, Magdalena, Meta, Norte de Santander, Quindío y Valle del Cauca.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1801</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se presenta el listado de las especies de la familia Hydrophilidae (Coleoptera: Hydrophiloidea) registradas para Colombia. Se listan 5 subfamilias, 6 tribus, 20 géneros, y 53 especies. La información de este listado está basada en datos disponibles en los principales catálogos del grupo y literatura recientemente publicada. Se incluyen las referencias de todas las descripciones originales de las especies, y se sigue la actual clasificación de Hydrophilidae propuesta por Short and Fikáček (2013).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hydrophilidae</taxonRankValue>
+                  <commonName>Escarabajos acuáticos detritívoros</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Acidocerinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Chaetarthriinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Enochrinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Hydrophilinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Sphaeridiinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Anacaenini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Berosini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrophilini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Laccobiini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Coelostomatini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Megasternini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Omicrini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Globulosis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Novochares</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Crenitulus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Enochrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Berosus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Derallus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hemiosus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrobiomorpha</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrophilus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Tropisternus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Oocyclus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Paracymus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Dactylosternum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Phaenonotum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cercyon</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Motonerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pelosoma</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Aculomicrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Omicrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sindolus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Liza Maria</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>University of Kansas</organizationName>
+    <positionName>Asistente de Investigación de postgrado</positionName>
+    <address>
+        <deliveryPoint>Department of Ecology &amp; Evolutionary Biology</deliveryPoint>
+        <city>Lawrence</city>
+        <administrativeArea>Kansas</administrativeArea>
+        <postalCode>66045</postalCode>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento del listado fue basado a partir del listado para la familia Hydrophilidae en Colombia publicado por González-Rodríguez et al. (2017). Esta información fue soportada con listados y catálogos de Blackwelder (1944), Hansen (1999), Short and Hebauer (2006), Short and Fikáček (2011).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La verificación de los nombres y autorías se realizó con los catálogos anteriormente mencionados y las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución geográfica de las especies fue tomada de los artículos que reportan cada especie para Colombia. Algunos de los catálogos no mencionan localidad específica (departamento) del registro.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de Hansen (1999). Se proveen enlaces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado se enfoca en el territorio colombiano. Se conocen registros de los departamentos de Amazonas, Atlántico, Caldas, Cundinamarca, Magdalena, Meta, Norte de Santander, Quindío y Valle del Cauca.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se recopiló información sobre los nombres, autores y referencias de las especies de la familia Hydrophilidae Coleoptera que han sido registradas para Colombia. El listado se obtuvo de Blackwelder (1944), Hansen (1999), Short y Hebauer (2006), Short y Fikáček (2011), y González-Rodríguez et al. (2017).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales y en los catálogos anteriormente mencionados.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Liza Maria</givenName>
+          <surName>González-Rodríguez</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-05-22T14:10:03.769+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/l4lymo">González-Rodríguez L M (2021): Listado de las especies de Hydrophilidae (Coleoptera: Hydrophiloidea) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/l4lymo</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36009588">Blackburn, T. (1888) Notes on Australian Coleoptera with descriptions of new species. - Proceedings of the Linnean Society of New South Wales (2) 3 (1889): 805-875.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876502">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, the West Indies, and South America. Part I. Bulletin of the United States National Museum, 185: 1–189.</citation>
+                <citation identifier="https://publicaciones.fcnym.unlp.edu.ar/rmlp/article/view/1317">Bruch, C. (1915) Nuevas Especies de Coleopteros Hidrofilidos. - Revista del Museo de La Plata 19 (2): 447-470.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/49448789">Brullé, A. (1837) Famille des hydrophiliens [part; continued in 1841]. In: d’Orbigny A (Ed.) Voyage dans l’Amerique méridionale. Vol. 6, part 2. Insectes. P. Bertrand, Paris/Strasbourg, 52–56. P. Bertrand, Paris, Strasbourg, pp. 57–60.</citation>
+                <citation>Bertrand, H. (1954) Les insectes aquatiques d’Europe (Genres: larves, nymphes, imagos). Vol. I. - Encyclopédie entomologique (A) 30: 1-556.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25258151">Castelnau, F.L.N. (1840). Histoire naturelle des insectes coléoptéres, avec une introduction renfermant l’anatomie et la physiologie des animaux articulés, par M. Brullé. Histoire naturelle des Animaux articulés: annelidés, crustacés, arachnides, Myriapodes et Insectes. Tome 2: 1–563. P. Duménil, Paris.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32777229">Chevrolat, A. (1834). Coléoptères du Mexique. 3e Fascicule. Impr. de G. Silbermann, Strasbourg. 200 pp. https://www.biodiversitylibrary.org/page/32777229</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25551616">Fabricius, J.C. (1775) Systema entomologiae, sistens insectorum classes, ordines, genera, species, adjectis synonymis, locis, descriptionibus, observationibus. Libraria Korte, Flensburgi et Lipsiae, 832 pp. https://www.biodiversitylibrary.org/page/25551616</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52755340">Fabricius, J.C. (1792) Entomologia systematica emendata et aucta. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. vol. 1, pars 1. C.G. Proft, Hafniae, 330 pp. https://www.biodiversitylibrary.org/page/52755340</citation>
+                <citation identifier="https://books.google.com/books?id=8Eo3AQAAMAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Fabricius, J.C. (1801) Systema eleutheratorum secundum ordines, genera, species: adiectis synonymis, locis, observationibus, descriptionibus. Bibliopoli Academici Novi, Kiliae V.1. 506p.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50796655">Fall, H.C. (1924) New species of North American Hydrobiini. Journal of the New York Entomological Society 32: 85–89.</citation>
+                <citation>Fernández, L.A. (1997) Nuevos aportes para el conocimiento del género Enochrus Thomson (Coleoptera: Hydrophilidae). Physis (Buenos Aires) B 53 (124–125): 21–29.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1268.1.1">Fikáček M, Short AEZ (2006) A revision of the Neotropical genus Motonerus Hansen (Coleoptera: Hydrophilidae: Sphaeridiinae). Zootaxa 1268: 1–38.</citation>
+                <citation identifier="https://www.researchgate.net/publication/262431308_Two_new_species_of_Oocyclus_Coleoptera_Hydrophilidae_from_Colombia">García-Hernández, A. (2009). Two new species of Oocyclus (Coleoptera: Hydrophilidae) from Colombia. Revista Colombiana de Entomología. 35. 250-252.</citation>
+                <citation identifier="https://produccioncientificaluz.org/index.php/boletin/article/view/3978/0">García, M. (2001) Nueva subtribu, género y especie de Hydrophilini (Coleoptera: Hydrophilidae) del extremo suroriental de Venezuela. Boletín del Centro de Investigaciones Biológicas Universidad del Zulia, 35, 151–160.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14715825">Geoffroy, E.L. (1762) Histoire abrégée des insectes qui se trouvent aux environs de Paris, dans laquelle ces animaux sont rangés suivant un ordre méthodique. Vol. 1, 523p.</citation>
+                <citation identifier=" https://doi.org/10.3897/zookeys.1045.63810">Girón JC, Short AEZ (2021) The Acidocerinae (Coleoptera, Hydrophilidae): taxonomy, classification, and catalog of species. ZooKeys 1045: 1-236.</citation>
+                <citation identifier="https://doi.org/10.15560/13.5.605 ">González-Rodríguez LM, García-Hernández AL, Clarkson B (2017) First records of water scavenger beetle species (Coleoptera, Hydrophilidae) from Quindío Department, Colombia. Check List 13(5): 605-620.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4565.4.4">González-Rodríguez, L. M., A. L. García-Hernández &amp; B. Clarkson. (2019). Two new species of the water scavenger beetle genus Hemiosus Sharp Coleoptera: Hydrophilidae) from Colombian Andes. Zootaxa, 4565(4), 493–500.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999966">Gundersen, R.W. (1977) New species and taxonomic changes in the genus Enochrus (Coleoptera: Hydrophilidae). The Coleopterists Bulletin 31 (3): 251–272.</citation>
+                <citation>Hansen, M. (1989) New genera of Sphaeridiinae (Coleoptera: Hydrophilidae). - Entomologica Scandinavica, 20: 251,262.</citation>
+                <citation identifier="https://books.google.com/books?id=eWx1YOZrt6cC&amp;lpg=PA310&amp;pg=PA1#v=onepage&amp;q&amp;f=false">Hansen M (1991) The hydrophiloid beetles. Phylogeny, classification and a revision of the genera (Coleoptera, Hydrophiloidea). Biologiske Skrifter 40: 1–368.</citation>
+                <citation>Hansen, M. (1999) World Catalogue of Insects 2: Hydrophiloidea (Coleoptera). Apollo Books, Stenstrup, 416 pp.</citation>
+                <citation identifier="https://hdl.handle.net/2027/hvd.32044107178949?urlappend=%3Bseq=87">Heyden, L., Reitter, E., Weise, J., &amp; R. Friedländer &amp; Sohn,. (1891). Catalogus coleopterorum Europae, Caucasi et Armeniae Rossicae. Berlin: R. Friedländer &amp; Sohn.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340963">Kirsch, T. F. W. (1871) Beiträge zur Käferfauna von Bogotà. - Berliner entomologische Zeitschrift 14 (1870):337-378.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8341211">Kirsch, T.F.W. (1873) Beiträge zur Kenntniss der Peruanischen Käferfauna auf Dr Abendroth’s Sammllmgen basirt. Berliner entomologische Zeitschrift 17: 121–152.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Archiv-Naturgeschichte_87A_6_0001-0024.pdf">Knisch, A. (1921) Hydrophiliden aus Matto Grosso. (Erster Teil.). - Archiv für Naturgeschichte87, A (6): 1-24.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/WEZ_41_0114-0140.pdf">Knisch, A. (1924) Neue neotropische Palpicornier. (Col. Hydrophilidae. - Op. 16.). - Wiener entomologische Zeitung 41: 114-140.</citation>
+                <citation>Knisch, A. (1925) Coleoptera aus dem tropischen Amerika. Hydrophilidae (Palpicornia). Bollettinodei Musei di Zoologia e di Anatomia camparata della R. Università di Torino (n. s.) 30 (39) (1924): 1–12.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24885010 ">Latreille, P.A. (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28686956">Leach, W. E. (1817) The zoological miscellany. Vo l. 3. 151 pp., pI. 12 1- 150. - R. P. Nodder, London.</citation>
+                <citation>Mouchamps, R. (1959) Remarques concernant les genres Hydriobiomorpha Blackburn et Neohydrophilus Orchymont (Coléoptères Hydrophilides). Bulletin et annales de la Société royale d’entomologie de Belgique 95: 295–335.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9628914">Mulsant E (1844a) Histoire naturelle des coléoptères de France. Palpicornies. L. Maison, Paris/Ch. Savy Jeune, Lyon, 7 + 196 pp., l pl., [errata et addenda: 197 pp.].</citation>
+                <citation identifier="https://books.google.com/books?id=NIg9AQAAMAAJ&amp;lpg=PT3&amp;dq=Description%20de%20quelques%20Palpicornes%20in%C3%A9dits.&amp;pg=PA372#v=onepage&amp;q&amp;f=false">Mulsant, E. (1844) Description de quelques Palpicornes inédits. Annales de la Société d’ Agriculture de Lyon, 7, 372–382.</citation>
+                <citation>Oliva A (1994) A revision of the genus Hemiosus Sharp, 1882 in South America (Coleoptera: Hydrophilidae). Bulletin and Annales de la Sociéte, Royal Belge, Entomologie 130: 267–303.</citation>
+                <citation>Orchymont A d’ (1922) Le genere Tropisternus (Col. Hydrophilidae). II. Annales de la Société entomologique de Belgique 62: 11–47.</citation>
+                <citation>Orchymont, A. d&apos;. (1943) Palpicornia (Coleoptera), VI. Bulletin du Musée Royal d&apos;Histoire Naturelle de Belgique, 19 (60): 1-12.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32413895">Say, T. (1835) Descriptions of new North American coleopterous insects, and observations on some already described. Boston Journal of Natural History 1: 151–203.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13494089">Sharp, D. (1879). On some Coleoptera from the Hawaiian Islands. Trans. Ent. Soc. London 77-105.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/577130">Sharp, D. (1882) Fam. Hydrophilidae. In: Biologia Centrali-Americana. Insecta. Coleoptera. Vol. 1. Part 2. Taylor and Francis, London, pp 53–116.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1883.tb02940.x ">Sharp, D. (1883) Revision of the species included in the genus Tropisternus (fam. Hydrophilidae). Transactions of the Entomological Society of London 1883: 91–117.</citation>
+                <citation identifier="https://doi.org/10.1111/syen.12024">Short AEZ, Fikáček M. (2013) Molecular phylogeny, evolution and classification of the Hydrophilidae (Coleoptera). Systematic Entomology 38 (4): 723–752.</citation>
+                <citation identifier="https://doi.org/10.1080/01650527509360490 ">Smetana, A. (1975) Revision of the New World genera of the tribe Omicrini trib. nov. of the hydrophilid subfamily Sphaeridiinae (Coleoptera). Studies on Neotropical Fauna and Environment 10 (2): 153–182.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32515455">Solier, A.J.J. (1834) Observations sur la tribu des Hydrophiliens, et principalement sur le genre Hydrophilus de Fabricius. Annales de la Société entomologique de France 3: 299–318.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54335826">Thomson, C. G. (1859) Skandinaviens Coleoptera. Vol. I. 290 pp. - Berlingska Boktryckeriet, Lund.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54317876">Thomson, C. G. (1867) Skandinaviens Coleoptera. Vol. 9. 407 pp. - Lundbergska Boktryekeriet, Lund.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53396015">Winters, F. C. (1926) Notes on the Hydrobiini (Coleoptera-Hydrophilida:) of Boreal America. - Pan-Pacific Entomologist 3: 49-58.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9614004">Wollaston, T. V. (1854) Insecta Maderensia; being an account of the insects of the Islands of the Maderian group. 43 + 634 pp., 13 pI. - .I. v. Voorst, London.</citation>
+                <citation identifier="https://www.jstor.org/stable/25082551">Wooldridge, D.P. (1973) New Paracymus from South America (Coleoptera: Hydrophilidae). Journal of the Kansas Entomological Society 46 (1): 116–123.</citation>
+                <citation identifier="https://www.jstor.org/stable/25083821">Wooldridge, D. P. (1969) New species of Paracymus from Mexico and Central America (Coleoptera: Hydrophilidae). - Journal of the Kansas Entomological Society 42: 413-421.</citation>
+                <citation>Zaitzev, F.A. (1908) Catalogue des coléoptères aquatiques des familles Dryopidae, Georyssidae, Cyathoceridae, Heteroceridae et Hydrophilidae. Horae Societatis entomologicae Rossiae 38: 283–420.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>DWC-A</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>80013c00-7ffd-4c8c-a5b1-554308b13181/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

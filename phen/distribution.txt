@@ -1,0 +1,45 @@
+id	locality	countryCode	establishmentMeans	occurrenceRemarks
+gbif.org/species/4290602	Cundinamarca	CO		Especie ampliamente extendida
+gbif.org/species/4290591	Colombia	CO		Sin localidad especifica, dentro del país
+gbif.org/species/1162553	Colombia	CO		Sin localidad especifica, dentro del país
+gbif.org/species/1162560	Bogotá | Monterredondo (Cundinamarca) | Leticia (Amazonas)	CO	Endémica	Sin localidad especifica, dentro del país
+gbif.org/species/1162554	Colombia	CO		Sin localidad especifica, dentro del país
+gbif.org/species/1162549	Bogotá (Cundinamarca) | Cordillera central	CO		Algunas localidades se refieren a Nov. Granada
+gbif.org/species/1162563	Colombia	CO	Endémica	
+gbif.org/species/1162497	Buenaventura-Represa de Anchicayá (Valle del Cauca)	CO		
+gbif.org/species/1162574	Silvia (Cauca)	CO	Endémica	
+organismnames.com/details.htm?lsid=2078127	Colombia	CO	Endémica	Localidad Nov. Granada sin localidad especifica
+organismnames.com/details.htm?lsid=5530231	Bogotá-Monserrate (Cundinamarca)	CO	Endémica	
+organismnames.com/details.htm?lsid=2078130	Dagua (Valle del Cauca)	CO	Endémica	Una localidad reportada es Tocot.; probablemente Tocotá Cundinamarca
+gbif.org/species/7371818	Monterredondo (Cundinamarca)	CO	Endémica	La localidad puede corresponder a dos lugares diferentes del mismo nombre cerca al PNN Chingaza
+gbif.org/species/1162678	Buenaventura-Represa de Anchicayá (Valle del Cauca)	CO	Endémica	
+gbif.org/species/1162726	Bogotá (Cundinamarca)	CO	Endémica	
+gbif.org/species/174057971	Aracataca (Magdalena)	CO		Otros especimenes con localidad Colombia
+gbif.org/species/1162524	Bogotá (Cundinamarca)	CO	Endémica	
+gbif.org/species/1162538	Bogotá (Cundinamarca) | Meta	CO	Endémica	Según Wittmer 1976, la localidad del Meta es “Planicies del Meta a 100 millas de Bogotá”
+gbif.org/species/1162534	Santa Marta (Magdalena)	CO	Endémica	
+gbif.org/species/1162531	Puracé (Cauca)	CO	Endémica	Cinco individuos descritos del Páramo de Puracé a 3000 y 3500 msnm, cuatro de ellos en la laguna San Rafael
+gbif.org/species/1162639	Colombia	CO		
+gbif.org/species/1162643	Colombia	CO	Endémica	
+gbif.org/species/1162644	Pueblo Bello-Sierra Nevada de Santa Marta (Cesar)	CO		
+gbif.org/species/1162629	Ciénaga (Magdalena)	CO	Endémica	Corregimiento de San Pedro, Sierra Nevada de Santa Marta
+gbif.org/species/2177		CO		
+gbif.org/species/1162539		CO		
+gbif.org/species/1162548		CO		
+gbif.org/species/1162496		CO		
+gbif.org/species/1162572		CO		
+gbif.org/species/1162543		CO		
+organismnames.com/details.htm?lsid=5530230		CO		
+gbif.org/species/1162652		CO		
+gbif.org/species/6757620		CO		
+gbif.org/species/1162662		CO		
+gbif.org/species/1162721		CO		
+gbif.org/species/1162682		CO		
+gbif.org/species/1162517		CO		
+gbif.org/species/1162630		CO		
+gbif.org/species/1162628		CO		
+catalogueoflife.org/data/taxon/7KPRF	Colombia	CO		Los ejemplares para Colombia se refieren a la localidad Nov. Granada
+catalogueoflife.org/data/taxon/7L23H	Popayán (Cauca) | San Antonio (Tolima)	CO		
+ubio.org/browser/details.php?namebankID=1054440		CO		
+organismnames.com/details.htm?lsid=4501505		CO		
+organismnames.com/details.htm?lsid=4370670		CO		

@@ -1,0 +1,55 @@
+id	countryCode	establishmentMeans
+urn:lsid:zoobank.org:act:109EB417-0C64-712-87AE-2F504258A1B2	CO	Endémica
+urn:lsid:zoobank.org:act:040832DB-2A58-4EFE-B234-AEBF222586FC	CO	
+organismnames.com/details.htm?lsid=1704591	CO	
+organismnames.com/details.htm?lsid=1933082	CO	
+organismnames.com/details.htm?lsid=1928680	CO	
+organismnames.com/details.htm?lsid=5530234	CO	
+organismnames.com/details.htm?lsid=5530235	CO	Endémica
+organismnames.com/details.htm?lsid=5505524	CO	Endémica
+organismnames.com/details.htm?lsid=3091991	CO	
+organismnames.com/details.htm?lsid=4431357	CO	
+gbif.org/species/4748441	CO	
+gbif.org/species/6269127	CO	
+gbif.org/species/6269131	CO	
+gbif.org/species/6269148	CO	
+gbif.org/species/6269142	CO	Endémica
+gbif.org/species/6269133	CO	Endémica
+gbif.org/species/6269134	CO	Endémica
+gbif.org/species/6269149	CO	Endémica
+gbif.org/species/6269157	CO	Endémica
+gbif.org/species/6265149	CO	
+gbif.org/species/6265154	CO	Endémica
+gbif.org/species/1127000	CO	
+gbif.org/species/1126862	CO	Endémica
+gbif.org/species/1126861	CO	
+gbif.org/species/1126820	CO	
+gbif.org/species/1126795	CO	Endémica
+gbif.org/species/1126828	CO	
+gbif.org/species/1126797	CO	
+gbif.org/species/1126555	CO	
+gbif.org/species/1126559	CO	
+gbif.org/species/1131865	CO	
+urn:lsid:irmng.org:taxname:1472487	CO	
+gbif.org/species/1144642	CO	
+gbif.org/species/1150162	CO	
+gbif.org/species/1154265	CO	
+gbif.org/species/6268039	CO	Endémica
+gbif.org/species/1154272	CO	Endémica
+gbif.org/species/1154302	CO	Endémica
+gbif.org/species/1154304	CO	
+gbif.org/species/1154279	CO	
+gbif.org/species/1154269	CO	
+gbif.org/species/1154309	CO	Endémica
+gbif.org/species/1154268	CO	Endémica
+gbif.org/species/1154313	CO	
+gbif.org/species/1154305	CO	
+gbif.org/species/1154317	CO	
+gbif.org/species/1143185	CO	
+gbif.org/species/1132727	CO	Endémica
+gbif.org/species/6269083	CO	
+gbif.org/species/1146960	CO	
+gbif.org/species/1146961	CO	Endémica
+gbif.org/species/10305525	CO	Endémica
+gbif.org/species/1114878	CO	
+gbif.org/species/1114891	CO	Endémica

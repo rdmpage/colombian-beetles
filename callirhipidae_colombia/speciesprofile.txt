@@ -1,0 +1,9 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+gbif.org/species/3260770-00	FALSE	TRUE	FALSE	Adulto	Terrestre
+organismnames.com/details.htm?lsid=3398866	FALSE	TRUE	FALSE	Adulto	Terrestre
+gbif.org/species/3260770-01	FALSE	TRUE	FALSE	Adulto	Terrestre
+irmng.org/aphia.php?p=taxdetails&id=11500762	FALSE	TRUE	FALSE	Adulto	Terrestre
+gbif.org/species/3260770-00	FALSE	TRUE	FALSE	Larva	Terrestre
+organismnames.com/details.htm?lsid=3398866	FALSE	TRUE	FALSE	Larva	Terrestre
+gbif.org/species/3260770-01	FALSE	TRUE	FALSE	Larva	Terrestre
+irmng.org/aphia.php?p=taxdetails&id=11500762	FALSE	TRUE	FALSE	Larva	Terrestre

@@ -1,0 +1,12 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4239		CO	
+biolib.cz/en/taxon/id12901/		CO	
+biolib.cz/en/taxon/id12902/		CO	
+organismnames.com/details.htm?lsid=31837		CO	
+gbif.org/species/9454351	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/9615915	Colombia: San Antonio	CO	Endémica
+gbif.org/species/9534840	Colombia, sin localidad específica	CO	
+gbif.org/species/9535394	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=31837-01	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=31837-02	Colombia: "Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=31837-03	Colombia: "Bogotá	CO	Endémica

@@ -1,0 +1,261 @@
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=lixinae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+    <dataset>
+        <alternateIdentifier>10.15472/pwyea3</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lixinae_colombia</alternateIdentifier>
+        <shortName>Lixinae (Curculionidae) de Colombia</shortName>
+        <title xml:lang="spa">Listado de las especies de Lixinae (Coleoptera: Curculionidae) de Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+            <role>author</role>
+        </associatedParty>
+        <pubDate>
+            2025-11-08
+        </pubDate>
+        <language>spa</language>
+        <abstract>
+            <para>Este recurso presenta el listado de las especies de la subfamilia Lixinae (Coleoptera: Curculionidae) con ocurrencia conocida para el territorio colombiano. Se listan una tribu, un género y siete especies, de las cuales cinco se consideran endémicas de Colombia, pues no se conocen registros en otros países. El listado ha sido compilado a partir de información disponible en el catálogo de Wibmer y O'Brien (1986) y en literatura reciente. Se incluyen las referencias de todas las descripciones originales.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Lista de referencia</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>especies</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>escarabajos</keyword>
+            <keyword>coleópteros</keyword>
+            <keyword>picudos</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Checklist</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Se reportan una tribu, un género y siete especies de la subfamilia Lixinae (Coleoptera: Curculionidae). Sólo se conoce la localidad de dos especies registradas de Bogotá y otra registrada de &quot;San Lorenzo&quot;, pero no se indica en qué departamento. Para las otras cuatro especies no se conoce su distribución en Colombia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+                    <northBoundingCoordinate>12.555</northBoundingCoordinate>
+                    <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>1801-01-01</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>2011-12-31</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se lista una tribu, un género (Lixus) y siete especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>family</taxonRankName>
+                    <taxonRankValue>Curculionidae</taxonRankValue>
+                    <commonName>Gorgojos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subfamily</taxonRankName>
+                    <taxonRankValue>Lixinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Lixini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Lixus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Wibmer y O&apos;Brien (1986). Adicionalmente, fueron consultados trabajos más recientes que incluyen la subfamilia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La grafía y autoría de cada nombre fue verificada en el catálogo de Wibmer y O&apos;Brien (1986) y en las descripciones originales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>No se encontraron datos sobre la distribución de cuatro de las especies en la literatura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales e información en catálogos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El listado compila los nombres de los taxones de la subfamilia Lixinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se compiló información sobre los nombres, autores y referencias de los taxones de la subfamilia Lixinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo principalmente a partir del catálogo de Wibmer y O&apos;Brien (1986) y trabajos publicados posteriormente.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los nombres fueron verificados en las descripciones originales, así como en Wibmer y O&apos;Brien (1986).</para>
+                </description>
+            </qualityControl>
+        </methods>
+        <project>
+            <title>Listado de los coleópteros de Colombia</title>
+            <personnel>
+                <individualName>
+                    <givenName>Jennifer C.</givenName>
+                    <surName>Girón Duque</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+                <role>author</role>
+            </personnel>
+            <abstract>
+                <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo Coleoptera de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+            </abstract>
+            <funding>
+                <para>Recursos propios.</para>
+            </funding>
+            <studyAreaDescription>
+                <descriptor name="generic"
+                            citableClassificationSystem="false">
+                    <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+                </description>
+            </designDescription>
+        </project>
+    </dataset>
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2024-09-19T15:31:47.599+00:00</dateStamp>
+                <hierarchyLevel>dataset</hierarchyLevel>
+                <citation identifier="https://doi.org/10.15472/pwyea3">Girón Duque J C (2025). Listado de las especies de Lixinae (Coleoptera: Curculionidae) de Colombia. Version 1.0. Coleoptera de Colombia. Checklist dataset. https://doi.org/10.15472/pwyea3</citation>
+                <bibliography>
+                    <citation identifier="https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf">Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185, 1–1492.</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/bibliography/210090">Fabricius, J.C. (1801) Systema Eleutheratorum : secundum ordines, genera, species, : adiectis synonymis, locis, observationibus, descriptionibus. Impensis Bibliopolii Academici novi, Kiliae. 687 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/8344411">Kirsch, T. (1869) Beiträge zur Käferfauna von Bogotà. (Viertes Stück: phanerognathe Curculionen). Berliner entomologische Zeitschrift 12, 177–214.</citation>
+                    <citation identifier="https://biodiversitylibrary.org/page/9375856">Lacordaire, J.T. (1863) Histoire naturelle des insectes: Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Sexième. Contenant la famille des Curculionides. Librairie encyclopédique de Roret, Paris, 637 pp.</citation>
+                    <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                    <citation identifier="https://www.zobodat.at/pdf/VerhMittNaturwissHermannstadt_78_1_0063-0132.pdf">Petri, K. (1928) Bestimmungstabelle der mir bekannt gewordenen sudamerikanischen Arten der Gattung Lixus Fabr. nebst Neubeschreibungen. Verhandlungen und Mitteilungen des Siebenburgischen Vereins fuer Naturwissenschaften in Hermannstadt 78, 63–132.	</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/13257284">Schönherr, C.J. (1823) Curculionides [Tabula synoptica familiae Curculionidum]. Isis von Oken 1823, 1132–1146.</citation>
+                    <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute, 39, 1–563.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Página web</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-coleocol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+</eml:eml>

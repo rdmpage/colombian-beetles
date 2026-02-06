@@ -1,0 +1,654 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=bupr/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/g5u6tg</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=bupr</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Buprestidae (Coleoptera: Buprestoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Kimberly</givenName>
+      <surName>García</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de maestría</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>kimberly.pg@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/0804171481726807</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-3631-180X</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Uchima Taborda</surName>
+    </individualName>
+    <organizationName>Universidad de Antioquia</organizationName>
+    <positionName>Biólogo</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alejandro.uchima@udea.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Letizia Janaína</givenName>
+      <surName>Migliore</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de doctorado</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>letizia_jm@hotmail.com</electronicMailAddress>
+    <onlineUrl>ttp://lattes.cnpq.br/0552504717091507</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-2731-8185</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Kimberly</givenName>
+      <surName>García</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de maestría</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>kimberly.pg@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/0804171481726807</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-3631-180X</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Uchima Taborda</surName>
+    </individualName>
+    <organizationName>Universidad de Antioquia</organizationName>
+    <positionName>Biólogo</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alejandro.uchima@udea.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Letizia Janaína</givenName>
+      <surName>Migliore</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de doctorado</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>letizia_jm@hotmail.com</electronicMailAddress>
+    <onlineUrl>ttp://lattes.cnpq.br/0552504717091507</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-2731-8185</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Kimberly</givenName>
+      <surName>García</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de maestría</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>kimberly.pg@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/0804171481726807</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-3631-180X</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Uchima Taborda</surName>
+    </individualName>
+    <organizationName>Universidad de Antioquia</organizationName>
+    <positionName>Biólogo</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alejandro.uchima@udea.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Letizia Janaína</givenName>
+      <surName>Migliore</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de doctorado</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>letizia_jm@hotmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/0552504717091507</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-2731-8185</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-06-13
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Buprestidae (Coleoptera: Buprestoidea) registradas para Colombia. En el listado se reportan cuatro subfamilias, 14 tribus, 13 subtribus, 30 géneros, 11 subgéneros, 147 especies y cuatro subespecies. Sesenta y seis especies se consideran endémicas. La información fue recopilada a partir de los catálogos de Bellamy (2008, 2009) y complementada con otros catálogos disponibles para el grupo y literatura reciente. Cuando disponible, la distribución por localidad específica al interior del país fue incluida. También se incluyen las referencias de todas las descripciones originales, así como trabajos en donde cada taxón ha sido mencionado, incluyendo revisiones taxonómicas y catálogos.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos joya</keyword>
+            <keyword>Jewel beetles</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se presenta un listado con los nombres de las especies de la familia Buprestidae (Coleoptera: Buprestoidea) registradas para el territorio colombiano de acuerdo con literatura especializada en el grupo. Se registran especies para 21 departamentos del país, siendo Cundinamarca el de mayor riqueza, con un total de 12 especies, seguido por Magdalena, con nueve especies, Bolívar y Valle del Cauca con cinco especies cada uno, Atlántico, Caquetá y Cesar con tres especies, Meta, Santander y Tolima con dos especies cada uno y, por último, Amazonas, Antioquia, Boyacá, Caldas, Córdoba, Guaviare, Huila, Putumayo, Quindío, Risaralda y Sucre, con una sola especie. Es importante mencionar que gran parte de especies fueron descritas de Colombia, sin mencionar su localidad específica. Además, 66 especies se registran únicamente en el territorio colombiano, considerándose endémicas.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1815</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Buprestidae (Coleoptera: Buprestoidea) registradas para Colombia. Se reportan 4 subfamilias: Agrilinae, Buprestinae, Chrysochroinae y Polycestinae. En Agrilinae se registran tres tribus (Agrilini, Coraebini y Trachyini), siete subtribus, 12 géneros y 70 especies. En Buprestinae se reportan cinco tribus (Actenodini, Anthaxiini, Chrysobothrini, Melanophilini y Stigmoderini), con una subtribu, nueve géneros y 51 especies. Por su parte Chrysochroinae presentó dos tribus en el país (Dicercini y Paraleptodemini), con cuatro subtribus, seis géneros y 17 especies. Por último, Polycestinae se registra con cuatro tribus (Acmaeoderini, Haplostetini, Polycestini y Tyndaridini), dos subtribus, cuatro géneros y 10 especies. La información fue recopilada a partir de registros disponibles en los principales catálogos del grupo, como los de Bellamy (2008, 2009) y en literatura reciente.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Buprestidae</taxonRankValue>
+                  <commonName>Escarabajos joya</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Agrilinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Agrilini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Coraebini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Tracheini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Buprestinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Actenodini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Anthaxiini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Chrysobothrini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Melanophilini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Stigmoderini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Chrysochroinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Dicercini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Paraleptodemini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Polycestinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Acmaeoderini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Haplostetini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Polycestini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Tyndaridini</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Kimberly</givenName>
+      <surName>García</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de maestría</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>kimberly.pg@gmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/0804171481726807</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-3631-180X</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Uchima Taborda</surName>
+    </individualName>
+    <organizationName>Universidad de Antioquia</organizationName>
+    <positionName>Biólogo</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alejandro.uchima@udea.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5613-2510</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Letizia Janaína</givenName>
+      <surName>Migliore</surName>
+    </individualName>
+    <organizationName>Museu de Zoologia da Universidade de São Paulo</organizationName>
+    <positionName>Estudiante de doctorado</positionName>
+    <address>
+        <city>São Paulo</city>
+        <administrativeArea>São Paulo</administrativeArea>
+        <country>BR</country>
+    </address>
+    <electronicMailAddress>letizia_jm@hotmail.com</electronicMailAddress>
+    <onlineUrl>http://lattes.cnpq.br/0552504717091507</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-2731-8185</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Se recopilaron los nombres de los taxones registrados para Colombia a partir de los catálogos de Bellamy (2008, 2009). La lista inicial fue complementada con trabajos publicados posteriormente a estos catálogos (Marek 2018, 2020; Hespenheide 2014; Svatipluk 2015; Bily 2012; Curletti 2020).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue confirmada en las descripciones originales, en los catálogos de Bellamy (2008, 2009) y en revisiones taxonómicas recientes. Cuando necesario se consultó con una especialista en el grupo (Letizia Migliore).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies dentro del territorio colombiano fue obtenida a partir de las descripciones originales, y los trabajos mencionados en el primer paso metodológico.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La información sobre el material tipo de cada especie se consultó principalmente en los catálogos de Bellamy (2008, 2009), en los cuales sólo se indica la colección donde está depositado el material y se indica que es material tipo, pero no se especifica si se trata de holotipos, paratipos o sintipos. Estos datos se complementaron con información disponible en bases de datos especializadas en línea (https://cerambycids.com/buprestidae/types.htm).</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Buprestidae (Coleoptera: Buprestoidea) que se han registrado para el territorio colombiano según la literatura especializada en el grupo.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Buprestidae (Coleoptera: Buprestoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado inicial se obtuvo a partir de los catálogos de Bellamy (2008, 2009) y fueron complementados con trabajos, principalmente revisiones, publicados recientemente (Marek 2018, 2020; Hespenheide 2014; Svatipluk 2015; Bily 2012; Curletti 2020). Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Todos los nombres fueron verificados en las descripciones originales, en los catálogos que aquí se mencionan y en los trabajos de revisión taxonómica que incluyen nombres listados en este recurso. Cuando necesario se consultaron especialistas en el grupo.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-09-10T22:37:53.793+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/g5u6tg">García K, Uchima Taborda D, Migliore L J (2022): Listado de las especies de Buprestidae (Coleoptera: Buprestoidea) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/g5u6tg</citation>
+          <bibliography>
+                <citation>Alexeev, A. V. 1998. K podrodovoi klassifikatsii zlatok roda Agrilus Curtis (Coleoptera, Buprestidae) fauny Palearktiki. Entomologicheskoe Obozrenie 77(2):367-383.</citation>
+                <citation identifier="http://www.scielo.org.mx/scielo.php?script=sci_abstract&amp;pid=S0065-17372014000300024&amp;lng=pt&amp;nrm=iso&amp;tlng=en">Álvarez, D., Arroyo W. &amp; Navarro, L. 2014. Report of Euchroma gigantea (Linnaeus, 1758) (Coleoptera: Buprestidae) for three departments of Colombian Caribbean Region. Acta Zoologica Mexicana Nueva Serie, 30 (3): 727-730. http://www.scielo.org.mx/scielo.php?script=sci_abstract&amp;pid=S0065-17372014000300024&amp;lng=pt&amp;nrm=iso&amp;tlng=en</citation>
+                <citation identifier="http://publication.nhmus.hu/pdf/annHNHM/Annals_HNHM_1954_Vol_46_231.pdf">Apt, Ö. 1954. Neue Trachydinen aus dem ungarischen Naturwissenschaftlichen Museum (Col., Buprestidae). Annales Historiconaturales Musei Nationalis Hungarici (Series Nova) 5: 231-242. http://publication.nhmus.hu/pdf/annHNHM/Annals_HNHM_1954_Vol_46_231.pdf</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k1176282r/f151.item">Bedel, L. 1921. Faune des Coléoptères du Bassin de la Seine. Tome IV, Deuxième Fascicule, Serricornia. pp. 165-232, Société entomologique de France (Paris). https://gallica.bnf.fr/ark:/12148/bpt6k1176282r/f151.item</citation>
+                <citation identifier="ISBN 978-954-642-318-4">Bellamy, C. 2008. A World Catalogue and Bibliography of the Jewel Beetles (Coleoptera: Buprestoidea). Volume 1: Introduction; Fossil Taxa; Schizopodidae; Buprestidae: Julodinae - Chrysochroinae: Poecilonotini. Pensoft Series Faunistica No. 76. 625 pp. Pensoft Publishers, Sofia-Moscow.</citation>
+                <citation identifier="ISBN 978-954-642-317-7">Bellamy, C. 2008. A World Catalogue and Bibliography of the Jewel Beetles (Coleoptera: Buprestoidea). Volume 2: Chrysochroinae: Sphenopterini through Buprestinae: Stigmoderini. Pensoft Series Faunistica No. 77, pp. 626-1260, Pensoft Publishers, Sofia-Moscow.</citation>
+                <citation identifier="ISBN 978-954-642-320-7">Bellamy, C. 2008. A World Catalogue and Bibliography of the Jewel Beetles (Coleoptera: Buprestoidea). Volume 3: Buprestinae: Pterobothrini through Agrilinae: Rhaeboscelina. Pensoft Series Faunistica No. 78, pp. 1261-1931, Pensoft Publishers, Sofia-Moscow.</citation>
+                <citation identifier="ISBN 978-954-642-321-4">Bellamy, C. 2008. A World Catalogue and Bibliography of the Jewel Beetles (Coleoptera: Buprestoidea). Volume 4: Agrilinae: Agrilina through Trachyini. Pensoft Series Faunistica No. 79, pp. 1932-2684, Pensoft Publishers, Sofia-Moscow.</citation>
+                <citation identifier="https://cerambycids.com/buprestidae/Types/Types/PragueTypes/NMPC_type_numbers.xls">Bellamy, C. 2014. The world of Jewel Beetles. Website.	https://cerambycids.com/buprestidae/Types/Types/PragueTypes/NMPC_type_numbers.xls</citation>
+                <citation identifier="http://gidearchive.blogspot.com/2014/02/n-32-c-l-bellamy-r-l-westcott.html">Bellamy, C. L. &amp; R. L. Westcott. 1993. A new species of Euplectalecia Obenberger from Guyana. Giornale Italiano di Entomologia 6(32):175-178. http://gidearchive.blogspot.com/2014/02/n-32-c-l-bellamy-r-l-westcott.html</citation>
+                <citation identifier="https://journals.co.za/doi/pdf/10.10520/AJA00411752_70">Bellamy, C. L. &amp; R. L. Westcott. 1995. A revision of the Omochyseus Waterhouse genus-group (Coleoptera: Buprestidae: Agrilinae). Annals of the Transvaal Museum 36(14): 193-203. https://journals.co.za/doi/pdf/10.10520/AJA00411752_70</citation>
+                <citation identifier="https://www.jstor.org/stable/4008989">Bellamy, C. L. &amp; R. L. Westcott. 1995. New records for the Halecia Laporte and Gory genus group from Central America and description of the female of Euplectalecia spectraloides Bellamy and Westcott from Colombia (Coleoptera: Buprestidae). The Coleopterists Bulletin, 49 (2): 195-199. https://www.jstor.org/stable/4008989</citation>
+                <citation>Bellamy, C. L. &amp; R. L. Westcott. 2000. The genus Hiperantha: subgenera, type species, unavailable names and the Mexican fauna (Coleoptera: Buprestidae). Folia Heyrovskyana 8(1):25-34.</citation>
+                <citation identifier="https://www.jstor.org/stable/4008988">Bellamy, C. L. 1995. A new species of Chrysobothris Eschscholtz from Parque Nacional de Chiribiquete, Colombia (Coleoptera: Buprestidae). The Coleopterists Bulletin 49(2):191-194. https://www.jstor.org/stable/4008988</citation>
+                <citation identifier="https://journals.co.za/doi/epdf/10.10520/AJA10213589_261">Bellamy, C. L. 1998. Further replacement names in the family Buprestidae (Coleoptera). African Entomology 6(1):91-99. https://journals.co.za/doi/epdf/10.10520/AJA10213589_261</citation>
+                <citation identifier="ISBN: 9788086447094">Bellamy, C. L. 2003. An illustrated summary of the higher classification of the superfamily Buprestoidea (Coleoptera). Folia Heyrovskyana, Supplementum 10, 197 pp, 44 plates.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34353064">Bílý, S. &amp; Kubán, V. 2006. Case 3335. Trachys Fabricius, 1801 (Insecta, Coleoptera): proposed fixation of the feminine gender of the genus and the form of derivation of family group names based on Trachys. Bulletin of Zoological Nomenclature 63(3): 172-176. https://www.biodiversitylibrary.org/page/34353064</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3521.1.1">Bílý, S. 2012. A revision of the genera Anilaroides Théry, 1934, stat. nov. and Tetragonoschema Thomson, 1857 (Coleoptera: Buprestidae: Buprestinae: Anthaxiini). Zootaxa, 38(3521), 1–38. https://doi.org/10.11646/zootaxa.3521.1.1</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4039.1.8">Bílý, S. 2015. A study on the genus Agrilaxia Kerremans, 1903 from Venezuela (Coleoptera: Buprestidae: Buprestinae: Anthaxiini). Zootaxa, 4039(1): 173-182. https://doi.org/10.11646/zootaxa.4039.1.8</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation>Bleuzen, P. 1989. Nouvelles especes du genre Actenodes Solier (Col. Buprestidae Chrysobothrinae Actenodini). Bulletin de la Société Sciences Nat 62: 9-12.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/6267747">Böving, A. G. &amp; F. C. Craighead. 1931. An illustrated synopsis of the principal larval forms of the order Coleoptera. Brooklyn Entomological Society, 351 pp., 125 plates. https://www.biodiversitylibrary.org/page/6267747</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9799427">Casey, T. L. 1909. Studies in the American Buprestidae. Proceedings of the Washington Academy of Science 11(2): 47-178. https://www.biodiversitylibrary.org/page/9799427</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32777173">Chevrolat, L. A. A. 1834. Coléoptères du Mexique, 1er Fascicule [25 pp.], Janvier/June 1833. G. Silbermann, Strasbourg. https://www.biodiversitylibrary.org/page/32777173</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32777173">Chevrolat, L. A. A. 1835. Coléoptères du Mexique, 5e Fascicule [50 pp.], Janvier 1835. G. Silbermann, Strasbourg. https://www.biodiversitylibrary.org/page/32777173</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32777173">Chevrolat, L. A. A. 1835. Coléoptères du Mexique, 8e Fascicule [68 pp.], Coléoptères du Mexique 190, Septembre 1835. G. Silbermann, Strasbourg. https://www.biodiversitylibrary.org/page/32777173</citation>
+                <citation identifier="http://biodiversitylibrary.org/page/25529892">Chevrolat, L. A. A. 1838. Centurie de Buprestides. Revue Entomologique 5(1837): 41-110. http://biodiversitylibrary.org/page/25529892</citation>
+                <citation identifier="https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences/31-1955/irscnb_p4087_00df58p_31_bulletin-13-red.pdf">Cobos, A. 1955. Estudio sobre los Ptosimites de Ch. Kerremans (Coleoptera, Buprestidae). Bulletin de l’Institut Royal des Sciences Naturelle de Belgique 31(13): 1-24. https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences/31-1955/irscnb_p4087_00df58p_31_bulletin-13-red.pdf</citation>
+                <citation identifier="http://hdl.handle.net/10261/165178">Cobos, A. 1975. Dos nuevas tribus de Bupréstidos (Col. Buprestidae). EOS, Revista Española de Entomología 49: 87-104. http://hdl.handle.net/10261/165178</citation>
+                <citation identifier="https://digital.csic.es/handle/10261/165481">Cobos, A. 1976. Estudio sobre Rhaeboscelis Chevrolat, 1837 y géneros afines (Col. Buprestidae). EOS, Revista Española de Entomología 50(1974): 19-40. https://digital.csic.es/handle/10261/165481</citation>
+                <citation identifier="http://www.digitalniknihovna.cz/knav/uuid/uuid:bfd23868-148b-11e1-1586-001143e3f55c">Cobos, A. 1979. Revisión de la subfamilia Trachyinae a niveles supraespecíficos (Coleoptera, Buprestidae). Acta Entomologica Bohemoslovaca, 76: 414-430. http://www.digitalniknihovna.cz/knav/uuid/uuid:bfd23868-148b-11e1-1586-001143e3f55c</citation>
+                <citation identifier="https://digital.csic.es/handle/10261/167136">Cobos, A. 1980. Ensayo sobre los géneros de la subfamilia Polycestinae (Coleoptera, Buprestidae), Parte I, Revista española de entomología 54(1-4): 15-94. https://digital.csic.es/handle/10261/167136</citation>
+                <citation>Cobos, A. 1990. Revisión del género Dismorpha Gistel (Coleoptera, Buprestidae). Revista Brasileira de Entomología 34(3): 539-559.</citation>
+                <citation identifier="https://doi.org/10.14411/eje.2005.104">Corona, A. M. 2005. Revision of the subgenus Lampetis (Spinthoptera) (Coleoptera: Buprestidae) of North and Central America, and the West Indies. European Journal of Entomology, 102(4), 737-776. https://doi.org/10.14411/eje.2005.104</citation>
+                <citation identifier="https://www.researchgate.net/publication/233420734_Agrilus_Agriloides_et_Autarcontes_de_Guyane">Curletti, G. &amp; Brulé, S. 2011. Agrilus, Agriloides et Autarcontes de Guyane. Magellanes. 81 pp. https://www.researchgate.net/publication/233420734_Agrilus_Agriloides_et_Autarcontes_de_Guyane</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4243.2.7">Curletti, G. &amp; Dutto, A. 2017. Notes on the Agrilus fauna of the Colombian Amazon (Coleoptera, Buprestidae). Zootaxa, 4243(2): 373-376. https://doi.org/10.11646/zootaxa.4243.2.7</citation>
+                <citation identifier="https://doi.org/10.1590/0031-1049.2014.54.08">Curletti, G. &amp; Migliore, L. 2014. O gênero Agrilus Curtis, 1829 nas coleções do Museu de Zoologia da Universidade de São Paulo (Coleoptera: Buprestidae). Papéis Avulsos De Zoologia, 54(8), 81-106. https://doi.org/10.1590/0031-1049.2014.54.08</citation>
+                <citation identifier="https://www.researchgate.net/publication/233733253_Notes_about_the_genus_Agrilus_Curtis_1825_in_Panama">Curletti, G. 2005. Notes about the genus Agrilus Curtis, 1825 in Panama (Coleoptera, Buprestidae). Lambillionea 105(4): 545-571. https://www.researchgate.net/publication/233733253_Notes_about_the_genus_Agrilus_Curtis_1825_in_Panama</citation>
+                <citation identifier="https://www.biotaxa.org/rce/article/view/64143">Curletti, G. 2020. Diversity of the genus Agrilus Curtis (Coleoptera: Buprestidae) in South America. Revista Chilena de Entomología, 46 (3): 425-451. https://www.biotaxa.org/rce/article/view/64143</citation>
+                <citation identifier="https://www.biotaxa.org/rce/article/view/61873">Curletti, G. 2020. Nuevas adiciones al conocimiento taxonómico del género Agrilus Curtis (Coleoptera: Buprestidae: Agrilinae) de la Región Neotropical. Revista Chilena de Entomología, 46(2): 243-254. https://www.biotaxa.org/rce/article/view/61873</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/29965999">Curtis, J. 1825. British Entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland: containing coloured figures from nature of the most rare and beautiful species, and in many instances of the plants upon which they are found. Volume 2, Coleoptera part II. London. 276 pp. https://www.biodiversitylibrary.org/page/29965999</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9322478">Dejean, P. F. M. A. 1833. Catalogue des Coléoptères de la collection de M. le comte Dejean, livraison 1, pp. 1-96, Méquignon Marvis, Father &amp; Sons, Paris. https://www.biodiversitylibrary.org/page/9322478</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8258258">Desmarest, E. 1843. Description de deux nouvelles espèces de buprestides du genre Hyperantha, Gistel, Mannerheim (Poecilonota Solier, Dejean). Annales de la Société entomologique de France 2(1): 17-22. https://www.biodiversitylibrary.org/page/8258258</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12850254">Deyrolle, H. 1864. Description des Buprestides de la Malaisie recueillés par M. Wallace pendant son voyage dans cet Archipel. Annales de la Société entomologique de Belgique 8: 1-280. https://www.biodiversitylibrary.org/page/12850254</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56520091">Eschscholtz, J. F. 1829. Zoologischer Atlas: enthaltend Abbildungen und Beschreibungen neuer Thierarten, während des Flottcapitains v. Kotzebue zweiter Reise um die Welt, auf der Russisch-Kaiserlichen Kriegsschlupp Predpriaetië in den Jahren 1823-1826. G. Reimer, Berlin, Erstes Heft, 180 pp. https://www.biodiversitylibrary.org/page/56520091</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25523679">Fabricius, J. C. 1787. Mantissa insectorum sistens eorum species nuper detectas adiectis characteribus genericis, differentiis specificis, emendationibus, observationibus, Volume 1, 348 pp; Volume 2, C. G. Proft, Hafniae, 382 pp. https://www.biodiversitylibrary.org/page/25523679</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=chi.73265320&amp;view=1up&amp;seq=11&amp;skin=2021">Fabricius, J. C. 1801. Systema Eleutheratorum, ordines, genera, species: adiectis synonymis, locis, observationibus, descriptionibus. Volume 2, 687 pp., Bibliopolii Academici Novi, Kiliae. https://babel.hathitrust.org/cgi/pt?id=chi.73265320&amp;view=1up&amp;seq=11&amp;skin=2021</citation>
+                <citation>Fisher, W. S. 1942. A new species of Buprestidae from Venezuela (Coleoptera). Boletín de Entomología Venezolana 1(4): 89-90.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7728090">Fisher, W. S. 1949. New buprestid beetles from Mexico, Central and South America, and the West Indies. Proceedings of the United States National Museum, 99(3240): 327-351. https://www.biodiversitylibrary.org/page/7728090</citation>
+                <citation>Gistel, J. N. F. X. 1834. Die Insecten-Doubletten aus der Sammlung des Herrn.Grafen Rudolph von Jenison Walworth zu Regensburg, welche sowohl im Kauf als im Tausche abgegeben werden I. Käfer. George Jaquet, München, 36 pp.</citation>
+                <citation identifier="https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00191914/ISIS_1848_0246.TIF">Gistel, J. N. F. X. 1848. Faunula monacensis cantharologica. Isis. Encyclopädische Zeitschrift, vorzüglich für Naturgeschichte, vergleichende Anatomie und Physiologie (Leipzig) 7. https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00191914/ISIS_1848_0246.TIF</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/46339896">Gistel, J. N. F. X. 1848. Naturgeschichte des Thierreichs für höhere Schulen. 216 pp., 32 plates. Stuttgart. https://www.biodiversitylibrary.org/page/46339896</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25745483">Gmelin, J. F. (1790) C. Linnaeus&apos; Systema Naturae, 13th Edition, Volume 1, Part 4, pp. 1517-2224 (Coleoptera bis Hemiptera), Lipsiae, Beer. https://www.biodiversitylibrary.org/page/25745483</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/49100023">Gory, H. L. &amp; Laporte de Castelnau, F. (1841). Histoire naturelle et iconographie des insectes coléoptères. Suite aux buprestides. Tome II (pp. 1–666). P. Duménil. https://www.biodiversitylibrary.org/page/49100023</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/49113115">Gory, H. L. 1841. Histoire naturelle et iconographie des insectes Coléoptères. Supplement aux Buprestides. P. Duménil, Paris. Volume 4. https://www.biodiversitylibrary.org/page/49113115</citation>
+                <citation identifier="https://doi.org/10.3956/2020-96.4.281">Gottwald, S. &amp; Hornburg, M. 2020. A review of the genus Mimicoclytrina Bellamy, 2003 (Coleoptera: Buprestidae) and description of a new species from northwestern Venezuela. The Pan-Pacific Entomologist, 96 (4): 281-307. https://doi.org/10.3956/2020-96.4.281</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57729466">Herbst, J. F. W. 1801. Natursystem aller bekannten in-und ausländischen Insecten, als eine Fortsetzung der Büssonschen Naturgeschichte. Der Käfer neunter Theil, Volume 9, pp. 1-344. https://www.biodiversitylibrary.org/page/57729466</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2712732">Hespenheide, H. A. 1974. Nomenclatorial notes on the Agrilinae (Coleoptera: Buprestidae): Pachyschelus and Hylaeogena. Entomological News 85 (4), 102-107. https://www.biodiversitylibrary.org/page/2712732</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.43.1.1">Hespenheide, H. A. 2002. A review of North and Central American Paragrilus Saunders, 1871 (Coleoptera: Buprestidae: Agrilinae). Zootaxa, 43(1): 1-28. https://doi.org/10.11646/zootaxa.43.1.1</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-68.1.21">Hespenheide, H. A. 2014. A reconsideration of Hylaeogena Obenberger, 1923 (Coleoptera: Buprestidae), with descriptions of a new genus and new species from Mexico and Central America. The Coleopterists Bulletin, 68(1): 21-30. https://doi.org/10.1649/0010-065X-68.1.21</citation>
+                <citation identifier="https://www.researchgate.net/publication/280053390_1993_A_reassessment_of_the_internal_classification_of_the_Buprestidae_LEACH_Coleoptera_Crystal_Zool_1_1-42">Holyński, R. 1993. A reassessment of the internal classification of the Buprestidae Leach (Coleoptera). Crystal, series Zoologica, 1: 1-42. https://www.researchgate.net/publication/280053390_1993_A_reassessment_of_the_internal_classification_of_the_Buprestidae_LEACH_Coleoptera_Crystal_Zool_1_1-42</citation>
+                <citation identifier="https://www.zobodat.at/pdf/MittMuenchEntGes_104_0005-0029.pdf">Hornburg, M. 2014. Taxonomic synopsis of the genera Euhylaeogena Hespenheide, 2014 and Hedwigiella Obenberger, 1941 for South America with the description of eight new species. (Coleoptera: Buprestidae). Mitteilungen der Munchner Entomologischen Gesellschaft, 104: 5-29. https://www.zobodat.at/pdf/MittMuenchEntGes_104_0005-0029.pdf</citation>
+                <citation identifier="http://www.buprestidae.de/content/M_piliventris_tristis.html">Hornburg, M. Buprestid Beetles of Venezuela, checklist. Website. http://www.buprestidae.de/content/M_piliventris_tristis.html</citation>
+                <citation identifier="ISSN: 0072-9612">Hoscheck Von Muhlhaimb, A. F. Von. &amp; A. Théry. 1928. Monographie der Gattung Hyperantha Lac. (Buprestidae). Mitteilungen aus dem Zoologischen Staatsinstitut und Zoolologischen Museum in Hamburg, 43: 125-154.</citation>
+                <citation identifier="https://doi.org/10.21805/bzn.v66i1.a16">International Commission on Zoological Nomenclature. 2009. Opinion 2222 (Case 3335). Trachys Fabricius, 1801 (Insecta, Coleoptera): masculine gender of the genus fixed. The Bulletin of Zoological Nomenclature 66(1): 100-102. https://doi.org/10.21805/bzn.v66i1.a16</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13945566">Kerremans, C. 1893. Essai de groupement des Buprestides. Annales de la Société entomologique de Belgique, 37: 94-122. https://www.biodiversitylibrary.org/page/13945566</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12855738">Kerremans, C. 1896. Trachydes nouveaux. Annales de la Société entomologique de Belgique, 40: 306-333. https://www.biodiversitylibrary.org/page/12855738</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10980932">Kerremans, C. 1897. Contribution a l&apos;étude de la faune intertropicale Américaine. Voyages de M. E. Gounelle au Brésil. Buprestides. Mémoires de la Société entomologique de Belgique, 6: 1-146. https://www.biodiversitylibrary.org/page/10980932</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35620649">Kerremans, C. 1900. Buprestides nouveaux et remarques synonymiques. Annales de la Société entomologique de Belgique, 44: 282- 351. https://www.biodiversitylibrary.org/page/35620649</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33991004">Kerremans, C. 1903. Coleoptera Serricornia, Fam. Buprestidae. In: P. Wytsman. (Ed.). Genera Insectorum, Fasc. 12. Verteneuil &amp; Desmet, Bruxelles. https://www.biodiversitylibrary.org/page/33991004</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10557311">Kerremans, C. 1906. Monographie des buprestides, Volume 2. Polycestini (pars), Schizopini, Thrincopygini. 623 pp. 16 pt. https://www.biodiversitylibrary.org/page/10557311</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10437024">Kerremans, C. 1908. Monographie des buprestides, Volume 3, Chrysochroini, Chalcophorini: Chalcophorites (pars). J. Janssens, Bruxelles. 604 + 22 pt. https://www.biodiversitylibrary.org/page/10437024</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12281479">Kerremans, C. 1919. Descriptions de Buprestides nouveaux. Annales de la Société entomologique de Belgique, 59: 41-62. https://www.biodiversitylibrary.org/page/12281479</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340301">Kirsch, T. F. W. 1866. Beiträge zur Käferfauna von Bogotá. Berliner Entomologische Zeitschrift, 10: 173-216. https://www.biodiversitylibrary.org/page/8340301</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8341199">Kirsch, T. F. W. 1873. Beiträge zur Kenntniss der Peruanischen Käferfauna auf Dr. Abendroths Sammlungen basirt. Berliner Entomologische Zeitschrift, 17: 121-152. https://www.biodiversitylibrary.org/page/8341199</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/37005815">Klug, J. C. F. 1825. Entomologiae Brasilianae specimen alterum, sistens insectorum coleopterorum nondum descriptorum centuriam. Nova Acta Physico-Medica Academiae Caesareae-Leopoldino-Carolinae. Naturae Curiosorum, 12: 419-476. https://www.biodiversitylibrary.org/page/37005815</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9380114">Lacordaire, J. T. 1857. Histoire naturelle des insectes. Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome quatrième contenant les familles des buprestides, throscides, eucnémides, élatérides, cébrionides, cérophytides, rhipicérides, dascyllides, malacodermes, clérides, lyméxylones, cupésides, ptiniores, bostrichides et cissides. Roret, Paris, 554 pp. https://www.biodiversitylibrary.org/page/9380114</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25529658">Laporte de Castelnau, F. L. N. 1835. Études entomologiqes ou descriptions d&apos;insectes nouveaux etobservations sur la synonymie, par M. F. L. de Laporte, Comte de Castelnau. Revue Entomologique 3: 157-181. https://www.biodiversitylibrary.org/page/25529658</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/17493547">Leach, W. E. 1815. [Articles on entomology]. In: Brewster. Edinburgh encyclopaedie, Edinburgh, 9(1):57-172. https://www.biodiversitylibrary.org/page/17493547</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/26620891">LeConte, J. L. 1862. Classification of the Coleoptera of North America. Smithsonian Institution, Washington. 325 pp. https://www.biodiversitylibrary.org/page/26620891</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/726886">Linnaeus, C. 1758. Systema naturae sive regna tria naturae systematice proposita per classes, ordines, genera, et species, cum characteribus, differentiis, synonymis, locis. 10th Edition. Holmiae: Impensis Direct. Laurentii Salvii. iv + 824 + [1] pp. https://www.biodiversitylibrary.org/page/726886</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1938_num_43_11_15282">Lotte, F. 1938. Notes synonymiques sur les Buprestides (2e note). Bulletin de la S Société entomologique de France, 43(11- 12): 150-151. https://www.persee.fr/doc/bsef_0037-928x_1938_num_43_11_15282</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32543568">Lucas, P. H. 1859. Note sur deux nouvelles espèces de Julodis. Bulletin de la Société entomologique de France, (3)7:clxxxii-clxxxiv. https://www.biodiversitylibrary.org/page/32543568</citation>
+                <citation identifier="https://www.jstor.org/stable/4008352">Manley, G. 1986. A new genus and three new species of buprestid beetles (Coleoptera: Buprestidae: Mastogeniini) from Northern South America. The Coleopterists Bulletin 40 (3): 232-242. https://www.jstor.org/stable/4008352</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/41314125">Mannerheim, C. G. 1837. Enumération des Buprestides, et description de quelques nouvelles espèces de cette tribu de la famille des Sternoxes, de la collection de M. Le Comte Mannerheim. Bulletin de la Société Impériale des Naturalistes des Moscou, 10(8): 1-126. https://www.biodiversitylibrary.org/page/41314125</citation>
+                <citation identifier="https://sar.fld.czu.cz/cache/article-data/SaR/Published_volumes/2014-1/127-134_marek_press1.pdf">Marek, J. 2014. Studies on the genus Taphrocerus (Coleoptera: Buprestidae: Agrilinae) - Part I. Studies and Reports Taxonomical Series 10 (1): 127-133. https://sar.fld.czu.cz/cache/article-data/SaR/Published_volumes/2014-1/127-134_marek_press1.pdf</citation>
+                <citation identifier="https://sar.fld.czu.cz/cache/article-data/SaR/Published_volumes/2018-1/101-127_marek_1.pdf">Marek, J. 2018. Studies on the genus Taphrocerus (Coleoptera: Buprestidae: Agrilinae) part VII. Taphrocerus in collection of Hungarian Natural History Museum. Studies and Reports, Taxonomical Series, 14(1), 101-127. https://sar.fld.czu.cz/cache/article-data/SaR/Published_volumes/2018-1/101-127_marek_1.pdf</citation>
+                <citation identifier="https://sar.fld.czu.cz/cache/article-data/SaR/Published_volumes/2020-1/141-184_marek.pdf">Marek, J. 2020. Studies on the genus Taphrocerus (Coleoptera: Buprestidae: Agrilinae) part X. Studies and Reports, Taxonomical Series, 16(1), 141-183. https://sar.fld.czu.cz/cache/article-data/SaR/Published_volumes/2020-1/141-184_marek.pdf</citation>
+                <citation identifier="http://www.insectachile.cl/rchen/pdfs/1981v11/Moore_1981.pdf">Moore Rodriguez, T. 1981. Aporte al conocimiento de los Buprestidos en Chile (Col., Buprestidae). Revista Chilena de Entomología 11:37-68.</citation>
+                <citation identifier="https://www.biotaxa.org/rce/article/view/58180">Moore, T. 2019. Lista actualizada de los Stigmoderini Neotropicales (Coleoptera: Buprestidae). Revista Chilena De Entomología, 45(4): 593-612. https://www.biotaxa.org/rce/article/view/58180</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13203884">Obenberger, J. 1922. Beiträge zur Kenntnis der Buprestiden (Col.). Archiv Für Naturgeschichte., 88, 64–168. https://www.biodiversitylibrary.org/page/13203884</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33942722">Obenberger, J. 1922. Studien über die Buprestiden. Entomologische Blätter 18:68-73, 121-129, 178-188. https://www.biodiversitylibrary.org/page/33942722</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-245/226-2_0_7.pdf">Obenberger, J. 1924. Druhá ada nových rod eledi Buprestidae (Coleoptera). Deuxième série de nouveaux genres de Buprestides. Acta Entomologica Musaei Nationalis Pragae, 2: 7-44. https://www.aemnp.eu/data/article-245/226-2_0_7.pdf</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Archiv-Naturgeschichte_90A_3_0001-0171.pdf">Obenberger, J. 1924. Kritische Studien über die Buprestiden (Col.). Archiv für Naturgeschichte (A), 90(3): 1-171. https://www.zobodat.at/pdf/Archiv-Naturgeschichte_90A_3_0001-0171.pdf</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-246/227-2_0_45.pdf">Obenberger, J. 1924. Révision monographique du genre Taphrocerus Solier. (Col. Buprestidae). Acta Entomologica Musaei Nationalis Pragae 2:45-83. https://www.aemnp.eu/data/article-246/227-2_0_45.pdf</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-253/234-3_0_3.pdf">Obenberger, J. 1925. Revision monographique des Trachydides Pachyscheloides de l&apos;Amerique (Coleopt., Buprest.). Acta Entomologica Musaei Nationalis Pragae, 3: 3-149. https://www.aemnp.eu/data/article-253/234-3_0_3.pdf</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=wu.89097516405&amp;view=1up&amp;seq=941&amp;skin=2021">Obenberger, J. 1926. Opuscula buprestologica I. Archiv Für Naturgeschichte. Abteilung A, Heft 11, 225–350. https://babel.hathitrust.org/cgi/pt?id=wu.89097516405&amp;view=1up&amp;seq=941&amp;skin=2021</citation>
+                <citation>Obenberger, J. 1928. Opuscula Buprestologica I. Beiträge zur Kenntnis der Buprestiden (Col.). Archiv für Naturgeschichte 92 (A) 9-11(1926):1-350</citation>
+                <citation identifier="https://kramerius.lib.cas.cz/search/i.jsp?pid=uuid:9f448942-bac8-11e1-1331-001143e3f55c#periodical-periodicalvolume-periodicalitem-page_uuid:9e596680-bac8-11e1-1331-001143e3f55c">Obenberger, J. 1932. Buprestidae regionis Neotropicae I. O nových druzích krascç Neotropické oblasti. Acta Societatis Entomologicae Cechosloveniae 29:138-164. https://kramerius.lib.cas.cz/search/i.jsp?pid=uuid:9f448942-bac8-11e1-1331-001143e3f55c#periodical-periodicalvolume-periodicalitem-page_uuid:9e596680-bac8-11e1-1331-001143e3f55c</citation>
+                <citation>Obenberger, J. 1932. Neue Neotropische Trachydinen (Col. Bupr.). Folia Zoologica et Hydrobiologica 4:233-239.</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-317/298-11_0_15.pdf">Obenberger, J. 1933. Nové druhy rodu Agrilus Steph. (Col. Bupr.). De Agrili generis speciebus novis (Col. Bupr.). Acta Entomologica Musaei Nationalis Pragae 11:15-81. https://www.aemnp.eu/data/article-317/298-11_0_15.pdf</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-327/308-12_0_5.pdf">Obenberger, J. 1934. Monographie du genre Taphrocerus Sol. (Col. Bupr.). Acta Entomologica Musaei Nationalis Pragae 12:5- 62. https://www.aemnp.eu/data/article-327/308-12_0_5.pdf</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-350/331-13_0_108.pdf">Obenberger, J. 1935. De novis Agrili generis regionis Neotropicae speciebus (Col Bupr.). Nové druhy krascç z rodu Agrilus z Neotropické oblasti. Acta Entomologica Musaei Nationalis Pragae 13:108-140. https://www.aemnp.eu/data/article-350/331-13_0_108.pdf</citation>
+                <citation>Obenberger, J. 1936. Eine Festarbeit zum sechzigjährigen Jubiläum meines Freundes Univ.-Prof. Dr. Embrik Strand. Festschrift zum 60. Geburtstage von Professor Dr. Embrik Strand 1:97-145.</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-363/344-14_0_145.pdf">Obenberger, J. 1936. Nové druhy rodu Leiopleura H. Deyr. (Col. Bupr.). De novis generis Leiopleura H. Deyr. speciebus (Col. Bupr.). Acta Entomologica Musaei Nationalis Pragae 14:145-156. https://www.aemnp.eu/data/article-363/344-14_0_145.pdf</citation>
+                <citation identifier="http://www.digitalniknihovna.cz/knav/uuid/uuid:b55c47c4-47fc-11e1-2544-001143e3f55c">Obenberger, J. 1937. De generis Brachys Solier speciebus novis (Col. Buprestidae). Entomologické Listy 1:17-28. http://www.digitalniknihovna.cz/knav/uuid/uuid:b55c47c4-47fc-11e1-2544-001143e3f55c</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-416/397-18_0_79.pdf">Obenberger, J. 1940. Nové formy rodu Chrysobothris Eschsch. (Col. Bupr.). De generis Chrysobothris Eschsch. formy novis (Col. Bupr.). Acta Entomologica Musaei Nationalis Pragae 18:79-106. https://www.aemnp.eu/data/article-416/397-18_0_79.pdf</citation>
+                <citation identifier="https://www.aemnp.eu/data/article-736/717-32_0_191.pdf">Obenberger, J. 1958. Sur le groupe du genre Halecia Cast. et Gory (Col. Bupr.). O skupin rod kolem rodu Halecia Cast. et Gory (Col. Bupr.). Acta Entomologica Musaei Nationalis Pragae 32:191-221. https://www.aemnp.eu/data/article-736/717-32_0_191.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40635235">Olivier, A. G. 1790. Entomologie, ou histoire naturelle des insectes, avec leurs caractères génériques et spécifiques, leur description, leur synonymie, et leur figure enluminée. Coléoptères. Tome 2, genera 9-34 (32. Bupreste), pp. 1-485, 63 plates, Baudouin, Paris. https://www.biodiversitylibrary.org/page/40635235</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.5134.3.7">Pineda, C. 2022. Types of the New World Stigmoderini (Coleoptera: Buprestidae) deposited in Finnish Museum of Natural History, Helsinki (Buprestidae: Buprestinae: Stigmoderini), Zootaxa 5134 (3): 435-440. https://doi.org/10.11646/zootaxa.5134.3.7</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2280901">Rojas, M. A. de. 1855. Espèces nouvelles de Coléoptères de Venezuela. Revue et Magazin de Zoologie, 2(7): 160. https://www.biodiversitylibrary.org/page/2280901</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32541913">Rojas, M. A. de. 1855. Description d&apos;un nouveau Buprestide. Annales de la Société entomologique de France (3) 3:261-262, 1 color plate. https://www.biodiversitylibrary.org/page/32541913</citation>
+                <citation identifier="http://vip.ucaldas.edu.co/boletincientifico/downloads/Boletin9(1)_7.pdf">Rosado Douglas, L. &amp; Salazar, J. 2005. Coleoptera (III) - Sobre algunas localidades colombianas para conocer y estudiar Acrocinus longimanus (L.) y Euchroma gigantea (L.) (Coleoptera: Cerambycidae - Buprestidae). Boletin Cientifico Museo de Historia Natural Universidad de Caldas, 9: 139-153. http://vip.ucaldas.edu.co/boletincientifico/downloads/Boletin9(1)_7.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14787273">Saunders, E. 1869. Descriptions of nine new species of Buprestidae. Transactions of the Royal Entomological Society of London 17: 1-8. https://www.biodiversitylibrary.org/page/14787273</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/31587873">Saunders, E. 1869. Descriptions of ten new species of Paracupta, H. Deyrolle, and of ten new species of Conognatha, Escholtze. Journal of the Linnaean Society of London (Zoology) 10:331-341. https://www.biodiversitylibrary.org/page/31587873</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=coo.31924018328157&amp;view=1up&amp;seq=5&amp;skin=2021">Saunders, E. 1871. Catalogus Buprestidarum Synonymicus et Systematicus. J. Janson, London, 171 pp. https://babel.hathitrust.org/cgi/pt?id=coo.31924018328157&amp;view=1up&amp;seq=5&amp;skin=2021</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32293953">Solier, A. J. J. 1833. Essai sur les Buprestides. Annales de la Société entomologique de France, 2: 261-316. https://www.biodiversitylibrary.org/page/32293953</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16435758">Solier, A. J. J. 1849. Orden III. Coleopteros. In: C. Gay. (Ed.). Historia fisica y politica de Chile, Volume 4, pp. 105-380, 414-511. [Pentamera, Heteromera I]. https://www.biodiversitylibrary.org/page/16435758</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1904_num_9_4_23455">Théry, A. 1904. Especes nouvelles de Buprestides exotiques. Bulletin de la Société entomologique de France 1904:73-76. https://www.persee.fr/doc/bsef_0037-928x_1904_num_9_4_23455</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1920_num_25_17_26691#bsef_0037-928X_1920_num_25_17_T1_0288_0000">Théry, A. 1920. Description de cinq Colobogaster nouveaux. Bulletin de la Société entomologique de France, 1920(17): 286-290. https://www.persee.fr/doc/bsef_0037-928x_1920_num_25_17_26691#bsef_0037-928X_1920_num_25_17_T1_0288_0000</citation>
+                <citation>Théry, A. 1930. Observations sur quelques Buprestides; du genre Halecia C. &amp; G. et notes diverses suivies des descriptions de quelques Buprestides nouveaux. Bulletin et Annales de la Société entomologique de Belgique 70(12): 289-304.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52030394">Théry, A. 1932. Deux Conognatha nouveaux de Colombia (Col. Buprestidae). Bulletin du Muséum National d&apos;Histoire Naturelle (2) 4(2):171-173. https://www.biodiversitylibrary.org/page/52030394</citation>
+                <citation>Théry, A. 1934. Contributions a l&apos;étude de la faune de Mozambique. Voyage de M. P. Lesne (1928-1929). 15e note, Coléoptères, Buprestides. Memórias e Estudos do Museu Zoológico de Universidade de Coimbra (1) 77:1-32.</citation>
+                <citation>Théry, A. 1936. Quelques Buprestides nouveaux du Brésil (troisiéme note). Revista de Entomología, 6(1): 37-47.</citation>
+                <citation>Théry, A. 1944. Monographie des Tetragonoschema (Coleop. Buprestidae, Anthaxini). Novitates Entomologicae 14 (Quatrième Supplement), 25 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11638261">Thomson, J. 1857. Description de trente-trois espèces de Coléoptères. Archives Entomologiques 1: 109-127. https://www.biodiversitylibrary.org/page/11638261</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=hvd.32044107182719&amp;view=1up&amp;seq=7&amp;skin=2021">Thomson, J. 1878. Typi Buprestidarum Musaei Thomsoniani. E. Deyrolle, Paris, 103 pp. https://babel.hathitrust.org/cgi/pt?id=hvd.32044107182719&amp;view=1up&amp;seq=7&amp;skin=2021</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=hvd.32044107182719&amp;view=1up&amp;seq=9">Thomson, J. 1879. Typi Buprestidarum Musaei Thomsoniani, Appendix 1a. E. Deyrolle, Paris, 87 pp. https://babel.hathitrust.org/cgi/pt?id=hvd.32044107182719&amp;view=1up&amp;seq=9</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/26194505">Waterhouse, C. O. 1882. Descriptions of new Buprestidae. The Annals and Magazine of Natural History (5) 9:50-52. https://www.biodiversitylibrary.org/page/26194505</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/579143">Waterhouse, C. O. 1887. Biologia Centrali-Americana, Insecta, Coleoptera, Buprestidae, Volume 3, part 1, pp. 33-48, plate iii. https://www.biodiversitylibrary.org/page/579143</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13718561">Waterhouse, C. O. 1887. New genera and species of Buprestidae. The Transactions of the Entomological Society of London, pp. 177-184. https://www.biodiversitylibrary.org/page/13718561</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/579143">Waterhouse, C. O. 1889. Biologia Centrali-Americana, Insecta, Coleoptera, Buprestidae, Volume 3, part 1, pp. 49-166, plates iv-viii and Supplement, pp. 167-193. https://www.biodiversitylibrary.org/page/579143</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/19244127">Waterhouse, C. O. 1905. Observations on Coleoptera of the family Buprestidae, with descriptions of new species. The Annals and Magazine of Natural History (7) 15:577-584. https://www.biodiversitylibrary.org/page/19244127</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/22099668">Waterhouse, C. O. 1912. Observations on Coleoptera of the family Buprestidae, with descriptions of new species. The Annals and Magazine of Natural History (8) 9:57-63. https://www.biodiversitylibrary.org/page/22099668</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>DWC-A</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-coleocol.png</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH - The Natural History Museum, Londres, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>Colección privada sin identificador</collectionIdentifier>
+                <collectionName>GCCI - Gianfranco Curletti collection, Carmagnola, Italia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gla.ac.uk/hunterian/collections/</collectionIdentifier>
+                <collectionName>HMUG - Hunterian Museum, University of Glasgow, Glasgow, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>http://www.nhmus.hu/en/collections/department_of_zoology/coleoptera_collection</collectionIdentifier>
+                <collectionName>HNHM - Hungarian Natural History Museum, Budapest, Hungría</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://nhm.org/research-collections/departments/entomology</collectionIdentifier>
+                <collectionName>LACM - Natural History Museum of Los Angeles County, Los Ángeles, California, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.linnean.org/research-collections</collectionIdentifier>
+                <collectionName>LSUK - The Linnean Society of London, Londres, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.storianaturale.org/carmagnola/ita/collections/</collectionIdentifier>
+                <collectionName>MCCI - Museo Civico di Storia Naturale di Carmagnola, Carmagnola, Italia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN - Muséum national d’Histoire naturelle, París, Francia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mncn.csic.es/es/colecciones/cientificas/entomologia</collectionIdentifier>
+                <collectionName>MNMS - Museo Nacional de Ciencias Naturales, Madrid, España</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.luomus.fi/en/zoological-collections</collectionIdentifier>
+                <collectionName>MZHF - Finnish Museum of Natural History, Helsinki, Finlandia (LUOMUS)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://mz.usp.br/pt/pesquisa/colecoes-cientificas-orientacoes-e-procedimentos/</collectionIdentifier>
+                <collectionName>MZUSP - Museu de Zoologia da Universidade de São Paulo, São Paulo, Brasil</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nm.cz/en/collections/entomological-collection-coleoptera-beetles</collectionIdentifier>
+                <collectionName>NMPC - National Museum, Praga, República Checa</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://oumnh.ox.ac.uk/insects</collectionIdentifier>
+                <collectionName>OUMNH - Oxford University Museum, Oxford, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://museumdresden.senckenberg.de/en/</collectionIdentifier>
+                <collectionName>SMTD - Staatliches Museum für Tierkunde, Dresden, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://naturalhistory.si.edu/research/entomology</collectionIdentifier>
+                <collectionName>USNM - National Museum of Natural History, Washington D.C, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.museumfuernaturkunde.berlin/en/science/beetles-and-strepsiptera</collectionIdentifier>
+                <collectionName>ZMHB - Museum für Naturkunde der Humboldt-Universität, Berlín, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://samlinger.snm.ku.dk/en/dry-and-wet-collections/zoology/entomology/coleoptera-collection/</collectionIdentifier>
+                <collectionName>ZMUC - Zoological Museum, University of Copenhagen, Copenhague, Dinamarca</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

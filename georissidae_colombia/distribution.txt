@@ -1,0 +1,3 @@
+id	locality	countryCode
+gbif.org/species/5874570		CO
+gbif.org/species/8293516	Colombia: Chocó	CO

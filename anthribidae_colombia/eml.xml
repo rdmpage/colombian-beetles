@@ -1,0 +1,407 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="ffb69841-616e-4bdf-bbee-c3e7a2cda99d/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/tolans</alternateIdentifier>
+  <alternateIdentifier>ffb69841-616e-4bdf-bbee-c3e7a2cda99d</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=anthribidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Anthribidae (Coleoptera: Curculionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Mayelis M.</givenName>
+      <surName>Barros-Barrios</surName>
+    </individualName>
+    <organizationName>Universidad de Caldas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mayebarros3195@gmail.com</electronicMailAddress>
+    <role>reviewer</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Samanta</givenName>
+      <surName>Orellana</surName>
+    </individualName>
+    <organizationName>Arizona State University</organizationName>
+    <positionName>Estudiante de Doctorado</positionName>
+    <address>
+        <city>Tempe</city>
+        <administrativeArea>Arizona</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>sorellana@asu.edu</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-4098-5823</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-02-25
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Anthribidae (Coleoptera: Curculionoidea) con ocurrencia conocida para el territorio colombiano. Se listan una subfamilia, nueve tribus, 12 géneros y 34 especies. Once especies son consideradas endémicas para el país. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Picudos de los hongos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Anthribidae (Coleoptera: Curculionoidea) de los siguientes departamentos de Colombia: Antioquia (tres especies), Bolívar (tres especies), Cauca (una especie), Cesar (una especie), Chocó (una especie), Curndinamarca (dos especies), Magdalena (dos especies), Putumayo (tres especies), Valle del Cauca (siete especies) y Vichada (una especie). Para 15 de las especies no se conocen registros al interior del país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1795-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan una subfamilia, nueve tribus, 12 géneros y 34 especies. Uno de los géneros y once especies son consideradas endémicas para Colombia. El género con mayor número de especies en el país es Ptychoderes con ocho especies, seguido por Hypselotropis con seis, lo que constituye a Ptychoderini como la tribu de Anthribinae con más representantes en el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Anthribidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Anthribinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Basitropini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Phaenithon</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Cratoparini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Euparius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Euxuthus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Gymnognathini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Gymnognathus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Ischnocerini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Meconemus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Piesocorynini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lagopezus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Piesocorynus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Platyrhinini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Strabus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Ptychoderini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hypselotropis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ptychoderes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Stenocerini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Stenocerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Zygaenodini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ormiscus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Rheinheimer (2004). Adicionalmente, fueron consultados revisiones taxonómicas y otros catálogos más recientemente publicados.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y revisiones taxonómicas.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Anthribidae (Coleoptera: Curculionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Anthribidae (Coleoptera: Curculionoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo a partir de Rheinheimer (2004) con ajustes a la clasificación taxonómica de acuerdo con Alonso-Zarazaga y Lyal (2002).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Mayelis M.</givenName>
+          <surName>Barros-Barrios</surName>
+        </individualName>
+        <role>reviewer</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Samanta</givenName>
+          <surName>Orellana</surName>
+        </individualName>
+              <userId directory="http://scholar.google.com/citations?user=">0000-0002-4098-5823</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-09T17:38:33.593+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/tolans">Girón Duque J C (2022): Listado de las especies de Anthribidae (Coleoptera: Curculionoidea) de Colombia. v1.2. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/tolans</citation>
+          <bibliography>
+                <citation identifier="https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf">Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp. https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf</citation>
+                <citation identifier="https://doi.org/10.11646/zoootaxa.63.1.1 ">Alonso-Zarazaga MA, Lyal CHC (2002) Addenda and corrigenda to ‘A world catalogue of families and genera of curculionoidea (Insecta: Coleoptera).’ Zootaxa 63: 1–37. https://doi.org/10.11646/zoootaxa.63.1.1</citation>
+                <citation identifier="https://www.google.com/books/edition/Faune_des_col%C3%A9opt%C3%A8res_du_bassin_de_la/tyBOAAAAYAAJ?hl=en&amp;gbpv=1&amp;pg=PP3&amp;printsec=frontcover">Bedel L (1882) Faune des coléoptères du bassin de la Seine. Rhynchophora. Société entomologique de France, 474 pp. https://www.google.com/books/edition/Faune_des_col%C3%A9opt%C3%A8res_du_bassin_de_la/tyBOAAAAYAAJ?hl=en&amp;gbpv=1&amp;pg=PP3&amp;printsec=frontcover</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33665717">Billberg GJ (1820) Enumeratio Insectorum in Museo Gust. Joh. Billberg. Typis Gadelianis, Stockholm, 154 pp. https://www.biodiversitylibrary.org/page/33665717</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/7876356</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9322478">Dejean PFMA (1833) Catalogue des Coléoptères de la collection de M. le Comte Dejean. Méquinon-Marvis &amp; Sons, Paris, 433 pp. https://biodiversitylibrary.org/page/9322478</citation>
+                <citation identifier="https://www.google.com/books/edition/Systema_Eleutheratorum/-z6AAQAACAAJ?hl=en&amp;gbpv=0">Fabricius JC (1801) Systema Eleutheratorum: secundum ordines, genera, species, adiectis synonymis, locis, observationibus, descriptionibus. Tomus II. In: Bibliopolii Academici Novi, Kiliae, 24 + 506 pp. https://www.google.com/books/edition/Systema_Eleutheratorum/-z6AAQAACAAJ?hl=en&amp;gbpv=0</citation>
+                <citation identifier="https://www.jstor.org/stable/41768971">Frieser R (1959) Einige neue Anthribiden (Col.). Annalen des Naturhistorischen Museums in Wien 63: 416–421.  https://www.jstor.org/stable/41768971</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53456289">Germar EF (1824) Insectorum species novae aut minus cognitae, descriptionibus illustratae. Volumen Primum. Coleoptera. J. C. Hendelii et filii, Halae, xxiv +624+2 pl. pp. https://www.biodiversitylibrary.org/page/53456289</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54965168">Jekel H (1855) Insecta Saundersiana: or characters of undescribed insects in the collection of William Wilson Saunders, Esq. Coleoptera. Curculionides, Volume 2, Part I. John Van Voorst, London, 153 pp. + 2 pls. https://www.biodiversitylibrary.org/page/54965168</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54965168">Jekel H (1860) Insecta Saundersiana: or characters of undescribed insects in the collection of William Wilson Saunders, Esq. Coleoptera. Curculionides, Volume 2, Part 2. John Van Voorst, London, 155–244 pp. https://www.biodiversitylibrary.org/page/54965168</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/3857866">Jordan K (1894) On Anthribidae in the museum of Honourable Walter Rothschild. Novitates zoologicae 1: 591–651. https://www.biodiversitylibrary.org/page/3857866</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8945172 ">Jordan K (1895) Beitrag zur Kenntniss der Anthribidae II. Stettiner Entomologische Zeitung 56: 122–204. https://www.biodiversitylibrary.org/page/8945172</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/3219050">Jordan K (1897) Some new Anthribidae in the Tring Museum. Novitates zoologicae 4: 173–177. https://www.biodiversitylibrary.org/page/3219050</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/3858968">Jordan K (1904) American Anthribidae. Novitates zoologicae 11: 242–309. https://www.biodiversitylibrary.org/page/3858968</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/3331109">Jordan K (1937) Anthribidae from South and Central America. Novitates zoologicae: a journal of zoology in connection with the Tring Museum 40: 208–261. https://www.biodiversitylibrary.org/page/3331109</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34053666">Jordan K (1939) Descriptions of Anthribidae mostly from Fiji. Novitates zoologicae 41: 423–432. https://www.biodiversitylibrary.org/page/34053666</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33379539">Kolbe HJ (1895) Coleopteren aus Afrika II. Stettiner Entomologische Zeitung 55 [1894]: 361–397. https://www.biodiversitylibrary.org/page/33379539</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/bibliography/48449">Labram D, Imhoff L (1838) Singulorum Generum Curculionidum unam Alteramve speciem additis iconibus a David Labram ad Naturam Delineatis illustravit L. Imhoff. Schweighauser’sche Buchhandlung, Basel, 598 pp. https://www.biodiversitylibrary.org/bibliography/48449</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42574533">Lacordaire JT (1866) Histoire naturelle des insectes. Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome septième contenant les familles des curculionides (suite), scolytides, brenthides, anthribides et bruchides. Librairie Encyclopédique de Roret, Paris, 620 pp. https://www.biodiversitylibrary.org/page/42574533</citation>
+                <citation identifier="https://www.jstor.org/stable/982412">LeConte JL, Horn GH (1876) The Rhynchophora of America, North of Mexico. Proceedings of the American Philosophical Society 15: vii–442. https://www.jstor.org/stable/982412</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4472.3.3 ">Lopes MPD a. M, Mermudes JRM (2018) Four new species and new synonymy in Stenocerus Schoenherr, 1826 (Coleoptera, Anthribidae, Anthribinae, Stenocerini). Zootaxa 4472: 471–488. https://doi.org/10.11646/zootaxa.4472.3.3</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.591.1.1 ">Mermudes JRM (2004) A new species of Tribotropis Jekel, 1855 from Colombia (Coleoptera, Anthribidae, Anthribinae, Ptychoderini). Zootaxa 591: 1–5. https://doi.org/10.11646/zootaxa.591.1.1</citation>
+                <citation identifier="https://doi.org/10.1590/S0085-56262005000400009 ">Mermudes JRM (2005) Revisão sistemática, análise cladística e biogeografia dos gêneros Tribotropis e Hypselotropis (Coleoptera, Anthribidae, Anthribinae, Ptychoderini). Revista Brasileira de Entomologia 49: 465–511. https://doi.org/10.1590/S0085-56262005000400009</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1182.1.1">Mermudes JRM, Napp DS (2006) Revision and cladistic analysis of the genus Ptychoderes Schoenherr, 1823 (Coleoptera, Anthribidae, Anthribinae, Ptychoderini). Zootaxa 1182: 1-130-1–130. https://doi.org/10.11646/zootaxa.1182.1.1</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40641157">Olivier GA (1795) Entomologie, ou histoire naturelle des insectes. Coléoptères, Volume 4. Lanneau, Paris, 519 pp. https://www.biodiversitylibrary.org/page/40641157</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4904.1.1">Orellana KS, Barrios H (2021) Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904: 1-71-1–71. https://doi.org/10.11646/zootaxa.4904.1.1</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf">Rheinheimer J (2004) Illustrierter Katalog und Bibliographie der Anthribidae der Welt (Insecta: Coleoptera) –  – 39_2004: . Mitteilungen des Entomologischen Vereins Stuttgart 39: 1–244. https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/13257284">Schönherr CJ (1823) Curculionides [Tabula synoptica familiae Curculionidum]. Isis von Oken 1823: 1132–1146. https://biodiversitylibrary.org/page/13257284</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.9327 ">Schönherr CJ (1826) Curculionidum dispositio methodica cum generum characteribus, descriptionibus atque observationibus variis seu Prodromus ad Synonymiae Insectorum. Partem IV. Apud Fridericum Fleischer, Lipsiae. https://doi.org/10.5962/bhl.title.9327</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4108479">Schönherr CJ (1833) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus primus, pars prima. Roret, Paris, 681 pp. https://www.biodiversitylibrary.org/page/4108479</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4110075">Schönherr CJ (1840) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quintus, pars prima. Roret, Paris, 974 pp. https://www.biodiversitylibrary.org/page/4110075</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4114205">Schönherr CJ (1845) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus octavus, pars secunda. Roret, Paris, 504 pp. https://www.biodiversitylibrary.org/page/4114205</citation>
+                <citation identifier="https://www.jstor.org/stable/25077797">Valentine BD (1960) The genera of the weevil family Anthribidae north of Mexico (Coleoptera). Transactions of the American Entomological Society (1890-) 86: 41–85. https://www.jstor.org/stable/25077797</citation>
+                <citation identifier="https://www.jstor.org/stable/4000065">Valentine BD (1980) The species of the anthribid weevil genus Stenocerus Sch. The Coleopterists Bulletin 34: 287–294. https://www.jstor.org/stable/4000065</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/379">Valentine BD (1998) A review of Nearctic and some related Anthribidae (Coleoptera). Insecta Mundi 12 (3-4): 251–296. https://digitalcommons.unl.edu/insectamundi/379</citation>
+                <citation identifier="https://doi.org/10.1080/037454809494527">Waterhouse GR (1845) V.—Descriptions of coleopterous insects collected by Charles Darwin, Esq., in the Galapagos Islands. Annals and Magazine of Natural History 16: 19–41. https://doi.org/10.1080/037454809494527</citation>
+                <citation>Wolfrum P (1953) Coleopterorum Catalogus Supplementa. Pars 102. Anthribidae. Uitgeverij Dr W. Junk, ’s-Gravenhage, 63 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/44733633">Wolfrum P (1959) 6. Anthribiden. Neue und bemerkenswerte Kafer-Formen aus der Sammlung des Zoologischen Forschungsinstituts und Museums Alexander Koenig. Bonner zoologische Beiträge 10: 151–170. https://www.biodiversitylibrary.org/page/44733633</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH The Natural History Museum, Londres, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                  <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 3</collectionIdentifier>
+                <collectionName>Instituto Alexander von Humboldt</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN - Muséum national d’Histoire naturelle, París, Francia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nrm.se/en/forskningochsamlingar/zoologi/samlingar/insekter.9002803.html</collectionIdentifier>
+                <collectionName>NHRS - Swedish Museum of Natural History [Naturhistoriska riksmuseet], Estocolmo, Suecia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.zsm.mwn.de/sektion/coleoptera-home/?lang=en</collectionIdentifier>
+                <collectionName>ZSMA - Zoologische Staatssammlung des Bayerischen Museum, Munich, Alemania</collectionName>
+              </collection>
+          <dc:replaces>ffb69841-616e-4bdf-bbee-c3e7a2cda99d/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

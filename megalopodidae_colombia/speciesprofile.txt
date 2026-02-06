@@ -1,0 +1,17 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm
+gbif.org/species/10765572	FALSO	VERDADERO	FALSO	Adulto
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147164#null	FALSO	VERDADERO	FALSO	Adulto
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147165#null	FALSO	VERDADERO	FALSO	Adulto
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147198#null	FALSO	VERDADERO	FALSO	Adulto
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147199#null	FALSO	VERDADERO	FALSO	Adulto
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147223#null	FALSO	VERDADERO	FALSO	Adulto
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147239#null	FALSO	VERDADERO	FALSO	Adulto
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147247#null	FALSO	VERDADERO	FALSO	Adulto
+gbif.org/species/10765572	FALSO	VERDADERO	FALSO	Larva
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147164#null	FALSO	VERDADERO	FALSO	Larva
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147165#null	FALSO	VERDADERO	FALSO	Larva
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147198#null	FALSO	VERDADERO	FALSO	Larva
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147199#null	FALSO	VERDADERO	FALSO	Larva
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147223#null	FALSO	VERDADERO	FALSO	Larva
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147239#null	FALSO	VERDADERO	FALSO	Larva
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147247#null	FALSO	VERDADERO	FALSO	Larva

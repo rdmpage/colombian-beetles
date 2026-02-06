@@ -1,0 +1,18 @@
+id	locality	establishmentMeans
+gbif.org/species/5840		
+organismnames.com/details.htm?lsid=5133921		
+organismnames.com/details.htm?lsid=4361682		
+gbif.org/species/1072731		
+gbif.org/species/1072736	Colombia, Chocó	Endémica
+gbif.org/species/1072743	Colombia, Norte de Santander, 3 km. N. Chinacota	Endémica
+gbif.org/species/10867344	Colombia, Antioquia, Porce	Endémica
+gbif.org/species/1072734		
+gbif.org/species/10730910	Colombia, Antioquia, San Carlos	Endémica
+gbif.org/species/6757614		
+gbif.org/species/1072224		
+gbif.org/species/1072217	Colombia, Cundinamarca, Bogota	Endémica
+gbif.org/species/9448934		
+organismnames.com/details.htm?lsid=5339986	Colombia	
+gbif.org/species/10883181	Colombia, Santander, La Belleza, Vereda Costa Rica	Endémica
+gbif.org/species/1072223	Colombia	
+gbif.org/species/10824814	Colombia	Endémica

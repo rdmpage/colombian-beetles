@@ -1,0 +1,9 @@
+id	locality	countryCode
+gbif.org/species/4741		CO
+organismnames.com/details.htm?lsid=1244022		CO
+treatment.plazi.org/id/75018675-B4DE-950A-09BF-9F15053AFCF7		CO
+gbif.org/species/4453531		CO
+biolib.cz/en/taxon/id689561/	Colombia, Río Magdalena	CO
+organismnames.com/details.htm?lsid=275501		CO
+gbif.org/species/4737014		CO
+organismnames.com/details.htm?lsid=3463604	Colombia	CO

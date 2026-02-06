@@ -1,0 +1,130 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/7824		CO	
+organismnames.com/details.htm?lsid=1502849		CO	
+organismnames.com/details.htm?lsid=5392565		CO	
+gbif.org/species/8060190	Colombia: Córdoba	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156460#null		CO	
+gbif.org/species/8107848	Colombia: Risaralda | Valle del Cauca	CO	
+organismnames.com/details.htm?lsid=5307406		CO	
+organismnames.com/details.htm?lsid=5545171	Colombia: Meta	CO	Endémica
+gbif.org/species/8107848-01		CO	
+gbif.org/species/11166636/treatments	Colombia: Cundinamarca	CO	Endémica
+organismnames.com/details.htm?lsid=1152348		CO	
+organismnames.com/details.htm?lsid=1152349		CO	
+gbif.org/es/species/9250697		CO	
+gbif.org/es/species/10388661	Colombia: Antioquia | Meta	CO	
+gbif.org/species/4989381	Colombia: Bogotá | Cauca | Cundinamarca | Nariño | San Andrés y Providencia | Santander | Valle del Cauca	CO	
+gbif.org/species/6001203	Colombia: Cundinamarca (Bogotá, Choachí)	CO	Endémica
+gbif.org/species/10798650	Colombia: Cundinamarca (Bogotá)	CO	Endémica
+gbif.org/species/6001183	Colombia: Nariño (Pasto, Túquerres) | Putumayo	CO	
+gbif.org/species/6001199	Colombia: Valle del Cauca | Caldas (Manizales)	CO	Endémica
+gbif.org/species/6001177	Colombia: Cundinamarca | Meta	CO	Endémica
+organismnames.com/details.htm?lsid=1535381		CO	
+organismnames.com/details.htm?lsid=1152350		CO	
+gbif.org/species/4742498	Colombia: Cuenca pacífica y Magdalena	CO	
+gbif.org/species/6001927	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1038624	Colombia: Arauca | Bogotá | Boyacá | Casanare | Cauca | Meta | San Andrés y Providencia | Tolima | Valle del Cauca	CO	
+gbif.org/species/6001831	Colombia: Cauca (Isla Gorgona)	CO	Endémica
+gbif.org/species/6001607	Colombia, sin localidad específica	CO	
+gbif.org/species/6001515	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/6001648	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/6001627	Colombia, sin localidad específica	CO	
+gbif.org/species/6001722	Colombia: Cundinamarca (Bogotá)	CO	Endémica
+gbif.org/species/6001610	Colombia, sin localidad específica	CO	
+gbif.org/species/6001561	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/6001586	Colombia: Chocó	CO	
+gbif.org/species/6001533	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=5392566		CO	
+organismnames.com/details.htm?lsid=5392567		CO	
+gbif.org/species/1037900	Colombia: Antioquia | Bolívar | Boyacá | Casanare | Chocó | Nariño | Santander | Tolima | Valle del Cauca | Vichada	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=728266#null		CO	
+gbif.org/species/1037902	Colombia, sin localidad específica	CO	
+gbif.org/species/6000972	Colombia: Antioquia (Medellín)	CO	Endémica
+organismnames.com/details.htm?lsid=1152352		CO	
+organismnames.com/details.htm?lsid=1506667		CO	
+gbif.org/species/1037911	Colombia: Boyacá | Caldas | Casanare | Valle del Cauca | Vaupés	CO	
+gbif.org/species/1037912	Colombia: Valle del Cauca (Cali)	CO	
+gbif.org/species/6000823	Colombia, sin localidad específica	CO	
+gbif.org/species/5873990	Colombia, sin localidad específica	CO	
+gbif.org/species/5873992	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=1506668		CO	
+gbif.org/species/1038691	Colombia: Arauca | Atlántico	CO	
+gbif.org/species/1038692	Colombia: Atlántico (Barranquilla)	CO	
+organismnames.com/details.htm?lsid=1506669		CO	
+gbif.org/species/1038021		CO	
+gbif.org/species/4989360	Colombia: La Guajira	CO	
+organismnames.com/details.htm?lsid=1152355		CO	
+gbif.org/species/1038889		CO	
+organismnames.com/details.htm?lsid=5526924		CO	
+gbif.org/species/6002105	Colombia, sin localidad específica	CO	
+gbif.org/species/5874067	Colombia: Putumayo (Puerto Asís)	CO	
+organismnames.com/details.htm?lsid=1502858		CO	
+gbif.org/species/7824-01		CO	
+gbif.org/species/1038278	Colombia: Amazonas	CO	
+organismnames.com/details.htm?lsid=36488		CO	
+organismnames.com/details.htm?lsid=685657		CO	
+gbif.org/species/4763133		CO	
+gbif.org/species/6002712	Colombia, sin localidad específica	CO	
+gbif.org/species/1038501	Colombia: Arauca | Casanare | Chocó | Meta	CO	
+gbif.org/species/6001903	Colombia: Meta (Villavicencio)	CO	
+gbif.org/species/6001896	Colombia, sin localidad específica, pero se indica cuencas del Orinoco y Amazonas	CO	
+gbif.org/species/6001897	Colombia: Meta (Villavicencio)	CO	
+gbif.org/species/4742277	Colombia: Casanare | Chocó	CO	
+gbif.org/species/6002704	Colombia: Meta (Villavicencio)	CO	Endémica
+gbif.org/species/1038439	Colombia: Arauca | Casanare | Chocó	CO	
+gbif.org/species/6000981	Colombia, sin localidad específica	CO	
+gbif.org/species/6000999	Colombia: Magdalena (Barranquilla)	CO	
+gbif.org/species/6001002	Colombia: Amazonas	CO	
+gbif.org/species/6000998	Colombia: Meta	CO	
+gbif.org/species/1038147	Colombia: Amazonas | Arauca | Atlántico | Bolívar | Chocó | Guaviare | Sucre	CO	
+gbif.org/species/4761548	Colombia: Sucre	CO	
+gbif.org/species/6002290	Colombia: Magdalena (Barranquilla)	CO	
+gbif.org/species/4735715		CO	
+gbif.org/species/9025282	Colombia: Meta (Villavicencio)	CO	
+gbif.org/species/1038179	Colombia: Atlántico | Bogotá | Bolívar | Casanare | Chocó | Cundinamarca | Huila | Santander | Tolima | Valle del Cauca	CO	
+gbif.org/species/1038196	Colombia, sin localidad específica	CO	
+gbif.org/species/10219555	Colombia: Nariño (Túquerres)	CO	Endémica
+gbif.org/species/6001159	Colombia: Cundinamarca (Bogotá)	CO	Endémica
+gbif.org/species/10751306	Colombia: Boyacá	CO	Endémica
+gbif.org/species/11204633	Colombia: Cundinamarca (Páramo de Sumapaz)	CO	Endémica
+gbif.org/species/10463932	Colombia: Nariño (Pasto)	CO	Endémica
+gbif.org/species/11153577	Colombia: Nariño (Pasto)	CO	Endémica
+gbif.org/species/11153246	Colombia: Nariño (Pasto)	CO	Endémica
+gbif.org/species/10068292	Colombia: Quindío (Salento)	CO	Endémica
+gbif.org/species/1038749	Colombia: Boyacá	CO	
+gbif.org/species/6001019	Colombia: Córdoba [Bolívar] (Ayapel)	CO	
+gbif.org/species/6001024	Colombia: Córdoba [Bolívar] (Ayapel)	CO	Endémica
+gbif.org/species/6001033	Colombia: Atlántico (Barranquilla) | Córdoba [Bolívar] (Ayapel)	CO	
+gbif.org/species/6001041	Colombia: Atlántico (Barranquilla)	CO	Endémica
+gbif.org/species/6001031	Colombia: Magdalena	CO	Endémica
+gbif.org/species/6001034	Colombia: Meta (Villavicencio)	CO	
+gbif.org/species/1038154	Colombia: Cundinamarca (Bogotá)	CO	
+organismnames.com/details.htm?lsid=1149992		CO	
+gbif.org/species/1037881	Colombia: Atlántico | Bolívar | Santander	CO	
+gbif.org/species/6002577	Colombia: Amazonas | Antioquia | Boyacá | Cundinamarca | Magdalena | Meta | Norte de Santander | Tolima	CO	
+gbif.org/species/4760210		CO	
+organismnames.com/details.htm?lsid=756455		CO	
+gbif.org/species/11090227	Colombia: Amazonas | Antioquia | Arauca | Atlántico | Casanare | Chocó | Guaviare | Quindío | San Andrés y Providencia	CO	
+gbif.org/species/6002731	Colombia: Antioquia (El Retiro) | Quindío (Salento)	CO	Endémica
+gbif.org/species/6002798	Colombia: Magdalena (Aracataca)	CO	
+gbif.org/species/6002761	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=1502864		CO	
+gbif.org/species/1038011	Colombia: Arauca | Atlántico | Bolívar | Boyacá | Caquetá | Casanare | Chocó | Meta | Valle del Cauca | Vaupés	CO	
+gbif.org/species/6001302	Colombia, sin localidad específica	CO	
+gbif.org/species/6001277	Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=5332870		CO	
+gbif.org/species/1038697	Colombia: Arauca | Bolívar | Boyacá | Chocó | Guaviare | Valle del Cauca | Vaupés	CO	
+organismnames.com/details.htm?lsid=1152368		CO	
+gbif.org/species/1038516	Colombia: Arauca | Cundinamarca	CO	
+gbif.org/species/1038517	Colombia: Putumayo (Puerto Asís) | Magdalena (río Frío, Sevilla)	CO	
+gbif.org/species/6002379	Colombia: Amazonas (Leticia)	CO	
+gbif.org/species/4765794	Colombia: Chocó | La Guajira	CO	
+gbif.org/species/6000670	Colombia, sin localidad específica	CO	
+gbif.org/species/6000675	Colombia: Meta (Villavicencio)	CO	
+organismnames.com/details.htm?lsid=5388707		CO	
+organismnames.com/details.htm?lsid=1502863		CO	
+gbif.org/species/1038687	Colombia: Amazonas | Boyacá | Casanare | Guaviare | Meta	CO	
+gbif.org/species/8536265	Colombia: Amazonas | Arauca | Magdalena	CO	
+gbif.org/species/8647678	Colombia: Magdalena (Aracataca, río Frío)	CO	
+gbif.org/species/8551861	Colombia: Amazonas (Leticia)	CO	
+gbif.org/species/1038302	Colombia: Amazonas | Arauca | Atlántico | Bolívar | Boyacá | Caldas | Caquetá | Casanare | Cauca | Chocó | La Guajira | Guaviare | Meta | San Andrés y Providencia | Santander | Sucre | Tolima | Valle del Cauca | Vaupés | Vichada	CO	

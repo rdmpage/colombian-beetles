@@ -1,0 +1,4 @@
+id	locality	countryCode
+gbif.org/species/4290524		CO
+gbif.org/species/4719704		CO
+organismnames.com/details.htm?lsid=5010706	Colombia, sin localidad específica	CO

@@ -1,0 +1,5 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/9643		CO	
+gbif.org/species/8293354		CO	
+gbif.org/species/10630795	Colombia	CO	Endémica
+gbif.org/species/9903056	Colombia, Cesar, Pueblo Bello, Sierra de Santa Marta	CO	

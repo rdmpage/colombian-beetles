@@ -1,0 +1,87 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/7830		CO	
+organismnames.com/details.htm?lsid=5145467		CO	
+gbif.org/species/4740482	Meta	CO	
+urn:lsid:zoobank.org:act:9E46D713-DA7C-46B6-B407-E99C490CFD32		CO	
+gbif.org/species/1034297	Quindío	CO	
+gbif.org/species/10323925	Quindío	CO	
+organismnames.com/details.htm?lsid=4042646		CO	
+gbif.org/species/7467633		CO	
+organismnames.com/details.htm?lsid=5145478		CO	
+organismnames.com/details.htm?lsid=916965		CO	
+gbif.org/species/4290420		CO	
+gbif.org/species/10199574	Quindío	CO	
+gbif.org/species/10537996	Quindío	CO	
+organismnames.com/details.htm?lsid=5145482		CO	
+gbif.org/species/1033975		CO	
+gbif.org/species/9883325	Quindío	CO	
+gbif.org/species/10468633	Quindío	CO	
+gbif.org/species/10504292	Quindío	CO	
+gbif.org/species/10655946		CO	
+gbif.org/species/1033979	Quindío	CO	
+gbif.org/species/9944040	Quindío	CO	
+gbif.org/species/1034004		CO	
+gbif.org/species/9927671	Bogotá	CO	
+organismnames.com/details.htm?lsid=1381049		CO	
+organismnames.com/details.htm?lsid=1127513		CO	
+gbif.org/species/1034259		CO	
+gbif.org/species/9907581	San Jose	CO	
+gbif.org/species/10447411		CO	
+gbif.org/species/10411578		CO	
+gbif.org/species/10048750		CO	
+gbif.org/species/9249168	Quindío	CO	
+gbif.org/species/9476394		CO	
+gbif.org/species/9330909		CO	
+gbif.org/species/1034151		CO	
+gbif.org/species/7921851	Quindío	CO	
+gbif.org/species/1034078		CO	
+gbif.org/species/10123277	Quindío	CO	
+gbif.org/species/10625237	Quindío	CO	Endémica
+gbif.org/species/10059120	Quindío	CO	Endémica
+organismnames.com/details.htm?lsid=917022		CO	
+gbif.org/species/1034055		CO	
+gbif.org/species/10284854		CO	
+gbif.org/species/7418328		CO	
+gbif.org/species/8031509		CO	
+gbif.org/species/1034198		CO	
+gbif.org/species/1034227	Quindio	CO	
+gbif.org/species/1034232	Quindio	CO	
+gbif.org/species/10138027		CO	
+gbif.org/species/8910291		CO	
+gbif.org/species/1034199		CO	
+gbif.org/species/10275398		CO	
+gbif.org/species/7818989		CO	
+gbif.org/species/10336305		CO	
+organismnames.com/details.htm?lsid=1414834		CO	
+gbif.org/species/1033973		CO	
+gbif.org/species/10173683	Quindío	CO	Endémica
+gbif.org/species/9837238	Quindío	CO	Endémica
+gbif.org/species/1034123		CO	
+gbif.org/species/9941572	Cundinamarca (Bogotá, Tocancipa)	CO	Endémica
+gbif.org/species/8975294		CO	
+gbif.org/species/10160097	Atlantico (Barranquilla), Magdalena, Quindío	CO	Endémica
+gbif.org/species/9192113	Meta (Villavicencio)	CO	
+organismnames.com/details.htm?lsid=5110893		CO	
+organismnames.com/details.htm?lsid=916984		CO	
+gbif.org/species/1034028		CO	
+catalogueoflife.org/data/taxon/33WXD		CO	
+gbif.org/species/10271058		CO	
+gbif.org/species/1034085		CO	
+gbif.org/species/1034088	Quindío	CO	
+gbif.org/species/1034086		CO	
+organismnames.com/details.htm?lsid=5370835		CO	
+gbif.org/species/1034418		CO	
+gbif.org/species/1034459		CO	
+gbif.org/species/4755777		CO	
+gbif.org/species/9934467	Norte de Santander	CO	
+gbif.org/species/10422657	Caldas	CO	
+gbif.org/species/1034192		CO	
+gbif.org/species/10154799	Quindío	CO	
+gbif.org/species/4434330	Quindío	CO	
+gbif.org/species/10319482		CO	
+organismnames.com/details.htm?lsid=203481		CO	
+gbif.org/species/4755507		CO	
+gbif.org/species/10425724		CO	
+gbif.org/species/1034254		CO	
+gbif.org/species/10447892	Amazonas-Leticia	CO	
+gbif.org/species/10084687	Valle del Cauca	CO	

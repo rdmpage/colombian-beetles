@@ -1,0 +1,37 @@
+id	locality	countryCode	establishmentMeans
+organismnames.com/details.htm?lsid=5252		CO	
+organismnames.com/details.htm?lsid=1244215		CO	
+organismnames.com/details.htm?lsid=2153797		CO	
+gbif.org/species/1218886		CO	
+gbif.org/species/9439207		CO	
+organismnames.com/details.htm?lsid=110286		CO	
+gbif.org/species/1195552		CO	
+gbif.org/species/1195751		CO	
+gbif.org/species/1195563		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=137451		CO	
+gbif.org/species/8361918		CO	
+gbif.org/species/1195573		CO	
+gbif.org/species/1195607		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=17119		CO	
+gbif.org/species/1195668		CO	
+gbif.org/species/9362925		CO	
+gbif.org/species/1195754		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=137450		CO	
+gbif.org/species/1195620		CO	
+gbif.org/species/1195777		CO	
+gbif.org/species/1195685		CO	
+gbif.org/species/1195693		CO	Endémica
+gbif.org/species/1195696		CO	
+gbif.org/species/1195567		CO	
+organismnames.com/details.htm?lsid=1385486		CO	
+gbif.org/species/4736998		CO	
+gbif.org/species/9456838		CO	
+gbif.org/species/1225087		CO	
+gbif.org/species/1225088		CO	
+gbif.org/species/4745386		CO	
+gbif.org/species/9343283	11-23 Km E Calarcá, Quindío	CO	Endémica
+gbif.org/species/9535054	Saladito, Valle	CO	Endémica
+ubio.org/browser/details.php?namebankID=1132679		CO	
+gbif.org/species/4291483		CO	Introducida
+gbif.org/species/1209837		CO	
+insecta.pro/taxonomy/234741		CO	Endémica

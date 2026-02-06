@@ -1,0 +1,19 @@
+id	locality	countryCode	establishmentMeans
+organismnames.com/details.htm?lsid=5252		CO	
+organismnames.com/details.htm?lsid=4426745		CO	
+organismnames.com/details.htm?lsid=1666270		CO	
+gbif.org/species/1237475		CO	
+gbif.org/species/1237475-00	Carthagena	CO	Endémica
+gbif.org/species/1237475-01	Carthagena	CO	Endémica
+gbif.org/species/1237475-02	Carthagena	CO	Endémica
+organismnames.com/details.htm?lsid=209274		CO	
+gbif.org/species/9552509		CO	
+organismnames.com/details.htm?lsid=1730177	Columbia	CO	Endémica
+gbif.org/species/9316845		CO	
+organismnames.com/details.htm?lsid=1730214		CO	
+gbif.org/species/8138069		CO	
+organismnames.com/details.htm?lsid=1730285		CO	
+gbif.org/species/4745392		CO	
+gbif.org/species/9487633		CO	
+gbif.org/species/9571283		CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=9894	Columbia	CO	Endémica

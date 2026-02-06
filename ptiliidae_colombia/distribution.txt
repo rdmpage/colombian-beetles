@@ -1,0 +1,18 @@
+id	locality	countryCode	establishmentMeans
+catalogueoflife.org/data/taxon/C2L			
+gbif.org/species/4754			
+organismnames.com/details.htm?lsid=5467734			
+catalogueoflife.org/data/taxon/8XHJY			
+catalogueoflife.org/data/taxon/8VRFD			
+catalogueoflife.org/data/taxon/8VRFF			
+catalogueoflife.org/data/taxon/64P43	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=4755051			
+catalogueoflife.org/data/taxon/8VR67			
+catalogueoflife.org/data/taxon/8VR9Z			
+catalogueoflife.org/data/taxon/8XPJF			
+catalogueoflife.org/data/taxon/4QMV5	Colombia: Meta (Villavicencio)	CO	Endémica
+catalogueoflife.org/data/taxon/8XMDJ			
+catalogueoflife.org/data/taxon/72F34	Colombia: Amazonas (Leticia)	CO	
+catalogueoflife.org/data/taxon/8VR95			
+catalogueoflife.org/data/taxon/8X7V2			
+catalogueoflife.org/data/taxon/4W54F	Colombia: Cundinamarca (Bogotá)	CO	

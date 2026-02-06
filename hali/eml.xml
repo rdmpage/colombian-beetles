@@ -1,0 +1,287 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="49d42f33-175e-47b7-9059-60d5b7da5f2a/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/pgwexm</alternateIdentifier>
+  <alternateIdentifier>49d42f33-175e-47b7-9059-60d5b7da5f2a</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=hali</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Haliplidae (Coleoptera: Adephaga) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Ingri Tatiana</givenName>
+      <surName>Cardenas Espitia</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>itcardenases@ut.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8107-2174</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Ingri Tatiana</givenName>
+      <surName>Cardenas Espitia</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>itcardenases@ut.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8107-2174</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-07-14
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Haliplidae (Coleoptera: Adephaga) con ocurrencia conocida para el territorio colombiano. Se lista un género y cinco especies. Una especie es considerada endémica. La información ha sido recopilada a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Inventario</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Listado</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleoptera</keyword>
+            <keyword>Escarabajos de agua</keyword>
+            <keyword>Escarabajos acuáticos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Haliplidae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se reportan especies de los departamentos de Atlántico, Cesar, Magdalena y Norte de Santander.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1802-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2016-12-12</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Haliplidae (Coleoptera: Adephaga) registradas para Colombia. Se listan cinco especies del género Haliplus: Haliplus camposi, Haliplus colombiensis, Haliplus gravidus, Haliplus indistinctus y Haliplus panamanus. Sólo la especie Haliplus colombiensis es considerada endémica.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Haliplidae</taxonRankValue>
+                  <commonName>Escarabajos de agua que se arrastran</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Haliplus</taxonRankValue>
+                  <commonName>Escarabajos de agua que se arrastran</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Haliplus camposi</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Haliplus colombiensis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Haliplus gravidus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Haliplus indistinctus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Haliplus panamanus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Ingri Tatiana</givenName>
+      <surName>Cardenas Espitia</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>itcardenases@ut.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8107-2174</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir de Vondel y Spangler (2008). Adicionalmente, fueron consultados trabajos más recientemente publicados para corroborar la información y poder incluir especies que no hubieran sido incluidas en dicho artículo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros o actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Haliplidae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Haliplidae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo principalmente a partir de Vondel y Spangler (2008) con adiciones de Vondel (2016).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Ingri Tatiana</givenName>
+          <surName>Cardenas Espitia</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-8107-2174</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-05-31T00:58:39.785+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/pgwexm">Cardenas Espitia I T (2022): Listado de las especies de Haliplidae (Coleoptera: Adephaga) de Colombia. v1.2. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/pgwexm</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34502831">Aubé C (1836) [Pp. 13–64] In: Iconographie et histoire naturelle des Coléoptères d’Europe. Tome cinquième. Hydrocanthares. Méquignon-Marvis Père et Fils, Paris, xi + 415 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34551677">Chapin, E.A. 1930. New species of Haliplus Latr. (Col.). Proceedings of the Biological Society of Washington 43: 9–12.</citation>
+                <citation>Guignot, F. 1948: Vingt-cinquieme note sur les hydrocanthares. – Revue Francaise d’Entomologie 15:96–100</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.15764">Latreille, P. A. 1802 Histoire Naturelle, Générale et Particulière des Crustacés et des Insectes. F. Dufart, Paris. Vol. 3: i–xii; 1–467.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/KOR_78_2008_0069-0194.pdf">Vondel, B. J. v. &amp; P. J. Spangler. 2008. Revision of the Haliplidae of the Neotropical Region including Mexico (Coleoptera: Haliplidae). Koleopterologische Rundschau 78: 69-194.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/KOR_86_2016_0051-0059.pdf">Vondel, B. J. v (2016). Corrections and Additions to the “Revision of the Haliplidae of the Neotropical Region including Mexico”(Vondel and Spangler 2008) with Description of a New Species (Coleoptera: Haliplidae). Koleopterologische Rundschau, 86, 51-59.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/WEZ_44_0165-0187.pdf">Zimmermann, A. (1928) Neuer Beitrag zur Kentnis der Schwimmkäfer. Wiener Entomologische Zeitung, 44: 165 - 187.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://naturalhistory.si.edu/research/entomology</collectionIdentifier>
+                <collectionName>USNM - National Museum of Natural History, Washington D.C., USA</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN - Muséum national d’Histoire naturelle, Paris, France</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.zsm.mwn.de/sektion/coleoptera-home/?lang=en</collectionIdentifier>
+                <collectionName>ZSMA - Zoologische Staatssammlung des Bayerischen Museum, München, Germany</collectionName>
+              </collection>
+          <dc:replaces>49d42f33-175e-47b7-9059-60d5b7da5f2a/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,23 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/7779		CO	
+gbif.org/species/1033701		CO	
+organismnames.com/details.htm?lsid=3219817	Colombia: Sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=3219821	Colombia: rio Dagna	CO	Endémica
+organismnames.com/details.htm?lsid=3219833	Colombia: Tolima: Ibagué	CO	Endémica
+organismnames.com/details.htm?lsid=4790796	Colombia: Sin localidad definida	CO	
+gbif.org/species/1033701-01	Colombia: Sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=4773621	Colombia: Sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=3219858	Colombia: Quindiu-pass	CO	Endémica
+organismnames.com/details.htm?lsid=3219871	Colombia: Sin localidad definida	CO	Endémica
+gbif.org/species/1033701-02	Colombia: Sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=3219918	Colombia: Naré	CO	Endémica
+gbif.org/species/1033701-03	Colombia: Tolima: Ibagué	CO	Endémica
+organismnames.com/details.htm?lsid=3219922	Colombia: Bolívar: Cartagena	CO	Endémica
+organismnames.com/details.htm?lsid=3219945	Colombia: Sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=5062194	Colombia: Cundinamarca: Bogotá	CO	
+organismnames.com/details.htm?lsid=4716562	Colombia: Sin localidad definida	CO	
+organismnames.com/details.htm?lsid=3219998	Colombia: Bogotá, río Magdalena	CO	
+organismnames.com/details.htm?lsid=4068979	Sin registro para Colombia	CO	Endémica
+gbif.org/species/1033701-04	Colombia: Tolima: Ibagué	CO	Endémica
+eol.org/pages/41002513	Colombia: ad ripas fluminis Magdalenae	CO	Endémica
+organismnames.com/details.htm?lsid=3220042	Colombia: Sin localidad definida	CO	Endémica

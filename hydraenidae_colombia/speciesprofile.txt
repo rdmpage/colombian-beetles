@@ -1,0 +1,12 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm
+gbif.org/species/6004963	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/9237745	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/6004866	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/9379842	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/6004966	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/6004787	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/6005056	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/10006385	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/1039134	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/1039073	VERDADERO	FALSO	FALSO	Adulto
+gbif.org/species/1039078	VERDADERO	FALSO	FALSO	Adulto

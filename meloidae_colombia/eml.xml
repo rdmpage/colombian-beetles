@@ -1,0 +1,395 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="d1916aac-b877-4f26-acad-8bb603a351e8/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/9ixuud</alternateIdentifier>
+  <alternateIdentifier>d1916aac-b877-4f26-acad-8bb603a351e8</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=meloidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Meloidae (Coleoptera: Tenebrionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Diego Esteban</givenName>
+      <surName>Martínez-Revelo</surName>
+    </individualName>
+    <organizationName>Asociación GAICA</organizationName>
+    <positionName>Asociado</positionName>
+    <address>
+        <deliveryPoint>Calle 11A #No. 32-21, Pasto, Nariño</deliveryPoint>
+        <city>Pasto</city>
+        <administrativeArea>Nariño</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diemartinezre@unal.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Diego-Martinez-Revelo</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Diego Esteban</givenName>
+      <surName>Martínez-Revelo</surName>
+    </individualName>
+    <organizationName>Asociación GAICA</organizationName>
+    <positionName>Asociado</positionName>
+    <address>
+        <deliveryPoint>Calle 11A #No. 32-21, Pasto, Nariño</deliveryPoint>
+        <city>Pasto</city>
+        <administrativeArea>Nariño</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diemartinezre@unal.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Diego-Martinez-Revelo</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-02-02
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Meloidae (Coleoptera: Tenebrionoidea) con ocurrencia conocida para el territorio colombiano. Se listan cuatro subfamilias, ocho tribus, once géneros y 30 especies. 16 especies son consideradas endémicas, pues su distribución solo se indica en Colombia. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Escarabajos ampolleros</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Literatura</keyword>
+            <keyword>Suramérica</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Meloidae (Coleoptera: Tenebrionoidea) de los siguientes departamentos de Colombia, entre paréntesis la localidad específica: Atlántico (Barranquilla), Cundinamarca (Bogotá, Fusagasugá) y Tolima (Ibagué). El departamento de Atlántico tiene el mayor número de reportes con tres especies, seguido por los departamentos de Cundinamarca y Tolima con dos especies cada uno, y solo una especie se lista en los departamentos de Magdalena, Meta y Santander. 16 especies se reportan únicamente en Colombia y 23 especies no tienen registro del municipio o departamento al interior del país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1758-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan cuatro subfamilias, ocho tribus, once géneros y 30 especies de la familia Meloidae (Coleoptera: Tenebrionoidea) para Colombia. El género con mayor representación en la lista es Tetraonyx con diez especies, seguido por Epicauta con nueve especies y los géneros Lytta y Zonitis con dos especies, los demás géneros están representados por una sola especie. Siete especies del género Tetraonyx, dos del género Epicauta y una especie de los géneros Opiomoeloe, Serrospasta, Xenospasta y Zonitis se presumen endémicas para el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Meloidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Eleticinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Eleticini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Serrospasta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Spasticini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Xenospasta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Meloinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Epicautini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Epicauta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Lyttini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lytta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Meloini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Meloe</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Pyrotini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lyttamorpha</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pseudopyrota</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Nemognathinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Horiini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cissites</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Nemognathini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Zonitis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Tetraonycinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Opiomeloe</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Tetraonyx</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Diego Esteban</givenName>
+      <surName>Martínez-Revelo</surName>
+    </individualName>
+    <organizationName>Asociación GAICA</organizationName>
+    <positionName>Asociado</positionName>
+    <address>
+        <deliveryPoint>Calle 11A #No. 32-21, Pasto, Nariño</deliveryPoint>
+        <city>Pasto</city>
+        <administrativeArea>Nariño</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diemartinezre@unal.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Diego-Martinez-Revelo</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1945). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies descritas posteriormente.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogo de Blackwelder (1945) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Meloidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Meloidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado de subfamilias, tribus y géneros se basó en las publicaciones de Selander (1991), Pinto &amp; Bologna (1999) y Bologna et al. (2008). El listado de especies se basó principalmente en el catálogo de Blackwelder (1945) y fue actualizado con trabajos publicados posteriormente, para algunos géneros y tribus como Epicauta, Lytta, Opiomeloe, Pyrota, Tetraonycini, entre otros (Campos-Soldini, 2018; García-París &amp; Parra-Olea, 2007; Selander, 1960; 1983; 1985; 1990).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los trabajos que aquí se mencionan, además de trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Diego Esteban</givenName>
+          <surName>Martínez-Revelo</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-03-25T23:03:39.986+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/9ixuud">Martínez-Revelo D E (2024): Listado de las especies de Meloidae (Coleoptera: Tenebrionoidea) de Colombia. v1.3. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/9ixuud</citation>
+          <bibliography>
+                <citation identifier="http://hdl.handle.net/2246/1277">Adams, L. &amp; Selander, R. B. (1979). The biology of blister beetles of the vittata group of the genus Epicauta (Coleoptera, Meloidae). Bulletin of the Américan Museum of Natural History 162: 139–266. http://hdl.handle.net/2246/1277</citation>
+                <citation identifier="https://doi.org/10.14203/treubia.v14i1.2797">Betrem, J. B. (1932). Beiträge zur kenntnis des Tribus der Horiini der Familie der Meloiden. I. Die Systematik der Horiini. Treubia, 14(1): 85-102, 1 pl. https://doi.org/10.14203/treubia.v14i1.2797</citation>
+                <citation identifier="https://doi.org/10.5479/si.03629236.185.3">Blackwelder, R. E. (1945). Checklist of the coleopterous insects of Mexico, Central América, the West Indies, and South América, pt. 3. Bulletin of the United States National Museum. i–iv, 343-550. https://doi.org/10.5479/si.03629236.185.3</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12446474">Bologna, M. A. &amp; J. D. Pinto. (1997). Case 2924.  Meloidae Gyllenhal, 1810 and Nemognathinae Castelnau, 1840 (Insecta, Coleoptera): proposed precedence over Horiidae Latreille, 1802. Bulletin of Zoological Nomenclature, 54: 226-230. https://www.biodiversitylibrary.org/page/12446474</citation>
+                <citation identifier="https://doi.org/10.1046/j.1365-3113.2001.00132.x">Bologna, M. A. &amp; Pinto, J. D. (2001). Phylogenetic studies of Meloidae (Coleoptera), with emphasis on the evolution of phoresy. Systematic Entomology, 26: 33-72. https://doi.org/10.1046/j.1365-3113.2001.00132.x</citation>
+                <citation identifier="https://doi.org/10.1016/j.ympev.2008.04.019">Bologna, M. A., Oliverio M., Pitzalis M., Mariottini P. (2008). Phylogeny and evolutionary history of the blister beetles (Coleoptera, Meloidae). Molecular Phylogenetics and Evolution, 48(2):679-693. https://doi.org/10.1016/j.ympev.2008.04.019</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10430459">Borchmann, F. (1917). Pars 69. Meloidae, Cephaloidae. En: E. Schenkling (ed.). Coleopterorum Catalogus auspiciis et auxilio W. Junk. Junk, Berlin. 208 pp. https://www.biodiversitylibrary.org/page/10430459</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A. (2011). Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/6267811">Böving, A.G. &amp; Craighead, F. C. (1931). An illustrated synopsis of the principal larval forms of the order Coleoptera. Entomologica Americana (N.S.), 11(1): 1-351. https://www.biodiversitylibrary.org/page/6267811</citation>
+                <citation identifier="https://hdl.handle.net/2027/mdp.39015061412394?urlappend=%3Bseq=75%3Bownerid=13510798902421368-81">Brethes, J. (1925). 2. Nouveaux coleopteres sudAméricains. Nunquam Otiosus IV, 11-16. https://hdl.handle.net/2027/mdp.39015061412394?urlappend=%3Bseq=75%3Bownerid=13510798902421368-81</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.807.23375">Campos-Soldini, M. P., Safenraiter, M. E., Wagner, L. S., Fernández, E. N., &amp; Sequin, C. J. (2018). Checklist of Epicauta Dejean from América (Meloidae, Meloinae, Epicautini). ZooKeys, 807, 47–125. https://doi.org/10.3897/zookeys.807.23375</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/581352">Champion, G. C. (1892). Family Meloidae. In F. E. Godman and O. Salvin (eds.), Biologia Centrali - Américana, Coleoptera. Vol. 4. Pt. 2, pp. 364-464, pls. 17-21. Dulau Co., London. https://www.biodiversitylibrary.org/page/581352</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32777233">Chevrolat, A. (1834). Coléoptères du Mexique. 3e. Fascicule. G. Silbermann. Strasbourg. 200p. https://www.biodiversitylibrary.org/page/32777233</citation>
+                <citation>Chevrolat, A. (1834). Coléoptères du Mexique. 4e. Fascicule. G. Silbermann, Strasbourg. 70 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9322660">Dejean, P. F. (1834). Catalogue des Coléoptères de la collection de M. le Compte Dejean. Edition 2. Livr. 3. Méquignon-Marvis, Paris. Pp.: 117-256. l. 95: 421-517, 7 pls. https://www.biodiversitylibrary.org/page/9322660</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/36820">Denier, P. (1935). Coleopterorum Américanorum familiae meloidarum. Enumeratio synonymica. Revista de la Sociedad Entomológica Argentina, 7: 139-176. https://www.biotaxa.org/RSEA/article/view/36820</citation>
+                <citation>Dugés, E. (1889). Sinopsis de los meloideos de la República Mexicana. Anales del Museo Michoacano, 2: 49-113 + 107bis-114bis + 194-195.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2974806">Enns, W. R. (1956). A revision of the genera Nemognatha, Zonitis, and Pseudozonitis (Coleoptera, Meloidae) in America north of Mexico, with a proposed new genus. University of Kansas Scientific Bulletin 37(17): 685-909. https://www.biodiversitylibrary.org/page/2974806</citation>
+                <citation identifier="http://www.jstor.org/stable/3998937">Enns, W. R. (1958). Distribution Records of Two American Species of Cissites (Coleoptera-Meloidae). The Coleopterists Bulletin, 12, 61–64. http://www.jstor.org/stable/3998937</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35303500">Erichson, W. F. (1848). Die Insekten. In: R. Schomburg. Reisen in British-Guiana in den Jahren 1840-1844, 3: 533-617. https://www.biodiversitylibrary.org/page/35303500</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25551647">Fabricius, J. C. (1775). Systema entomologiae, sistens Insectorum classes, ordines, genera, species, adjectis synonymis, locis, descriptionibus, observationibus. Kortius, Flensburgi et Lipsiae, xxx + 832 pp. https://www.biodiversitylibrary.org/page/25551647</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52755576">Fabricius, J. C. (1792). Entomologia Systematica emendata et aucta secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. Tom. I, Pars. II. Hafniae. 538 pp. https://www.biodiversitylibrary.org/page/52755576</citation>
+                <citation>Fischer, J. B.  (1827). Tentamen conspectus Cantharidiarum. Monachii. 26 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13331873">Ganglbauer, L. (1907). Gegestandt des vortrages bildet die Metamorphose und Systematik der Meloiden. Verhandlungen der kaiserlich-königlichen zoologisch-botanischen Gessellschaft in Wien, 57: 101-106. https://www.biodiversitylibrary.org/page/13331873</citation>
+                <citation identifier="https://doi.org/10.1016/j.rmb.2016.07.016">García-París, M. A., Ruiz, J. L., Sánchez-Vialascy, A. &amp; López, E. K. (2016). Una especie nueva de Epicauta de Venezuela y comentarios sobre el grupode especies de Epicauta (E.) vittata(Coleoptera: Meloidae). Revista Mexicana de Biodiversidad 87: 944–955. https://doi.org/10.1016/j.rmb.2016.07.016</citation>
+                <citation identifier="https://graellsia.revistas.csic.es/index.php/graellsia/article/view/92">García-París, M., Buckley, D., &amp; Parra-Olea, G. (2007). Catálogo taxonómico-geográfico de los coleópteros de la familia Meloidae de México. Graellsia 63(2):165-258. https://graellsia.revistas.csic.es/index.php/graellsia/article/view/92</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9651345">Gemminger, M. &amp; Harold, B. (1870). Catalogus Coleopterorum hucusque descriptorum synonymicus et systematicus. Gummi, Monachi. 7: 1801-2180. https://www.biodiversitylibrary.org/page/9651345</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2271191">Guérin-Ménéville, F.E. &amp; Goudot, J. (1843). Insectes nouveaux, observés sur les plateaux des Cordillères et dans les vallées chaudes de la Nouvelle Grenade, décrits par M. Guérin-Méneville; avec des notes relatives à leurs moeurs, à leur distribution géographique, etc. Par M. J. Goudot. Revue Zoologique par la Société Cuviérienne 6 [1843]: 12–22. https://www.biodiversitylibrary.org/page/2271191</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9339922">Gyllenhal, L. (1810). Insecta Suecica descripta. Classis I. Coleoptera sive Eleutherata. Pars II, 481p. https://www.biodiversitylibrary.org/page/9339922</citation>
+                <citation identifier="https://www.zobodat.at/publikation_volumes.php?id=44945">Haag-Rutenberg, G. J. (1880). Beitrgge zur Kenntniss der Canthariden. Deutsche Entomologische Zeitschrift, 24: 17-90. https://www.zobodat.at/publikation_volumes.php?id=44945</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8989114">Haag-Rutenberg, J. G. (1879). Beiträge zur Kenntniss der Canthariden. I. Tetraonyx. Entomologische Zeitung herausgegeben von dem entomologischen Vereine zu Stettin, 40: 249-275, 287-314. https://www.biodiversitylibrary.org/page/8989114</citation>
+                <citation>Kaszab, Z. (1959). Phylogenetische Beziehungen des Flugelgeaders Meloiden (Coleoptera), nebst Beschreibung neuer Gattungen und Arten, Acta Zoologica Academiae Scientiarum Hungaricae, 5, 67-114.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340336">Kirsch, T. (1866). Beiträge zur Käferfauna von Bogotá. (Zweites Stück). Berliner entomologische Zeitschrift, 10:173-216. https://www.biodiversitylibrary.org/page/8340336</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32058994">Kirsch, T. (1886). Neue südamerikanische käfer. Viertes Stük. Heteromera. Berliner entomologische Zeitschrift, 30: 331-340. https://www.biodiversitylibrary.org/page/32058994</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/37005848">Klug, J. C. F. (1825). Entomologiae Brasilianae specimen alterum, sistens insectorum coleopterorum nondum descriptorum centuriam. Nova Acta Physico-Medica Academiae Caesareae-Leopoldino-Carolinae. Naturae Curiosorum, 12 (2): 421-476, láms. XL-XLIV. https://www.biodiversitylibrary.org/page/37005848</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9615909">Lacordaire, J. T. (1859). Histoire naturelle des Insectes. Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’Insectes. Tome cinquième.  Atlas. Roret. Paris. 750 pp. https://www.biodiversitylibrary.org/page/9615909</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32717978">Laporte de Castelnau, F. (1840). Histoire Naturelle des Insectes Coléoptères. Vol. 2. In: Histoire Naturelle des Animaux Articulés. Annelides, Crustacés, Arachnides, Myriapodes et Insectes. P. Duménil. Paris. 564 pp., 38 láms. https://www.biodiversitylibrary.org/page/32717978</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24885057">Latreille, P. A. (1802). Histoire naturelle, générale et particulière des crustacés et des insectes. Vol. 3. Paris, F. Dufart, An X-XIII. 468 pp. https://www.biodiversitylibrary.org/page/24885057</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/15587634">Latreille, P. A. (1804). Histoire naturelle, générale et particulière des Crustacés et des Insectes. Ouvrage faisant suite à l’Histoire naturelle générale et particulière par Leclerc et de Buffon et partie du cours complet d’Histoire naturelle rédigé par C.S. Sonini. Dufart. Paris. Tomo 10: i-xii + 415 pp. https://www.biodiversitylibrary.org/page/15587634</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57784757">Latreille, P. A. (1804). In: Tableau méthodique des insectes. In: Tableaux méthodiques d’Histoire naturelle. In: Nouveau dictionnaire d’Histoire naturelle. Déterville. Paris Vol. 24, pp. 129-200. https://www.biodiversitylibrary.org/page/57784757</citation>
+                <citation>Latreille, P. A. (1805). Insectes de l’Amérique équinoxiale recuellis pendant le voyage de MM. de Humboldt et Bonpland, et décrits par M. Latreille. In: A. von Humboldt &amp; A. Bonpland. Voyage de Humboldt et Bonpland aux regions équinoxiales du Nouveau Continent..., Part. II Zoologie, vol. 1, nº 9: 127-252, láms.: 15-24. Paris. Reimpreso en 1811 con el mismo título. In: A. von Humboldt &amp; A. Bonpland. Recueil d’observations de zoologie et d’anatomie comparée, faites dans l’Océan Atlantique, dans l’intérieur du Nouveau Continent dans la Mer du Sud, Vol. 1, Parte 1: 127-259, láms.: 15-24. Schoell. Paris</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27544272">Latreille, P. A. (1810). Considérations générales sur l’ordre naturel des animaux composant les classes des Crustacés, des Arachnides et des Insectes; avec un tableau méthodique de leurs genres disposés en familles. Schoell. Paris. 444 pp. https://www.biodiversitylibrary.org/page/27544272</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/756808">Leach, W. E. (1815). Further observations on the genus Meloë, with descrition of six exotic species. Transactions of the Linnean Society of London, 11(1810): 242-251, lám. 18. https://www.biodiversitylibrary.org/page/756808</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/26620891">LeConte, J. L. (1862). Classification of the Coleoptera of North América. Prepared for the Smithsonian Institution. Part I. Smithsonian Miscellaneous Collections, 136: i-xxv, 1-286. https://www.biodiversitylibrary.org/page/26620891</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/727330">Linnaeus, C. (1758). Systema Naturae per Regna tria Naturae, secundum Classes, Ordines, Genera, Species, cum characteribus, differentiis, synonymis, locis. Ed. X. Vol. 1. Salvii. Holmiae. 824 pp. https://www.biodiversitylibrary.org/page/727330</citation>
+                <citation>MacSwain, J. W. (1956). A classification of the first instar larvae of the Meloidae (Coleoptera). University of California Publications in Entomology, 12: 1-182.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/15053507">Mäklin, F. W. (1875). Neue Canthariden. Acta Societatis Scientiarum Fennicae, 10: 597-632. https://www.biodiversitylibrary.org/page/15053507</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40642620">Olivier, A. G. (1795). Entomologie, ou Histoire Naturelle des Insectes, avec leurs caractères génériques et spécifiques, leur description, leur synonymie et leur figure enluminée. 46. Coléoptères. Tome Troisième. Lanneau. Paris. 557 pp.  Lanneau. Paris. 557 pp. https://www.biodiversitylibrary.org/page/40642620</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371192">Pic, M. (1914). Nouveau genre, espèces et variétés nouvelles de diverses familles. Mélanges Exotico-Entomologiques, 11: 2-20. https://www.biodiversitylibrary.org/page/36371192</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50515938">Pic, M. (1916). Coleoptéres exotiques en partie nouveaux (suite). L&apos;Echange 32: 3-4, 5-7, 8, 11- 12. https://www.biodiversitylibrary.org/page/50515938</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36633637">Pic, M. (1916). Descriptions abregées diverses. Mélanges Exotico-Entomologiques, 21: 2-20. https://www.biodiversitylibrary.org/page/36633637</citation>
+                <citation identifier="https://doi.org/10.3406/bsef.1929.28110">Pic, M. (1929). De l’utilité des noms pour les varietés. Bulletin de la Société Entomologique de France, 4: 80-82. https://doi.org/10.3406/bsef.1929.28110</citation>
+                <citation>Pic, M. (1930). Nouveautés diverses. Mélanges Exotico-Entomologiques, 56: 1-36.</citation>
+                <citation identifier="https://doi.org/10.1080/002229399300254">Pinto, J. D. &amp; Bologna, M. A. (1999). The New World genera of Meloidae (Coleoptera): a key and synopsis. Journal of Natural History, 33: 569-620. https://doi.org/10.1080/002229399300254</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33989669">Pinto, J. D. &amp; Selander, R. B. (1970). The bionomics of blister beetles of the genus Meloe and a classification of the New World species. Illinois Biological Monographs, 42: 1-222. https://www.biodiversitylibrary.org/page/33989669</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25130033">Redtenbacher, L. (1845). Die Gattungen der deutschen Kaefer-Fauna. Carl Ueberreuter, Wien, 177 pp., 2 pls. https://www.biodiversitylibrary.org/page/25130033</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34046934">Selander R. B. (1960). Bionomics, systematics and phylogeny of L ytta, a genus of blister beetles (Coleoptera: Meloidae). Illinois Biological Monographs, 28: 1-295. https://www.biodiversitylibrary.org/page/34046934</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/416">Selander R. B. (1991). On the nomenclature and classification of the Meloidae (Coleoptera). Insecta Mundi 5(2):65–94. https://digitalcommons.unl.edu/insectamundi/416</citation>
+                <citation identifier="http://www.jstor.org/stable/25078325">Selander, R. (1983). An Annotated Catalog of Blister Beetles of the Tribe Tetraonycini (Coleoptera, Meloidae). Transactions of the Américan Entomological Society (1890-), 109(3), 277-293. Retrieved April 1, 2021, from http://www.jstor.org/stable/25078325</citation>
+                <citation identifier="http://www.jstor.org/stable/25084704">Selander, R. (1985). A New Genus of Blister Beetles Linking Meloetyphlus with Tetraonyx (Coleoptera: Meloidae). Journal of the Kansas Entomological Society, 58(4), 611-619. Retrieved April 1, 2021, from http://www.jstor.org/stable/25084704</citation>
+                <citation identifier="http://www.jstor.org/stable/25085148">Selander, R. (1990). Blister Beetles of the Genus Pseudopyrota (Coleoptera: Meloidae). Journal of the Kansas Entomological Society, 63(1), 46-79. http://www.jstor.org/stable/25085148</citation>
+                <citation identifier="https://doi.org/10.4039/Ent961037-8">Selander, R. B. (1964). Sexual Behavior in Blister Beetles (Coleoptera: Meloidae). I. The Genus Pyrota. Canadian Entomologist 96: 1037 – 1082. https://doi.org/10.4039/Ent961037-8</citation>
+                <citation identifier="https://doi.org/10.4039/Ent98449-5">Selander, R. B. (1966). A classiﬁcation of the genera and higher taxa of the meloid subfamily Eleticinae (Coleoptera). Canadian Entomologist. 98, 449–481. https://doi.org/10.4039/Ent98449-5</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/46987550">Swederus, N. S. (1787). Et nytt genus, och femtio nya species af Insekter beskrifne. Svenska Vetenskaps Akademien Nya Handlingar, 8: 181-201. https://www.biodiversitylibrary.org/page/46987550</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4070148">Voet, J. E. (1806). Catalogus Systematicus coleoperorum, vol. 2. Bakhuysen, La Haye. 82 pp. https://www.biodiversitylibrary.org/page/4070148</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2592703">Wellman, F. C. (1910). On the classification of the Lyttidae (Meloidae s. Cantharidae auctt.). Entomological News, 21: 211-222. https://www.biodiversitylibrary.org/page/2592703</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2752184">Werner, F. G. (1945). A revision of the genus Epicauta in América north of Mexico. Bulletin of the Museum of Comparative Zoology at Harvard College, 95: 421-531. https://www.biodiversitylibrary.org/page/2752184</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50909970">Werner, F. G. (1949). Additions to Epicauta, with new synonymy and a change of names (Coleoptera: Meloidae). Psyche, 56(3): 93-111. https://www.biodiversitylibrary.org/page/50909970</citation>
+                <citation identifier="https://www.jstor.org/stable/3998599">Werner, F. G. (1954). A review of te subgenus Ganthopasta of the genus Epicauta (Meloidae). The Coleopterists&apos; bulletin, Vol. 8(1):25-27. https://www.jstor.org/stable/3998599</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>d1916aac-b877-4f26-acad-8bb603a351e8/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

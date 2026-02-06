@@ -1,0 +1,15 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4732		CO	
+gbif.org/species/1033449	Colombia: Antioquia, Caldas, Casanare, Chocó.	CO	
+ubio.org/browser/details.php?namebankID=989007	Colombia: "Nueva Granada" Río Magdalena	CO	
+organismnames.com/details.htm?lsid=3749180	Colombia, sin localidad específica	CO	
+gbif.org/species/4746439	Colombia: Antioquia, Cauca, Risaralda, Valle del Cauca	CO	
+biolib.cz/en/taxon/id1126695/	Colombia, sin localidad específica	CO	
+gbif.org/species/4761557		CO	
+organismnames.com/details.htm?lsid=1334006	Colombia: Magdalena: San Lorenzo	CO	Endémica
+gbif.org/species/9813320	Colombia: Antioquia	CO	
+gbif.org/species/4726007		CO	
+organismnames.com/details.htm?lsid=1334008	Colombia: Meta: Quebrada Susamuco	CO	Endémica
+gbif.org/species/4290521		CO	
+organismnames.com/details.htm?lsid=5510200	Colombia, sin localidad específica	CO	Endémica
+gbif.org/species/1033493	Colombia: Amazonas, Antioquia, Boyacá.	CO	

@@ -1,0 +1,102 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4239		CO	
+organismnames.com/details.htm?lsid=1385409		CO	
+organismnames.com/details.htm?lsid=2226494		CO	
+gbif.org/species/1174372-00		CO	
+gbif.org/species/1174372-01	"Colombia: Antioquia: Caldas, Ebéjico, La Estrella, Porce, San Jerónimo, Santa Fé de Antioquia, Sopetrán; Valle del Cauca: Cali, Cerrito, Guachinte, Jamundí, Palmira, Pradera"	CO	Endémica
+organismnames.com/details.htm?lsid=3873208	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1238314-00		CO	
+gbif.org/species/1238314-01	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1238314-02	"Colombia: Tolima, Ibagué"	CO	Endémica
+gbif.org/species/1222432		CO	
+ubio.org/browser/details.php?namebankID=992375	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1237332		CO	
+gbif.org/species/1237344	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1237360	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1237400	Colombia: Bolívar: Cartagena	CO	
+gbif.org/species/1237386	Colombia: Bolívar: Cartagena	CO	
+gbif.org/species/1237389	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1237397	Colombia: Bolívar: Cartagena	CO	
+gbif.org/species/1184232-00		CO	
+gbif.org/species/9235298	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1184232-01	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1184232-02	"Colombia: Cundinamarca, Bogotá"	CO	Endémica
+gbif.org/species/1184237	Colombia: Magdalena: Santa Marta	CO	
+gbif.org/species/1184232-03	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1184232-04	Colombia: Antioquia: Medellín	CO	Endémica
+gbif.org/species/9332686	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1202215		CO	
+gbif.org/species/1202216	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1202217	"Colombia: ""Rio Agua"""	CO	Endémica
+gbif.org/species/1196852		CO	
+gbif.org/species/1196856	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1216361-00		CO	
+gbif.org/species/1216361-01	Colombia: Antioquia: Medellín	CO	
+ubio.org/browser/details.php?namebankID=5167454		CO	
+gbif.org/species/9078659		CO	
+gbif.org/species/1192731	"Colombia: Cundinamarca, Bogotá"	CO	Endémica
+gbif.org/species/1192847	"Colombia: ""Rio Agua(rico?)"""	CO	
+gbif.org/species/1192866	"Colombia: Boyacá, Muzo"	CO	
+gbif.org/species/8154331	Colombia [registro dudoso]	CO	
+gbif.org/species/1192798	"Colombia: ""Colonia Florencia""; ""Umbria, Guines fluß"""	CO	
+gbif.org/species/1192675	Colombia: Meta: Villavicencio	CO	
+gbif.org/species/1192762	Colombia: Cauca	CO	
+gbif.org/species/1192668	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192745	"Colombia: Cundinamarca, Bogotá"	CO	
+gbif.org/species/1192676	"Colombia: Risaralda: Pereira; ""Cauca-Tal"""	CO	
+gbif.org/species/1192713	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1192891-00	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192891-01	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192891-02	"Colombia: Tolima, Ibagué"	CO	
+gbif.org/species/1192824-00	Sin registro para Colombia		
+gbif.org/species/1192824-01	"Colombia: ""Guarapiche"""	CO	
+gbif.org/species/1192843	Colombia: Cundinamarca: Bogotá; Meta: Villavicencio	CO	
+gbif.org/species/1192791	"Colombia: Antioquia, Remedios"	CO	
+gbif.org/species/1192857	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/8378281	"Colombia: Boyacá, Muzo"	CO	
+gbif.org/species/1192708	Colombia: Antioquia	CO	
+gbif.org/species/1192833	"Colombia: ""Rio Agua(rico?)"""	CO	Endémica
+gbif.org/species/1192863	"Colombia: Cauca: ""La Garita""; Cundinamarca: Bogotá; Magdalena: Santa Marta "	CO	
+gbif.org/species/1192759	"Colombia, sin localidad específica"	CO	
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=145184	"Colombia: ""Caucatal"""	CO	Endémica
+gbif.org/species/1192724-00	Sin registro para Colombia		
+gbif.org/species/1192724-01	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192842	"Colombia: ""Rio Agua(rico?)"", ""San Antonio"""	CO	
+gbif.org/species/1192757	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192732	"Colombia: Cauca; Risaralda: Pereira; ""Rio Agua(rico?)-Tal"""	CO	
+gbif.org/species/1192862	Colombia: Valle del Cauca: Darien	CO	Endémica
+gbif.org/species/1192779	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192830-00	Sin registro para Colombia		
+gbif.org/species/1192830-01	"Colombia: Cundinamarca: Bogotá; Valle del Cauca: Cali; ""Buenavista"""	CO	
+gbif.org/species/8172274	"Colombia: Meta: Villavicencio [""Villaviciosa""]"	CO	
+gbif.org/species/1192729	"Colombia: Tolima, ""Hacienda Pehlke"""	CO	
+gbif.org/species/1192876	Colombia: Cauca	CO	
+gbif.org/species/1192801	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192702	Sin registro para Colombia		
+wtaxa.csic.es/search/ValidNameGenHP.aspx?level=S&Id_Name=146884	"Colombia: Cundinamarca: Medina; Meta: Villavicencio [""Villaviciosa""]"	CO	
+gbif.org/species/1206262		CO	
+gbif.org/species/1206377	"Colombia, sin localidad específica"	CO	Endémica
+gbif.org/species/1206284	Colombia: Antioquia	CO	
+gbif.org/species/1206306	"Colombia: Cundinamarca, Bogotá"	CO	
+gbif.org/species/1206264	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1206338	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1206332	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1206325	"Colombia: Tolima, ""Hacienda Pehlke"""	CO	Endémica
+gbif.org/species/1206324	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1206374	Colombia: Meta: Villavicencio	CO	
+gbif.org/species/1206362	Colombia: Meta: Villavicencio	CO	
+gbif.org/species/1238247-00		CO	
+gbif.org/species/9351574	"Colombia: Cundinamarca, Bogotá; ""Cauca-Tal"""	CO	
+gbif.org/species/1238247-01	"Colombia: Tolima, ""Hacienda Pehlke"""	CO	Endémica
+gbif.org/species/1238247-02	"Colombia: Boyacá, Muzo"	CO	
+biolib.cz/en/taxon/id829372/		CO	
+gbif.org/species/1212836		CO	
+gbif.org/species/1212839	Colombia: Valle del Cauca: Buenaventura; Palmira (Tablones)	CO	
+organismnames.com/details.htm?lsid=1386095		CO	
+gbif.org/species/1175877		CO	
+biolib.cz/en/taxon/id1561113/	"Colombia, Nariño, Barbacoas"	CO	
+gbif.org/species/1192438		CO	
+gbif.org/species/1192496	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192519	Colombia: Valle del Cauca: Buenaventura	CO	
+gbif.org/species/1192512-00	"Colombia, sin localidad específica"	CO	
+gbif.org/species/1192512-01	"Colombia, sin localidad específica"	CO	

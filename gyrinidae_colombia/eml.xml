@@ -1,0 +1,354 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=gyrinidae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/aeddqk</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=gyrinidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Gyrinidae (Coleoptera: Adephaga) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+  <pubDate>
+      2022-09-15
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Gyrinidae (Coleoptera: Adephaga) con ocurrencia conocida para el territorio colombiano. Se lista una subfamilia, tres tribus, una subtribu, cuatro géneros, tres subgéneros, y 16 especies. Cuatro especies son consideradas endémicas. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Subfamilias</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos torbellino</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Gyrinidae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se encontraron registros en los departamentos de Antioquia, Bolívar, Boyacá, Caldas, Caquetá, Cauca, Cundinamarca, Meta, Nariño, Norte de Santander, Quindío, Risaralda, Sucre, Tolima y Valle del Cauca. Así mismo, cuatro registros no presentaron localidad específica al interior del país y dos mostraron localidades demasiado amplias.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1762-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Gyrinidae (Coeloptera: Adephaga) registradas para Colombia. Se presentaron 16 especies distribuidas en cuatro géneros. Enhydrus, Macrogyrus, Gyretes, y Gyrinus.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Gyrinidae</taxonRankValue>
+                  <commonName>Escarabajo torbellino</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Gyrininae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Dineutini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Enhydrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Macrogyrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Macrogyrus (Andogyrus)</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Orectochilini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Gyretes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Gyrinini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Gyrinina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Gyrinus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Gyrinus (Oreogyrinus)</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Gyrinus (Neogyrinus)</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para Colombia se hizo a partir del catálogo de Blackwelder (1944), las revisiones de Ochs (1954) y Brinck (1977). Adicionalmente fueron consultados trabajos más recientemente publicados para incluir taxones adicionales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La nomenclatura y autoría de cada nombre fue verificada en las descripciones originales y en el catálogo de Blackwelder (1944).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada taxón para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y publicaciones más recientes que incluyen cambios en la nomenclatura. Se proveen enlaces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Gyrinidae (Coleoptera: Adephaga) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Gyrinidae (Coleoptera: Adephaga) que se han registrado para Colombia a partir de la literatura. El listado se obtuvo inicialmente a partir del catálogo de Blackwelder (1944), las revisiones de Ochs (1954) y Brinck (1977) y se complementó con publicaciones más recientes.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogo de Blackwelder (1944) y otras revisiones.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis Mairu</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilaron los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, revisiones taxonómicas, listados previos y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-08-30T11:16:37.878+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/aeddqk">Hincapié-Montoya D M, Girón Duque J C (2022): Listado de las especies de Gyrinidae (Coleoptera: Adephaga) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/aeddqk</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.1080/01650529309360898">Arndt, E., Beutel, R.G. &amp; Joost, W. (2008) Description of the larva of Andogyrus buqueti (Aubé, 1838) (Coleoptera, Gyrinidae). Studies on Neotropical Fauna and Environment.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/39166091">Aubé, C. (1838) Tome Cinquième (V). Hydrocanthares. Méquignon-Marvis Père et fils, Paris, xi + 415 pp. + 446 pls. [pp. 411–464 (1836), pp. 1165–1224 (1837), pp. 1225–1416 (1838)]</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="http://sea-entomologia.org/Publicaciones/Boletines/Boletin55/Boletin55/224232BSEA55GirinidosCostaRica.pdf">Blanco Aller R.  2014. Actualización faunística y corológica de los Girínidos (Coleoptera: Adephaga: Gyrinidae) de Costa Rica (Centroamérica). Boletín de la Sociedad Entomológica Aragonesa (S.E.A.), nº 55: 224–232.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="https://doi.org/10.1163/187631277X00369">Brinck P. (1977). Evolution and taxonomy of Andogyrus Ochs (Coleoptera: Gyrinidae). Entomologica Scandinavica 8: 241–269.</citation>
+                <citation identifier="https://doi.org/10.1127/entom.germ/4/1978/317">Brinck, P. (1978) Derivation, taxonomy and history of distribution of the whirligig beetle genus Enhydrus (Coleoptera: Gyrinidae). Entomologica Germanica, 317–326.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24569590">Brullé, M.A. (1835) Histoire Naturelle des Insectes. Vol. 5. Coléoptères. Vol. 2. F. D. Pillot, Paris, 436 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2530892">Brullé, G.A. (1837) Insectes coléoptères: tribus carabiques, hydrocanthares, palpicornes. pp. 1–56. In: Blanchard, E. &amp; Brullé, G.A., Insectes de l’Amérique mériodionale recueillis par Alcide d’Orbigny. In: d’Orbigny, A.D. (1835–1847), Voyage dans l’Amérique mériodionale (le Brézil, la République orientale de l&apos;Uruguay, la République Argentine, la Patagonie, la République du Chili, la République de Bolivie, la République du Perou) exécuté pendant les années 1826, 1827, 1828, 1829, 1830, 1831, 1832 et 1833 par Alcide d&apos;Orbigny. Vol. 6. Part 2: Insectes, Paris &amp; Strasbourg: P. Bertrand &amp; Ve Levrault, vi + 222 pp. + 32 pls.</citation>
+                <citation identifier="https://bdtd.inpa.gov.br/handle/tede/2917">Colpani D. (2019).  Sistemática de Gyrinus Geoffroy, 1762 (Coleoptera: Gyrinidae). Tesis doctorado. Instituto Nacional de Pesquisas da Amazônia. p 285.</citation>
+                <citation identifier="http://dx.doi.org/10.11646/zootaxa.3889.2.2">Colpani, D., Benetti, C. J., &amp; Hamada, N. 2014. A checklist of the Gyrinidae (Coleoptera: Adephaga) of Brazil. Zootaxa, 3889(2), 185-213.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/1976596">Desmarest, E. (1851) Coléoptères. Cicindélètes, carabiques, dytisciens, hydrophiliens, sylphaes et nitidulaires. Encyclopédie d’histoire naturelle ou traité complet de cette science d’après les travaux des naturalistes le plus éminents de tous les pays et de toutes les époques, Buffon, Daubenton, Lacépède, G. Cuvier, F Cuvier, Geoffroy Saint-Hilaire, Latreille, de Jussieu, Brongniart, etc., etc., ouvrage résumant les observations des auteurs anciens et comprenant toutes les découvertes modernes jusqu’à nos jours. Marescq &amp; Compagnie, Paris, [2] + 312 pp. 28 pl.</citation>
+                <citation identifier="https://www.biotaxa.org/AEMNP/article/view/67305">Fery H, Hájek J.( 2021). Nomenclatural and taxonomic notes on some species of Gyrinidae (Coleoptera). Acta Entomologica Musei Nationalis Pragae, 61(1), 55-71.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14715647">Geoffroy, M. (1762). Histoire abregée des insectes qui se trouvent aux environs de Paris; dans laquelle ces animaux sont rangés suivant un ordre méthodique.  Paris, Chez Durand, vol. 1, p. 1- 551</citation>
+                <citation>Guignot F. (1954). Quarantième note sur les Hydrocanthares. Bulletin et Annales de la Société Entomologique de Belgique 90: 40–45.</citation>
+                <citation identifier="https://digitalrepository.unm.edu/biol_etds/122/">Gustafson GT. (2016). Phylogenetics and diversification of whirligig beetles (Coleoptera, Gyrinidae). Dissertation. The University of New Mexico. pp.  190.</citation>
+                <citation identifier="https://www.aemnp.eu/acta-entomologica/volume-57-2/1693/review-of-the-whirligig-beetle-genus-gyrinus-of-venezuela-coleoptera-gyrinidae.html">Gustafson GT, Short A. (2017). Review of the whirligig beetle genus Gyrinus of Venezuela (Coleoptera: Gyrinidae). Acta Entomologica Musei Nationalis Pragae, 57(2), 479-520.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3731.1.3">Gustafson, G.T. &amp; Miller, K.B. (2013) On the family- and genus-series nomina in Gyrinidae Latreille, 1810 (Coleoptera, Adephaga). Zootaxa 3731, 77–105.</citation>
+                <citation identifier="https://doi.org/10.1093/zoolinnean/zlw014">Gustafson, G. T., &amp; Miller, K. B. (2017). Systematics and evolution of the whirligig beetle tribe Dineutini (Coleoptera: Gyrinidae: Gyrininae). Zoological Journal of the Linnean Society, 181(1), 118-150.</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=mdp.39015071693233&amp;view=1up&amp;seq=497&amp;skin=2021&amp;q1=Gyrinus">Hatch, M.H. (1925) The phylogeny and phylogenetic tendencies of Gyrinidae. Paper of the Michigan Academy of Science, Arts and Letters, 5, 429–467.</citation>
+                <citation identifier="https://books.google.bj/books?id=9Zc-AAAAcAAJ&amp;printsec=frontcover&amp;hl=es&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Laporte, F.L. de. (1834) Études entomologiques, ou description d’insectes nouveaux et observations sur leur synonymie. Première parte. Carnassiers. Méquignon-Marvis Père et Fils, Paris, 94 pp + 2 supls.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27543876">Latreille PA (1810) Considérations générales sur l’ordre naturel des animaux composant les classes des crustacés, des arachnides, et des insectes; avec un tableau méthodique de leurs genres, disposés en familles. F. Schoell, Paris, 444 pp. [23 May 1810 (Evenhuis 1997b: genres, disposés en familles. F. Schoell, Paris, 444 pp.</citation>
+                <citation identifier="https://repositorio.unal.edu.co/handle/unal/62323">Laython M. (2017). Los Coleópteros Acuáticos (Coleoptera: Insecta) en Colombia: Distribución y Taxonomía. Trabajo presentado como parte de los requisitos para obtener el título de Magister en Ciencias Biológicas. Universidad Nacional de Colombia, Facultad de Ciencias, Departamento de Biología. pp. 281.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-3113.2012.00640.x">Miller, K.B. &amp; Bergsten, J. (2012) Phylogeny and classification of whirligig beetles (Coleoptera: Gyrinidae): relaxed-clock model outperforms parsimony and time-free Bayesian analyses. Systematic Entomology 37, 706–746.</citation>
+                <citation>Mouchamps, R. (1957). Sur quelques Gyrinus de l´Amérique du Sud (Coleoptera, Gyrinidae) (10ª note). Revue française d&apos;Entomologie, 24, 244–252.</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=uc1.b3993071&amp;view=1up&amp;seq=248&amp;skin=2021">Ochs G. (1924). Über neue und interessante Gyriniden aus dem British Museum in London. Entomologische Blätter 20: 228–244.</citation>
+                <citation>Ochs, G. (1935) Die brasilianische Artengruppe der Gattung Gyrinus, untergattung Neogyrinus Hatch. Revista de Entomologia, 5, 124–132</citation>
+                <citation>Ochs G. (1953) Der jetzige Stand unserer Kenntnise uber die Gyriniden-Fauna von Venezuela. Acta Biologica Venezuelica 1: 181 - 208.</citation>
+                <citation>Ochs G. (1954). Die Gyriniden Perus und der übrigen südamerikanischen Kordilleren. Beiträge zur Fauna Perus 4: 116–155.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k63409946/f111.image.r=Regimbart">Régimbart, M. (1877) Monographie du genre Enhydrus Casteln. (groupe des Epinectes Eschsch.) et du genre Porrhorhynchus Castelnau. Annales de la Société Entomologique de France, 5 (7), 105–114 + 1 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8997690">Régimbart, M. (1882). Essai monographique de la famille des Gyrinidae. 1e partie. Annales de la Societe Entomologique de France, 6e Serie 3: 379 - 458.</citation>
+                <citation identifier="https://repository.naturalis.nl/pub/509382">Régimbart, M. (1882) New species of Gyrinidae in the Leyden Museum. Notes from the Leyden Museum, 4, 59–71.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32548549">Régimbart M. (1883). Essai monographique de la famille des Gyrinidae. 2 e partie. Annales de la Societe Entomologique de France, 6 e S e rie 3: 121 - 190 + pl. 6.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32548025">Régimbart, M. (1891) Essai monographique de la famille des Gyrinidae. 2e Supplément (1). 2 planches (18 et 19). Annales de la Société Entomologique de France, 60, 663–752.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>MNHN</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/6a6ac6c5-1b8a-48db-91a2-f8661274ff80</collectionIdentifier>
+                <collectionName>Muséum national d’Histoire naturelle</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>NHMUK</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                <collectionName>The Natural History Museum</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>SDEI</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/2796e2f5-c160-4e3c-942f-d6d64ab8465f</collectionIdentifier>
+                <collectionName>Senckenberg Deutsches Entomologisches Institut</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

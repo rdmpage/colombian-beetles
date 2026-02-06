@@ -1,0 +1,40 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4738		CO	
+organismnames.com/details.htm?lsid=1374196		CO	
+organismnames.com/details.htm?lsid=1234385		CO	
+gbif.org/species/9454183		CO	
+gbif.org/species/4760067		CO	
+gbif.org/species/10419000	Colombia	CO	Endémica
+gbif.org/species/10286345	Colombia: Norte de Santander y Quindío; Costa Rica: Cartago y Puntarenas Provincias; Ecuador: Cotopaxi, Los Ríos, y Pichincha Provincias; Mexico: Estado de Chiapas; Panama: Chiriquí, Coclé, y Panamá Provincias; Peru: Cuzco.	CO	
+gbif.org/species/10531315	7 km N Leticia, Amazonas, Colombia. Ecuador: Provincia Orellana.	CO	
+gbif.org/species/10606416	30 km S de Chinácota, 8000’, Norte de Santander, Colombia.	CO	Endémica
+gbif.org/species/10393439	41 km S de Santa Marta, 7000’, San Lorenzo, Magdalena, Colombia.	CO	Endémica
+gbif.org/species/10138808	41 km S de Santa Marta, 7000’, San Lorenzo, Magdalena, Colombia.	CO	Endémica
+gbif.org/species/10152370	41 km S de Santa Marta, 7000’, San Lorenzo, Magdalena, Colombia.	CO	Endémica
+gbif.org/species/9851405	Quebrada Susumuco, 1000 m, 23 km NW de Villavicencio, Meta, Colombia.	CO	Endémica
+gbif.org/species/10042315	25 km S Chinácota, 7000’, Norte de Santander, Colombia. Ecuador: Provincia Napo.	CO	
+gbif.org/species/10567088	11–23 km E Calarcá, 7–10000’, Quindío, Colombia.	CO	Endémica
+gbif.org/species/10267769	Salto del Tequendama, 7000’, Soacha, Cundinamarca, Colombia.	CO	Endémica
+gbif.org/species/10094784	11–23 km E Calarcá, 7–10000’, Quindío, Colombia.	CO	Endémica
+gbif.org/species/10490604	11–23 km E Calarcá, 7–10000’, Quindío, Colombia.	CO	Endémica
+gbif.org/species/10495524	11–23 km E Calarcá, 7[000]-10000’, Quindío, Colombia	CO	Endémica
+gbif.org/species/9944359	11–23 km E Calarcá, Quindío, Colombia. Ecuador (Cotopaxi, Pichincha)	CO	
+gbif.org/species/10289760	Cerca a Pichindé, 5000’, Valle del Cauca, Colombia.	CO	Endémica
+gbif.org/species/10242238	11 km E Calarcá, 7000’, Quindío, Colombia.	CO	Endémica
+gbif.org/species/10232056	Salto del Tequendama, 7000’, Soacha, Cundinamarca, Colombia.	CO	Endémica
+gbif.org/species/4717010		CO	
+gbif.org/species/10122484	Colombia, probablemente en el departamento de Magdalena.	CO	Endémica
+gbif.org/species/4760143		CO	
+gbif.org/species/10284413	Colombia	CO	Endémica
+gbif.org/species/9910729	Cundinamarca, Colombia	CO	Endémica
+organismnames.com/details.htm?lsid=1204178		CO	
+organismnames.com/details.htm?lsid=1220884		CO	
+gbif.org/species/4760055		CO	
+gbif.org/species/10632564	Colombia	CO	Endémica
+organismnames.com/details.htm?lsid=1437812		CO	
+gbif.org/species/4760024		CO	
+organismnames.com/details.htm?lsid=4139932		CO	
+gbif.org/species/10449367	Cunday, 4°00’33.5” N 74°44’21.5” W, 470 m, Tolima, Colombia	CO	Endémica
+gbif.org/species/8915210	Brazil: Estados de Bahia y Pará ; Colombia: departamento del Magdalena ; Panama: Provincia de Panamá. Trinidad.	CO	
+gbif.org/species/9839895	Cunday, 4°00’33.5” N 74°44’21.5” W, 470 m, Tolima, Colombia	CO	Endémica
+gbif.org/species/10630546	Brazil: Pará, Pernambuco, Rio de Janeiro, y São Paulo; Colombia: Amazonas y Magdalena; Costa Rica: Cartago; Ecuador: Pichincha ; French Guiana; Guyana (British Guiana)	CO	

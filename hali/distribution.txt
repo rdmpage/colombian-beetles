@@ -1,0 +1,8 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/6984		CO	
+gbif.org/species/1044394		CO	
+organismnames.com/details.htm?lsid=3779582	Ecuador: Guayaquil | Colombia: Cesar, Becerril	CO	
+gbif.org/species/10012119	Colombia: Atlántico, Barranquilla	CO	Endémica
+gbif.org/species/1044407	Brasil | Colombia: Magdalena, Sevilla	CO	
+gbif.org/species/1044427	Panamá: Tabernilla [desapareció con la subida del lago Gatún], Zona del Canal | Colombia, sin localidad específica	CO	
+organismnames.com/details.htm?lsid=3364002	Brasil | Colombia: Norte de Santander: Cúcuta | Paraguay | Venezuela	CO	

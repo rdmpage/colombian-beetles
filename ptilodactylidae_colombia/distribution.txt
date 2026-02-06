@@ -1,0 +1,29 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/es/species/4755		CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=678536#null		CO	
+gbif.org/es/species/1033846		CO	
+gbif.org/es/species/6971460	Colombia: Antioquia, Cundinamarca	CO	
+organismnames.com/details.htm?lsid=552174	Colombia: Magdalena, Valle del Cauca	CO	
+gbif.org/species/4717348		CO	
+gbif.org/species/4717348-01	Colombia: Bogotá	CO	
+organismnames.com/details.htm?lsid=5010711	Colombia, sin localidad definida	CO	
+organismnames.com/details.htm?lsid=3439509	Colombia, sin localidad definida	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=678540#null		CO	
+gbif.org/es/species/1033843		CO	
+gbif.org/es/species/1033850		CO	
+organismnames.com/details.htm?lsid=3470642	Colombia: Bogotá	CO	Endémica
+gbif.org/es/species/1033850-01	Colombia: Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=3439009	Colombia: Bogotá	CO	Endémica
+organismnames.com/details.htm?lsid=4227433	Colombia: Bogotá	CO	
+organismnames.com/details.htm?lsid=4759350	Colombia, sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=2926131	Colombia, sin localidad definida	CO	Endémica
+gbif.org/es/species/1033850-02	Colombia: Bogotá	CO	Endémica
+gbif.org/es/species/1033850-03	Colombia, sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=3313177	Colombia: Bogotá	CO	Endémica
+gbif.org/es/species/1033850-04	Colombia: Bogotá	CO	Endémica
+gbif.org/es/species/1033850-05	Colombia, sin localidad definida	CO	Endémica
+organismnames.com/details.htm?lsid=4227434	Colombia: Bogotá	CO	
+organismnames.com/details.htm?lsid=3470650	Colombia: Bogotá	CO	
+organismnames.com/details.htm?lsid=3964182	Colombia: Bogotá	CO	
+gbif.org/es/species/4756097		CO	
+gbif.org/es/species/10813375	Colombia, sin localidad definida	CO	

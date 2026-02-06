@@ -1,0 +1,296 @@
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=ptiliidae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+    <dataset>
+        <alternateIdentifier>10.15472/ompkp3</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ptiliidae_colombia</alternateIdentifier>
+        <shortName>Ptiliidae de Colombia</shortName>
+        <title xml:lang="spa">Listado de las especies de Ptiliidae (Coleoptera: Staphylinoidea) de Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+            <role>author</role>
+        </associatedParty>
+        <pubDate>
+            2026-01-08
+        </pubDate>
+        <language>spa</language>
+        <abstract>
+            <para>Este recurso presenta el listado de las especies de la familia Ptiliidae (Coleoptera: Staphylinoidea) con ocurrencia conocida para el territorio colombiano. Se listan dos subfamilias, tres tribus, cuatro géneros y cuatro especies, de las cuales dos especies se consideran endémicas de Colombia, pues no se conocen registros en otros países. El listado ha sido compilado a partir de la búsqueda de referencias que registran la familia en Colombia. Se incluyen las referencias de todas las descripciones originales, así como información sobre los holotipos de tres de las especies.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Lista de referencia</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>especies</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>escarabajos</keyword>
+            <keyword>coleópteros</keyword>
+            <keyword>escarabajos de alas plumosas</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Checklist</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>De acuerdo con la literatura, se reportan dos subfamilias, tres tribus, cuatro géneros y cuatro especies de la familia Ptiliidae (Coleoptera: Staphylinoidea) para el territorio colombiano. Para una de las especies no se conocen localidades específicas. Cada una de las otras tres especies se registran para Amazonas, Cundinamarca y Meta.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+                    <northBoundingCoordinate>12.555</northBoundingCoordinate>
+                    <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>1758-01-01</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>2022-12-31</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se listan dos subfamilias, tres tribus, cuatro géneros y cuatro especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>family</taxonRankName>
+                    <taxonRankValue>Ptiliidae</taxonRankValue>
+                    <commonName>Escarabajos de alas plumosas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subfamily</taxonRankName>
+                    <taxonRankValue>Acrotrichinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Acrotrichini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Acrotrichis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subfamily</taxonRankName>
+                    <taxonRankValue>Ptiliinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Ptinellini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Pycnopteryx</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Limulopteryx</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>tribe</taxonRankName>
+                    <taxonRankValue>Nanosellini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Scydosella</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <acknowledgements>Algunos de los artículos revisados están disponibles a través de Biodiversity Heritage Library (https://www.biodiversitylibrary.org/) y Zobodat (https://www.zobodat.at/index.php).</acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El levantamiento de las especies registradas para el país se hizo a partir de revisiones taxonómicas recientes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La grafía y autoría de cada nombre fue verificada en las descripciones originales y las revisiones taxonómicas examinadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los registros de distribución se obtuvieron de las descripciones originales y otras publicaciones.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y mediante búsqueda en Zoological Record para encontrar descripciones y registros recientes.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El listado compila los nombres de los taxones de la familia Ptiliidae (Coleoptera: Staphylinoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se compiló información sobre los nombres, autores y referencias de los taxones de la familia Ptiliidae (Coleoptera: Staphylinoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo a partir de referencias resultantes de la búsqueda en Zoological Record.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los nombres fueron verificados en las descripciones originales.</para>
+                </description>
+            </qualityControl>
+        </methods>
+        <project>
+            <title>Listado de los coleópteros de Colombia</title>
+            <personnel>
+                <individualName>
+                    <givenName>Jennifer C.</givenName>
+                    <surName>Girón Duque</surName>
+                </individualName>
+                <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+                <role>author</role>
+            </personnel>
+            <abstract>
+                <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo Coleoptera de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+            </abstract>
+            <funding>
+                <para>Recursos propios.</para>
+            </funding>
+            <studyAreaDescription>
+                <descriptor name="generic"
+                            citableClassificationSystem="false">
+                    <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+                </description>
+            </designDescription>
+        </project>
+    </dataset>
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2024-09-19T15:31:47.599+00:00</dateStamp>
+                <hierarchyLevel>dataset</hierarchyLevel>
+                <citation identifier="https://doi.org/10.15472/ompkp3">Girón Duque J C (2026). Listado de las especies de Ptiliidae (Coleoptera: Staphylinoidea) de Colombia. Version 1.0. Coleoptera de Colombia. Checklist dataset. https://doi.org/10.15472/ompkp3</citation>
+                <bibliography>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/16138513">Barber HS (1924) New Ptiliidae related to the smallest known beetle. Proceedings of the Entomological Society of Washington 26 (6): 167–178, pls. 7–8.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE. (1944). Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A. (2011). Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/2785081">Dybas, H. S. (1955) New feather-wing beetles from termite nests in the American tropics (Coleoptera: Ptiliidae). Fieldiana Zoology, 37(21): 561-577.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/8642832">Erichson WF (1845) [I., II. Lieferungen, pp. 1–320]. In: Naturgeschichte der Insecten Deutschlands. Erste Abtheilung. Coleoptera. Dritter Band. Nicolai, Berlin, vii + 968 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/9799817">Gillmeister, C.J.F. (1845) Trichopterygia, Beschreibung und Abbildung der haarflügeligen Käfer. xviii + 98 pp., pls 320-328. In: Sturm, J. Deutschlands Insecten. Käfer. XVII. Bändchen. Käfer. J. Sturm, Nürnberg.</citation>
+                    <citation identifier="https://www.jstor.org/stable/25078673">Hall, W. E. (1999) Generic revision of the tribe Nanosellini (Coleoptera: Ptiliidae: Ptiliinae). Transactions of the American Entomological Society, 125(1–2): 36–126.</citation>
+                    <citation>Hall, W. E. (2003) Limulopteryx, a new genus of Neotropical featherwing beetle (Coleoptera, Staphylinoidea, Ptiliidae) and comments on pterycine ptiliids. Memoirs on Entomology International, 17: 85-102.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/9623489">Lacordaire, J.T. (1863) Histoire naturelle des insectes: Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Premier. Librairie encyclopédique de Roret, Paris, 637 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/726886">Linnaeus, C. von (1758) Systema Naturae per Regna Tria Naturae : Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis. Impensis Direct. Laurentii Salvii, Holmiae, 824 pp.</citation>
+                    <citation identifier="https://doi.org/10.1134/S1607672922040068">Makarova, A.A., Polilov, A.A. (2022) Structure of the Brain of the Smallest Coleoptera. Dokl Biochem Biophys 505, 166–169. </citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/34378098">Motschulsky, V. (1848) Kritische Beurtheilung von Dr. Erichson&apos;s Naturgeschichte der Insecten Deutschland&apos;s, und einiger anderen entomologischen Schriften in monographischer Zusammenstellung und besonderer Berücksichtigung der in Russland vorkommenden Arten. Bulletin de la Société Impériale des Naturalistes de Moscou, 21 (1), 544-569</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.526.6531">Polilov AA (2015) How small is the smallest? New record and remeasuring of Scydosella musawasensis Hall, 1999 (Coleoptera, Ptiliidae), the smallest known free-living insect. ZooKeys 526: 61-64.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/63461350">Reitter, E. (1906) [families Trichopterygidae, Tenebrionidae and others] In: Heyden L, von, Reitter E, Weise J: Catalogus Coleopterorum Europae, Caucasi et Armeniae rossicae. Editio secunda. R. Friedländer &amp; Sohn, Berlin, iv pp. + 750 cols. + pp. 751–774.</citation>
+                    <citation identifier="https://www.zobodat.at/pdf/MON-E-COL_0159_0001-0392.pdf">Reitter E (1909) Fauna Germanica. Die Käfer des Deutschen Reiches. Nach der analytischen Methode bearbeitet. II. Band. K. G. Lutz, Stuttgart, 392 pp., pls. 41–80.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Página web</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-coleocol.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>ARTH</parentCollectionIdentifier>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/collection/8b1abe12-66b6-4e93-8e0b-e0d982077fa6</collectionIdentifier>
+                    <collectionName>FMNH - Field Museum of Natural History	</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,72 @@
+id	locality	establishmentMeans
+gbif.org/species/7771		
+organismnames.com/details.htm?lsid=192246		
+organismnames.com/details.htm?lsid=192247		
+gbif.org/species/1047083		
+organismnames.com/details.htm?lsid=2454008	Colombia: Magdalena (Sevilla)	
+gbif.org/species/1047096	Colombia: Antioquia (Puerto Berrío, sobre el Río Magdalena), Magdalena (Aracataca, Rio Frío, Santa Marta y Sevilla)	
+gbif.org/species/1047095	Colombia: Magdalena (Rio Frío)	
+organismnames.com/details.htm?lsid=4938431	Colombia [Nova Granata]	
+gbif.org/species/1047084	Colombia: Magdalena (Rio Frío)	
+organismnames.com/details.htm?lsid=4270291	Colombia: Cundinamarca (Monterredondo, Puente Licio)	
+organismnames.com/details.htm?lsid=2327809	Colombia [Nova Granata]	
+organismnames.com/details.htm?lsid=2327822	Colombia	
+organismnames.com/details.htm?lsid=2327845	Colombia: Magdalena (Rio Frío)	
+gbif.org/species/1047083-00	Colombia: Magdalena (Aracataca)	
+organismnames.com/details.htm?lsid=2461316	Colombia: Magdalena (Sevilla)	Endémica
+organismnames.com/details.htm?lsid=2327854	Colombia	Endémica
+gbif.org/species/1047097	Colombia	
+organismnames.com/details.htm?lsid=2327858	Colombia: Cundinamarca (Bogotá, Monterredondo)	
+organismnames.com/details.htm?lsid=2524355	Colombia: Cundinamarca (Puerto Salgar), Meta (Villavicencio)	
+organismnames.com/details.htm?lsid=2327846	Colombia: Cundinamarca (Monterredondo)	
+organismnames.com/details.htm?lsid=2327830	Colombia: Magdalena (Sevilla)	
+organismnames.com/details.htm?lsid=2327848	Colombia: Cundinamarca (El Colegio)	Endémica
+organismnames.com/details.htm?lsid=2327847	Colombia: Bolívar (Cartagena), Cundinamarca (Bogotá, Río Sumapaz), Magdalena (Aracataca)	
+gbif.org/species/1047083-01	Colombia [Nova Granata]	
+gbif.org/species/1047083-02	Colombia	Endémica
+gbif.org/species/1046876		
+organismnames.com/details.htm?lsid=1750092	Colombia	
+organismnames.com/details.htm?lsid=5068806	Colombia	
+gbif.org/species/1047046		
+organismnames.com/details.htm?lsid=4944208	Colombia: Bolívar (Cartagena)	Endémica
+organismnames.com/details.htm?lsid=2524411	Colombia	
+organismnames.com/details.htm?lsid=4944952	Colombia	
+organismnames.com/details.htm?lsid=2524400	Colombia	
+gbif.org/species/1047046-00	Colombia	
+organismnames.com/details.htm?lsid=2524412	Colombia	
+organismnames.com/details.htm?lsid=2524424	Colombia: Norte de Santander (Pamplona)	
+gbif.org/species/1046811		
+organismnames.com/details.htm?lsid=412971	Colombia: Cundinamarca (Bogotá)	Endémica
+organismnames.com/details.htm?lsid=412988	Colombia: Amazonas (Leticia)	
+gbif.org/species/1047146		
+gbif.org/species/1047146-00	Colombia	Endémica
+organismnames.com/details.htm?lsid=2650879	Colombia: Cundinamarca (Puerto Salgar)	
+gbif.org/species/1047154	Colombia: Norte de Santander (Cúcuta)	
+organismnames.com/details.htm?lsid=5148969		
+gbif.org/species/1047076		
+gbif.org/species/9377448	Colombia: Bolívar (Cartagena, Boca Grande)	
+gbif.org/species/4720588		
+eol.org/pages/40941633	Colombia	
+gbif.org/species/1046737		
+organismnames.com/details.htm?lsid=69454	Colombia: Magdalena (Rio Frío)	
+organismnames.com/details.htm?lsid=4450483		
+gbif.org/species/1047020		
+organismnames.com/details.htm?lsid=5010671	Colombia	Endémica
+organismnames.com/details.htm?lsid=4957996	Colombia	Endémica
+organismnames.com/details.htm?lsid=5072616	Colombia [Nova Granata]	Endémica
+gbif.org/species/4736678		
+organismnames.com/details.htm?lsid=3890733	Colombia: Cundinamarca (Bogotá)	Endémica
+gbif.org/species/1046842		
+gbif.org/species/1046849	Colombia	
+organismnames.com/details.htm?lsid=2226923		
+gbif.org/species/1047001		
+gbif.org/species/1047001-00	Colombia: [Cumana]	
+gbif.org/species/1047001-01	Colombia: [Nova Valencia]	
+gbif.org/species/1047001-02	Colombia: [Nova Granata]	Endémica
+gbif.org/species/1047001-03	Colombia [Cumana]	
+organismnames.com/details.htm?lsid=3463512	Colombia	Endémica
+organismnames.com/details.htm?lsid=3463525	Colombia: Cundinamarca (Bogotá?)	Endémica
+organismnames.com/details.htm?lsid=1641605		
+organismnames.com/details.htm?lsid=508654		
+gbif.org/species/4717370		
+organismnames.com/details.htm?lsid=2434311	Colombia	Endémica

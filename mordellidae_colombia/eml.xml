@@ -1,0 +1,300 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="bb81601d-d838-4007-b863-208d588b4a3b/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/abvxw3</alternateIdentifier>
+  <alternateIdentifier>bb81601d-d838-4007-b863-208d588b4a3b</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=mordellidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Mordellidae (Coleoptera: Tenebrionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Diego Esteban</givenName>
+      <surName>Martínez-Revelo</surName>
+    </individualName>
+    <organizationName>Asociación GAICA</organizationName>
+    <positionName>Asociado</positionName>
+    <address>
+        <deliveryPoint>Calle 11A #No. 32-21, Pasto, Nariño</deliveryPoint>
+        <city>Pasto</city>
+        <administrativeArea>Nariño</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diemartinezre@unal.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Diego-Martinez-Revelo</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Diego Esteban</givenName>
+      <surName>Martínez-Revelo</surName>
+    </individualName>
+    <organizationName>Asociación GAICA</organizationName>
+    <positionName>Asociado</positionName>
+    <address>
+        <deliveryPoint>Calle 11A #No. 32-21, Pasto, Nariño</deliveryPoint>
+        <city>Pasto</city>
+        <administrativeArea>Nariño</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diemartinezre@unal.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Diego-Martinez-Revelo</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-02-23
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Mordellidae (Coleoptera: Tenebrionoidea) con ocurrencia conocida para el territorio colombiano. Se listan una subfamilia, tres tribus, cuatro géneros y ocho especies. Cuatro especies son consideradas endémicas. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Escarabajos</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Literatura</keyword>
+            <keyword>América del Sur</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Mordellidae (Coleoptera: Tenebrionoidea) de los siguientes departamentos de Colombia: Amazonas, Bolívar, Caquetá, Cauca, Chocó, Cundinamarca y Magdalena. El mayor número de referencias geográficas corresponde al departamento de Cundinamarca, con cuatro especies (incluyendo Bogotá).  Dos especies son listadas para los departamentos de Bolívar y Amazonas, Caquetá, Cauca, Chocó y Magdalena están representados por una especie. No se conoce ninguna referencia que ubique geográficamente a dos especies al interior del país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1802-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan una subfamilia, tres tribus, cuatro géneros, ocho especies de la familia Mordellidae (Coleoptera: Tenebrionoidea) para Colombia. El género con mayor representación en la lista es Mordellistena con seis especies y los géneros Glipodes y Tomoxia están representados por una especie. Tres especies del género Mordellistena y una de Tomoxia se presumen endémicas del país. No se conoce la especie del género Boena.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Mordellidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Mordellinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Conaliini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Glipodes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Mordellini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Boatia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Tomoxia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Mordellistenini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mordellistena</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Diego Esteban</givenName>
+      <surName>Martínez-Revelo</surName>
+    </individualName>
+    <organizationName>Asociación GAICA</organizationName>
+    <positionName>Asociado</positionName>
+    <address>
+        <deliveryPoint>Calle 11A #No. 32-21, Pasto, Nariño</deliveryPoint>
+        <city>Pasto</city>
+        <administrativeArea>Nariño</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>diemartinezre@unal.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Diego-Martinez-Revelo</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1945). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en catálogo de Blackwelder (1945) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Mordellidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Mordellidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se basó principalmente en el catálogo de Blackwelder (1945) y trabajos posteriormente publicados y no incluidos en ese catálogo.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogos de Blackwelder (1945), además de trabajos taxonómicos y faunísticos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Diego Esteban</givenName>
+          <surName>Martínez-Revelo</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-4446-4902</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-18T09:00:05.311+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/abvxw3">Martínez-Revelo D E (2022): Listado de las especies de Mordellidae (Coleoptera: Tenebrionoidea) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/abvxw3</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.5479/si.03629236.185.3">Blackwelder, R. E. (1945). Checklist of the coleopterous insects of Mexico, Central America, the West Indies, and South America, pt. 3. Bulletin of the United States National Museum. i–iv, 343-550. https://doi.org/10.5479/si.03629236.185.3</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8964191">Champion, G. C. (1913). Coleoptera in Orchids. The Entomologist&apos;s monthly magazine 49: 55-56. https://www.biodiversitylibrary.org/page/8964191</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8998031">Chevrolat, A. (1883) Donne les descriptions de trois nouvelles espèces américaines de Mordellides. Annales de la Société entomologique de France 6(2): CII-CIII. https://www.biodiversitylibrary.org/page/8998031</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53985713">Costa, O. G. (1849). Mordellidae. En: Fauna del Regno di Napoli: ossia enumerazione di tutti gli Animali, che abitano le diverse regioni de questo regno e le acque che le bagnano, contenente la descrizione de’ nuovi o poco esattamente conosciuti. Azzolino, Napoli, 620 pp. https://www.biodiversitylibrary.org/page/53985713</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28956353">Ermisch, K. (1941). Tribus Mordellisteniini. Mitteilungen der Münchner Entomologischen Gesellschaft 31: 710-726. https://www.biodiversitylibrary.org/page/28956353</citation>
+                <citation>Ermisch, K. (1956) Mordellidae (31. Beitrag zur Kenntnis der Mordelliden) [pp. 269–321]. In: Horion A (Ed) Faunistik der mitteleuropäischen Käfer. Band V: Heteromera. Entomologische Arbeiten aus dem Museum G. Frey, Sonderband, Tutzing bei München, xv + 336 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/44908644">Fowler, W. W. (1912). Fauna of British India, including Ceylon and Burma. Coleoptera. General introduction and Cicindelidae and Paussidae. London, xx + 529 pp. https://www.biodiversitylibrary.org/page/44908644</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33984062">Franciscolo, M. E. (1985). About a new fungus-eating mordellid-beetle from Ecuador. Annali del Museo Civico di Storia Naturale Giacomo Doria 85: 79–93. https://www.biodiversitylibrary.org/page/33984062</citation>
+                <citation identifier="http://www.jstor.org/stable/4008881">Jackman, J. (1991). Notes on the Nomenclature of Mordellidae of America North of Mexico. The Coleopterists Bulletin, 45(4), 323-330. http://www.jstor.org/stable/4008881</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340301">Kirsch, T. (1866). Beiträge zur Käferfauna von Bogotà. Berliner entomologische Zeitschrift 10: 173–216. https://www.biodiversitylibrary.org/page/8340301</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille, P. A. (1802). Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp. https://biodiversitylibrary.org/page/24884921</citation>
+                <citation identifier="https://www.jstor.org/stable/4059422">Le Conte, J. L. (1862). Synopsis of the Mordellidae of the United States. Proceedings of the Academy of Natural Sciences of Philadelphia 14: 43–51. https://www.jstor.org/stable/4059422</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9966642">Lengerken, H. (1922) Eine Mordellistena (Coleopt.) als Schädling an der Orchidee Cattleya labiata forma Trianaei Duchartre. Zoologische Jahrbücher 44: 579-594. https://www.biodiversitylibrary.org/page/9966642</citation>
+                <citation identifier="http://saber.ucv.ve/ojs/index.php/rev_ento/article/view/7644">Martínez, C. (2007). Primer registro de los géneros Glipodes y Boatia (Coleoptera: Mordellidae) para Colombia. Entomotrópica, 16(3). http://saber.ucv.ve/ojs/index.php/rev_ento/article/view/7644</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/6605840">Melsheimer, F.E. (1846)[1845] Description of new species of Coleoptera of the United States. Proceedings of the Academy of Natural Sciences of Philadelphia 2(12): 302-318. https://www.biodiversitylibrary.org/page/6605840</citation>
+                <citation>Ray, E. (1936). The Neotropical Mordellidae of the Deutsches Entomologisches Institut, with descriptions of new species. Arbeiten über morphologische und taxonomische entomologie Berlin-Dahlem 3(2): 143-150; 215-221.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2759702">Ray, E. (1944). New mordellid beetles from the western hemisphere. Publications Field Museum Chicago Zoological Series 29: 117–133. https://www.biodiversitylibrary.org/page/2759702</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7728578">Smith, J. B. (1882). A synopsis of the Mordellidae of the United States. Transactions of the American Entomological Society and proceedings of the Entomological Section of the Academy of Natural Sciences. 10: 73-100. https://www.biodiversitylibrary.org/page/7728578</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.fieldmuseum.org/science/research/area/insects-arachnids-and-myriapods</collectionIdentifier>
+                <collectionName>FMNH - Field Museum of Natural History, Chicago, Illinois, Estados Unidos</collectionName>
+              </collection>
+          <dc:replaces>bb81601d-d838-4007-b863-208d588b4a3b/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

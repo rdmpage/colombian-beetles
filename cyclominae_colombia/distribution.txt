@@ -1,0 +1,18 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4239		CO	
+ubio.org/browser/details.php?namebankID=1132726		CO	
+ubio.org/browser/details.php?namebankID=5961406		CO	
+gbif.org/species/4769170		CO	
+gbif.org/species/8869401	Colombia: Risaralda (Santa Rosa)	CO	Endémica
+gbif.org/species/1232521		CO	
+gbif.org/species/1232522	Colombia: Huila	CO	Endémica
+gbif.org/species/9474095	Colombia: Cauca, 15 mi. E. Silvia	CO	Endémica
+gbif.org/species/4746709		CO	
+gbif.org/species/9324536	Colombia: Cundinamarca, Aguadita	CO	Endémica
+gbif.org/species/1225167		CO	
+gbif.org/species/8740551	Colombia: Cundinamarca, Paramo Chisacal	CO	Endémica
+gbif.org/species/9383633	Colombia: Cauca, 20 km E. Silvia	CO	Endémica
+gbif.org/species/1225168	Colombia: Nariño: Túquerres, Gualcala	CO	Endémica
+gbif.org/species/9577227	Colombia: Cundinamarca, Bogotá, Monserrate	CO	Endémica
+gbif.org/species/4719342		CO	Endémica
+gbif.org/species/9417583	Colombia: Cauca, 25 km E. Silvia	CO	Endémica

@@ -1,0 +1,3 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+organismnames.com/details.htm?lsid=120966	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+organismnames.com/details.htm?lsid=120966	FALSO	VERDADERO	FALSO	Larva	Terrestre

@@ -1,0 +1,3 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+organismnames.com/details.htm?lsid=5010706	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+gbif.org/species/4719704	FALSO	VERDADERO	FALSO	Adulto	Terrestre

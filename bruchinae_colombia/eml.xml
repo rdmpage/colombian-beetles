@@ -1,0 +1,736 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=bruchinae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/tvuxwk</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=bruchinae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Bruchinae (Coleoptera: Chrysomelidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Alejandra</givenName>
+      <surName>Rendón Ramírez</surName>
+    </individualName>
+    <organizationName>Universidad Nacional de Colombia</organizationName>
+    <positionName>Egresada</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alrendonr@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8824-3554</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Alejandra</givenName>
+      <surName>Rendón Ramírez</surName>
+    </individualName>
+    <organizationName>Universidad Nacional de Colombia</organizationName>
+    <positionName>Egresada</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alrendonr@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8824-3554</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Alejandra</givenName>
+      <surName>Rendón Ramírez</surName>
+    </individualName>
+    <organizationName>Universidad Nacional de Colombia</organizationName>
+    <positionName>Egresada</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquie</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alrendonr@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8824-3554</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-08-01
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Bruchinae (Coleoptera: Chrysomelidae) con ocurrencia conocida para el territorio colombiano. Se listan tres tribus, 21 géneros y 131 especies. Siete especies son consideradas endémicas. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>especies</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>escarabajos</keyword>
+            <keyword>coleópteros</keyword>
+            <keyword>Phytophaga</keyword>
+            <keyword>Chrysomeloidea</keyword>
+            <keyword>Chrysomelidae</keyword>
+            <keyword>escarabajos de las semillas</keyword>
+            <keyword>Bruchinae</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan 131 especies de la subfamilia Bruchinae (Coleoptera: Chrysomeloidea: Chrysomelidae) de 25 departamentos de Colombia: Magdalena (42), Valle del Cauca (37), Cundinamarca (29), Antioquia (24), Tolima (16) y Bolívar (12), siendo los departamentos con mayor número de especies. Para los restantes se reportaron menos de 10 especies en cada uno. En la literatura consultada 22 especies no poseen localidad conocida, o ninguna que se pueda atribuir a algún departamento. Los registros ambiguos corresponden a las localidades “Pto. Magdalena”, “Llano grande”, “Santa María” y “Río Raposo”.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-4.478</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-66.621</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1758-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2023-08-30</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan tres tribus, 7 subtribus, 21 géneros y 131 especies de la subfamilia Bruchinae (Coleoptera: Chrysomelidae) para Colombia. Siete especies son consideradas endémicas y dos géneros introducidos (Bruchus y Callosobruchus). El género Acanthoscelides posee el mayor número de especies (50), seguido por Caryedes (16), Megacerus (13), Sennius (9) y Amblycerus (8). El listado fue compilado a partir de catálogos y revisiones taxonómicas, resaltando los aportes de Kingsolver, Johnson y Ribeiro-Costa que describieron el 33.6% de las especies que componen este listado. Si bien la mayoría de los géneros de Colombia han tenido revisiones recientes, se requieren trabajos que esclarezcan los patrones de distribución de estas especies en el país, ya que para el 16,8% no se conoce una localidad específica y el 37.4% solo se conocen para una localidad.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chrysomelidae</taxonRankValue>
+                  <commonName>escarabajos de las hojas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Bruchinae</taxonRankValue>
+                  <commonName>escarabajos de las semillas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Amblycerini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Amblycerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Zabrotes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Bruchini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Acanthoscelides</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Algarobius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Callosobruchus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Caryedes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ctenocolum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Gibbobruchus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Meibomeus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Merobruchus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mimosestes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neobruchidius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pygiopachymerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sennius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Stator</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Bruchus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Megacerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Pachymerini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Caryedon</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Caryoborus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pachymerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Speciomerus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Alejandra</givenName>
+      <surName>Rendón Ramírez</surName>
+    </individualName>
+    <organizationName>Universidad Nacional de Colombia</organizationName>
+    <positionName>Egresada</positionName>
+    <address>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>alrendonr@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8824-3554</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1946). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo y actualizaciones taxonómicas.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y trabajos de revisión taxonómica.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Bruchinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Bruchinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente a partir de Blackwelder (1946) con actualizaciones de trabajos publicados posteriormente.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos y trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo Coleoptera de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2024-05-29T16:15:55.785+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/tvuxwk">Utria Suarez J, Rendón Ramírez A (2024): Listado de las especies de Bruchinae (Coleoptera: Chrysomelidae) de Colombia. v1.0. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/tvuxwk</citation>
+          <bibliography>
+                <citation identifier="https://www.agrosavia.co/ctni/ctc/coleoptera/chrysomelidae/bruchus/bruchus-pisorum">AGROSAVIA (2024) Colección Taxonómica Nacional de Insectos &quot;Luis Maria Murillo&quot; (CTNI). Base de datos CTNI.</citation>
+                <citation identifier="https://dialnet.unirioja.es/servlet/articulo?codigo=4866572">Aguado, A. &amp; Suárez, H. (2006) Impacto del ataque de Algarobius riochama Kingsolver (Coleoptera Bruchidae) Sobre Prosopis juliflora (SW) DC en la zona urbana de Santa Marta. Intropica: Revista del Instituto de Investigaciones Tropicales 3(1): 13-20.</citation>
+                <citation identifier="http://dx.doi.org/10.11646/zootaxa.3838.1.1">Albuquerque, F.P. de, Manfio, D. &amp; Ribeiro-Costa, C.S. (2014) A contribution to the knowledge of New World Bruchinae(Coleoptera, Chrysomelidae): taxonomic revision of Ctenocolum Kingsolver &amp; Whitehead, with description of five new species. Zootaxa 3838(1): 1-45.</citation>
+                <citation identifier="https://doi.org/10.9734/AJEA/2015/17428">Alemayehu, M. &amp; Degaga, E. (2015) Callosobruchus chinensis (L.) (Coleoptera: Bruchidae) Management on Stored Chickpea Using Botanicals in Amhara Region, Ethiopia. American Journal of Experimental Agriculture 8, 167–177.</citation>
+                <citation identifier="https://doi.org/10.15446/caldasia.v42n2.80061">Amarillo-Suárez, A. R. &amp; Camacho-Erazo, M. (2020). First record of the seed beetle Merobruchus paquetae (Chrysomelidae, Bruchinae) in the exotic tree Leucaena leucocephala. Caldasia, 42(2), 336–338.</citation>
+                <citation identifier="https://doi.org/10.1073/pnas.1323269111">Archibald, S.B., Morse, G., Greenwood, D.R. &amp; Mathewes, Rolf.W. (2014) Fossil palm beetles refine upland winter temperatures in the Early Eocene Climatic Optimum. PNAS BIOLOGICAL SCIENCES 111.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33292651">Baudi di Selve, F. (1887) Mylabridum seuBruchidum (Lin. Schön. All.) europeae et finitimarum regionum Faunae recensitio. Deutsche entomologische Zeitschrift Berlin, Nicolai’sche Verlags-Buchandlung.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12056431">Berthold, A.A. (1827) Latreille’s Naturliche Familien des Thierreichs. 606 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185, 1–1492.</citation>
+                <citation identifier="http://www.cassidae.uni.wroc.pl/Genrea%20of%20seed-beetles.pdf">Borowiec, L. (1987) The genera of the seed-beetles (Coleoptera, Bruchidae). Polskie Pismo Entomologiczne 57, 3–207.</citation>
+                <citation identifier="https://doi.org/10.5380/revsbau.v7i4.66539">Boscardin, J., Costa, E., Garlet, J. &amp; Murari, A. (2019) Danos de Pygiopachymerus lineola (Chevrolat, 1871)(Coleoptera: Chrysomelidae: Bruchinae) em sementes de Chuva-de-ouro (Cassia fistula L.). Revista da Sociedade Brasileira de Arborização Urbana 7, 9.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/54.2.291">Bottimer, L.J. (1961) New United States Records in Bruchidae, with notes on Host Plant and Rearing Procedures (Coleoptera). Annals of the Entomological Society of America 54, 291–298.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88, 1–972.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50930862">Bradley, J.C. (1946) Contributions to our knowledge of the Mylabridae, seu Bruchidae (Coleoptera) with especial reference to the fauna of Northeastern America. Psyche 53, 33–42.</citation>
+                <citation identifier="https://biostor.org/reference/59290">Bridwell, J.C. (1929) A preliminary generic arrangement of the palm bruchids and allies with descriptions of new species. Proceedings of the Entomological Society of Washington 31, 141–160.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16145019">Bridwell, J.C. (1929) The cowpea bruchid under another name—A plea for one kind of entomological specialist. Proceedings of the Entomological Society of Washington. Entomological Society of Washington 31(2): 39-44.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16144336">Bridwell, J.C. (1932) Genera of Bruchidae arranged in the subfamilies, with their genotypes. Proceedings of the Entomological Society of Washington, 34(6): 104-106.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16144332">Bridwell, J.C. (1932) The subfamilies of the Bruchidae (Coleoptera). Proceedings of the Entomological Society of Washington 34, 100–106.</citation>
+                <citation identifier="http://rchn.biologiachile.cl/pdfs/1940/1/Bridwell_1940.pdf">Bridwell, J.C. (1940) Two new American bean bruchids (Coleoptera). Revista Chilena de Historia Natural 44, 249–258.</citation>
+                <citation identifier="https://doi.org/10.46429/jaupr.v27i3.12888">Bridwell, J.C. (1943) A new Amblycerus affecting seeds of Prosopis chilensis in Puerto Rico and Hispaniola. Journal of Agriculture of the University of Puerto Rico 27, 133–135.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/39697838">Bridwell, J.C. (1946) The genera of beetles of the family Bruchidae in America north of Mexico. Journal of the Washington Academy of Sciences 36, 52–57.</citation>
+                <citation identifier="https://doi.org/10.21829/azm.2021.3712355">Camacho-Erazo, M., Robles, J. &amp; Amarillo-Suárez, A. (2021) Antagonistic interaction networks in a native and an exotic legume species in Colombian tropical dry forest. Acta zoológica mexicana, 37, e3712355.</citation>
+                <citation identifier="http://sea-entomologia.org/Publicaciones/PDF/BOLN_49/197205BSEA49BruchidaeassociatedDesmodium.pdf">Chan, A., Nápoles, J.R., Colín, M., Olt, S.D.K., Ramos, R.Y., Sánchez, J.L.C. &amp; Mojica, H.B. (2011) The Bruchidae (Coleoptera) associated to seeds of Desmodium (Leguminosae: Papilionoideae). Boletín de la Sociedad Entomológica Aragonesa 49: 197‒205.</citation>
+                <citation identifier="https://www.researchgate.net/publication/362774619_La_Bruche_de_la_Lentille_Bruchus_signaticornis_en_France_Coleoptera_Chrysomelidae_Bruchinae">Chapelin-Viscardi, J.D., Loiseau, S., Bellifa, M., Riquet, G., Ruck, L., Cordaillat, L. &amp; Rocher, F. (2021) La Bruche de la Lentille Bruchus signaticornis en France (Coleoptera Chrysomelidae Bruchinae).</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12280695">Chevrolat, A. (1871) Description de six coléoptères exotiques éclos a Paris. Annales de la Societé entomologique de Belgique 14, 5–8.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8244864">Chevrolat, A. (1877) Les diagnoses de nouvelles espéces de bruchides. Bulletin des séances. Société entomologique de France., XCVIII.</citation>
+                <citation identifier="http://www.ufrrj.br/institutos/ib/ento/tomo09.pdf">Costa Lima, A. (1955) Insetos do Brasil 9° tomo - Coleópteros 3a parte. Escola Nacional de Agronomia. 289 pp.</citation>
+                <citation identifier="https://doi.org/10.1590/S0101-81752008000400021">da Silva, J. &amp; Ribeiro-Costa, C. (2008) Morfologia comparada do grupo Merobruchus (Coleoptera: Chrysomelidae: Bruchinae): diagnoses e chave. Revista Brasileira de Zoologia 25, 802–826.</citation>
+                <citation>Decelle, J. (1968) Nouveaux genres et especes de Caryedontini (Col. Bruchidae Pachymerinae) d’Afrique et de Madagascar. Bulletin et Annales de la Sociéte Royale d’Entomologique de Belgique 104, 413–426.</citation>
+                <citation>Decelle, J. (1975) Les Bruchides (Coleoptera) des Iles Canaries. Bulletin et Annales de la Sociéte Royale d’Entomologique de Belgique 111, 109–142.</citation>
+                <citation identifier="https://core.ac.uk/download/pdf/231715347.pdf">Delobel, A., Couturier, G., Kahn, F. &amp; Nilsson, J.A. (1995) Trophic relationships between palms and bruchids (Coleoptera: Bruchidae: Pachymerini) in Peruvian Amazonia. AMAZONIANA 13, 209–219.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8996358">des Gozis, M. (1881) Quelques rectifications synonymiques louchant différents genres et espèces de Coléoptères français (1re partie) Bulletin des séances. Annales de la Société entomologique de France, CXIII.</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-70.3.671">Dos Santos, V., Dos Santos, M., Poderoso, J. C., Correia-Oliveira, M. E., Pinheiro, H. S. S., de Fátima Souza dos Santos de Oliveira, M., ... &amp; Ribeiro, G. T. (2016). First Report of Caryedes brasiliensis (Thunberg)(Coleoptera: Chrysomelidae: Bruchinae) Preying on Seeds of Dioclea violacea Mart. ex Benth. (Fabaceae) In Brazil. The Coleopterists Bulletin, 70(3), 671-674.</citation>
+                <citation identifier="http://crisomelidosibericos.com/bibliografia/documentos_pdf/documento71,9.pdf">Echave, P., Trócoli, S. &amp; Bentanachs, J. (2016) Catálogo de los crisomélidos (Coleoptera: Chrysomelidae) del Parc Natural de Sant Llorenç del Munt i l’Obac (Barcelona, España). Heteropterus Revista de Entomología 16, 165–177.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14785094">Erichson, W.F. (1847) Conspectus insectorum coleopterorum quae in Republica Peruana observata sunt. Archiv fur Naturgeschichte 13, 67–185.</citation>
+                <citation identifier="https://doi.org/10.21829/azm.2018.3412149">Escobar, A.A., Romero-Nápoles, J., Equihua-Martínez, A. &amp; Carrillo-Sánchez, J.L. (2018) Brúquidos (Coleoptera: Bruchidae) asociados a semillas de especies del género Mimosa L. (Leguminosae: Mimosoideae). Acta Zoológica Mexicana (nueva serie) 34, 1–17.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25551417">Fabricius, J.C. (1775) Systema entomologiae, sistens insectorum classes, ordines, genera, species, adiectis synonymis, locis, descriptionibus, observationibus. Libraria Kortii, Flensburgi et Lipsiae, 832 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/bibliography/36509">Fabricius, J.C. (1781) Species insectorum, exhibentes eorum differentias specificas, synonyma auctorum, loca natalia, metamorphosin, adjectis observationibus, descriptionibus. impensis C. E. Bohnii, Hamburgi et Kilonii, 566 pp.</citation>
+                <citation identifier="https://www.jstor.org/stable/25076831">Fall, H.C. &amp; Cockerell, T.D. (1907) The Coleoptera of New Mexico. Transactions of the American Entomological Society 33, 145–272.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/38704">Gemminger, M. &amp; Harold, E. von (1873) Catalogus coleopterorum hucusque descriptorum synonymicus et systematicus. Tom. X. Cerambycidae (Lamiini), Bruchidae. Monachii [= München]: G. Beck. 2989–3232 pp.</citation>
+                <citation identifier="https://doi.org/10.1016/j.revpalbo.2022.104630">Giraldo, L.A., Carvalho, M.R., Herrera, F. &amp; Labandeira, C.C. (2022) Ancient trouble in paradise: Seed beetle predation on coconuts from middle–late Paleocene rainforests of Colombia. Review of Palaeobotany and Palynology 300, 104630.</citation>
+                <citation identifier="https://www.researchgate.net/publication/320517193_Primer_registro_y_caracterizacion_del_genero_de_bruquido_Caryedon_Schoenherr_1823_y_de_la_especie_Caryedon_serratus_Olivier_Coleoptera_Bruchidae_para_el_estado_de_Hidalgo_Mexico">Godinez-Cortés, S., Romero-Nápoles, J., Parra Gil, P. &amp; Castellanos, I. (2012) Primer registro y caracterización del género de brúquidos Caryedon Schoenherr 1823, y de la especie Caryedon serratus (Olivier) (Coleoptera: Bruchidae) para el estado de Hidalgo, México. Entomología Mexicana 11.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2823627">Grissell, E.E. (2005) A Review of North American Species of Microdontomerus Crawford (Torymidae: Hymenoptera). Journal of Hymenoptera research 14, 22-65.</citation>
+                <citation identifier="https://doi.org/10.1016/0022-474X(89)90003-9">Haines, C.P. (1989) Observations on Callosobruchus analis (F.) in Indonesia, including a key to storage Callosobruchus spp (Col., Bruchidae). Journal of Stored Products Research 25, 9–16.</citation>
+                <citation identifier="https://faunedefrance.org/bibliotheque/docs/A.HOFFMANN(FdeFr44)col-Bruchides&amp;Antribides.pdf">Hoffmann, A. (1945) Faune de France. Coléopteres Bruchides et Anthribides. FÉDÉRATION FRANÇAISE DES SOCIÉTÉS DE SCIENCES NATURELLES.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7522858">Horn, G.H. (1873) Revision of the Bruchidae of the United States. Transactions of the American Entomological Society 11: 311-342.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7481817">Horn, G.H. (1885) Contributions to the coleopterology of the United States (No. 4.). Transactions of the American Entomological Society and Proceedings of the Entomological Section of the Academy of Natural Sciences 12, 128–162.</citation>
+                <citation identifier="https://www.entomoljournal.com/archives/2018/vol6issue4/PartAF/6-3-348-274.pdf">Hosamani, G., Jagginavar, S.B. &amp; Karabhantanal, S. (2018) Biology of pulse beetle Callosobruchus chinensis on different pulses. Journal of Entomology and Zoology Studies 6(4):1898-1900.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51776091">Hummel, A.D. (1827) Essais entomologiques N° VI.</citation>
+                <citation identifier="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=11524472">IRMNG (2021). Caryedes helvinus (Motschulsky, 1874). Accessed at: https://www.irmng.org/aphia.php?p=taxdetails&amp;id=11524472 on 2022-12-15</citation>
+                <citation identifier="https://acervodigital.ufpr.br/handle/1884/71090">Isaac Reis, J. (2016) Análise filogenética com caracteres morfológicos e evolução da associação com as plantas hospedeiras de Caryedes Hummel, 1827 (Coleoptera, Chrysomelidae, Bruchinae). Dissertação de Mestre. Universidade Federal do Paraná.</citation>
+                <citation identifier="http://copa.acguanacaste.ac.cr:8080/bitstream/handle/11606/1097/THE%20INTERACTION%20OF%20SEED%20PREDATORS%20AND%20SEED%20CHEMISTRY.pdf?isAllowed=y&amp;sequence=1">Janzen, D. (1973) The interaction of seed predators and seed chemistry. Colloques Internationaux du C.N.R.S.</citation>
+                <citation identifier="https://www.jstor.org/stable/2259466">Janzen, D. (1980) Specificity of Seed-Attacking Beetles in a Costa Rican Deciduous Forest. Journal of Ecology 68, 929–952.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/241046">Jekel, H. (1855) Insecta Saundersiana: or, Characters of undescribed insects in the collection of William Wilson Saunders. Coleoptera. 244 pp.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/56.6.860">Johnson, C.D. (1963) A Taxonomic Revision of the Genus Stator (Coleoptera: Bruchidae). Annals of the Entomological Society of America 56(6): 860–865.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999543">Johnson, C.D. (1974) A New Acanthoscelides from Indigofera (Coleoptera: Bruchidae). The Coleopterists Bulletin 27, 169–174.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56113583">Johnson, C.D. (1977) Two new species of Acanthoscelides from North America and new host records from Desmanthus and Hoffmanseggia. (Coleoptera: Bruchidae). Pan-Pacific entomologist 53, 60–73.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999980">Johnson, C.D. (1977) Three New Species of Sennius from Mexico and Central America, with New Host Records for Other Sennius (Coleoptera: Bruchidae). The Coleopterists Bulletin 31(2): 117-131.</citation>
+                <citation>Johnson, C.D. (1983) Ecosystematics of Acanthoscelides (Coleoptera: Bruchidae) of Southern Mexico and Central America. Miscellaneous Publications of the Entomological Society of America 56, 1–370.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/58372487">Johnson, C.D. (1989) Adaptive radiation of Acanthoscelides in seeds: examples of legume-bruchid interactions. In Advances in Legume Biology. Advances in legume biology, 747–779.</citation>
+                <citation identifier="https://www.jstor.org/stable/25078519">Johnson, C.D. (1990) Systematics of the seed beetle genus Acanthoscelides (Bruchidae) of northern South America. Transactions of the American Entomological Society 116(2), 297–618.</citation>
+                <citation identifier="https://www.jstor.org/stable/4008872">Johnson, C.D. (1993) New Synonyms for Acanthoscelides aurulentus and A. phalaropus (Coleoptera: Bruchidae). The Coleopterists Bulletin 47, 207–208.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009376">Johnson, C.D. (1998) New Host Records, Distribution and Notes on the Behavior of Some Seed Beetles (Coleoptera: Bruchidae). The Coleopterists Bulletin 52, 147–149.</citation>
+                <citation identifier="https://www.jstor.org/stable/25082397">Johnson, C.D. &amp; Kingsolver, J.M. (1971) Descriptions, Life Histories, and Ecology of Two New Species of Bruchidae Infesting Guacima in Mexico. Journal of the Kansas Entomological Society 44, 141–152.</citation>
+                <citation identifier="https://catalog.hathitrust.org/Record/009791082">Johnson, C.D. &amp; Kingsolver, J.M. (1973) A revision of the genus Sennius of North and Central America (Coleoptera, Bruchidae). Technical Bulletin 1462, U.S. Department of Agriculture. 135 pp.</citation>
+                <citation identifier="http://dx.doi.org/10.22004/ag.econ.158108">Johnson, C.D. &amp; Kingsolver, J.M. (1976) Systematics of Stator of North and Central America (Coleoptera : Bruchidae). United States Department of Agriculture, Technical Bulletin 1537. 101 pp.</citation>
+                <citation identifier="https://www.jstor.org/stable/4007959">Johnson, C.D. &amp; Kingsolver, J.M. (1981) Checklist of the Bruchidae (Coleoptera) of Canada, United States, Mexico, Central America, and the West Indies. The Coleopterists Bulletin 35(4): 409-422.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1123.1.4">Johnson, C.D. &amp; Romero-Nápoles, J. (2006) Neobruchidius lovie, new genus and new species from Latin America (Coleoptera: Chrysomelidae: Bruchinae). Zootaxa 1123, 57–68.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009197">Johnson, C.D. &amp; Siemens, D.H. (1997) Distribution, Oviposition Guilds, Behavior and New Host Records from Latin America for Algarobius Bridwell, Scutobruchus Kingsolver and Pseudopachymerina spinipes (Erichson) (Coleoptera: Bruchidae). The Coleopterists Bulletin 51, 37–42.</citation>
+                <citation identifier="https://palms.org/wp-content/uploads/2016/05/vol39n1p25-35.pdf">Johnson, C.D., Zona, S. &amp; Nilsson, J.A. (1995) Bruchid Beetles and Palm Seeds: Recorded Relationship. Journal of International Palm Society 39(1), 25–35.</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-73.2.321">Jorge, I. &amp; Ribeiro-Costa, C. (2019) New Synonymies and Lectotype Designations for the Neotropical Seed Beetle Genus Caryedes Hummel, 1827 (Coleoptera: Chrysomelidae: Bruchinae). The Coleopterists Bulletin 73, 321.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2051&amp;context=insectamundi">Kingsolver, J., Barriga-Tuñón, J., Romero-Nápoles, J. &amp; Thomas, M. (2017) Bruchidae of Chile (Insecta: Coleoptera). Insecta Mundi, 0542: 1-106.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16277550">Kingsolver, J.M. (1969) A new species of neotropical seed weevil affecting pigeon peas, with notes on two closely related species (Coleoptera: Bruchidae: Bruchinae). Proceedings of the Entomological Society of Washington 71, 50–55.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16278163">Kingsolver, J.M. (1970) Synopsis of the genus Pygiopachymerus Pic, with notes on its relationships to other genera. (Coleoptera: Bruchidae: Bruchinae). Proceedings of the Entomological Society of Washington 72: 37–42.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16310702">Kingsolver, J.M. (1975) New synonymies and combinations in North America Bruchidae (Coleoptera). Proceedings of the Entomological Society of Washington 77, 60.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16252894">Kingsolver, J.M. (1976) A New combination in Bruchidae (Coleoptera). Proceedings of the Entomological Society of Washington 78, 403.</citation>
+                <citation identifier="https://www.jstor.org/stable/4000109">Kingsolver, J.M. (1979) New synonymies and combinations in North America Bruchidae (Coleoptera). The Coleopterists Bulletin 33(3): 341-342.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34558022">Kingsolver, J.M. (1980) Eighteen new species of Bruchidae, principally from Costa Rica, with host records and distributional notes (Insecta: Coleóptera). Proceedings of the Biological Society of Washington 93, 229–283.</citation>
+                <citation>Kingsolver, J.M. (1980) The quadridentatus group of Acanthoscelides: descriptions of three new species, notes, synonymies, and a new name (Coleoptera: Bruchidae). Brenesia, the journal of the National Museum of Costa Rica, 281–294.</citation>
+                <citation>Kingsolver, J.M. (1985) The Bruchidae associated with seeds of Parkia (Leguminosae: Mimosoideae) in northern South America, with descriptions of new species in Acanthoscelides and Mimosestes (Coleoptera). Entomography 3, 43-75.</citation>
+                <citation>Kingsolver, J.M. (1986) A taxonomic study of the genus Algarobius (Coleoptera: Bruchidae). Entomography 4, 109–136.</citation>
+                <citation identifier="http://www.insectachile.cl/rchen/pdfs/1990v18/Kingsolver_1990.pdf">Kingsolver, J.M. (1990) Checklist of the chilean Bruchidae with new synonymies and new combinations (Coleóptera). Revista Chilena de Entomología, 18: 49–52.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16198106">Kingsolver, J.M. (1991) A new species of Amblycerus (Coleoptera: Bruchidae) from Central and South America, with notes on its biology. Proceedings of the Entomological Society of Washington 93, 433–436.</citation>
+                <citation identifier="https://www.ars.usda.gov/is/np/Bruchidae/BruchidaeVol1.pdf.">Kingsolver, J.M. (2004) Handbook of the Bruchidae of the United States and Canada.Volume I. Department of Agriculture Agricultural Research, 340 pp.</citation>
+                <citation identifier="https://catalog.hathitrust.org/Record/009780786">Kingsolver, J.M. &amp; Johnson, C.D. (1978) Systematics of the genus Mimosestes (Coleoptera: Bruchidae). Technical Bulletin 1590, U.S. Department of Agriculture. 106 pp.</citation>
+                <citation identifier="https://doi.org/10.37486/0301-8059.v20i2.728">Kingsolver, J.M. &amp; Silva, P. (1991) Update of scientific names of Bruchidae (Coleoptera) listed by Bondar in “Notas Biologicas” (1931 and 1936). Anais da Sociedade Entomologica do Brasil 20, 411–415.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34672980">Kingsolver, J.M. &amp; Whitehead, D.R. (1974) Biosystematics of Central American species of Ctenocolum, a new genus of seed beetles (Coleoptera: Bruchidae). Proceedings of the Biological Society of Washington, 87(27): 283–312.</citation>
+                <citation identifier="https://www.jstor.org/stable/25078162">Kingsolver, J.M. &amp; Whitehead, D.R. (1974) Classification and Comparative Biology of the Seed Beetle Genus Caryedes Hummel (Coleoptera: Bruchidae). Transactions of the American Entomological Society (1890-) 100, 341–436.</citation>
+                <citation identifier="https://books.google.com.ec/books?id=1LYoAAAAYAAJ&amp;printsec=frontcover&amp;hl=es&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Kingsolver, J.M. &amp; Whitehead, D.R. (1976) The North and Central American Species of Meibomeus (Coleoptera: Bruchidae: Bruchinae). Technical Bulletin No 1523. Department of Agriculture, Agricultural Research Service. 54 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille, P.A. (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/898/">Lau, P., Sanz, V. &amp; Romero-Nápoles, J. (2014) A new palm seed host and new distribution record for Caryoborus chiriquensis (Sharp, 1885) (Coleoptera: Bruchidae). Isecta Mundi 0387, 1–5.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16147591">Leng, C.W (1920) Catalogue of the North American Coleoptera described as fossils, by H.F. Wickham. 347-365.</citation>
+                <citation>Lepesme, P. (1943) Un remarquable Cerambycide nouveau de Guyane. Revue Francaise d&apos;Entomologie, 9 1943: pp. 135-137 [i.c. 139-141].</citation>
+                <citation identifier="http://repositorio.bc.ufg.br/tede/handle/tede/3154">Lima, L. (2013) Seleção de recursos por duas espécies de besouros bruquíneos do gênero Gibbobruchusna planta hospedeira Bauhinia curvula Benth. Tesis (Mestría en Ecología y Evolución) - Universidad Federal de Goiás, Goiânia. 56 pp.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.542">Linnaeus, C. (1758) Systema naturae per regna tria naturae :secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Holmiae, Impensis Direct. Laurentii Salvii, 1758-1759.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/726886">Linnaeus, C. (1759) Systema naturae per regna tria naturae: secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Holmiae, Impensis Direct. Laurentii Salvi.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.559">Linnaeus, C. (1767) Systema naturae, per regna tria naturae: secundum classes, ordines, genera, species cum characteribus, differentiis, synonymis, locis. Vindobonae [Vienna], Typis Ioannis Thomae, 1767-1770.</citation>
+                <citation identifier="https://doi.org/10.1590/S0101-81752004000200033">Linzmeier, A.M., Ribeiro-Costa, C. &amp; Caron, E. (2004) Comportamento e ciclo de vida de Sennius bondari (Pic) (Coleoptera, Chrysomelidae, Bruchinae) em Senna macranthera (Collad.) Irwin &amp; Barn. (Caesalpinaceae). Revista Brasileira de Zoologia.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56181006">Locknow, M. &amp; Johnson, C.D. (1987) New host records of Bruchidae (Coleoptera) from Desmanthus (Leguminosae) from Texas and Mexico. Pan-Pacific Entomologist 63, 48—49.</citation>
+                <citation identifier="https://www.redalyc.org/articulo.oa?id=30240410">Lorea Barocio, J.C., Romero Nápoles, J., Valdez, J. &amp; Carrillo, J.L. (2006) Especies y hospederas de los Bruchidae (Insecta: Coleoptera) del Estado de Jalisco, México. Agrociencia 40, 511–520.</citation>
+                <citation identifier="http://www.bio-nica.info/RevNicaEntomo/16-Bruchidae.pdf">Maes, J.M. &amp; Kingsolver, J.M. (1991) Catálogo de los Bruchidae (Coleoptera) de Nicaragua. Revista Nicaraguense de Entomología, 16, 21–34.</citation>
+                <citation identifier="http://hdl.handle.net/1884/38189">Manfio, D. (2015) Análise filogenética e taxonomia de Merobruchus Bridwell, 1946 (Coleoptera, Chrysomelidae, Bruchinae). Tesis. Universidade Federal de Paraná. 119 pp.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4078.1.25">Manfio, D. &amp; Ribeiro-Costa, C. S. (2016) A key to American genus Merobruchus Bridwell (Coleoptera: Chrysomelidae: Bruchinae) with descriptions of species and two new host plant records for the subfamily. Zootaxa 4078(1): 284–319.</citation>
+                <citation identifier="http://doi.org/10.11646/zootaxa.4103.6.2">Manfio, D., Jorge, I., Morse, G. &amp; Ribeiro-Costa, C. (2016) The New World Gibbobruchus Pic (Coleoptera, Chrysomelidae, Bruchinae): description of a new species and phylogenetic insights into the evolution of host associations and biogeography. Zootaxa 4103(6): 513–525.</citation>
+                <citation identifier="https://doi.org/10.1163/1876312X-00002176">Manfio, D., Jorge, I.R., Kergoat, G.J. &amp; Ribeiro-Costa, C.S. (2018) Phylogeny and evolution of the genus Ctenocolum Kingsolver &amp; Whitehead (Coleoptera, Chrysomelidae, Bruchinae), with the description of three new species. Insect Systematics &amp; Evolution 50, 1–35.</citation>
+                <citation identifier="http://dx.doi.org/10.1071/IS11047">Manfio, D., Ribeiro-Costa, C. &amp; Caron, E. (2013) Phylogeny and revision of the New World seed-feeding bruchine genus Gibbobruchus Pic (Coleoptera : Chrysomelidae). Invertebrate Systematics 27, 1–37.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.347.6002">Marsh, P., Wild, A. &amp; Whitfield, J. (2013) The Doryctinae (Braconidae) of Costa Rica: genera and species of the tribe Heterospilini. ZooKeys 347, 1–474.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/39087533">McNamara, J. (1993). A catalog of types of Coleoptera in the Canadian National Collection of Insects Supplement III. Research Branch, Agriculture Canada, 65 pp.</citation>
+                <citation identifier="https://doi.org/10.9790/2380-09120196101">Mofunanya, A. &amp; Namgbe, E. (2016) Assessment of Damage Due to Callosobruchus maculatus (Coleoptera: Bruchidae) Infestation on Germination and Nutrient Quality of Vigna unguiculata L. (Walp). 9, 96–101.</citation>
+                <citation identifier="https://www.degruyter.com/document/doi/10.1515/9783110274462.189/html">Morse, G. (2014) 2.7.1. Bruchinae Latreille, 1802. In: Leschen, R. A. B. and R. G. Beutel. (Eds.). Handbook of Zoology, Arthropoda: Insecta: Coleoptera, Volume 3: Morphology and Systematics (Phytophaga). De Gruyter, Berlin, Germany, pp. 189–198.</citation>
+                <citation identifier="https://doi.org/10.1111/j.0014-3820.2005.tb01782.x">Morse, G.E. &amp; Farrell, B.D. (2005) Ecological and evolutionary diversification of the seed beetle genus Stator (Coleoptera: Chrysomelidae: Bruchinae). Evolution 59, 1315–1333.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34407640">Motschulsky, V.I. (1874) Enumeration des nouvelles espèces de Coléoptères rapportés de ses voyages. Bulletin de la Société Impérial Naturel de Moscou 46, 203–252.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/38912241">Nilsson, J.A. &amp; Johnson, C.D. (1993) A taxonomic revision of the palm bruchids (Pachymerini) and a description of the world genera of Pachymerinae. Memoirs of the American Entomological Society 41: 1-104.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.82248">Olivier, G.A. (1790) Encyclopédie méthodique. Histoire Naturelle; Insectes. A Paris Chez Panckoucke, Imprimeur-Libraire, hôtel de Thou, rue des Poitevins 5.</citation>
+                <citation identifier="https://doi.org/10.22201/ib.20078706e.2021.92.3873">Ordóñez-Reséndiz, M.M. &amp; López-Pérez, S. (2021) Mexican leaf beetles (Coleoptera: Megalopodidae, Orsodacnidae, and Chrysomelidae): new records and checklist. Revista Mexicana de Biodiversidad 92: e923873.</citation>
+                <citation identifier="https://books.google.com.co/books?id=ODrNBQAAQBAJ&amp;printsec=frontcover&amp;hl=es&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Panizzi, A.R. &amp; Parra, J.R. (2012) Insect Bioecology and Nutrition for Integrated Pest Management. CRC Press, 800 pp.</citation>
+                <citation identifier="https://www.redalyc.org/pdf/575/57525802001.pdf">Pérez, A., Romero, J., Carrillo, J.L., García, E. &amp; Grether R. (2013) Brúquidos (Coleoptera: Bruchidae) del estado de Tabasco, México. Acta Zoológica Mexicana (nueva serie) 29(1): 1–95.</citation>
+                <citation>Pic, M. (1902) Coléoptères presumes nouveaux de la Rhodesia. Revista de Entomología 21:4–7.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/60141812">Pic, M. (1911) Coléoptères exotiques nouveaux ou peu connus. L’Échange 27: 132–134.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/60138857">Pic, M. (1912) Renseignements généraux sur les Bruchidae. L’Échange 28: 91–93.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/60138920">Pic, M. (1913) Coléoptéres exotiques en partie nouveaux. L’echange Linnéenne 29 (338): 106–110.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10137333">Pic, M. (1913) Coleopterorum catalogus. Pars 55. Bruchidae. 74 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11530753">Pic, M. (1914) Notizen und Berichtigungen über verschiedene Bruchidae (Col.). Wiener entomologische Zeitung, 33: 205–206.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.52304">Pic, M. (1922) Mélanges exotico-entomologiques. Saint-Amand, Impr. Bussière.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371704">Pic, M. (1922) Noveautés Diverses. Mélanges exotico-entomologiques, 35: 1–32.</citation>
+                <citation identifier="http://hdl.handle.net/10111/UIUCBB:picmau0001melexov00000i00047">Pic, M. (1926) Nouveautés diverses. Mélanges exotico-entomologiques, 47: 1–32.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00053/picmau0001melexov00000i00053.pdf">Pic, M. (1929) Nouveautés diverses. Mélanges exotico-entomologiques, 53: 1-36.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00054/picmau0001melexov00000i00054.pdf">Pic, M. (1929) Nouveautés diverses. Mélanges exotico-entomologiques, 54: 1-36.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00055/picmau0001melexov00000i00055.pdf">Pic, M. (1930) Nouveautés diverses. Mélanges exotico-entomologiques, 55:1-36.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00059/picmau0001melexov00000i00059.pdf">Pic, M. (1932) Nouveautés diverses. Mélanges exotico-entomologiques, 59: 1-36.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00061/picmau0001melexov00000i00061.pdf">Pic, M. (1933) Nouveautés diverses. Mélanges exotico-entomologiques, 61: 1-36.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00063/picmau0001melexov00000i00063.pdf">Pic, M. (1934) Nouveautés diverses. Mélanges exotico-entomologiques, 63: 1-36.</citation>
+                <citation identifier="https://www.biotaxa.org/RSEA/article/view/36836">Pic, M. (1938) Nouveaux coléoptères de la Republique Argentine. Revista de la Sociedad Entomológica Argentina 10(1), 77-79.</citation>
+                <citation>Pic, M. (1938) Nouveautés diverses, mutations. Mélanges exotico-entomologiques 70, 1–38.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54249605">Pic, M. (1942) Opuscula martialis VII. L&apos;Échange, Revue Linnéenne, Numéro Spécial 7: 1–16.</citation>
+                <citation identifier="https://www.linneenne-lyon.org/depot2/15498.pdf">Pic, M. (1952) Coléoptères du globe (suite). L&apos;Échange, Revue Linnéenne 68(528): 5–8.</citation>
+                <citation identifier="https://www.linneenne-lyon.org/depot2/15510.pdf">Pic, M. (1954) Coléoptères du globe. L’Échange, Revue Linnéenne 70, 9–12.</citation>
+                <citation identifier="https://www.linneenne-lyon.org/depot2/15512.pdf">Pic, M. (1954) Coléoptères du globe. L’Échange, Revue Linnéenne 70, 13–16.</citation>
+                <citation identifier="https://www.jstor.org/stable/41413646">Pikart, T., Souza, G., Viana, J., Serrão, J. &amp; Zanuncio, J. (2011) Sennius trinotaticollis (Pic) (Coleoptera: Chrysomelidae: Bruchinae) in Brazil: new distribution and host records. The Coleopterists Bulletin 65(4), 378–380.</citation>
+                <citation identifier="https://www.researchgate.net/publication/334495153_Revisao_das_especies_sul-americanas_de_Meibomeus_Bridwell_1946_Coleoptera_Bruchidae">Pinto Da Silva, J. &amp; Ribeiro-Costa, C. (2001) Revisão das espécies sul-americanas de Meibomeus Bridwell, 1946 (Coleoptera, Bruchidae). Revista Brasileira de Entomologia 45, 305–324.</citation>
+                <citation identifier="http://coleoptera-neotropical.org/BIBLIOTECAJEBT/pdf/bruchidae/SilvaRibeiro-CostaeTeran2005.pdf">Pinto Da Silva, J., Ribeiro-Costa, C. &amp; Terán, A. (2005) Bruchidae (Coleoptera) de la Argentina-Género Meibomeus Bridwell 1946. Miscelánea A Journal of English and American Studies 122: 88-102.</citation>
+                <citation identifier="https://doi.org/10.1017/S0007485300052822">Prevett, P.F. 1966. The identity of the palm kernel borer in Nigeria, with systematic notes on the genus Pachymerus Thunberg (Coleoptera: Bruchidae). Bulletin of Entomological Research 57(1):181-192.</citation>
+                <citation identifier="https://doi.org/10.1016/0022-474X(68)90015-5">Prevett, P.F. 1968. The larva of Pachymerus cardo (Fähr.), the palm kernel borer (Coleoptera: Bruchidae). Journal of Stored Products Research 4, 239–248.</citation>
+                <citation identifier="http://dx.doi.org/10.13140/RG.2.2.25681.94560">Pulgarín Díaz, J. &amp; Quiroz, J. A. (2011) Registro de Stator limbatus (Horn) (Coleoptera: Chrysomelidae: Bruchinae) y un parasitoide asociado al insecto en semillas de Acacia mangium Willd. (Fabaceae). Resumen, XXXVIII Congreso Colombiano de Entomología.</citation>
+                <citation identifier="http://colposdigital.colpos.mx:8080/xmlui/bitstream/handle/10521/1886/Ramirez_Serrano_A_DC_Entomologia_Acarologia_2013.pdf?sequence=1">Ramírez, A. (2013) Estudio faunístico de Brúquidos (Coleoptera: Bruchidae) en el Estado de México. Tesis Doctoral. Colegio de Postgraduados. Texcoco, Mexico. 129 pp.</citation>
+                <citation identifier="https://imedea.uib-csic.es/icg/ecol_terr/all%20pdfs/2010_Ramirez_Traveset_PPES_Predispersal_seed_predation_in_Venezuelan_Central_Plain.pdf">Ramírez, N. &amp; Traveset, A. (2010) Predispersal seed-predation by insects in the Venezuelan Central Plain: Overall patterns and traits that influence its biology and taxonomic groups. Perspectives in Plant Ecology, Evolution and Systematics, 12, 193–209.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3599.6.3">Reid, C. &amp; Beatson, M. (2013) A new genus and species of Bruchinae, with a key to the genera from Australia (Coleoptera: Chrysomelidae). Zootaxa, 3599(6): 535–548.</citation>
+                <citation identifier="http://dx.doi.org/10.13140/RG.2.2.23928.72968">Rendón-Ramírez, A. &amp; Quiroz, J.A. (2022) Listado de la subfamilia Bruchinae Latreille, 1802 (Coleoptera: Chrysomelidae) del Museo Entomológico Francisco Luis Gallego- MEFLG. Boletín Museo Entomológico Francisco Luis Gallego 14, 10–19.</citation>
+                <citation identifier="http://dx.doi.org/10.56222/28166531.2023.11">Rendón-Ramírez, A. &amp; Quiroz, J.A. (2023) Stator generalis Johnson &amp; Kingsolver, 1976 (Chrysomelidae: Bruchinae: Bruchini) recorded from Colombia. Specimen.</citation>
+                <citation identifier="https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-34532009000300031">Reyes, E., Canto, A. &amp; Rodríguez, R. (2009) Megacerus species (Coleoptera: Bruchidae) and their host plants in Yucatán. Revista Mexicana de Biodiversidad 80, 875–878.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009324">Ribeiro-Costa, C. (1998) Observations on the biology of Amblycerus submaculatus (Pic) and Sennius bondari (Pic)(Coleoptera: Bruchidae) in Senna alata (L.) Roxburgh (Caesalpinaceae). The Coleopterists Bulletin 52(1): 63-69.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1446&amp;context=insectamundi">Ribeiro-Costa, C.S. &amp; Kingsolver, J.M. (1992) A new species of Amblycerus Thunberg, 1815 (Coleoptera: Bruchidae) and a lectotype designation. Insecta Mundi, 6 (3), 183–187.</citation>
+                <citation identifier="https://doi.org/10.1649/562">Ribeiro-Costa, C. &amp; Pinto Da Silva, J. (2003) Morphology of adult Meibomeus cyanipennis (Sharp) (Coleoptera: Bruchidae). The Coleopterists Bulletin, 57(3): 297-309.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.2535.1.1">Ribeiro-Costa, C., Massutti, L., Caron, E., Corrêa, G., Linzmeier, A. &amp; dos Santos, P. (2010) Catalog Of The Types Of Some Families Of Coleoptera (Insecta) Deposited At Coleção De Entomologia Pe. J. S. Moure, Curitiba, Brazil. Zootaxa 2535, 1–34.</citation>
+                <citation identifier="https://doi.org/10.1653/024.097.0313">Ribeiro-Costa, C., Manfio, D. &amp; Lima, L. (2014) A New Species of Gibbobruchus from Brazil, with New Host Plant and Distribution Records for the Genus (Coleoptera: Chrysomelidae: Bruchinae). Florida Entomologist 97, 1085–1092.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4388.4.3">Ribeiro-Costa, C.S., Manfio, D. &amp; Morse, G. (2018) Catalog for the Brazilian Amblycerus Thunberg (Coleoptera: Chrysomelidae: Bruchinae) with taxonomic notes, host plants associations and distributional records. Zootaxa 4388, 499–525.</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-72.3.531">Romero-Nápoles, J. (2018) A New Species of the Seed Beetle Genus Megacerus Fåhraeus, 1839 (Coleoptera: Bruchidae) and Redescription of Megacerus centralis (Pic), with a Key to the Mexican Species and New Host and Distribution Records. The Coleopterists Bulletin 72(3), 531–540.</citation>
+                <citation identifier="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0065-17372002000200001&amp;lng=es&amp;tlng=en">Romero Nápoles, J., Ayers, T., J. &amp; Johnson, C.D. (2002) Cladistics, bruchids and host plants: evolutionary interactions in Amblycerus (Coleoptera: Bruchidae). Acta zoológica mexicana, 86: 1–16.</citation>
+                <citation identifier="https://dialnet.unirioja.es/servlet/articulo?codigo=4589616">Romero Nápoles, J. &amp; Marin, A. (2013) Bruchids (Coleoptera, Bruchidae) associated with seeds of Pachyrhizus erosus (L.) Urban (Fabaceae). Boletín Asociación Española de Entomología 37, 159–171.</citation>
+                <citation identifier="https://www.entomologica.es/publicaciones-boletin/art1798">Romero-Nápoles, J., Yus-Ramos, R. &amp; Gavira-Romero, O. (2020). Lista comentada de los brúquidos (Coleoptera, Bruchidae) de Bolivia. Distribución, plantas hospedadoras y nuevos registros de otros países. Boletín de la Asociación española de Entomología 44 (1-2): 1-56.</citation>
+                <citation identifier="https://doi.org/10.21829/azm.2014.301125">Romero, G., Romero-Nápoles, J., Burgos, A., Carrillo , J. L., Bravo , H., &amp; Ramírez , S. (2014). Brúquidos (Coleoptera: Bruchidae) del estado de Morelos, México. Acta zoológica Mexicana (N.S.), 30(1), 1–17.</citation>
+                <citation>Romero, J., Johnson, C.D. &amp; Kingsolver, J.M. (1996) Revision of the genus Amblycerus of the United States and Mexico. (Coleoptera: Bruchidae: Amblycerinae). U.S. Department of Agriculture, Technical Bulletin, 1845: 1-166.</citation>
+                <citation identifier="https://www.jstor.org/stable/25078712">Romero, J. &amp; Johnson, C.D. (2000) Revision of the Genus Zabrotes Horn of Mexico (Coleoptera: Bruchidae: Amblycerinae). Transactions of the American Entomological Society 126, 221–274.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009848">Romero, J. &amp; Johnson, C.D. (2004) Checklist of the Bruchidae (Insecta: Coleoptera) of Mexico. The Coleopterists Bulletin 58(4): 613-635.</citation>
+                <citation identifier="https://doi.org/10.1177/1179543318790260">Sanon, A., Zakaria, I., Clémentine L., Niango, B.M. &amp; Honora, N.C. (2018) Potential of Botanicals to Control Callosobruchus maculatus (Col.: Chrysomelidae, Bruchinae), a Major Pest of Stored Cowpeas in Burkina Faso: A Review. International Journal of Insect Science 10, 1179543318790260.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4701.2.1">Santos, A.T.D. &amp; Ribeiro-Costa, C.S. (2019) Rearrangements in some species groups of Amblycerus Thunberg, 1815 (Coleoptera: Chrysomelidae: Bruchinae) including keys, description of a new species, new host plant and distributional records. Zootaxa 4701, 101–148.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24631406">Say, T. (1831) Descriptions of north American curculionides &amp; an arrangement of some of our known species agreeably to the method of Schoenherr. New Harmony, Indiana, 1–30 pp.</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=mdp.39015031364543&amp;view=1up&amp;seq=407&amp;skin=2021">Schaeffer, C.F.A. (1907) New Bruchidae with Notes on Known Species and List of Species known to occur at Brownsville, Texas, and. in the Huachuca Mts., Arizona. Science Bulletin, Museum of the Brooklyn Institute of Arts and Sciences 1, 291–306.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/49126563">Schilsky, F.J. (1905) Die Käfer Europa’s. Nach der Natur beschrieben. Einundvierzigstes Heft. Nürnberg: Bauer &amp; Raspe.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.1177.101621">Schmitt, M. , Neumann, A. , Lin, S-W. (2023) Anatomy of male and female genitalia of Acanthoscelides obtectus (Say, 1831) (Coleoptera, Chrysomelidae, Bruchinae) in interaction. In: Chaboo CS, Schmitt M (Eds) Research on Chrysomelidae 9. ZooKeys 1177, 75–85.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13257284">Schönherr, C.J. (1823) Curculionides [Tabula synoptica familiae Curculionidum]. Isis von Oken 1823, 1132–1146.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4110949">Schoenherr, C.J. (1833) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quartus, pars prima. Roret, Paris, 1124 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/44312">Schoenherr, C.J. (1839) Genera et species curculionidum, cum synonymia hujus familiæ. Tomus Quintus. Roret, Paris. 996 pp.</citation>
+                <citation identifier="https://cgspace.cgiar.org/bitstream/handle/10568/69880/9073.pdf?sequence=1&amp;isAllowed=y">Schoonhoven, A. Van (1976) Pests of stored beans and their economic importance in Latin America. Symposium on Tropical Stored Product Entomology, 15th International Congress of Entomology, Washington DC, USA. 26 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51438050">Scopoli, J.A. (1763) Entomologia Carniolica exhibens insecta Carnioliae indegena et distributa in ordines, genera, species, varietates, methodo Linneana. Vindobonae, Trattner, 1763.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/584438">Sharp, D. (1885) Bruchidae. In: Biología Centrali-Americana. Coleoptera, 5. R. H. Porter, London. pp. 437–504.</citation>
+                <citation identifier="https://doi.org/10.1590/S0101-81752008000400021">Silva, J. &amp; Ribeiro-Costa, C. (2008) Morfologia comparada do grupo Merobruchus (Coleoptera: Chrysomelidae: Bruchinae): diagnoses e chave. Revista Brasileira de Zoologia 25, 802–826.</citation>
+                <citation identifier="https://doi.org/10.1017/S0007485300053864">Southgate, B.J. (1958) Systematic Notes on Species of Callosobruchus of Economic Importance. Bulletin of Entomological Research 49 (3): 591-599.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7082045">Suffrian, E. (1870) Verzeichniss der von Dr. Gundlach auf der Insel Cuba gesammelten Riisselkafer. Archiv für Naturgeschichte 36(1): 150-170.</citation>
+                <citation>Terán, A. &amp; Kingsolver, J.M. (1977) Revision of the genus Megacerus (Coleoptera: Bruchidae). Opera Lilloana 25: 1-287.</citation>
+                <citation>Terán, A. &amp; Kingsolver, J.M. (1992) Algunas novedades del género Megacerus (Coleoptera: Bruchidae). Acta Zoologica Lilloana 42(1): 19-27.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/26737363">Thunberg, C.P. (1815) De Coleopteris rostratis commentatio. Nova Acta Regiae Societatis Scientiarum Upsaliensis, 7: 104–125.</citation>
+                <citation identifier="https://doi.org/10.26015/adwdocs-242">Thunberg, C.P. (1805) Four new genera, in German (no title). Göttingische gelehrte Anzeigen 29, 281–282.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/26737363">Thunberg, C.P. (1815) De Coleopteris rostratis commentatio. Nova Acta Regiae Societatis Scientiarum Upsaliensis, 7: 104–125.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34499151">Thunberg, C.P. (1816) Fyra nya arter af Bruchus slagtet. Kongliga Svenska Vetenskapsakademien, Handlingar 37:43-47.</citation>
+                <citation identifier="https://repository.agrosavia.co/handle/20.500.12324/13128">Trochez, A. (1987) Manual de reconocimiento de insectos asociados en productos almacenados. Instituto Interamericano de Cooperación para la Agricultura -IICA.</citation>
+                <citation identifier="https://doi.org/10.1303/aez.2003.197">Tuda, M. &amp; Morimoto, K. (2003) A new species of Callosobruchus (Coleoptera: Bruchidae) feeding on seeds of Dunbaria (Fabaceae), a closely related species to a stored-bean pest, C. chinensis. Applied Entomology and Zoology 38.</citation>
+                <citation identifier="https://doi.org/10.1016/j.jspr.2003.09.003">Tuda, M., Chou, L.-Y., Niyomdham, C., Buranapanichpan, S. &amp; Tateishi, Y. (2005) Ecological factors associated with pest status in Callosobruchus (Coleoptera: Bruchidae): high host specificity of non-pests to Cajaninae (Fabaceae). Journal of Stored Products Research 41, 31–45.</citation>
+                <citation>Udayagiri, S. &amp; Wadhi, S.R. (1989) Catalog of Bruchidae. Memoirs of the American Entomological Institute, Number 45. 301 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/48287929">Vazirani, T.G. (1975) A Contribution To the Knowledge of Oriental Bruchidae. The journal of the Bombay Natural History Society 72, 740–757.</citation>
+                <citation identifier="https://revistas.unal.edu.co/index.php/refame/article/view/30019/30222">Vélez, R. (1972) Tres plagas insectiles recientemente detectadas en Antioquia. Revista Facultad Nacional de Agronomía Medellín 37(2) 71–74.</citation>
+                <citation identifier="https://doi.org/10.21930/agrosavia.manual.7404944">Vergara-Navarro, E.V., Montenegro-Silva, L.M. &amp; Serna, F. (2021) Catálogo de Coleoptera de la Colección Taxonómica Nacional de Insectos: “Luis María Murillo” (CTNI). Editorial AGROSAVIA. 296 pp.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4175.3.4">Viana, J. (2016) Nomenclatural changes and lectotype designations in the seed-beetle genus Sennius Bridwell: with the synonymization of Megasennius Whitehead &amp; Kingsolver (Coleoptera: Chrysomelidae: Bruchinae). Zootaxa 4175(3): 249–260.</citation>
+                <citation identifier="https://doi.org/10.1080/00222933.2013.791882">Viana, J. &amp; Ribeiro-Costa, C. (2013) Bruchines (Coleoptera: Chrysomelidae) associated with Senna neglecta (Vogel) H.S. Irwin and Barneby (Fabaceae: Caesalpinioideae): a new host plant for the subfamily. Journal of Natural History 48(1-2): 57-85.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3736.5.5">Viana, J. &amp; Ribeiro-Costa, C. (2013) Review of the largest species group of the New World seed beetle genus Sennius Bridwell (Coleoptera: Chrysomelidae), with host plant associations. Zootaxa 3736, 501–535.</citation>
+                <citation identifier="http://crisomelidosibericos.com/bibliografia/documentos_pdf/documento70,3.pdf">Viñolas, A., Muñoz-Batet, J., Bentanachs, J. &amp; Masó, G. (2014) Catálogo de los coleópteros del Parque Natural del Cadí-Moixeró, Cataluña, Península Ibérica. Asociación Europea de Coleopterología.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2317967">Walker, F. (1859) Characters of some apparently undescribed Ceylon insects. Annals and Magazine of Natural History 3, 258–265.</citation>
+                <citation identifier="https://doi.org/10.1016/S2095-3119(20)63237-3">Wang, H., Bai, P., Zhang, J., Zhang, X., Hui, Q., Zheng, H. &amp; Zhang, X. (2020) Attraction of bruchid beetles Callosobruchus chinensis (L.) (Coleoptera: Bruchidae) to host plant volatiles. Journal of Integrative Agriculture 19, 3035–3044.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51238244">Whitehead, D.R. (1976) Classification and evolution of Rhinochenus Lucas (Coleoptera: Curculionidae: Cryptorhynchinae), and Quaternary middle American zoogeography. Quaestiones entomologicae 12(2): 118-201.</citation>
+                <citation identifier="https://www.jstor.org/stable/25078172">Whitehead, D.R. &amp; Kingsolver, J.M. (1975) Biosystematics of the North and Central American Species of Gibbobruchus (Coleoptera: Bruchidae: Bruchinae). Transactions of the American Entomological Society 101, 167–225.</citation>
+                <citation identifier="https://www.researchgate.net/publication/28162441_Las_especies_de_Bruquidos_gorgojos_de_las_leguminosas_de_interes_agricola_y_fitosanitario_Col_Bruchidae">Yus Ramos, R. (1976) Las especies de Brúquidos (gorgojos de las leguminosas) de interés agrícolay fitosanitario (Col. Bruchidae). Bol. Ser. Plagas 2, 1–35.</citation>
+                <citation>Yus Ramos, R. (1978) Contribución al conocimiento de  los brúquido (Col. Bruchidae) del Mediterráneo Occidental. Notas taxonómicas sobre el género Bruchus. Cátedra de Zoología. Facultad de Ciencias. Universidad de Granada, España VIII, 315–320.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1439-0418.1952.tb00679.x">Zacher, F. (1952) Die Nährpflanzen der Samenkäfer. Zeitschrift für Angewandte Entomologie 33, 460–480.</citation>
+                <citation identifier="https://doi.org/10.3161/00034541ANZ2019.69.3.011">Zaldívar-Riverón, A., Jasso-Martínez, J.M., Delgado-Machuca, N., Sarmiento, C.E., González-Joya, A. &amp; del Bianco Faria, L. (2019) Taxonomic Revision of the New World Genus Stenocorse Marsh (Hymenoptera: Braconidae: Doryctinae). Annales Zoologici, 69(3) : 617-639.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-coleocol.png</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/dc02e848-9e1f-4dd0-8078-2eb60620d39b</collectionIdentifier>
+                <collectionName>American Museum of Natural History - AMNH</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/ad7d1a18-2ef8-4b2c-a302-5888fe9a2e1a</collectionIdentifier>
+                <collectionName>Academy of Natural Sciences - ANSP</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>Colección personal</collectionIdentifier>
+                <collectionName>C. D. Johnson Collection - CDJ</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/d2a27206-87ab-47ea-b5fc-d2e57054b688</collectionIdentifier>
+                <collectionName>California Academy of Sciences - CASC</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/c146edb6-3a82-473c-b337-4acaa92f9513</collectionIdentifier>
+                <collectionName>Canadian Museum of Nature  - CMN - [H.F. Howden Collection]</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/1fac7789-ea84-4bd6-870d-8b20a7e55263</collectionIdentifier>
+                <collectionName>Canadian National Collection Insects - CNCI</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/c529f324-701e-45e4-82b7-10587cdb56e8</collectionIdentifier>
+                <collectionName>Carnegie Museum of Natural History - CM</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/collection/7d68f9cf-2e22-4ee1-aa80-0da987c6652d</collectionIdentifier>
+                <collectionName>Department of Zoology of Universidade Federal do Paraná - DZUP</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/e71f36f1-e271-4720-a604-3c5a1418e7aa</collectionIdentifier>
+                <collectionName>Field Museum of Natural History - FMNH</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/c45874ed-f730-46de-bc3e-ccebbff2ae88</collectionIdentifier>
+                <collectionName>Florida State Collection of Arthropods - FSCA</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/1cfca87c-083e-4d67-8e60-cb7d311f6058</collectionIdentifier>
+                <collectionName>Harvard University, Museum of Comparative Zoology - MCZ</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>Colección personal</collectionIdentifier>
+                <collectionName>H.P. Stockwell, Gorgas Hospital, Panamá - HPSt</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/1cfca87c-083e-4d67-8e60-cb7d311f6058</collectionIdentifier>
+                <collectionName>Harvard University, Museum of Comparative Zoology - MCZ</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/0730369e-c857-434b-bc20-2d7712c6ff6d</collectionIdentifier>
+                <collectionName>Instituto Nacional de Pesquisas da Amazônia - INPA</collectionName>
+              </collection>
+              <collection>
+                <collectionName>Museum G. Frey, Tutzing, Alemania, Múnich - MGFT</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/6a6ac6c5-1b8a-48db-91a2-f8661274ff80</collectionIdentifier>
+                <collectionName>MNHN - Museum national d&apos;Histoire naturelle - MNHN</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/1b86516d-b666-46fb-99f1-d252f8dd226e</collectionIdentifier>
+                <collectionName>Museo del Instituto de Zoologia Agricola Francisco Fernandez Yepez - MIZA</collectionName>
+              </collection>
+              <collection>
+                <collectionName>Museo Entomológico Francisco Luis Gallego - MEFLG</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/8a981d62-d4be-4523-a401-906f3fe9c371</collectionIdentifier>
+                <collectionName>Museu Nacional/Universidade Federal do Rio de Janeiro - MNRJ</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/d742cdc8-729f-4a22-8f2c-84c4bd9dc11b</collectionIdentifier>
+                <collectionName>Museum für Naturkunde Berlin (Zoological Collections) - ZMHB</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/09917453-7273-4fcc-9dfb-78a7f466341e</collectionIdentifier>
+                <collectionName>Office de la Recherche scientifique et Technique Outre-mer - ORST</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/571a17f5-b06d-4fc8-8c74-a18ff480b304</collectionIdentifier>
+                <collectionName>Sao Paulo, Museu de Zoologia da Universidade de Sao Paulo - MZSP</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/586ee56e-b0fe-4dff-b7f9-aeb104f3308a</collectionIdentifier>
+                <collectionName>Smithsonian Institution, National Museum of Natural History - USNM</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/5ed4ae5a-4638-4c61-8af1-b476f64bc0a2</collectionIdentifier>
+                <collectionName>Swedish Museum of Natural History (NRM)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                <collectionName>The Natural History Museum (NHMUK)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/d6d63bfa-92a0-47ed-a31d-b4d9f2981384</collectionIdentifier>
+                <collectionName>Universidad Central de Venezuela - UCV</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>UZMC</collectionIdentifier>
+                <collectionName>University of Copenhagen, Zoological Museum</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/6bec5d89-9455-452c-8668-9ebbe2b32242</collectionIdentifier>
+                <collectionName>Uppsala University, Zoological Museum - UUZM</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/943cd489-37ec-481f-9e53-2e3f7f99a972</collectionIdentifier>
+                <collectionName>Zoological Museum, Moscow Lomonosov State University - ZMMU</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

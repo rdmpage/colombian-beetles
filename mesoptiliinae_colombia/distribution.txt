@@ -1,0 +1,13 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4239			
+biolib.cz/en/taxon/id244434/			
+biolib.cz/en/taxon/id858135/			
+catalogueoflife.org/data/taxon/8HM9Y		CO	Endémica
+catalogueoflife.org/data/taxon/425MQ	Colombia, sin localidad específica	CO	Endémica
+catalogueoflife.org/data/taxon/425MR	Colombia: Villa Elvira	CO	Endémica
+biolib.cz/en/taxon/id858134/			
+catalogueoflife.org/data/taxon/8HHBB			
+catalogueoflife.org/data/taxon/6NRW9	Colombia, sin localidad específica	CO	
+catalogueoflife.org/data/taxon/6NS7V	Colombia, sin localidad específica	CO	Endémica
+catalogueoflife.org/data/taxon/6NRX6	Colombia, sin localidad específica	CO	Endémica
+catalogueoflife.org/data/taxon/6NRWJ	Colombia, sin localidad específica	CO	Endémica

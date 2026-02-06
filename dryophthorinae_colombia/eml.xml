@@ -1,0 +1,567 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=dryophthorinae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/wtd0tk</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=dryophthorinae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Dryophthorinae (Coleoptera: Curculionidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>Bermúdez-Higinio</surName>
+    </individualName>
+    <organizationName>Universidad Nacional, Sede Medellín</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Florencia</city>
+        <administrativeArea>Caquetá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mbermudezh@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-7008-2281</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>Bermúdez-Higinio</surName>
+    </individualName>
+    <organizationName>Universidad Nacional, Sede Medellín</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Florencia</city>
+        <administrativeArea>Caquetá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mbermudezh@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-7008-2281</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>Bermúdez-Higinio</surName>
+    </individualName>
+    <organizationName>Universidad Nacional, Sede Medellín</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Florencia</city>
+        <administrativeArea>Caquetá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mbermudezh@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-7008-2281</userId>
+    <role>author</role>
+      </associatedParty>
+  <pubDate>
+      2022-06-03
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Dryophthorinae (Coleoptera: Curculionidae) con ocurrencia en el territorio colombiano. Se listan tres tribus, seis subtribus, 18 géneros, ochenta y cinco especies y dos subespecies. Trece especies son consideradas endémicas para Colombia, una de ellas un fósil en resina de copal. Para once de las especies no se conocen localidades específicas al interior del país, mientras que para otras nueve especies los registros de localidad son ambiguos. La información ha sido recopilada a partir de información disponible en la literatura, principalmente del catálogo de los Curculionidae de Suramérica de Wibmer y O&apos;Brien (1986), revisiones taxonómicas y en literatura reciente. Se incluyen las referencias de todas las descripciones originales, revisiones taxonómicas y reportes recientes. Actualmente el conocimiento de la subfamilia Dryophthorinae en Colombia es relativamente escaso. Existe un listado para las especies asociadas a cultivos de banano y plátano en Colombia (Sepúlveda-Cano and Rubio-Gómez 2009), otro con reportes de las especies presentes en los departamentos del Caribe colombiano (De la Pava et al. 2020), y un listado de los especímenes depositados en la colección de Agrosavia (antiguo ICA; Vergara-Navarro et al. 2021). Este recurso incluye todas las especies reportadas para el territorio colombiano en la literatura junto con un listado completo de referencias relevantes, por lo cual servirá de base para avanzar el conocimiento de los Dryophthorinae en Colombia.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Subfamilia</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Cucarrones</keyword>
+            <keyword>Gorgojos</keyword>
+            <keyword>Picudos</keyword>
+            <keyword>Picudos de las palmas</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Este recurso presenta el listado de las especies de la subfamilia Dryophthorinae (Coleoptera: Curculionidae) con ocurrencia en territorio colombiano. Trece especies son consideradas endémicas para Colombia. Existen registros de Dryophthorinae en todos los departamentos de Colombia, excepto Guainía, Vaupés y Vichada. Los departamentos con mayor número de especies registradas son Cundinamarca y Valle del Cauca con 24 cada uno, seguidos por Meta con 15 y Antioquia, Boyacá, Magdalena y Santander, cada uno con 14 especies registradas.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1775-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2022-05-01</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la subfamilia Dryophthorinae (Coleoptera: Curculionoidea) registradas para Colombia. Se listan tres tribus, sis subtribus, 18 géneros, 85 especies y dos subespecies. Trece de las especies colombianas son consideradas endémicas, con cuatro de ellas con localidades ambiguas (no ubicables en un departamento específico). El género con mayor número de especies reportadas para Colombia es Metamasius (27 especies), seguido por Rhodobaenus con 16 y Cactophagus con 14.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Curculionidae</taxonRankValue>
+                  <commonName>Gorgojos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Dryophthorinae</taxonRankValue>
+                  <commonName>Picudos de las palmas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Dryophthorini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Stenommatus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Orthognathini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Orthognathina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Mesocordylus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Rhinostomina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhinostomus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Rhynchophorini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Eucalandra</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Foveolus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Paramasius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhynchodynamis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Litosomina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sitophilus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Toxorhinus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Polytina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Polytus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Rhynchophorina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Dynamis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhynchophorus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Sphenophorina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cactophagus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Cosmopolites</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Metamasius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Rhodobaenus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Scyphophorus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Sphenophorus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>Bermúdez-Higinio</surName>
+    </individualName>
+    <organizationName>Universidad Nacional, Sede Medellín</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Florencia</city>
+        <administrativeArea>Caquetá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mbermudezh@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-7008-2281</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de los Curculionidae de Suramérica de Wibmer y O&apos;Brien (1986). Adicionalmente, fueron consultadas revisiones taxonómicas y trabajos más recientemente publicados para poder incluir localidades específicas y especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogo de los Curculionidae de Suramérica de Wibmer y O&apos;Brien (1986) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y nuevos registros.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Dryophthorinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>La información ha sido recopilada a partir de a literatura, principalmente del catálogo de los Curculionidae de Suramérica de Wibmer y O&apos;Brien (1986) y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, en el catálogo de los Curculionidae de Suramérica de Wibmer y O&apos;Brien (1986), además de trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>María Fernanda</givenName>
+          <surName>Bermúdez-Higinio</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-7008-2281</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-06-02T21:41:24.531+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/wtd0tk">Bermúdez-Higinio M F, Girón Duque J C (2022): Listado de las especies de Dryophthorinae (Coleoptera: Curculionidae) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/wtd0tk</citation>
+          <bibliography>
+                <citation identifier="https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf">Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp. https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4966.5.10">Anderson R (2021) Two new species of Metamasius Horn, 1873 (Coleoptera: Curculionidae: Dryophthorinae) from Ecuador and Colombia. Zootaxa 4966: 596–600. https://doi.org/10.11646/zootaxa.4966.5.10</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.5115.2.5">Anderson R (2022) New species of Rhodobaenus LeConte, 1876 (Coleoptera: Curculionidae: Dryophthorinae) from Central and South America. Zootaxa 5115: 267–273. https://doi.org/10.11646/zootaxa.5115.2.5</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.80.1.1">Anderson RS (2002) The Dryophthoridae of Costa Rica and Panama: Checklist with keys, new synonymy and descriptions of new species of Cactophagus, Mesocordylus, Metamasius and Rhodobaenus (Coleoptera; Curculionoidea). Zootaxa, 80(1), 1–94. https://doi.org/10.11646/zootaxa.80.1.1</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1791.1.3">Anderson RS (2008) A review of the Neotropical genus Eucalandra Faust, 1899 (Coleoptera; Curculionidae: Dryophthorinae). Zootaxa, 1791(1), 57–67. https://doi.org/10.11646/zootaxa.1791.1.3</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8292043">Brême M (1844) Insectes Coléoptères nouveaux ou peu connus. Premiére et deuxiéme décades. Annales de la Société entomologique de France. La Société, Paris, 2:287-313 pp. https://www.biodiversitylibrary.org/page/8292043</citation>
+                <citation identifier="https://doi.org/10.1002/ece3.7131">Chamorro ML, de Medeiros BAS, Farrell BD (2021) First phylogenetic analysis of Dryophthorinae (Coleoptera, Curculionidae) based on structural alignment of ribosomal DNA reveals Cenozoic diversification. Ecology and Evolution, 11(5), 1984–1998. https://doi.org/10.1002/ece3.7131</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/583729">Champion GC (1910) Biologia Centrali-Americana. Insecta. Coleoptera. Rhynchophora. R. H. Porter, London, 4(7): 354 + pl. 15 pp. https://www.biodiversitylibrary.org/page/583729</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8997866">Chevrolat A (1882) Calandrides. Nouveaux genres et nouvelles espèces, observations, synonymies, doubles emplois de noms de genres et d’especes. 1re partie. Annales de La Société Entomologique de France (Sixième Série), 2, 555–582. https://www.biodiversitylibrary.org/page/8997866</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10171536">Chevrolat A (1885) Calandrides. Nouveaux genres et nouvelles espèces, observations, synonymies, doubles emplois de noms de genres et d’espèces, etc. 3e partie. Annales de la Société entomologique de France 6(5): 275–292. https://www.biodiversitylibrary.org/page/10171536</citation>
+                <citation identifier="https://doi.org/10.21930/agrosavia.manual.7404258">Cuellar CM, Gaviria J, Montoya J (2020) Manual de reconocimiento y cría de Dynamis borassi (Coleoptera: Dryophthoridae), una plaga de las palmas en América Latina. Editorial AGROSAVIA, Mosquera (Colombia) 35 pp. https://doi.org/10.21930/agrosavia.manual.7404258</citation>
+                <citation identifier="https://doi.org/10.15446/abc.v25n1.77797">De la Pava N, García MA, Brochero CE, Sepúlveda PA (2020) Registros de Dryophthorinae (Coleoptera: Curculionidae) de la Costa Caribe colombiana. Acta Biológica Colombiana 25: 96–103. https://doi.org/10.15446/abc.v25n1.77797</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7251508">Erichson WF (1847) Conspectus insectorum coleopterorum quae in Republica Peruana observata sunt. Archiv für Naturgeschichte 13: 67–185. https://www.biodiversitylibrary.org/page/7251508</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/82400">Fabricius J (1775) Systema entomologiae, sistens insectorvm classes, ordines, genera, species, adiectis synonymis, locis, descriptionibvs, observationibvs. In Officina Libraria Kortii, 832 pp. https://www.biodiversitylibrary.org/item/82400</citation>
+                <citation identifier="https://www.google.com/books/edition/Systema_Eleutheratorum/-z6AAQAACAAJ?hl=en&amp;gbpv=0">Fabricius JC (1801) Systema Eleutheratorum: secundum ordines, genera, species, adiectis synonymis, locis, observationibus, descriptionibus. Tomus II. In: Bibliopolii Academici Novi, Kiliae, 24 + 506 pp. https://www.google.com/books/edition/Systema_Eleutheratorum/-z6AAQAACAAJ?hl=en&amp;gbpv=0</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/103587">Faust J (1894) Viaggio di Leonardo Fea in Birmania e regioni vicine. LX. Curculionidae. Tipografia del R. Instituto Sordo-Muti, Genova, 222 pp. https://www.biodiversitylibrary.org/item/103587</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33471691">Faust J (1899) Neue Curculioniden Madagaskars. Abhandlungen und berichte des Kdniglichen zoologischen und Anthropologische-Ethnographischen Museums zu Dresden. R. Friedlaender, Berlin, 8(2):222 pp. https://www.biodiversitylibrary.org/page/33471691</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9649110">Gemmiger M, von Harold E (1871) Catalogus coleopterorum hucusque descriptorum synonymicus et systematicus. Curculionidae. Gummi, Monachii, 8: 2181–2668 pp. https://www.biodiversitylibrary.org/page/9649110</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53456289">Germar EF (1824) Insectorum species novae aut minus cognitae, descriptionibus illustratae. Volumen Primum. Coleoptera. J. C. Hendelii et filii, Halae, xxiv +624+2 pl. pp. https://www.biodiversitylibrary.org/page/53456289</citation>
+                <citation identifier="https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia">Girón JC, Cardona-Duque J (2018) Estado del conocimiento de los Curculionidae en Colombia. In: Deloya, C. &amp; Gasca Álvarez, H. J. (Eds). Escarabajos del Neotrópico (Insecta: Coleoptera). S y G editores, Mexico, 167–199. https://www.researchgate.net/publication/330505705_Estado_del_conocimiento_de_los_Curculionidae_Coleoptera_Curculionoidea_en_Colombia</citation>
+                <citation identifier="https://doi.org/10.1002/mmnd.194119410104">Günther K (1941) Ergänzungen und Berichtigungen zu Coleopterorum Catalogus, pars 149: Rhynchophorinae (Curcul.), mit einigen Neubeschreibungen. Berliner Entomologische Zeitschrift, 1941(1–2), 24–53. https://doi.org/10.1002/mmnd.194119410104</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9010918">Heller KM (1906) Neue Rüsselkäfer aus Central- und Südamerika. Entomologische Zeitung 67: 3–50. https://biodiversitylibrary.org/page/9010918</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/263862">Herbst JF (1795) Natursystem aller bekannten in- und ausländischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte. Pauli, Berlin, Der Kiifer. VI. Theil, XXIV+520 pp. https://www.biodiversitylibrary.org/item/263862</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/264023">Herbst JF (1797) Natursystem aller bekannten in- und ausländischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte : der Käfer I.-X. Theil. J. Pauli, Berlin, 7:372 pp. https://www.biodiversitylibrary.org/item/264023</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7046366">Horn GH (1873) Contributions to a knowledge of the Curculionidae of the United States. Proceedings of the American Philosophical Society, Philadelphia, 13: 511 pp. https://www.biodiversitylibrary.org/page/7046366</citation>
+                <citation>Hustache A (1936) Nouveaux Sphénophorides Sud-Américains (Curculionidae). Bulletin et Annales de La Société Royale Belge d’entomologie, 76: 87–114.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Entomologische-Blaetter_34_0231-0243.pdf">Hustache A (1938) Espéces nouvelles de Curculionidae de I’Amerique tropicale. Entomologische Blätter, 34(4): 231–243. https://www.zobodat.at/pdf/Entomologische-Blaetter_34_0231-0243.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/18659254">Jekel H (1858) Spicilegia Entomologica II: Descriptions of new Curculionidous beetles collectedon the voyage of H. M. S. Herald. The Annals and Magazine of Natural History 3: 353-361. https://www.biodiversitylibrary.org/page/18659254</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8343931">Kirsch T (1869) Beiträge zur Käferfauna von Bogotà. (Fünftes Stück: Phanerognathe Curculionen aus der Gruppe der Apostasimeriden). Berliner entomologische Zeitschrift 13: 187–224. https://www.biodiversitylibrary.org/page/8343931</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33470151">Kirsch T (1889) Coleopteren gesammelt in den Jahren 1868-1877 auf einer Reise durch Süd Amerika von Alphons Stübel. Abhandlungen und Berichte des Königl. Zoologischen und Anthropologisch-Etnographischen Museums zu Dresden. 1888–1889: 1-58 + 4pt. https://www.biodiversitylibrary.org/page/33470151</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45990412">Kuschel G (1958) Neotropische Russelkfer aus dem Museum G. Frey (Col. Curcul.). Entomologische Arbeinte Aus Dem Museum G. Frey. Eigenverlag, Münich, 9:750–798 pp. https://www.biodiversitylibrary.org/page/45990412</citation>
+                <citation>Kuschel G (1995) A phylogenetic classification of Curculionoidea to families and subfamilies. Memoirs of the Entomological Society of Washington, 14, 5–33.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9614621">Lacordaire JT (1866) Histoire naturelle des insectes: Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Sptième. Contenant la famille des Curculionides. Librairie encyclopédique de Roret, Paris, 620 pp. https://www.biodiversitylibrary.org/page/9614621</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp. https://biodiversitylibrary.org/page/24884921</citation>
+                <citation identifier="https://www.jstor.org/stable/982412">LeConte JL, Horn GH (1876) The Rhynchophora of America, North of Mexico. Proceedings of the American Philosophical Society 15: vii–442. https://www.jstor.org/stable/982412</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/726886">Linnaeus C (1758) Systema Naturae per Regna Tria Naturae : Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis. Impensis Direct. Laurentii Salvii, Holmiae, 824 pp. https://www.biodiversitylibrary.org/page/726886</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2031794">Linnaeus C (1763) CXXI. Centuria lnsectorum, pp. 384-415. In Amoenitates Academicae: seu dissertationes variae physicae, medicae, botanicae, antehac seorsim editae nunc collectae et auctae cum tabulis aeneis. 6:486 pp. https://www.biodiversitylibrary.org/page/2031794</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51901329">Motschulsky V (1855) Notices. Etudes entomologiques, part 4, pp77-78. Imprimerie de la Société de Litérature Finnoise, Helsingfors, 312 pp.  https://www.biodiversitylibrary.org/page/51901329</citation>
+                <citation identifier="http://ref.scielo.org/c5vpsw">Moya OM, Aldana RC, Bustillo AE (2015) Eficacia de trampas para capturar Rhynchophorus palmarum (Coleoptera: Dryophthoridae) en plantaciones de palma de aceite. Revista Colombiana de Entomologia 41: 18–23. http://ref.scielo.org/c5vpsw</citation>
+                <citation>O’Brien C W, Wibmer G J (1982) Annotated checklist of the weevils (Curculionidae sensu lato) of North America, Central America, and the West Indies (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute, 34, 1–382.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.61905">Olivier GA (1790) Encyclopédie méthodique. Histoire naturelle. Insectes. Chez Panckoucke, Librarie, Paris, 5:793 pp. https://doi.org/10.5962/bhl.title.61905</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40641693">Olivier GA (1807) Entomologie, ou Histoire naturelle des insectes: avec leurs caractères génériques et spécifiques, leur description, leur synonymie, et leur figure enluminée. Coléoptères. Tome Cinquieme. De l’Imprimerie de Baudoin, Paris, 5:612 pp. https://www.biodiversitylibrary.org/page/40641693</citation>
+                <citation identifier="https://publicaciones.fedepalma.org/index.php/palmicultor/article/view/5402">Peña Rojas EA, Jiménez OD (1994) Rhynchophorus y Dynamis. Boletín El Palmicultor, 263: 6. https://publicaciones.fedepalma.org/index.php/palmicultor/article/view/5402</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57932815">Perty M (1832) Insecta Brasiliensia. In: Delectus animalium articulatorum, quae in itinere per Brasiliam, annis MDCCCXVII-MDCCCXX: jussu et auspiciis Maximiliani Josephi I. Impensis Editoris, Monachii, 1–190. https://www.biodiversitylibrary.org/page/57932815</citation>
+                <citation identifier="https://doi.org/10.25100/socolen.v43i1.6654">Poinar G, Bukejs A, Legalov AA (2017) First records of weevils (Coleoptera: Curculionidae) in Quaternary Colombian copal. Revista Colombiana de Entomología 43: 85–90. https://doi.org/10.25100/socolen.v43i1.6654</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/188066">Rafinesque CS (1815) Analyse de la nature ou tableau de I’Univers et des corps organisés. Aux dépens de l’auteur, Palerme. 242 pp. https://www.biodiversitylibrary.org/item/188066</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27509064">Schönherr CJ (1825) Curculionides [Tabula synoptica familiae Curculionidum]. Isis von Oken: 581–588.  https://www.biodiversitylibrary.org/page/27509064</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4108479">Schönherr CJ (1833) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus primus, pars prima. Roret, Paris, 681 pp. https://www.biodiversitylibrary.org/page/4108479</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4110949">Schönherr CJ (1837) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quartus, pars prima. Roret, Paris, 1–600 pp. https://www.biodiversitylibrary.org/page/4110949</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4111774">Schönherr CJ (1838) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus quartus, pars secunda. Roret, Paris, 601–1121 pp. https://www.biodiversitylibrary.org/page/4111774</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4114205">Schönherr CJ (1845) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus octavus, pars secunda. Roret, Paris, 504 pp. https://www.biodiversitylibrary.org/page/4114205</citation>
+                <citation identifier="http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S0120-548X2009000200005&amp;lng=en&amp;nrm=iso&amp;tlng=es">Sepúlveda-Cano PA, Rubio-Gómez JD (2009) Especies de Dryophthorinae (Coleoptera: Curculionidae) asociadas a plátano y banano (Musa spp.) en Colombia. Acta Biológica Colombiana 14: 49–72. http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S0120-548X2009000200005&amp;lng=en&amp;nrm=iso&amp;tlng=es</citation>
+                <citation identifier="https://doi.org/10.1093/molbev/msx324">Shin S, Clarke DJ, Lemmon AR, Moriarty Lemmon E, Aitken AL, Haddad S, Farrell BD, Marvaldi AE, Oberprieler RG, McKenna DD (2018) Phylogenomic data yield new and robust insights into the phylogeny and evolution of weevils. Molecular Biology and Evolution, 35(4), 823–836. https://doi.org/10.1093/molbev/msx324</citation>
+                <citation identifier="https://doi.org/10.11606/1807-0205/2020.60.special-issue.27">Vásquez-Ordóñez AA, Löhr BL, Marvaldi AE (2020) Comparative morphology of the larvae of the palm weevils Dynamis borassi (Fabricius) and Rhynchophorus palmarum (Linnaeus) (Curculionidae: Dryophthorinae): Two major pests of peach palms in the Neotropics. Papéis Avulsos de Zoologia 60: 14. https://doi.org/10.11606/1807-0205/2020.60.special-issue.27</citation>
+                <citation identifier="https://digitallibrary.amnh.org/handle/2246/1981">Vaurie P (1966) A revision of the Neotropical genus Metamasius (Coleoptera, Curculionidae, Rhynchophorinae). Species groups I and II. Bulletin of the American Museum of Natural History 131: 211–338. https://digitallibrary.amnh.org/handle/2246/1981</citation>
+                <citation identifier="https://digitallibrary.amnh.org/handle/2246/1990">Vaurie P (1967) A revision of the Neotropical genus Metamasius (Coleoptera, Curculionidae, Rhynchophorinae). Species group 3. Bulletin of the American Museum of Natural History, 136(4), 177–268. https://digitallibrary.amnh.org/handle/2246/1990</citation>
+                <citation identifier="https://digitallibrary.amnh.org/handle/2246/2520">Vaurie P (1967) The nawradii species group of Rhodobaenus (Coleoptera, Curculionidae, Rhynchophorinae). American Museum Novitates 2310: 1-36. https://digitallibrary.amnh.org/handle/2246/2520</citation>
+                <citation identifier="https://digitallibrary.amnh.org/handle/2246/2548">Vaurie P (1968) A new genus of weevils from South America (Coleoptera, Curculionidae, Rhynchophorinae). American Museum Novitates 2338: 1–14. https://digitallibrary.amnh.org/handle/2246/2548</citation>
+                <citation identifier="https://digitallibrary.amnh.org/handle/2246/2526">Vaurie P (1968) New weevils of the genus Metamasius from Central and South America (Coleoptera, Curculionidae, Rhynchophorinae). American Museum novitates 2316: 1–9. https://digitallibrary.amnh.org/handle/2246/2526</citation>
+                <citation identifier="http://hdl.handle.net/2246/2629">Vaurie P (1970) Weevils of the Tribe Sipalini (Coleoptera, Curculionidae, Rhynchophorinae) Part 1. The Genera Rhinostomus and Yuccaborus. American Museum Novitates 2419: 58. http://hdl.handle.net/2246/2629</citation>
+                <citation identifier="http://hdl.handle.net/2246/2650">Vaurie P (1970) Weevils of the tribe Sipalini (Coleoptera, Curculionidae, Rhynchophorinae) Part 2, The genera Mesocordylus and Orthognathus. 2441: 1–78. http://hdl.handle.net/2246/2650</citation>
+                <citation identifier="https://www.jstor.org/stable/3999585">Vaurie P (1971) Review of Scyphophorus (Curculionidae: Rhynchophorinae). The Coleopterists Bulletin, 25: 1–8. https://www.jstor.org/stable/3999585</citation>
+                <citation identifier=" https://digitallibrary.amnh.org/handle/2246/2970">Vaurie P (1978) Revision of the genus Sphenophorus in South America (Coleoptera, Curculionidae, Rhynchophorinae). American Museum Novitates 2656: 1–30. https://digitallibrary.amnh.org/handle/2246/2970</citation>
+                <citation identifier="https://digitallibrary.amnh.org/handle/2246/569">Vaurie P (1980) Revision of Rhodobaenus. Part 1, Species in South America (Coleoptera, Curculionidae, Rhynchophorinae). Bulletin of the American Museum of Natural History 167: 1–44. https://digitallibrary.amnh.org/handle/2246/569</citation>
+                <citation identifier="https://digitallibrary.amnh.org/handle/2246/570">Vaurie P (1981) Revision of Rhodobaenus. Part 2, Species in North America (Canada to Panama) (Coleoptera, Curculionidae, Rhynchophorinae). Bulletin of the American Museum of Natural History 171: 117–198. https://digitallibrary.amnh.org/handle/2246/570</citation>
+                <citation identifier="https://doi.org/10.21930/agrosavia.manual.7404944">Vergara-Navarro EV, Montenegro-Silva LM, Serna F (2021) Catálogo de Coleoptera de la Colección Taxonómica Nacional de Insectos: “Luis María Murillo” (CTNI). Editorial AGROSAVIA. https://doi.org/10.21930/agrosavia.manual.7404944</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Ent-Mitt-Zool-Mus-Hamburg_1_0055-0084.pdf">Voss E (1953) Neue und bemerkenswerte Curculioniden aus Colombien und Bolivien. (Col. Curc.). Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg 1: 55–84. https://www.zobodat.at/pdf/Ent-Mitt-Zool-Mus-Hamburg_1_0055-0084.pdf</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/10891087">Waterhouse CO (1879) Descriptions of new Coleoptera from Medellin, Colombia, recently added to the British Museum collection. Cistula Entomologica 2: 421–429. https://biodiversitylibrary.org/page/10891087</citation>
+                <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute, 39, 1–563.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14774859">Wollaston TV (1873) On the genera of the Cossonidae. Transactions of the Entomological Society of London 1873: 427–657. https://www.biodiversitylibrary.org/page/14774859</citation>
+                <citation identifier="https://www.publish.csiro.au/book/201">Zimmerman EZ (1993) Australian Weevils (Coleoptera: Curculionoidea) III. Nanophyidae, Rhynchophoridae, Erirhinidae, Curculionidae: Amycterinae, Literature Consulted. CSIRO Publishing, Australia. 854 pp. https://www.publish.csiro.au/book/201</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                <collectionName>ABDL - colección privada de Andris Bukejs, Daugavpils, Latvia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.amnh.org/research/invertebrate-zoology</collectionIdentifier>
+                <collectionName>AMNH - American Museum of Natural History, New York, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2</collectionIdentifier>
+                <collectionName>ASUCOB - Arizona State University Charles W. O&apos;Brien Collection, Tempe, Arizona, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections.html</collectionIdentifier>
+                <collectionName>BMNH - The Natural History Museum, Londres, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.calacademy.org/scientists/entomology-collection</collectionIdentifier>
+                <collectionName>CAS - California Academy of Sciences, San Francisco, California, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://nature.ca/en/research-collections/collections/animals</collectionIdentifier>
+                <collectionName>CMN - Canadian Museum of Nature, Ottawa, Canadá</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.cdfa.ca.gov/plant/ppd/csca.html</collectionIdentifier>
+                <collectionName>CSCA - California State Collection of Arthropods, Sacramento, California, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.senckenberg.de/en/institutes/senckenberg-german-entomological-institute-muencheberg/</collectionIdentifier>
+                <collectionName>DEI - Senckenberg Deutsches Entomologisches Institut, Frankfurt, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://mcz.harvard.edu/entomology</collectionIdentifier>
+                <collectionName>MCZ - Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.zoologie.uni-halle.de/</collectionIdentifier>
+                <collectionName>MLUH - Wissenschaftsbereich Zoologie der Martin-Luther Universität, Halle, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/en/collections/collection-groups/terrestrial-arthropods/coleoptera</collectionIdentifier>
+                <collectionName>MNHN - Muséum national d’Histoire naturelle, París, Francia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nmbs.ch/home/en/museum/sammlungen/biowissenschaftlich/insekten/kaefersammlung-Frey.html</collectionIdentifier>
+                <collectionName>NHMB - Naturhistorisches Museum, Basel, Suiza [Frey Beetle Collection]</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nrm.se/en/forskningochsamlingar/zoologi/samlingar/insekter.9002803.html</collectionIdentifier>
+                <collectionName>NHRS - Swedish Museum of Natural History [Naturhistoriska riksmuseet], Estocolmo, Suecia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.landcareresearch.co.nz/tools-and-resources/collections/new-zealand-arthropod-collection-nzac/</collectionIdentifier>
+                <collectionName>NZAC - New Zealand Arthropod Collection, Auckland, Nueva Zelanda</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://mbd.osu.edu/collections/insects</collectionIdentifier>
+                <collectionName>OSUC - C. A. Triplehorn Insect Collection, Ohio State University, Columbus, Ohio, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://museumdresden.senckenberg.de/en/</collectionIdentifier>
+                <collectionName>SMTD - Staatliches Museum für Tierkunde, Dresden, Alemania</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://naturalhistory.si.edu/research/entomology</collectionIdentifier>
+                <collectionName>USNM - National Museum of Natural History, Washington D.C, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>http://www.evolutionsmuseet.uu.se/samling/collectionseng.html</collectionIdentifier>
+                <collectionName>UUZM - The Museum of Evolution, Uppsala, Suecia</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://hamburg.leibniz-lib.de/en/sammlungen/zoologie/entomologie.html</collectionIdentifier>
+                <collectionName>ZMH - Zoologisches Museum Hamburg, Hamburgo, Alemania</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

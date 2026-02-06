@@ -1,0 +1,8 @@
+id	locality	countryCode	threatStatus
+gbif.org/species/7846		CO	
+ubio.org/browser/details.php?namebankID=1054462		CO	
+gbif.org/species/1033402		CO	
+gbif.org/species/1033409	Colombia: Magdalena: Río Frío	CO	NE
+ubio.org/browser/details.php?namebankID=1054306		CO	
+gbif.org/species/1033431	Colombia: Caldas | Caquetá	CO	NE
+gbif.org/species/9536914	Colombia: Antioquia | Risaralda	CO	NE

@@ -1,0 +1,293 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=brachycerinae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/suwoq6</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=brachycerinae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Brachycerinae (Coleoptera: Curculionidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>author</role>
+      </associatedParty>
+  <pubDate>
+      2024-09-19
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Brachycerinae (Coleoptera: Curculionidae) con ocurrencia conocida para el territorio colombiano. Se listan una tribu, cinco géneros y nueve especies. Sólo una especie es considerada endémica. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>especies</keyword>
+            <keyword>géneros</keyword>
+            <keyword>tribus</keyword>
+            <keyword>taxonomía</keyword>
+            <keyword>biodiversidad</keyword>
+            <keyword>inventario</keyword>
+            <keyword>escarabajos</keyword>
+            <keyword>coleópteros</keyword>
+            <keyword>picudos</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la subfamilia Brachycerinae (Coleoptera: Curculionidae) de los siguientes departamentos de Colombia: Amazonas (tres especies), Atlántico (una especie), Cesar (una especie), Córdoba (una especie), Meta (una especie), Norte de Santander (una especie) y Valle del Cauca (tres especies). Para dos de las especies no se conocen localidades al interior del país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1802-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan una tribu, cinco géneros y nueve especies. Sólo una especie es considerada endémica. El género Lissorhoptrus es el más diverso con cuatro especies, seguido de Neohydronomus con dos especies, mientras que para los géneros Argentinorhynchus, Ochetina y Pistiacola, sólo se conoce una especie en el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Curculionidae</taxonRankValue>
+                  <commonName>Gorgojos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Brachycerinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Erirhinini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Argentinorhynchus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lissorhoptrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neohydronomus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ochetina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pistiacola</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Wibmer &amp; O&apos;Brien (1986). Adicionalmente, fueron consultados trabajos más recientes para cubrir especies no incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogos de Wibmer &amp; O&apos;Brien (1986) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Brachycerinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Brachycerinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo principalmente a partir del catálogo de Wibmer &amp; O&apos;Brien (1986) y trabajos publicados posteriormente.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo Coleoptera de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2024-09-19T15:31:47.599+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/suwoq6">Girón Duque J C (2024): Listado de las especies de Brachycerinae (Coleoptera: Curculionidae) de Colombia. v1.0. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/suwoq6</citation>
+          <bibliography>
+                <citation identifier="https://weevil.myspecies.info/sites/weevil.info/files/Alonso-Zarazaga%20%26%20Lyal,%201999_World%20Catalogue%20%28searchable%29.pdf">Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33665717">Billberg GJ (1820) Enumeratio Insectorum in Museo Gust. Joh. Billberg. Gadel, Stockholm, 138 pp.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/31048012">Brèthes J (1910) Coleópteros argentinos y bolivianos. Anales de la Sociedad Científica Argentina 69: 205–227.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/581872">Champion, G. 1902. Biología Centrali-Americana. Insecta. Coleoptera. Rhynchophora. Curculionidae. Curculioninae. 4(4): 1-144.</citation>
+                <citation>Hustache, A. 1926. Contribution à l&apos;étude des Curculionides de la République Argentine (premiére note). Anales del Museo Nacional de Ciencias Naturales &quot;Bernardino Rivadavia&quot;, 34: 155-261.</citation>
+                <citation>Kuschel, G. 1943. Un &quot;gorgojo acuático del arroz&quot; argentino Lissorhoptus bosqui n. sp. (Col. Curculionidae). Notas del Museo de La Plata. Zoología. 8: 305-315.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/32160088">Kuschel, G. 1952. Revisión de Lissorhoptus LeConte y géneros vecinos de América (Ap. 11 de Coleoptera Curculionidae). Revista Chilena de Entomología, 1[1951]: 23-74.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                <citation identifier="https://www.jstor.org/stable/982412">LeConte JL, Horn GH (1876) The Rhynchophora of America, North of Mexico. Proceedings of the American Philosophical Society 15: vii–442.</citation>
+                <citation identifier="http://www.jstor.org/stable/25078609">O’Brien CW (1996) Two new Lissorhoptrus rice pests in Northern South America, with a review of the species in Colombia and Venezuela (Coleoptera: Curculionidae). Transactions of the American Entomological Society, 122: 115–134.</citation>
+                <citation identifier="https://doi.org/10.1093/aesa/82.3.267">O’Brien CW, Wibmer GJ (1989) Revision of the Neotropical weevil genus Argentinorhynchus Brèthes (Coleoptera: Curculionidae). Annals of the Entomological Society of America, 82(3): 267–278.</citation>
+                <citation identifier="https://www.jstor.org/stable/4008587">O’Brien CW, Wibmer GJ (1989) Revision of the Neotropical genus Neohydronomus Hustache (Coleoptera: Curculionidae). The Coleopterists Bulletin 43: 291–304.</citation>
+                <citation identifier="https://www.sswento.org/_files/ugd/0646ec_b0e6adc9651042cdad847b8b90b9300b.pdf">O’Brien CW, Wibmer GJ (1989) Two new South American species of the weevil genus Argentinorhynchus Brèthes. Southwestern Entomologist 14: 213–223.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24722798">Pascoe FP (1881) XXIX— New Neotropical Curculionidae. Part V. Annals and Magazine of Natural History. Series 5. 7: 299–308.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27509108">Schönherr CJ (1825) Curculionides [Tabula synoptica familiae Curculionidum]. Isis von Oken, 1825: 581–588.</citation>
+                <citation identifier="https://doi.org/10.1093/molbev/msx324 ">Shin S, Clarke DJ, Lemmon AR, Moriarty Lemmon E, Aitken AL, Haddad S, Farrell BD, Marvaldi AE, Oberprieler RG, McKenna DD (2018) Phylogenomic data yield new and robust insights into the phylogeny and evolution of weevils. Molecular Biology and Evolution 35: 823–836.</citation>
+                <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute, 39, 1–563.</citation>
+                <citation identifier="https://www.sswento.org/_files/ugd/0646ec_b0e6adc9651042cdad847b8b90b9300b.pdf">Wibmer GJ, O’Brien CW (1989) Two new Neotropical genera in the weevil tribe Stenopelmini. Southwestern Entomologist 14(4): 395–407.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/8d0f46f7-9df8-495f-b53b-9b5bf767004a</collectionIdentifier>
+                <collectionName>Arizona State University Insect Collection (ASUHIC)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/1f7ecee9-efc2-4b30-8b3d-8b5f3896dd34</collectionIdentifier>
+                <collectionName>Museo Argentino de Ciencias Naturales (MACNCH)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/7a7935f5-1061-42a3-bbb2-867c814a2c04</collectionIdentifier>
+                <collectionName>Museo de La Plata (MLP)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/586ee56e-b0fe-4dff-b7f9-aeb104f3308a</collectionIdentifier>
+                <collectionName>Smithsonian Institution, National Museum of Natural History (USNM)</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

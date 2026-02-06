@@ -1,0 +1,72 @@
+id	isFreshwater	isTerrestrial	habitat
+gbif.org/species/7771	FALSE	TRUE	
+organismnames.com/details.htm?lsid=192246	FALSE	TRUE	
+organismnames.com/details.htm?lsid=192247	FALSE	TRUE	
+gbif.org/species/1047083	FALSE	TRUE	
+organismnames.com/details.htm?lsid=2454008	FALSE	TRUE	Terrestre
+gbif.org/species/1047096	FALSE	TRUE	Terrestre
+gbif.org/species/1047095	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=4938431	FALSE	TRUE	Terrestre
+gbif.org/species/1047084	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=4270291	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327809	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327822	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327845	FALSE	TRUE	Terrestre
+gbif.org/species/1047083-00	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2461316	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327854	FALSE	TRUE	Terrestre
+gbif.org/species/1047097	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327858	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2524355	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327846	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327830	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327848	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2327847	FALSE	TRUE	Terrestre
+gbif.org/species/1047083-01	FALSE	TRUE	Terrestre
+gbif.org/species/1047083-02	FALSE	TRUE	Terrestre
+gbif.org/species/1046876	FALSE	TRUE	
+organismnames.com/details.htm?lsid=1750092	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=5068806	FALSE	TRUE	Terrestre
+gbif.org/species/1047046	FALSE	TRUE	
+organismnames.com/details.htm?lsid=4944208	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2524411	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=4944952	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2524400	FALSE	TRUE	Terrestre
+gbif.org/species/1047046-00	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2524412	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2524424	FALSE	TRUE	Terrestre
+gbif.org/species/1046811	FALSE	TRUE	
+organismnames.com/details.htm?lsid=412971	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=412988	FALSE	TRUE	Terrestre
+gbif.org/species/1047146	FALSE	TRUE	
+gbif.org/species/1047146-00	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2650879	FALSE	TRUE	Terrestre
+gbif.org/species/1047154	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=5148969	FALSE	TRUE	
+gbif.org/species/1047076	FALSE	TRUE	
+gbif.org/species/9377448	FALSE	TRUE	Terrestre
+gbif.org/species/4720588	FALSE	TRUE	
+eol.org/pages/40941633	FALSE	TRUE	Terrestre
+gbif.org/species/1046737	FALSE	TRUE	
+organismnames.com/details.htm?lsid=69454	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=4450483	FALSE	TRUE	
+gbif.org/species/1047020	FALSE	TRUE	
+organismnames.com/details.htm?lsid=5010671	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=4957996	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=5072616	FALSE	TRUE	Terrestre
+gbif.org/species/4736678	FALSE	TRUE	
+organismnames.com/details.htm?lsid=3890733	FALSE	TRUE	Terrestre
+gbif.org/species/1046842	FALSE	TRUE	
+gbif.org/species/1046849	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=2226923	FALSE	TRUE	
+gbif.org/species/1047001	FALSE	TRUE	
+gbif.org/species/1047001-00	FALSE	TRUE	Terrestre
+gbif.org/species/1047001-01	FALSE	TRUE	Terrestre
+gbif.org/species/1047001-02	FALSE	TRUE	Terrestre
+gbif.org/species/1047001-03	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=3463512	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=3463525	FALSE	TRUE	Terrestre
+organismnames.com/details.htm?lsid=1641605	FALSE	TRUE	
+organismnames.com/details.htm?lsid=508654	FALSE	TRUE	
+gbif.org/species/4717370	FALSE	TRUE	
+organismnames.com/details.htm?lsid=2434311	FALSE	TRUE	Terrestre

@@ -1,0 +1,265 @@
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=clambidae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+    <dataset>
+        <alternateIdentifier>10.15472/gest0x</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=clambidae_colombia</alternateIdentifier>
+        <shortName>Clambidae de Colombia</shortName>
+        <title xml:lang="spa">Listado de las especies de Clambidae (Coleoptera: Clamboidea) de Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Carlos Alfredo</givenName>
+                <surName>Taboada-Verona</surName>
+            </individualName>
+            <organizationName>Universidad del Pacífico </organizationName>
+            <positionName>Magister</positionName>
+            <address>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>CO</country>
+            </address>
+            <electronicMailAddress>carlostaboadaverona@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0341-4845</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+        </metadataProvider>
+        <pubDate>
+            2026-01-08
+        </pubDate>
+        <language>spa</language>
+        <abstract>
+            <para>Este recurso presenta el listado de las especies de la familia Clambidae (Coleoptera: Clamboidea) con ocurrencia conocida para el territorio colombiano. Se listan una subfamilia, un género y una especie. La información ha sido recopilada a partir de literatura reclevante. Se incluyen las referencias de las descripciones originales y demás trabajos que tratan el grupo.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Checklist</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Se reportan especies de la familia Clambidae (Coleoptera: Clamboidea) para Colombia, provenientes de un solo registro en Colombia (Magdalena: Río Frío).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+                    <northBoundingCoordinate>12.555</northBoundingCoordinate>
+                    <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>1758-01-01</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>2011-12-12</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Clambidae (Coleoptera: Clamboidea) contiene alrededor de 150 especies descritas en cinco géneros, a nivel mundial (Young 2002). Para Colombia se listan una subfamilia, un género y una especie de la familia Clambidae. Esta familia no ha sido revisada en el país.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>family</taxonRankName>
+                    <taxonRankValue>Clambidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>subfamily</taxonRankName>
+                    <taxonRankValue>Clambinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Clambus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <acknowledgements><para>El equipo de préstamos interbibliotecarios de Texas Tech University facilitó el acceso a&#160;Endrödy-Younga (1981).</para><para>Algunos de los artículos revisados están disponibles a través de Biodiversity Heritage Library (https://www.biodiversitylibrary.org/).</para></acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Carlos Alfredo</givenName>
+                <surName>Taboada-Verona</surName>
+            </individualName>
+            <organizationName>Universidad del Pacífico </organizationName>
+            <address>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>CO</country>
+            </address>
+            <electronicMailAddress>carlostaboadaverona@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0341-4845</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Jennifer C.</givenName>
+                <surName>Girón Duque</surName>
+            </individualName>
+            <organizationName>Coleoptera de Colombia</organizationName>
+            <positionName>Coordinadora</positionName>
+            <address>
+                <city>Lubbock</city>
+                <administrativeArea>Texas</administrativeArea>
+                <country>US</country>
+            </address>
+            <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0851-6883</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El levantamiento de las especies registradas para el país se hizo a partir del estudio de Endrödy-Younga (1981). No se encontraron registros en trabajos publicados más recientemente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La grafía y autoría de cada nombre fue verificada en las descripciones original de Endrödy-Younga (1981).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La distribución de la especie en el país, por departamento, se obtuvo de Endrödy-Younga (1981).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, catálogos y otros trabajos que tratan la familia Clambidae.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El listado compila los nombres de la especie de la familia Clambidae (Coleoptera: Clamboidea) que se ha registrado para el territorio colombiano de acuerdo con la literatura.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se compiló información sobre los nombres, autores y referencias de la especie de la familia Clambidae (Coleoptera: Clamboidea) que se ha registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo de Endrödy-Younga (1981).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El nombre de la especie fue verificado en la descripción original (Endrödy-Younga 1981). Los nombres y autorías de taxones mayores se confirmaron en los catálogos que aquí se mencionan.</para>
+                </description>
+            </qualityControl>
+        </methods>
+        <project>
+            <title>Listado de los coleópteros de Colombia</title>
+            <personnel>
+                <individualName>
+                    <givenName>Carlos Alfredo</givenName>
+                    <surName>Taboada-Verona</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">0000-0002-0341-4845</userId>
+                <role>author</role>
+            </personnel>
+            <abstract>
+                <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+            </abstract>
+            <funding>
+                <para>Recursos propios.</para>
+            </funding>
+            <studyAreaDescription>
+                <descriptor name="generic"
+                            citableClassificationSystem="false">
+                    <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+                </description>
+            </designDescription>
+        </project>
+    </dataset>
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2021-08-11T18:11:45.769+00:00</dateStamp>
+                <hierarchyLevel>dataset</hierarchyLevel>
+                <citation identifier="https://doi.org/10.15472/gest0x">Taboada-Verona C A, Girón Duque J C (2026). Listado de las especies de Clambidae (Coleoptera: Clamboidea) de Colombia. Version 1.0. Coleoptera de Colombia. Checklist dataset. https://doi.org/10.15472/gest0x</citation>
+                <bibliography>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185, 1–1492.</citation>
+                    <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88, 1–972.</citation>
+                    <citation identifier="https://doi.org/10.1127/entom.gen/7/1981/33">Endrödy-Younga, S. (1981). The American species of the familia Clambidae (Coleoptera: Eucinetoidea). Entomologia Generalis 7: 33-67.</citation>
+                    <citation identifier="https://www.google.com/books/edition/Genera_Insectorum_Systematice_Exposita_E/UCDVECX9ScoC?hl=en">Fischer de Waldheim, G. (1821). Genera insectorum systematice exposita et analysi iconographica instructa. Volumen primum. Genera coleopterorum. In: Entomographia Imperii Russici. Volumen I Aug. Semen, Mosquae.: i-xi, 1-104, pl.1.	</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/9623489">Lacordaire, J.T. (1863) Histoire naturelle des insectes: Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome Premier. Librairie encyclopédique de Roret, Paris, 637 pp.</citation>
+                    <citation identifier="https://www.biodiversitylibrary.org/page/726886">Linnaeus, C. von (1758) Systema Naturae per Regna Tria Naturae : Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis. Impensis Direct. Laurentii Salvii, Holmiae, 824 pp.</citation>
+                    <citation>Young, D.K. (2002) Clambidae Jacquelin du Val 1857. En: R. H. Arnett, M. C. Thomas, P. E. Skelley, and J. H. Frank (editores), American Beetles, Volume 2. Polyphaga: Scarabaeoidea through Curculionoidea. CRC Press, Boca Raton, Florida, Estados Unidos de Améric, pp. 85–86.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Página web</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-coleocol.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>USNM</parentCollectionIdentifier>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4</collectionIdentifier>
+                    <collectionName>USNMENT - United States National Museum, Entomology Collections</collectionName>
+                </collection>
+                <specimenPreservationMethod>pinned</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+</eml:eml>

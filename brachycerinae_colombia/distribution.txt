@@ -1,0 +1,18 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4239		CO	
+organismnames.com/details.htm?lsid=5491010		CO	
+organismnames.com/details.htm?lsid=5491168		CO	
+gbif.org/species/1247835		CO	
+gbif.org/species/1247836	Colombia: Amazonas (Leticia)	CO	
+gbif.org/species/1247545		CO	
+gbif.org/species/8768653	Colombia (sin localidad específica)	CO	
+organismnames.com/details.htm?lsid=1214507	Colombia: Cesar (Valledupar); Córdoba (Montería); Valle (Palmira)	CO	
+gbif.org/species/9400074	Colombia: Córdoba (Montería); Meta (Santa Rosa); Norte de Santander (Cúcuta, Zulia)	CO	
+gbif.org/species/9327952	Colombia: Valle (Palmira)	CO	Endémica
+gbif.org/species/1247489		CO	
+organismnames.com/details.htm?lsid=589807	Colombia: Amazonas (Leticia); Atlántico (Barranquila); Río Paila	CO	
+organismnames.com/details.htm?lsid=757187	Colombia: Valle (Cartago)	CO	
+gbif.org/species/1247422		CO	
+organismnames.com/details.htm?lsid=3591762	Colombia (sin localidad específica)	CO	
+gbif.org/species/4747720		CO	
+gbif.org/species/4747720-01	Colombia: Amazonas (Leticia); Río Paila	CO	

@@ -1,0 +1,4 @@
+id	locality	countryCode
+gbif.org/species/4734		CO
+gbif.org/species/1033653	Colombia: Amazonas, Antioquia, Arauca, Boyacá, Casanare, Chocó, Guaviare, Santander, Vichada	CO
+gbif.org/species/9837416	Colombia, sin localidad específica	CO

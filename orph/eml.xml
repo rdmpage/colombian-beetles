@@ -1,0 +1,316 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="eb7eec0b-fb6b-4a2d-b1e6-bf6589778c05/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/0msljd</alternateIdentifier>
+  <alternateIdentifier>eb7eec0b-fb6b-4a2d-b1e6-bf6589778c05</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=orph</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Orphninae (Coleoptera: Scarabaeidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo-Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Julian-Clavijo-Bustos</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Héctor Jaime</givenName>
+      <surName>Gasca Álvarez</surName>
+    </individualName>
+    <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+    <positionName>Profesor asistente</positionName>
+    <address>
+        <city>Tunja</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <onlineUrl>https://www.researchgate.net/profile/Hector-Gasca-Alvarez</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0070-0715</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jhon Cesar</givenName>
+      <surName>Neita Moreno</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <positionName>Curador de la colección de Entomología</positionName>
+    <address>
+        <city>Villa de Leyva</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jneita@humboldt.org.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Jhon-Neita-Moreno</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-2998-2063</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo-Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Julian-Clavijo-Bustos</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </metadataProvider>
+  <pubDate>
+      2021-09-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Orphninae (Coleoptera: Scarabaeidae) registradas para Colombia. Se listan una tribu, dos géneros y 12 especies, de las cuales siete especies son consideradas endémicas. La información ha sido recopilada a partir de registros disponibles en la literatura. Se incluyen las referencias de todas las descripciones originales y de algunos trabajos de revisión taxonómica que involucran las especies registradas en el país. Los especímenes de esta familia son relativamente escasos en colecciones biológicas del país y tienden a ser recolectados mediante métodos asociados a la interceptación del vuelo y atracción a la luz.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Subfamilias</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la subfamilia Orphninae (Coleoptera: Scarabaeoidea: Scarabaeidae) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se reportan especies de los departamentos de Antioquia, Chocó, Cundinamarca, Norte de Santander y Santander. Para algunas especies se desconocen localidades específicas en el país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1802</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la subfamilia Orphninae (Coleoptera: Scarabaeoidea: Scarabaeidae) registradas para Colombia. Se listan una tribu, dos géneros y 12 especies, siete de las cuales son endémicas para el país. Si bien la subfamilia es un grupo relativamente raro y poco estudiado, la mitad de las especies han sido descritas en los últimos 12 años. Nueve de estas epsecies fueron descritas con especímenes de Colombia, sin embargo, tres cuentan con información geográfica de la localidad tipo a nivel de país y una a nivel de departamento.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Orphninae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Aegidiini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Aegidinus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Aegidium</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Julián</givenName>
+      <surName>Clavijo-Bustos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Ibagué</city>
+        <administrativeArea>Tolima</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jclavijob@ut.edu.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Julian-Clavijo-Bustos</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Héctor Jaime</givenName>
+      <surName>Gasca Álvarez</surName>
+    </individualName>
+    <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+    <positionName>Profesor asistente</positionName>
+    <address>
+        <city>Tunja</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <onlineUrl>https://www.researchgate.net/profile/Hector-Gasca-Alvarez</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0070-0715</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Jhon Cesar</givenName>
+      <surName>Neita Moreno</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <positionName>Curador de la colección de Entomología</positionName>
+    <address>
+        <city>Villa de Leyva</city>
+        <administrativeArea>Boyacá</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jneita@humboldt.org.co</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Jhon-Neita-Moreno</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-2998-2063</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Se compiló información sobre los nombres de las especies de la subfamilia Orphninae (Coleoptera: Scarabaeoidea: Scarabaeidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>El listado se obtuvo a partir de Paulian (1984) y se completó con trabajos más recientes como Frolov et al. (2017, 2019), Gasca-Álvarez &amp; Deloya (2020) y Frolov &amp; Akhmetova (2021).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Los nombres fueron verificados en las descripciones originales, así como en publicaciones que aquí se mencionan. Se revisaron además publicaciones recientes para incluir nuevas especies y cambios en la nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Orphninae (Coleoptera: Scarabaeidae) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se registran especies de los departamantos de Antioquia, Chocó, Cundinamarca, Norte de Santander y Santander.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>El listado se obtuvo a partir de Paulian (1984), Frolov et al. (2017, 2019), Gasca-Álvarez &amp; Deloya (2020) y Frolov &amp; Akhmetova (2021).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en publicaciones que aquí se mencionan. Se revisaron además publicaciones recientes para incluir nuevas especies y cambios en la nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Julián</givenName>
+          <surName>Clavijo-Bustos</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-7453-9792</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Héctor Jaime</givenName>
+          <surName>Gasca Álvarez</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0070-0715</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jhon Cesar</givenName>
+          <surName>Neita Moreno</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-2998-2063</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos y colegas especialistas de otros países, al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura. Las especies han sido registradas para Colombia sin localidad específica.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-06-05T16:16:36.558+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/0msljd">Clavijo-Bustos J, Gasca Álvarez H J, Neita Moreno J C (2021): Listado de las especies de Orphninae (Coleoptera: Scarabaeidae) de Colombia. v1.2. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/0msljd</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1904.tb02761.x">Arrow, G. J. (1904) Sound-production in the lamellicorn beetles. Transactions of the Entomological Society of London. 52(4): 709-750.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/603/">Colby, J. (2009) Monographic revision of the genus Aegidinus Arrow (1904) and generic phylogeny of the world Orphninae (Coleoptera: Scarabaeidae: Orphninae). Insecta Mundi. 0076: 1-41.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7251416">Erichson, W. F. (1847) Conspectus insectorum coleopterorum quae in Republica Peruana observata sunt. Archiv für Naturgeschichte. 13(1): 67-185.</citation>
+                <citation identifier="https://doi.org/10.1080/00222933.2017.1319519">Frolov, A. V., Akhmetova, L. A. &amp; Vaz-de-Mello, F. Z. (2017) Revision of the mainland species of the Neotropical genus Aegidium Westwood (Coleoptera: Scarabaeidae: Orphninae). Journal of Natural History. 51(19-20): 1035-1090.</citation>
+                <citation identifier="https://doi.org/10.1080/00222933.2019.1606953">Frolov, A. V., Akhmetova, L. A. &amp; Vaz-de-Mello, F. Z. (2019) Contribution to the knowledge of Aegidinus Arrow (Coleoptera: Scarabaeidae: Orphninae): new species and comments on the classification and nomenclature. Journal of Natural History. 53(11-12): 725-747.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4927.4.9">Frolov, A. V. &amp; Akhmetova, L. A. (2021) A new species of Aegidium Arrow (Coleoptera: Scarabaeidae: Orphninae) from Colombia. Zootaxa. 4927(4): 583-586.</citation>
+                <citation identifier="https://doi.org/10.1080/01650521.2020.1798092">Gasca-Álvarez, H. J. &amp; Deloya, C. (2020) A new Andean species of Aegidium Westwood (Coleoptera: Scarabaeidae: Orphninae: Aegidiini), with a key to the Colombian species of the genus. Studies on neotropical fauna and environment.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8989416">Harold, E. (1880) Verzeichniss der von E. Steinheil in Neu-Granada gesammlten coprophagen Lamellicornien. Stettiner entomologische Zeitung. 41: 13-46.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24885019">Latreille, P. A. (1802) Histoire naturelle, générale et particuliere des crustacés et des insectes. Paris. 3:1-467.</citation>
+                <citation>Paulian, R. (1984) Les Orphnidae Américains (Coléoptères, Scarabaeoidea). Annales de la Société entomologique de France (N. S.). 20(1): 65-92.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12278748">Preudhomme de Borre, A. (1886) Descriptions de deux espèces nouvelles du genre Aegidium Westwood suivies de la liste des Orphnides du Musée royal d’histoire naturelle de Belgique. Annales de la Société entomologique de Belgique. 30: 24-26.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12278862">Preudhomme de Borre, A. (1886) Liste des Lamellicornes Laparostictiques recueillis par feu Camille Van Volxem pendant son voyage au Brésil et a la Plata en 1872, suivie de la description de dix huit espèces nouvelles et un genre nouveau. Annales de la Société entomologique de Belgique. 30: 103-120.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1846.tb01350.x">Westwood J. O. (1845) On the lamellicorn beetles which possess exserted mandibles and labrum, and 10-jointed antennae. Transactions of the Entomological Society of London. 4: 155-180.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+          <dc:replaces>eb7eec0b-fb6b-4a2d-b1e6-bf6589778c05/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

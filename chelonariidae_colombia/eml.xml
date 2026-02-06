@@ -1,0 +1,307 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="51b68934-a051-48f7-974b-feca36ef2205/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/kxvmlk</alternateIdentifier>
+  <alternateIdentifier>51b68934-a051-48f7-974b-feca36ef2205</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=chelonariidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Chelonariidae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Chelonariidae (Coleoptera: Byrrhoidea) con ocurrencia conocida para el territorio colombiano. Se lista un género, 19 especies y una subespecie. Dieciseis especies son consideradas endémicas para el país. El listado ha sido compilado a partir de información disponible en el catálogo de Blackwelder (1944). Se incluyen las referencias de todas las descripciones originales y los identificadores de cada taxón.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos tortuga</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Chelonariidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se presentan registros en los departamentos de Bolívar (una especie), Cundinamarca (dos especies) y Tolima (tres especies). Así mismo, algunos registros no presentaron localidad específica al interior del país, o presentan localidades imprecisas.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1801-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>1944-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Chelonariidae (Coleoptera: Byrrhoidea) registrados para Colombia. Se presenta un solo género, Chelonarium, con 19 especies y una subespecie.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chelonariidae</taxonRankValue>
+                  <commonName>Escarabajo tortuga</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Chelonarium</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para Colombia se hizo a partir del catálogo de Blackwelder (1944). Adicionalmente, se revisaron las descripciones originales: Méquignon (1934),  Fabricius (1801), Pic (1916), Klug (1825), Dalman (1824), Chevrolat (1880).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La nomenclatura y autoría de cada especie fue verificada en las descripciones originales y en el catálogo de Blackwelder (1944).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución geográfica de las especies fue tomada de las descripciones originales, algunas de las cuales, no mencionan localidad específica (departamento) del registro.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales. Se proveen enlaces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Chelonariidae (Coleoptera: Byrrhoidea) que se han registrado para Colombia de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Chelonariidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente del catálogo de Blackwelder (1944), posteriormente se revisaron todas las descripciones originales de las especies reportadas para el país, principalmente la revisión sobre los Chelonarium de América Continental de Mequignon (1934).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>La nomenclatura de las especies fue verificada en las descripciones originales, así como en el catálogo de Blackwelder (1944).</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis Mairu</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcela</givenName>
+          <surName>González-Córdoba</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>La información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-03T01:11:03.781+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/kxvmlk">Hincapié-Montoya D M, González-Córdoba M (2024): Listado de las especies de Chelonariidae (Coleoptera: Byrrhoidea) de Colombia. v1.1. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/kxvmlk</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33665717">Billberg, GJ. (1820). Enumeratio Insectorum in Museo Gust. Joh. Billberg. Gadel, Stockholm, 138 pp. [«31 Dec 1820» (Evenhuis 1997a: 93)]</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/5897416">Blanchard CÉ (1845) Histoire naturelle des insectes leurs moeurs, leurs métamorphoses et leur classification ou traité élémentaire d’entomologie. Tome second. F. Savy, Paris, 524 pp., pls. 11–20. [11 Jun 1845 (Ann. Soc. Ent. France (2) 3: Bull. Ent.: xliii), 28 Jun 1845</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33928669">Chevrolat, A. (1880). Diagnoses de Chelonarium de la collection de M. Chevrolat. Le Naturaliste : journal des échanges et des nouvelles, 2: 260-261. https://www.biodiversitylibrary.org/page/33928669</citation>
+                <citation identifier="https://books.google.fr/books?id=STuutwEACAAJ&amp;pg=PA1&amp;redir_esc=y#v=onepage&amp;q&amp;f=false">Dalman, J. W. (1824). Ephemerides Entomologicae. Insectorum Nova Generum. Holmie. Typis P. A. Norstedt, Stockholm.  Vol(1):1-33.</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=uiug.30112111869019&amp;view=1up&amp;seq=129&amp;skin=2021&amp;q1=Chelonarivm">Fabricius, JC. (1801).  Systema Eleutheratorum secundum Ordines, Genera, Species adiectis Synonymis, Locis, Observationibus, Descriptionibus. Bibliopolii Academici, Kiliae. Vol. 1: i-xxiv+1-506.</citation>
+                <citation identifier="https://opacplus.bsb-muenchen.de/title/BV012226446">Imhoff L. (1856). Versuch einer Einführung in das Studium der Koleoptern. L. Imhoff [“auf Kosten des Verfassers”], Basel, xxxi + [2] + 118 + [2] + 272 + [25] pp. + 25 pls. [before 25 Dec 1856 (Allgem. Bibliogr. Deutschl.: 452)]</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/37005815">Klug, J. C. F. (1825). Entomologiae Brasilianae specimen. alterum, sistens insectorum coleopterorum nondum descriptorum centuriam. Nova Acta Physico-Medica Academiae Caesareae-Leopoldino-Carolinae. Naturae Curiosorum. 12(2):419-476.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25529679">Laporte, F. L. N. C. (1835). Études entomologiques ou description d&apos;insectes nouveaux et observations sur la synonymie. Revue entomologique, 3: 157-181.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k54945272/f55.item">Méquignon, A. (1934). Les Chelonarium de L’Amérique Continentale. Synopsis des espéces avec diagnoses provisoires des espéces nouvelles. Annales de la Société Entomologique de France 103: 199–256.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36629643">Pic, M. (1916). Descriptions abrégées diverses. Mélanges Exotico-Entomologiques, 20: 1-20.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/fr/coleopteres</collectionIdentifier>
+                <collectionName>MNHN - Muséum nationale d’Histoire naturelle, Paris, France</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://samlinger.snm.ku.dk/en/dry-and-wet-collections/zoology/entomology/coleoptera-collection/</collectionIdentifier>
+                <collectionName>ZMUC - Zoological Museum, University of Copenhagen, Dinamarca</collectionName>
+              </collection>
+          <dc:replaces>51b68934-a051-48f7-974b-feca36ef2205/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

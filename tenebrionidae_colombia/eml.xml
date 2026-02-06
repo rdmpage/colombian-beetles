@@ -1,0 +1,701 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="805272fe-e6f6-4675-9c30-ef8cb56cf84f/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/3bphqb</alternateIdentifier>
+  <alternateIdentifier>805272fe-e6f6-4675-9c30-ef8cb56cf84f</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=tenebrionidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Tenebrionidae (Coleoptera: Tenebrionoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Oscar</givenName>
+      <surName>Ascuntar-Osnas</surName>
+    </individualName>
+    <organizationName>Grupo de investigaciones Entomológicas, Universidad del Valle</organizationName>
+    <positionName>Profesional</positionName>
+    <address>
+        <deliveryPoint>Calle 13 No 100</deliveryPoint>
+        <city>Cali</city>
+        <administrativeArea>Valle del Cauca</administrativeArea>
+        <country>CO</country>
+    </address>
+    <phone>+57 2 321 21 00 ext. 3142</phone>
+    <electronicMailAddress>oscar.ascuntar@correounivalle.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8621-037X</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Pablo</givenName>
+      <surName>López-Bedoya</surName>
+    </individualName>
+    <organizationName>Grupo de Investigación en Ecosistemas Tropicales, Facultad de Ciencias Exactas y Naturales, Universidad de Caldas</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Manizales</city>
+        <administrativeArea>Caldas</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>pablo.lobe19@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5525-1291</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>M. Andrew</givenName>
+      <surName>Johnston</surName>
+    </individualName>
+    <organizationName>Arizona State University</organizationName>
+    <positionName>Invertebrate Collections Manager</positionName>
+    <address>
+        <city>Tempe</city>
+        <administrativeArea>Arizona</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>ajohnston@asu.edu</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0166-6985</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Oscar</givenName>
+      <surName>Ascuntar-Osnas</surName>
+    </individualName>
+    <organizationName>Grupo de investigaciones Entomológicas, Universidad del Valle</organizationName>
+    <positionName>Profesional</positionName>
+    <address>
+        <deliveryPoint>Calle 13 No 100</deliveryPoint>
+        <city>Cali</city>
+        <administrativeArea>Valle del Cauca</administrativeArea>
+        <country>CO</country>
+    </address>
+    <phone>+57 2 321 21 00 ext. 3142</phone>
+    <electronicMailAddress>oscar.ascuntar@correounivalle.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8621-037X</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Pablo</givenName>
+      <surName>López-Bedoya</surName>
+    </individualName>
+    <organizationName>Grupo de Investigación en Ecosistemas Tropicales, Facultad de Ciencias Exactas y Naturales, Universidad de Caldas</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Manizales</city>
+        <administrativeArea>Caldas</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>pablo.lobe19@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5525-1291</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+  <pubDate>
+      2024-03-04
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Tenebrionidae (Coleoptera: Tenebrionoidea) con ocurrencia conocida para el territorio colombiano. Se listan nueve subfamilias, 30 tribus, 95 géneros, siete subgéneros, 326 especies, siete subespecies y cuatro variedades. 192 especies son consideradas endémicas, incluida una variedad y una subespecie. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Darkling beetles</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Tenebrionidae de los siguientes departamentos de Colombia: Amazonas (1 sp.), Antioquia (5 especies), Arauca (1 sp.), Atlántico (6 spp.), Bolívar (13 spp.), Boyacá (9 spp.), Caldas (3 spp.), Caquetá (1 sp.), Cauca (6 spp.), Cesar (1 sp.), Chocó (1 sp.), Cundinamarca (52 spp.), Huila (4 spp.), La Guajira (8 spp.), Magdalena (9 spp.), Meta (4 spp.), Nariño (1 sp.), Norte de Santander (1 sp.), Risaralda (1 sp.), Santander (4 spp.), Tolima (6 spp.) y Valle del Cauca (16 spp.). Cuatro registros de los reportados en el recurso para el país son dudosos y otras 16 especies se conocen de localidades ambiguas. Asimismo, para 190 especies no se conocen registros específicos de localidad.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1763-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2023-03-01</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan nueve subfamilias, 30 tribus, 95 géneros, siete subgéneros, 326 especies, siete subespecies y cuatro variedades de la familia Tenebrionidae (Coleoptera: Tenebrionoidea) para Colombia. 
+
+La subfamilia con mayor diversidad es Lagriinae (28.5%, 93 spp.), seguida por Stenochiinae (22.7%, 74 spp.), Tenebrioninae (13.2%, 43 spp.), Diaperinae (10.1%, 33 spp.), Alleculinae (8.3%, 27 spp.), Pimeliinae (6.4%, 21 spp.), Blaptinae (4.9%, 16 spp.), Phrenapatinae (3.4%, 11 spp.) y Nilioninae (2.5%, 8 spp.). Los géneros Statira Lepeletier &amp; Audinet-Serville, 1828 (59 spp.), Strongylium Kirby, 1819 (19 spp.), y Platydema Laporte &amp; Brullé, 1831 (15 spp.) son los que están representados por el mayor número de especies. Por otra parte, 39 géneros están representados por una sola especie en el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Tenebrionidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Alleculinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Blaptinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Diaperinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Lagriinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Nilioninae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Phrenapatinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Pimeliinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Stenochiinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Tenebrioninae</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Oscar</givenName>
+      <surName>Ascuntar-Osnas</surName>
+    </individualName>
+    <organizationName>Grupo de investigaciones Entomológicas, Universidad del Valle</organizationName>
+    <positionName>Profesional</positionName>
+    <address>
+        <deliveryPoint>Calle 13 No 100</deliveryPoint>
+        <city>Cali</city>
+        <administrativeArea>Valle del Cauca</administrativeArea>
+        <country>CO</country>
+    </address>
+    <phone>+57 2 321 21 00 ext. 3142</phone>
+    <electronicMailAddress>oscar.ascuntar@correounivalle.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8621-037X</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Pablo</givenName>
+      <surName>López-Bedoya</surName>
+    </individualName>
+    <organizationName>Grupo de Investigación en Ecosistemas Tropicales, Facultad de Ciencias Exactas y Naturales, Universidad de Caldas</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Manizales</city>
+        <administrativeArea>Caldas</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>pablo.lobe19@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5525-1291</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>M. Andrew</givenName>
+      <surName>Johnston</surName>
+    </individualName>
+    <organizationName>Arizona State University</organizationName>
+    <positionName>Invertebrate Collections Manager</positionName>
+    <address>
+        <city>Tempe</city>
+        <administrativeArea>Arizona</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>ajohnston@asu.edu</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0166-6985</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1944). Adicionalmente, fueron consultados trabajos más recientemente publicados, incluyendo revisiones taxonómicas, para incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en el catálogos de Blackwelder (1944) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La clasificación en subfamilias y tribus se actualizó de acuerdo con Bouchard et al. (2021).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies por departamento en el país fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Tenebrionidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Tenebrionidae (Coleoptera: Tenebrionoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente a partir de Blackwelder (1944) y trabajos posteriormente publicados.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en catálogos y trabajos taxonómicos recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-06-12T23:47:21.259+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/3bphqb">Ascuntar-Osnas O, López-Bedoya P, Johnston M A, Girón Duque J C (2024): Listado de las especies de Tenebrionidae (Coleoptera: Tenebrionoidea) de Colombia. v1.3. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/3bphqb</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/1382903">Agassiz, L. (1846) Nomenclatoris zoologici. Index universalis, continens nomina systematica classium, ordinum, familiarum et generum animalium omnium, tam viventium quam fos- silium, secundum ordinem alphabeticum unicum disposita, adjectis homonymiis plan- tarum, nec non variis adnotationibus et emendationibus. Jent and Gassmann, Soloduri [= Solothurn, Switzerland] viii, 393.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/49041516">Allard, E. (1877) Revision des helopides vrais. Mittheilungen der Schweizerischen Entomologischen Gesellschaft 5: 13–268.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.495.8737">Aloquio, S. &amp; Lopes-Andrade, C. (2015) A new species of Neomida Latreille from Colombia, with additional records and a complementary description for Neomida suilla (Champion) (Coleoptera, Tenebrionidae, Diaperini). ZooKeys, 495, 133–142.</citation>
+                <citation identifier="https://doi.org/10.1080/03745480409442963">Arrow, G.J. (1904) V.— On the Colcopterous Group “Heptaphyllini” of De Borre. Annals and Magazine of Natural History 14, 30–33.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1868.tb00630.x">Bates, F. (1868) XVII. Descriptions of new genera and species of Heteromera. Transactions of the Entomological Society of London 16, 309–326.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34336380">Bates, F. (1870) Descriptions of new genera and species of Heteromera. The Entomologist’s Monthly Magazine 6, 268–275.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9271209">Bates, F. (1873) Notes on Heteromera, and descriptions of new genera and species. No. 5. The Entomologists&apos; Monthly Magazine, 9, 201–204.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9271241">Bates, F. (1873) Notes on Heteromera and descriptions of new genera and species. No. 6. The Entomologists&apos; Monthly Magazine 9: 233-238.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9271267">Bates, F. (1873) Notes on Heteromera, and descriptions of new genera and species. No. 7. The Entomologist’s Monthly Magazine 9, 259–262.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9271340">Bates, F. (1873) Notes on Heteromera, and descriptions of new genera and species. No. 8. The Entomologist’s Monthly Magazine 10, 14–17.</citation>
+                <citation identifier="https://doi.org/10.1080/00222937408562425">Bates, F. (1874) V.—Descriptions of new genera and species of Heteromera, chiefly from New Zealand and New Caledonia, together with a revision of the genus Hypaulax and a description of an allied new genus from Colombia. Annals and Magazine of Natural History 13(73), 16–24.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33665717">Billberg, G.J. (1820) Enumeratio Insectorum in Museo Gust. Joh. Billberg. Typis Gadelianis, Stockholm, 154 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://pdfslide.us/documents/new-species-of-eleodes-from-mexico-in-the-british-museum-col-tenebrionidae.html">Blaisdell, F.E. (1935). New species of Eleodes from Mexico in the British Museum (Col.: Tenebrionidae). Stylops, 4, 156–160.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2530894">Blanchard, E. (1835) Insectes de l’Amérique méridionale. Recueillis par Alcide d’Orbigny et décrits par Emile Blanchard et Auguste Brullé. In: Voyage dans l’Amérique méridionale : (le Brésil, la république orientale de l’Uruguay, la République argentine, la Patagonie, la république du Chili, la république de Bolivia, la république du Pérou), exécuté pendant les années 1826, 1827, 1828, 1829, 1830, 1831, 1832, et 1833. Tome sixième. 2.e Partie: Insectes. Chez Pitois-Levrault et ce., libraires-éditeurs, rue de la Harpe, no. 81, Paris, pp. 1–304.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/5897416">Blanchard, E. (1845) Histoire naturelle des insectes leurs moeurs, leurs métamorphoses et leur classification ou traité élémentaire d’entomologie. Tome second. F. Savy, Paris, 524 pp., pls. 11–20.</citation>
+                <citation identifier="https://www.google.com/books/edition/Traite_complet_d_histoire_naturelle/4vLZD34IGmMC?hl=en">Blanchard, E. (1845) Traite complet d’histoire naturelle: 9: Histoire des insectes, traitant de leurs moeurs et de leurs metamorphoses en general et comprenant une nouvelle classification fondee sur leurs rapports naturels. 2, Coleopteres, orthopteres, thysanopteres, nevropteres, lepidopteres, hemipteres, aphanipteres, strepsipteres, dipteres, anoplures et thysanures. Didot, 568 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/5897416">Blanchard, E. (1873) Histoire naturelle des insectes, leurs moeurs, leurs métamorphoses et leur classification, ou Traité élémentaire d’entomologie. Tome second. F. Savy, Paris, 524 pp.</citation>
+                <citation identifier="https://doi.org/10.1002/mmnd.193019300202">Borchmann F (1930) Die Gattung Lystronychus Latr. (Col. Allecul.). Berliner entomologische Zeitschrift 1930: 81–118.</citation>
+                <citation identifier="http://coleonet.de/coleo/scans/bouchard_et_al2005.pdf">Bouchard, P., Lawrence, J.F., Davies, A.E. &amp; Newton, A.F. (2005) Synoptic classification of the world Tenebrionidae (Insecta: Coleoptera) with a review of family-group names. Annales Zoologici 55, 499–530.</citation>
+                <citation identifier="https://www.ingentaconnect.com/content/miiz/annales/2007/00000057/00000003/art00004">Bouchard, P., Löbl, I. &amp; Merkl, O. (2007) Nomenclatural notes on tenebrionid beetles of the Palaearctic Region (Insecta: Coleoptera). Annales Zoologici 57, 385–394.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-Group Names In Coleoptera (Insecta). ZooKeys 88, 1–972.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.1050.64217">Bouchard, P., Bousquet, Y., Aalbu, R. L., Alonso-Zarazaga, M. A., Merkl, O., &amp; Davies, A. E. (2021). Review of genus-group names in the family Tenebrionidae (Insecta, Coleoptera). ZooKeys, 1050, 1–633.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.698.14913">Bousquet, Y. &amp; Bouchard, P. (2017) Status of the new genera in Gistel’s “Die Insecten-Doubletten aus der Sammlung des Herrn Grafen Rudolph von Jenison Walworth” issued in 1834. ZooKeys 698, 113–145.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.728.20602">Bousquet, Y., Thomas, D.B., Bouchard, P., Smith, A.D., Aalbu, R.L., Johnston, M.A. &amp; Jr, W.E.S. (2018) Catalogue of Tenebrionidae (Coleoptera) of North America. ZooKeys 728, 1–455.</citation>
+                <citation identifier="https://www.researchgate.net/publication/306918092_World_Catalogue_of_Amarygmini_Rhysopaussini_and_Falsocossyphini_Coleoptera_Tenebrionidae">Bremer, H.J. &amp; Martin, L. (2014) World Catalogue of Amarygmini, Rhysopaussini and Falsocossyphini (Coleoptera; Tenebrionidae). Mitteilungen der Münchner Entomologischen Gesellschaft, 3–176.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009291">Bremer, H.J. &amp; Triplehorn, C.A. (1999) The Latin American species of the genus Corticeus Piller and Mitterpacher (Coleoptera: Tenebrionidae, Hypophloeini). Part I. The species described by Reitter and Pic, and description of two new species. The Coleopterists Bulletin 53, 56–63.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/btv1b8626689s/f223.item">Brullé, G. A. (1832). Deuxième section. Des animaux articulés. In: Bory de Saint-Vincent JBGM: Expédition scientifique de Morée. Section des sciences physiques. Tome III. - 1.re partie. Zoologie (pp. 1–240).</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8055162">Casey, T.L. (1907) A revision of the American components of the tenebrionid subfamily Tentyriinae. Proceedings of the Washington Academy of Sciences 9, 275-522.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/580295">Champion, G.C. (1888) Biologia Centrali-Americana: zoology, botany and archaeology. Insecta. Coleoptera. Vol. IV. Part I. Heteromera (part). 572 p. + 23 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11683983">Champion, G.C. (1895) A list of Tenebrionidae supplementary to the «Munich» catalogue. Mémoires de la Société entomologique de Belgique 3, 5–264.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-2311.1913.tb02781.x">Champion, G.C. (1913) III. Notes on various Central American Coleoptera, with descriptions of new genera and species. Transactions of the Royal Entomological Society of London 61, 58–169.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/bibliography/60478">Chevrolat, A. (1847) Phylethus; Praeugena; Prosomenes; Pyanisia. In: D’Orbigny C (Ed.) Dictionnaire universel d’histoire naturelle résumant et complétant tous les faits présen- tés par les encyclopédies, les anciens dictionnaires scientifiques, les oeuvres complètes de Buffon, et les meilleurs traités spéciaux sur les diverses branches des sciences naturelles; donnant la description des êtres et des divers phénomènes de la nature, l’étymologie et la définition des noms scientifiques, les principales applications des corps organiques et inorganiques, à l’agriculture, à la médecine, aux arts industriels, etc.; et enrichi d’un magnifique atlas de planches gravées sur acier. Tome dixième. MM. Renard, Martinet et Cie., Paris, 57. L. Houssiaux et Cie, Paris.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392730">Chevrolat, A. (1877) Diagnoses d’espèces nouvelles de Diapérides du Mexique. Petites Nouvelles Entomologiques 2, 186–187.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392714">Chevrolat, A. (1877) Diagnoses de Diapérides nouveaux. Petites Nouvelles Entomologiques, 2, 170.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392725">Chevrolat, A. (1877) Diagnoses de Diapérides nouveaux. Platydema de Colombie. Petites nouvelles entomologiques 2, 181–182.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392721">Chevrolat, A. (1877) Diagnoses de Diapérides. Petites nouvelles entomologiques 2(9), 177–178.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12847593">Chevrolat, A. (1878) Diagnoses d’espèces nouvelles de Diapérides. Annales de la Société entomologique de Belgique 21, XCVII–C.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392738">Chevrolat, A. (1878) Diagnoses de Diapérides du Mexique. Petites nouvelles entomologiques 2, 194–195.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392758">Chevrolat, A. (1878) Diagnoses de Diapérides. Petites nouvelles entomologiques 2, 214–215.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392765">Chevrolat, A. (1878) Diagnoses de diaperides nouveaux. Petites Nouvelles Entomologiques 2(10) 221-222.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392792">Chevrolat, A. (1878) Diagnoses de Diapérides. Petites nouvelles entomologiques 2(10), 242–243.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12392823">Chevrolat, A. (1878) Diagnoses de huit espèces de Cyrtosoma Perty (Ténébrionites de la tribu des Cnodalides). Petites nouvelles entomologiques 2, 273–274.</citation>
+                <citation identifier="https://www.persee.fr/doc/linly_0366-1326_1981_num_50_7_10498">Dajoz, R. (1981) Description d’espèces nouvelles du genre Tyrtaeus Champion (Coleoptères, Tenebrionidae). Bulletin mensuel de la Société linnéenne de Lyon 50, 227–230.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42201599">Dalman, J.W. (1823) Analecta entomologica. Typis Lindhianis, Holmiae, 108 pp. + 4 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11667422">Dejean, P.F.M.A. (1821) Catalogue des Coléoptères de la collection de M. le Baron Dejean. Chez Crevot, Librairie, Paris, 136 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9322478">Dejean, P.F.M.A. (1834) Catalogue des Coléoptères de la collection de M. le Baron Dejean [Livraison 3]. Catalogue des coléoptères de la collection de M. le comte Dejean. Deuxième édition, 177–256.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9322478">Dejean, P.F.M.A. (1835) Catalogue des Coléoptères de la collection de M. le Baron Dejean [Livraison 4]. Catalogue des coléoptères de la collection de M. le comte Dejean. Deuxième édition. Méquignon-Marvis Père et Fils, Paris, pp. 257–360.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16361248">Doyen, J.T. (1984) Reconstitution of the Diaperini of North America, with new species of Adelina and Sitophagus (Coleoptera: Tenebrionidae). Proceedings of the Entomological Society of Washington, 86(4), 777–789.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50821551">Doyen, J.T. (1989) Reconstitution of Coelometopini, Tenebrionini and Related Tribes of America North of Colombia (Coleoptera: Tenebrionidae). Journal of the New York Entomological Society 97, 277–304.</citation>
+                <citation identifier="https://www.jstor.org/stable/25010033">Doyen, J.T. (1993) Cladistic Relationships among Pimeliine Tenebrionidae (Coleoptera). Journal of the New York Entomological Society 101, 443–514.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1365-3113.1979.tb00619.x">Doyen, J.T. &amp; Lawrence, J.F. (1979) Relationships and higher classification of some Tenebrionidae and Zopheridae (Coleoptera). Systematic Entomology 4: 333–377.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7149537">Erichson, W.F. (1842) Beitrag zur Fauna von Vandiemensland mit besonderer Rucksicht auf die geographische Verbreitung der Insecten. Archiv für Naturgeschichte. 8, 83–287.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8538727">Erichson, W.F. (1877) Naturgeschichte der Insecten Deutschlands. Erste Abtheilung. Coleoptera. Dritter Band. Nicolai, Berlin, vii + 882 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/56520034">Eschscholtz, F. (1829) Zoologischer Atlas, enthaltend Abbildungen und Beschreibungen neuer Thierarten, während des Flottcapitains von Kotzebue zweiter Reise um die Welt, auf der Russisch-Kaiserlichen Kriegsschlupp Predpriaetië in den Jahren 1823–1826. Drittes Heft. G. Reimer, Berlin, 18 pp., pls 11–15.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25551417">Fabricius, J.C. (1775) Systema entomologiae, sistens insectorum classes, ordines, genera, species, adiectis synonymis, locis, descriptionibus, observationibus. Libraria Kortii, Flensburgi et Lipsiae, 832 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25555737">Fabricius, J.C. (1776) Genera insectorum: eorumque characteres naturales secundam numerum, figuram, situm et proportionem, omnium partium oris adiecta mantissa specierum nuper detectarum. Litteris Mich. Friedr. Bartschii, Chilonii, 310 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25550325">Fabricius, J.C. (1781) Species insectorum, exhibentes eorum differentias specificas, synonyma auctorum, loca natalia, metamorphosin, adjectis observationibus, descriptionibus. Tom I. impensis C. E. Bohnii, Hamburgi et Kilonii.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/52755135">Fabricius, J.C. (1792) Entomologiae systematicae emendatae et auctae. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. Tom. I. Christ. Gottl. Proft, Hafniae, 538 pp.</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=chi.73265320&amp;view=1up&amp;seq=11&amp;skin=2021">Fabricius, J.C. (1801) Systema eleutheratorum secundum ordines, genera, species: Adiectis synonymis, locis, observationibus, descriptionibus. Tomus I. impensis Bibliopolii Academici novi, Kiliae, 548 pp.</citation>
+                <citation identifier="https://books.google.com.co/books?id=bx1VAAAAcAAJ&amp;dq=Systema%20eleutheratorum%20secundum%20ordines%2C%20genera&amp;pg=PA1#v=onepage&amp;q&amp;f=false">Fabricius, J.C. (1801) Systema eleutheratorum secundum ordines, genera, species: Adiectis synonymis, locis, observationibus, descriptionibus. Tomus II. impensis Bibliopolii Academici novi, Kiliae, 687 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7915651">Fairmaire, M.L. (1873) Description de quelques Coléoptères Hétéromères de la partìe australe de l’Amerique. Annali del Museo civico di storia naturale di Genova 4, 531–535.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32548934">Fairmaire, M.L. (1884) Description de quelques coléoptères de la Patagonie et de la République Argentine. Annales de la Société Entomologique de France, 507–516.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8255267">Fairmaire, M.L. (1892) Voyage de M. E. Simon au Venezuela. Coléoptères Hétéromères. Annales de la Société entomologique de France 61, 77–98.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/61451771">Fairmaire, M.L. (1899) Quelques Hétéromères de Minas-Geraes (Brèsil). Comptes-rendus des séances de la Société entomologique de Belgique, Série III 110, XXXII–L.</citation>
+                <citation identifier="https://doi.org/10.4039/Ent4440-2">Fall, H.C. (1912) New Coleoptera chiefly from the southwest.—V. The Canadian Entomologist 44, 40–48.</citation>
+                <citation identifier="https://www.ingentaconnect.com/contentone/miiz/annales/2007/00000057/00000002/art00011">Ferrer, J. &amp; Delatour, T. (2007) Révision des genres Goniadera Perty, 1830 et Microgoniadera Pic, 1913 (Coleoptera: Tenebrionidae: Lagriinae: Goniaderini). Annales Zoologici 57, 275–306.</citation>
+                <citation identifier="https://doi.org/10.3406/bsef.1998.17446">Ferrer, J. &amp; Moraguès, G. (1998) Contribution à la connaissance des Tenebrionidae néotropicaux : le genre Phymatestes Pascoe, 1868 (Coleoptera). 1re partie : le groupe de Ph. tuberculatus. Bulletin de la Société entomologique de France 103, 373–392.</citation>
+                <citation identifier="https://doi.org/10.3406/bsef.2001.16799">Ferrer, J., &amp; Moraguès, G. (2001). Contribution à l’étude des représentants américains du genre Trichoton Hope, 1840, avec description de quatre nouvelles espèces (Coleoptera, Tenebrionidae). Bulletin de la Société entomologique de France, 106(5), 497–518.</citation>
+                <citation>Ferrer, J. &amp; Siliansky, A. (2007) Contribution à l’étude des genres Mylaris Pallas, 1781 et Taphrosoma Kirsch, 1866 (Coleoptera, Tenebrionidae). Nouvelle Revue d’Entomologie (Nouvelle Série), 24(2): 185–191.</citation>
+                <citation identifier="https://doi.org/10.3161/000345405775008291">Ferrer, J., Soldati, L. &amp; Delatour, T. (2005) Révision du genre Tauroceras Hope, 1840 (Coleoptera: Tenebrionidae: Centronopini). Annales Zoologici 55, 271–293.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45957471">Freude, H. (1967) Revision der Epitragini. I Teil. Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München, 18: 137-307.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/46001731">Freude, H. (1968) Revision der Epitragini. II Teil. Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München, 19: 32-143.</citation>
+                <citation identifier="Gebien, H. (1906) Ueber die von Fabricius beschrieben Typen von Tenebrioniden in den Museen von Kopenhagen und Kiel. Deutsche Enlomologische Zeitschrift, 50: 209-237. https://www.biodiversitylibrary.org/page/33758555">Friedenreich, C.W. (1883) Pilzbewohnende Käfer in der Provinz Santa Catharina (Südbrasilien). Entomologische Zeitung 44, 375–380.</citation>
+                <citation identifier="https://digitalcommons.unl.edu/insectamundi/284">Garrido, O.H. &amp; Gutierrez, E. (1994) Variability of Zophobas rugipes Kirsch (Coleoptera: Tenebrionidae: Tenebrioninii) in Cuba. Insecta Mundi 284, 243–245.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33758555">Gebien, H. (1906) Ueber die von Fabricius beschrieben Typen von Tenebrioniden in den Museen von Kopenhagen und Kiel. Deutsche Enlomologische Zeitschrift, 50: 209-237.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35571828">Gebien, H. (1910) Diagnosen neuer Arten von Phrenapates (Col., Heterom.). Deutsche entomologische Zeitschrift 1910, 503–504.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10203505">Gebien, H. (1910) Pars 22. Tenebrionidae II [pp. 167–354]. In: Schenkling S (Ed) Coleopterorum Catalogus Volumen XVIII. W. Junk, Berlin, 742 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33104809">Gebien, H. (1911) Die Gattung Phrenapates Kirby. Deutsche entomologische Zeitschrift 1911, 149–161.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13326717">Gebien, H. (1919) Monographie der südamerikanischen Camarien (Coleopt. Heterom.) nebst einer Übersicht über die indischen Gattungen der Camariinen. Archiv für Naturgeschichte (A) 83, 25–167.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13314845">Gebien, H. (1920) Die Tenebrioniden Westafrikas. Archiv für Naturgeschichte 86, 1–256.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1096-3642.1922.tb00551.x">Gebien, H. (1922) No. V.—Coleoptera, Heteromera: Tenebrionidae. Transactions of the Linnean Society of London. 2nd Series. Zoology 18, 261–324.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Entomologische-Zeitung-Stettin_89_0097-0164.pdf">Gebien, H. (1928) Über einige Gruppen amerikanischer Tenebrioniden (Col. Heter.) 1 Theil. Stettiner Entomologische Zeitung 89, 97–164.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Entomologische-Zeitung-Stettin_89_0167-0234.pdf">Gebien, H. (1928) Über einige Gruppen amerikanischer Tenebrioniden (Col. Heter.) 2 Teil. Stettiner Entomologische Zeitung 89, 167–234.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/30146570">Gebien, H. (1939) Katalog der Tenebrioniden. Teil II. Mitteilungen der Münchener Entomologischen Gesellschaft, 443–474.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/29586060">Gebien, H. (1940) Katalog der Tenebrioniden. Mitteilungen der Münchner Entomologischen Gesellschaft 30, 405–436, 755–786, 1061–1092.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/29139017">Gebien, H. (1944) Katalog der Tenebrioniden. Mitteilungen der Münchner Entomologischen Gesellschaft 34, 497–555.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27012096">Gistel, J. (1829) Antimachus, novum Coleopterorum genus, e familia Tenebrionidum. Isis von Oken 22, 1055–1058.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27512830">Gistel, J. (1831) Entomologische Fragmente. Isis von Oken, 301–310.</citation>
+                <citation identifier="https://books.google.com.co/books?id=r5Y-AAAAcAAJ&amp;pg=PA1&amp;#v=onepage&amp;q&amp;f=false">Gistel, J. (1834) Die Insecten-Doubletten aus der Sammlung des Herrn Grafen Rudolph von Jenison Walworth zu Regensburg, welche sowohl im Kauf als im Tausche abgegeben werden. Nro. I. Käfer. George Jaquet, München, 35 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13256468">Gistel, J. (1848) Faunula monacensis cantharologica. Isis von Oken, Heft VI, Tafel VII [10].</citation>
+                <citation identifier="https://www.google.com/books/edition/Vacuna_oder_Die_Geheimnisse_aus_der_orga/DvU_AAAAIAAJ?hl=en&amp;gbpv=0">Gistel, J. (1857) Vacuna oder die Geheimnisse aus der organischen und leblosen Welt. Ungedruckte Originalien-Sammlung von grösstentheils  noch lebenden und verstorbenen Gelehrten aus dem Gebiete sämmtlicher Naturwissenschaften, der Medizin, Literaturgeschichte, des Forst- und Jagdwesens, der Oekonomie, Geschichte, Biographie, und der freien schönen  Künste. Zweiter Band. Schorner, Straubing, 1031 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24452985">Gray, G. (1831) Notices of new genera and species. In Griffith and Pidgeon, The Animal Kingdom Arranged in Conformity with Its Organization by the Baron Cuvier. Volume 14 (Plates of Insects). London, 138 pp.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4780.2.1">Grey, L. &amp; Smith, A.D. (2020) A matrix-based revision of the genus Hypogena Dejean, 1834 (Coleoptera: Tenebrionidae). Zootaxa 4780, 201–258.</citation>
+                <citation identifier="https://pfeil-verlag.de/wp-content/uploads/2018/12/SPIX_41_2_10_GR.pdf">Grimm, R., Smith, A.D., Steiner Jr., W.E. &amp; Wachtel, F. (2018) New Synonymy and new combination in Hypogena Dejean (Coleoptera: Tenebrionidae). Spixiana 41, 210.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/37088918">Guérin-Méneville, F.E. (1831) Phaleria ephippiger. Magasin de Zoologie Première année. (Classe IX; insectes), Seconde partie, Classe IX; Insectes: 2.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/37085196">Guérin-Méneville, F.E. (1834) Matériaux pour une classification des mélasomes (extraits d’une monographie de cette famille). Magasin de Zoologie 4 (Classe IX), 1–39.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27814313">Guérin-Méneville, F.E. (1844) Iconographie du règne animal de G. Cuvier, ou représentation d’après nature de l’une des espèces les plus remarquables, et souvent non encore figurées, de chaque genre d’animaux. Avec un texte descriptif mis au courant de la science. Ouvrage pouvant servir d’atlas à tous les traités de zoologie. Insectes. J. B. Baillière, Paris, 576 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13081671 ">Henshaw S. (1885) List of the Coleoptera of America, north of Mexico. Philadelphia, American Entomological Society.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/264023">Herbst, J.F. (1797) 7 Natursystem aller bekannten in- und ausländischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte: der Käfer Siebenter theil. J. Pauli, Berlin, 372 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/42664685">Hope, F.W. (1841) The coleopterist’s manual. Part the third, Various families, genera, and species, of beetles, recorded by Linneus and Fabricius. Also, descriptions of newly discovered and unpublished insects. J. C. Bridgewater and Bowdery &amp; Kerby, London, 540 pp.</citation>
+                <citation identifier="http://www.jstor.org/stable/27571138">Hoppe, K.J. &amp; Ivie, M.A. (2008) First Report of Tyrtaeus rufus Champion and Tyrtaeus dobsoni Hinton (Tenebrionidae: Diaperinae: Anopidina) from Florida. The Coleopterists Bulletin 62, 427–436.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9883194">Horn, G. H. (1870). Revision of the Tenebrionidae of America, north of Mexico. Transactions of the American Philosophical Society (2)14: 253-404, pls. 14, 15.</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-70.3.447">Ivie, M.A., &amp; Hart, C.J. (2016). Redefinition of Diastolinus Mulsant and Rey, with a review of West Indian blapstinoid genera (Coleoptera: Tenebrionidae: Opatrini). The Coleopterists Bulletin, 70(3), 447–481.</citation>
+                <citation>Iwan, D. (1995) Revision of the genus Opatrinus Dejean, 1821 [Coleoptera: Tenebrionidae: Platynotini]. Genus. International Journal of Invertebrate Taxonomy 6, 1–90.</citation>
+                <citation identifier="https://docplayer.net/24102548-Catalogue-of-the-world-platynotini-coleoptera-tenebrionidae.html">Iwan, D. (2002). Catalogue of the World Platynotini (Coleoptera: Tenebrionidae). Genus. International Journal of Invertebrate Taxonomy, 13(2), 219–323.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24480288">Jacquelin du Val, C. (1857) Ordre des Coléoptères, Lin. In: Histoire physique, politique et naturelle de l’Ile de Cuba par Ramon de la Sagra. Seconde partie: histoire naturelle. 1–328.</citation>
+                <citation>Jacquelin du Val, C. (1862) Catalogue de la famille des Ténébrionides. A. Deyrolle, Paris, 169–184.</citation>
+                <citation>Jeannel, R. &amp; Paulian, R. (1945) Coléoptères. In: Mission scientifique de l’Omo. Tome VI - fascicule 57. Faune des terriers des Rats-Taupes. IV. Coléoptères. Mémoires du Muséum National d’Histoire Naturelle (Nouvelle Série) 19, 51–147.</citation>
+                <citation identifier="https://doi.org/10.3161/00034541ANZ2020.70.4.017">Johnston, M.A., Smith, A.D., Matsumoto, K. &amp; Kamiński, M.J. (2020) On the Taxonomic Placement of Penichrus Champion, 1885 and a Synopsis of North American Opatrini (Coleoptera: Tenebrionidae: Blaptinae). Annales Zoologici 70(4): 765-774.</citation>
+                <citation identifier="https://doi.org/10.1007/s00435-019-00443-7">Kamiński, M.J., Lumen, R., Kubicz, M., Steiner, W., Kanda, K. &amp; Iwan, D. (2019) Immature stages of beetles representing the “Opatrinoid” clade (Coleoptera: Tenebrionidae): an overview of current knowledge of the larval morphology and some resulting taxonomic notes on Blapstinina. Zoomorphology 138, 349–370. https://doi.org/10.1007/s00435-019-00443-7</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.5000.5.2">Kamiński, M.J., Lumen, R., Kanda, K. &amp; Smith, A.D. (2022) Phylogenetic status of some unique species representing Blapstinina Mulsant &amp; Rey (Tenebrionidae: Blaptinae: Opatrini), and implications for continued study of the subtribe. Zootaxa 5093, 519–532.</citation>
+                <citation identifier="https://doi.org/10.3161/00034541ANZ2016.66.4.007">Kanda, K. (2016) Grabulax gen. nov. darlingtoni sp. nov. (Tenebrionidae: Lagriinae: Laenini) from Colombia, with reevalution of New World Laenini. Annales Zoologici 66, 557–562.</citation>
+                <citation identifier="https://doi.org/10.1080/00222934908654023">Kaszab, Z. (1949). LXII.—Vier neue exotische Tenebrioniden (Coleoptera). Annals and Magazine of Natural History, 2(22), 775–782.</citation>
+                <citation identifier="http://publication.nhmus.hu/folent/cikkreszletes.php?idhoz=6479">Kaszab, Z. (1982) Die Tenebrioniden Neukaledoniens und der Loyauté-Inseln (Coleoptera). Folia Entomologica Hungarica43 2, 1–294.</citation>
+                <citation>Kaszab, Z. (1983) Synonymie Indoaustralischer und Neotropischer Tenebrioniden (Coleoptera). Acta Zoologica Academiae Scientiarum Hungaricae 29, 129–138.</citation>
+                <citation identifier="https://doi.org/10.1111/j.1095-8339.1817.tb00239.x">Kirby, W. (1819) XXVII. A Century of Insects, including several new Genera described from his Cabinet. Transactions of the Linnean Society of London 12, 375–453.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27207171">Kirby, W. (1829) Part IV. Insecta. In: Fauna boreali-americana, or, The zoology of the northern parts of British America : containing descriptions of the objects of natural history collected on the late northern land expeditions, under command of Captain Sir John Franklin, R.N. Richard Bentley, London, p. 325 + 8 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/27207171">Kirby, W. (1837) Part IV. Insecta. In: Fauna boreali-americana, or, The zoology of the northern parts of British America : containing descriptions of the objects of natural history collected on the late northern land expeditions, under command of Captain Sir John Franklin, R.N. Richard Bentley, London, 325 pp. + 8 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340301">Kirsch, T. (1866) Beiträge zur Käferfauna von Bogotà. Berliner entomologische Zeitschrift 10, 173–216.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8340963">Kirsch, T. (1870) Beiträge zur Käferfauna von Bogotà. Berliner entomologische Zeitschrift 14, 337–378.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32058994">Kirsch, T. (1886) Neue südamerikanische Käfer. Berliner Entomologische Zeitschrift 30, 331–340.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Deutsche-Ent-Zeitschrift_24_1880_0121-0135.pdf">Kraatz, G. (1880) Die Arten der Tenebrioniden-Gattung Zophobas in Dr. Haag’s Sammlung. Deutsche Entomologische Zeitschrift 24, 121–135.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45981041">Kulzer, H. (1962) Neue Tenebrioniden aus Südamerika (Col.). 23. Beitrag zur Kenntnis der Tenebrioniden. Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München 13, 79–100.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9615257">Lacordaire, J.T. (1859) Histoire naturelle des insectes. Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome quatrième contenant les familles des buprestides, throscides, eucnémides, élatérides, cébrionides, cérophytides, rhipicérides, dascyllides, malacodermes, clérides, lyméxylones, cupésides, ptiniores, bostrichides et cissides. Tome cinquième. Première partie. Roret, Paris, 400 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9614621">Lacordaire, T. (1865) Histoire  naturelle  des  insectes. In: Genera des coléoptères, ou exposé méthodique et critique de tous les genres proposés jusquici dans cet orde dinsectes, par m. Th. Lacordaire. Librairie encyclopédique de Roret, Paris.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/6013197">Laporte de Castelnau, F. &amp; Brullé, A. (1831) Monographie du genre Diaperis. Annales des sciences naturelles 23, 325–410.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32717751">Laporte de Castelnau, F.L. (1840) Histoire naturelle des insectes Coléoptéres; avec une introduction renfermant l’anatomie et la physiologie des animaux articulés, par M. Brullé. Tome deuxième. P. Duménil, Paris, 563 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille, P.A. (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24864461">Latreille, P.A. (1825) Familles naturelles du règne animal, exposées succinctement et dans un ordre analytique, avec lindication de leurs genres. J. B. Baillière, Paris, 570 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12006531">Latreille, P.A. (1829) Les crustacés, les arachnides et les insectes, distribués en familles naturelles, ouvrage formant les tomes 4 et 5 de celui de M. le baron Cuvier sur le rège animal (deuxième édition). Tome second. Chez Déterville, Paris, 632 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/30021373">Latreille, P.A. (1833) Insectes de l’Amerique equinoxiale. In: in Humboldt H. &amp; Bonpland. A. (eds.) Recueil d’Observations de Zoologie et d’Anatomie Comparée; faites dans l’ocean Atlantique, dans l’Interior du nouveau continent et dans le mer du Sud, pendant les années 1799, 1800, 1801, 1802 et 1803, 2. J. Smith et Gide, Paris, pp. 9–138.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/17493547">Leach, W.E. (1815) Entomology [pp. 57–172]. In: Brewster D (Ed). Brewster’s Edinburgh Encyclopedia. Volume IX [part I]. W. Blackwood, J. Waugh, etc., Edinburgh, 764 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16328599">LeConte, J.L. (1852). Descriptions of new species of Coleoptera, from California. Annals of the Lyceum of Natural History of New York, 5, 125–216.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/26620891">LeConte, J.L. (1862) Classification of the Coleoptera of North America. Part I. Smithsonian Institution, Washington, 325 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28608523">LeConte, J.L. &amp; Horn, G.H. (1883) Classification of the Coleoptera of North America. Smithsonian Institution, Washington, 567 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16147519">Leng, C. (1920). Catalogue of the Coleoptera of America, North of Mexico. 470 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/44645761">Lepeletier, A.L.M. &amp; Audinet-Serville, J.G. (1825) 10 Encyclopédie méthodique. Histoire naturelle des animaux. Chez Panckoucke, Imprimeur-Libraire, Paris, 832 pp.</citation>
+                <citation identifier="https://linnean-online.org/120138/#?s=0&amp;cv=0">Linnaeus, C. von (1763) D.D. Centuria insectorum rariorum quam consent. experimentiss. fac. med. In Regia Academia Upsaliensi, praeside nobilissimo atque celeberrimo D:o Doct. Carolo von Linné, equite aurat. de Stella Polari. Publico examini submittit Boas Johansson, Calmariensis. In audit Carol. maj. d. XXIII. Junii. anni MDCCLXIII. h.a.m.s. Upsaliae, 32 pp.</citation>
+                <citation identifier="https://doi.org/10.3161/00034541ANZ2019.69.4.014">Lumen, R., Kamiński, M. J., Crowley, J., &amp; Smith, A. D. (2019). Revision of the genus Ulus Horn, 1870 (Coleoptera: Tenebrionidae: Opatrini: Blapstinina). Annales Zoologici, 69(4), 827–856.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/41989352">MacLeay, W.S. (1825) Annulosa Javanica or an attempt to illustrate the natural affinities and analogies of the Insects collected in Java by Thomas Horsfield, M.D. F.L. &amp; G.S. and deposited by him in the Museum of the Honourable East-India Company. Kingsbury, Parbury, and Allen, London, 50 pp. + 1 pl.</citation>
+                <citation identifier="https://www.researchgate.net/publication/328860406_Catalogo_de_los_Tenebrionoidea_Coleoptera_de_Nicaragua">Maes, J. &amp; Merkl, O. (1991) Catálogo de los Tenebrionoidea (Coleoptera) de Nicaragua. 17, 19–52.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13598848">Mäklin, F.W. (1862) Die Arten der Gattung Acropteron Perty, monographisch dargestellt. Acta Societatis Scientiarum Fennicae 7, 103–127.</citation>
+                <citation identifier="https://rcin.org.pl/ibd/dlibra/publication/104869/edition/80004/content">Mäklin, F.W. (1864) Monographie der gattung Strongylium Kirby, Lacordaire und der damit zunächst verwandten Formen. 107-410 pp. + 4 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13601935">Mäklin, F.W. (1867) Monographie der Gattung Strongylium Kirby, Lacordaire und der damit zunächst verwandten Formen. Acta Societatis Scientiarum Fennicae 8, 215-518 pp. +4 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7877552">Mäklin, F.W. (1875) Neue Cisteliden. Acta Societatis Scientiarum Fennicae 10: 661–682.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14434993">Mäklin, F.W. (1878) Nagra bidrag till känedom af slägtet Talanus Dejean Cat. Öfversigt af Finska Vetenskaps-Societetens Förhandlingar, 95–103.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14435076">Mäklin, F.W. (1878) Nya arter af slägtet Poecilesthus Blanchard. Öfversigt af Finska vetenskaps-societetens förhandlingar 20, 64–94.</citation>
+                <citation identifier="http://www.fundacionlasalle.org.ve/userfiles/mem_1949_9_25_333-352.pdf">Marcuzzi, G. (1949) Contribución al conocimiento de los Tenebrionidae de Venezuela. Memoria de la Sociedad de Ciencias Naturales “La Salle” 9, 333–352.</citation>
+                <citation>Marcuzzi, G. (1951). Contributi alla conoscenza dei Tenebrionidi venezuelani (Coleoptera). Specie inedite del genere Blapstinus, ed osservazioni su varie specie note. Atti Del Museo Civico Di Storia Naturale Di Trieste, 18, 61–80.</citation>
+                <citation>Marcuzzi, G. (1952) Un nuovo genere di Tenebrionidae del Venezuela. Memorie Museo Storia Naturale di Trieste 3, 31.</citation>
+                <citation>Marcuzzi, G. (1953) Un nuovo genere di Tenebrionidae (Col. Heter.) del Venezuela. Memorie della Museo Civico di Storia Naturale di Verona 3: 31–34.</citation>
+                <citation identifier="https://repository.naturalis.nl/pub/506148">Marcuzzi, G. (1954) Tenebrionid beetles of Curaçao, Aruba, Bonaire, and the Venezuelan Islands. Studies on the Fauna of Curaçao and other Caribbean Islands 5, 1–36.</citation>
+                <citation identifier="https://repository.naturalis.nl/pub/506206">Marcuzzi, G. (1959) Tenebrionid Beetles of Curaçao, Aruba, Bonaire, and Venezuela. Studies on the Fauna of Curaçao and Other Caribbean Islands, 9(1), 79–91.</citation>
+                <citation>Marcuzzi, G. (1961) Descrizione di nuove specie di Tenebrionidi neotropicali appartenenti alla tribù Epitragini. Università degli Studi di Trieste, Istituto di Zoologia, Pubblicazioni, 21–48.</citation>
+                <citation identifier="https://repository.naturalis.nl/pub/506189">Marcuzzi, G. (1977) Further studies on Caribbean tenebrionid beetles. Studies on the Fauna of Curaçao and Other Caribbean Islands, 52(170), 1–71.</citation>
+                <citation identifier="http://publication.nhmus.hu/pdf/folentom/FoliaEntHung_1984_Vol_45_1_69.pdf">Marcuzzi, G. (1984) A catalogue of Tenebrionid beetles (Coleoptera: Heteromera) of the West Indies. Folia entomologica hungarica 45, 69–108.</citation>
+                <citation identifier="http://publication.nhmus.hu/annales/cikkreszletes.php?idhoz=1444">Marcuzzi, G. (1986). Descrizione di nuovi taxa di Tenebrionidi Neotropicali (Coleoptera, Tenebrionidae). Annales Musei Historico-Naturalis Hungarici, 78, 177–185.</citation>
+                <citation identifier="https://doi.org/10.1080/03946975.1998.10539364">Marcuzzi, G. (1998) New Neotropical Tenebrionidae (Coleoptera Heteromera). Tropical Zoology 11, 217–224.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40276846">Motschulsky, V. (1872) Énumération des nouvelles espèces de Coléoptères rapportés de ses voyages. 11-ième article. Bulletin de la Société impériale des naturalistes de Moscou 45(3), 23–55.</citation>
+                <citation identifier="https://www.google.com/books/edition/Memoires/Hb4AAAAAYAAJ?hl=en&amp;gbpv=1&amp;pg=RA2-PA226&amp;printsec=frontcover">Mulsant, É. &amp; Rey, C. (1853). Essai d’une division des derniers Mélasomes. Mémoires de l’Académie Nationale Des Sciences, Belles-Lettres et Arts de Lyon Classe Des Sciences (Nouvelle Série), 2, 226–329.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k5488517n/f135.item.zoom">Mulsant, É. &amp; Rey, C. (1859) Essai d’une division des derniers Mélasomes. Annales des Sciences Physiques et Naturelles, d’Agriculture et d’Industrie de Lyon (Troisième Série) 3, 129–259.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36422729">Mulsant, É. &amp; Rey, C. (1859) Essai d’une division des derniers Mélasomes. Famille des Parvilabres, Quatrième tribu. Opatrites. Opuscules Entomologiques, 10, 1–160.</citation>
+                <citation identifier="https://www.google.com/books/edition/Lehrbuch_der_Naturphilosophie/5rRjAAAAcAAJ?hl=en&amp;gbpv=0">Oken, L. (1843) Lehrbuch der Naturphilosophie. Dritte, neu bearbeitete Auflage. F. Schulthess, Zürich, 523 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7609575">Olivier, G.A. (1792) Encyclopédie méthodique. Histoire naturelle. Insectes. Tome septième. Chez Panckoucke, Librarie, Paris, 827 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40642325">Olivier, G.A. (1795) Entomologie, ou histoire naturelle des insectes. Coléoptères, Tome Troisième. Lanneau, Paris, 519 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/60414073">Pallas, P.S. (1781) Icones insectorvm: praesertim Rossiae Sibiriaeqve pecvliarivm. Svmptv Wolfgangi Waltheri, Erlangae.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/15259624">Panzer, G.W.F. (1797) Favnae insectorvm Germanicae initia, oder, Deutschlands Insecten. In den Felseckerschen Buchhandlung, Nürnberg, 24 pp. + 24 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/20289648">Pascoe, F.P. (1860) Notices of new or little known genera and species of coleoptera. Part II. The Journal of entomology 1, 98–132.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13388045">Pascoe, F.P. (1866) Notices of new or little-known genera and species of Coleoptera. Part V. The Journal of entomology 2, 443-493 pp, 18-19 pls.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/31753223">Pascoe, F.P. (1866) On the Longicornia of Australia, with a list of all the described species. The Journal of the Linnean Society of London. Zoology 9, 80–142.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14787127">Pascoe, F.P. (1868) Contributions to a knowledge of the Coleoptera, Part I. The Proceedings of the Entomological Society of London 1868, xi–xiii.</citation>
+                <citation identifier="https://doi.org/10.1080/00222937108696503">Pascoe, F.P. (1871) XLVI.—Notes on Coleoptera, with descriptions of new genera and species.—Part I. Annals and Magazine of Natural History 8, 345–361.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/3491602">Perroud, B.P. &amp; Mulsant, É. (1856) Description de deux nouvelles espèces de coléoptères constituant un genre nouveau dans la famille des Ulomiens. Annales de la Société Linnéenne de Lyon (Nouvelle Série) 3, 160–165.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57932815">Perty, J.A.M. (1830) Delectus animalium articulatorum: quae in itinere per Brasiliam, annis MDCCXVII-MDCCCXX jussu et auspiciis Maximiliani Josephi I. Bavariae regis augistissimi peracto collegerunt Dr. J.B. de Spix et Dr. C.F.Ph. de Martius. Digessit, descripsit, pingenda curavit Dr. Maximilianus Perty, praefatus est et edidit Dr. C.F.Ph. de Martius. Impensis Editoris, Monachii, 359 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/57932830">Perty, M. (1832) Insecta Brasiliensia. In: Delectus animalium articulatorum, quae in itinere per Brasiliam, annis MDCCCXVII-MDCCCXX: jussu et auspiciis Maximiliani Josephi I. Impensis Editoris, Monachii, pp. 1–190.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/60145605">Pic, M. (1907) Coléoptères exotiques nouveaux ou peu connus. L’Echange 23, 125–128.</citation>
+                <citation identifier="https://doi.org/10.3406/bsef.1913.25275">Pic, M. (1913) Deux nouveaux Goniadera Perty de l’Amérique méridionale [Col. Tenebrionidae]. Bulletin de la Société entomologique de France 18, 133–134.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371524">Pic, M. (1913) Nouveaux genres et nouvelles espèces. Mélanges exotico-entomologiques Sixième fascicule, 1–7.</citation>
+                <citation identifier="https://www.zin.ru/animalia/coleoptera/pdf/l-echange_1914_30_349-360.pdf">Pic, M. (1914) Coleoptéres exotiques en partie nouveaux. Échange 30, 6–7, 21–22, 38–40, 61–62, 71, 79-80.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371195">Pic, M. (1914) Descriptions abrégées de Malacodermes et Hétéromères. Mélanges exotico-entomologiques, Onzième fascicule, 8–20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371349">Pic, M. (1915) Diagnoses d’Hétéromères. Mélanges exotico-entomologiques 16, 14–24.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36629667">Pic, M. (1917) Descriptions Abrégees Diverses. Mélanges exotico-entomologiques 23, 2–20.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00024/picmau0001melexov00000i00024.pdf">Pic, M. (1917) Descriptions Abrégees Diverses. Mélanges exotico-entomologiques 24, 2–24.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00026/picmau0001melexov00000i00026.pdf">Pic, M. (1917) Descriptions Abrégees Diverses. Mélanges exotico-entomologiques 26, 1–24.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00028/picmau0001melexov00000i00028.pdf">Pic, M. (1918) Courtes Descriptions Diverses. Mélanges exotico-entomologiques 28, 1–24.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36313602">Pic, M. (1921) Nouveautés diverses. Mélanges exotico-entomologiques 34, 1–33.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371704">Pic, M. (1922) Nouveautés diverses. Mélanges exotico-entomologiques 35, 1–32.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00042/picmau0001melexov00000i00042.pdf">Pic, M. (1924) Nouveautés diverses. Mélanges exotico-entomologiques 42, 1–32.</citation>
+                <citation>Pic, M. (1925) CoIéoptères exotiques en partie nouveaux (suite). L’Échange 41, 11–12.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00048/picmau0001melexov00000i00048.pdf">Pic, M. (1927) Nouveautés diverses. Mélanges Exotico-Entomologiques, 48, 1–36.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00053/picmau0001melexov00000i00053.pdf">Pic, M. (1929) Nouveautés diverses. Mélanges Exotico-Entomologiques, 53, 1–36.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00058/picmau0001melexov00000i00058.pdf">Pic, M. (1931) Nouveautes diverses. Mélanges exotico-entomologiques 58: 1–36.</citation>
+                <citation identifier="https://www.persee.fr/doc/bsef_0037-928x_1931_num_36_12_28447">Pic, M. (1931) Nouveaux Coléoptéres de la Colombie. Bulletin de la Société entomologique de France, 36(2), 192-194.</citation>
+                <citation>Pic, M. (1933) CoIéoptères exotiques en partie nouveaux (suite). L’Échange 49, 3–4.</citation>
+                <citation identifier="https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-natural-history-museum/09-1933/irscnb_p4087_00ea78p_9-bulletin-12-red.pdf">Pic, M. (1933) Hétéromères (Alleculidae) nouveaux (Insectes Coléopt.). Bulletin du Musée royal d’Histoire naturelle de Belgique 9: 1–3.</citation>
+                <citation>Pic, M. (1934) Nouveautés diverses. Mélanges exotico-entomologiques 64, 1–36.</citation>
+                <citation>Pic, M. (1935) Nouveautés diverses. Mélanges exotico-entomologiques 66, 1–36.</citation>
+                <citation>Pic, M. (1936) Nouveautés diverses. Mélanges exotico-entomologiques 68, 11–36.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24755988">Piller, M. &amp; Mitterpacher, L. (1783) Iter per Poseganam Sclavoniae provincism mensibus junio, et julio anno 1782. Typis Regiae Universitatis, Budae, 188 pp.</citation>
+                <citation identifier="https://doi.org/10.3958/059.039.0105">Polanía, I.Z. de, Quiroga-Murcia, D.E., Piedras, J.J.G. &amp; Blanco, C.A. (2014) A False Wireworm (Coleoptera: Tenebrionidae) Acting as a Cutworm of Tomato Plants in Greenhouses. Southwestern Entomologist 39, 37–48.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/26709010">Reitter, E. (1877) Coleopterorum species novae. Verhandlungen der Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wien 27, 165–194.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/12081767">Reitter, E. (1894) Coleopterologische Notizen. Wiener Entomologische Zeitung 13, 15–16.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/11583873">Reitter, E. (1917) Bestimmungs-Schlüssel für die Unterfamilien und Tribus der paläarktischen Tenebrionidae. Wiener entomologische Zeitung 36, 51–66.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10990686">Sahlberg, C.R. (1823) Periculi entomographici, species insectorum nondum descriptas proposituri, fasciculus. Frenckel, Aboae.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24668779">Say, T. (1824) Descriptions of coleopterous insects collected in the late expedition to the Rocky Mountains, performed by order of Mr. Calhoun, Secretary of War, under the command of Major Long. By Thomas Say, Zoologist to the Expedition. Journal of the Academy of Natural Sciences of Philadelphia, 3(1), 139–216.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/6963192">Schaum, H. (1852) Bericht über die Leistungen in der Entomologie während des Jahres 1851. Archiv für Naturgeschichte 18, 105–256.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34724626">Seidlitz, G. (1895) [Tenebrionidae]. In: Kiesenwetter H, von, Seidlitz G (Eds) Naturgeschichte der Insecten Deutschlands. Erste Abteilung. Coleoptera. Fünfter Band. [Erste Hälfte]. Vierte Lieferung. Nicolaische Verlags-Buchhandlung, Berlin, pp. 609–800.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.537.6115">Smith, A.D. &amp; Sanchez, L.A. (2015) Revision of the West Indian Wattius Kaszab (Tenebrionidae, Toxicini, Eudysantina) with lectotype designations for Pascoe’s South American species. ZooKeys 537, 111–130.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32515614">Solier, A.J.J. (1834) Essai d’une division des coléoptères hétéromères, et d’une monographie de la famille des Collaptèrides. Annales de la Société entomologique de France 3, 479–636.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8311951">Solier, A.J.J. (1835) Prodrome de la famille des xystropides. Annales de la Société Entomologique de France 4: 229–248.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/40161343">Solier, A.J.J. (1848) Essai sur les collaptérides. Studi Entomologici 1, 149-370 + 112 pls.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16444167">Solier, A.J.J. (1851) Insectos. Coleopteros. In: Gay C (Ed.) Historia física y política de Chile según documentos adquiridos en esta república durante doce años de residencia en ella y publicada bajo los auspicios del supremo gobierno. Zoología Tomo quinto, 5–285.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16290699">Spilman, T.J. (1973) Nomenclatural problems in six genera of Tenebrionidae (Coleoptera). Proceedings of the Entomological Society of Washington, 39–44.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6248306s">Spinola, M. (1844) Essai monographique sur les clérites, insectes coléoptères. Tome Second. Imprimerie des Frères Ponthenier, Génes, 216 pp. + 47 pl.</citation>
+                <citation identifier="https://doi.org/10.1649/619">Steiner Jr., W.E. (2004) The first records of Bycrea villosa Pascoe (Coleoptera: Tenebrionidae) in the United States, Central America and Colombia and notes on its association with leaf-cutting ants. The Coleopterists Bulletin, 58(3), 329–334.</citation>
+                <citation identifier="https://www.ingentaconnect.com/content/miiz/annales/2005/00000055/00000004/art00006?">Steiner Jr., W.E. (2005) Two new species of three-horned Hypogena from Peru (Coleoptera: Tenebrionidae). Annales Zoologici 55, 571–574.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35749740">Stephens, J.F. (1829) The nomenclature of British insects: being a compendious list of such species as are contained in the systematic catalogue of British insects, and forming a guide to their classification. Baldwin and Cradock, London, 68 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36104204">Thomson, J.L. (1859) Arcana naturae, ou Recueil d’histoire naturelle. Société entomologique de France, Paris, 132 pp. + 13 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/34578300">Thunberg, C.P. (1814) Beskrifning På tvänne nya Insect-Slågten, Gnatocerus och Taumacera från Goda-Hopps Udden. Svenska Vetenskaps Akademien Nya Handlingar 1814: 46–50.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7758847">Triplehorn, C.A. (1966) Revision of Diaperini of America north of Mexico with notes on extralimital species (Coleoptera: Tenebrionidae). Proceedings of the United States National Museum 117(3515), 349-457 pp. + 7 pl.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999258">Triplehorn, C.A. (1968) A synopsis of the genus Talanus Jacquelin du Val in America north of Mexico, with descriptions of two new species. The Coleopterists Bulletin 22, 33–39.</citation>
+                <citation identifier="http://www.jstor.org/stable/4008838">Triplehorn, C.A. (1991) A review of the genus Phaleria Latreille from the Western Hemisphere (Coleoptera: Tenebrionidae: Phaleriinae). The Coleopterists Bulletin 45, 258–270.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009106">Triplehorn, C.A. (1994) A new species of Platydema Laporte and Brullé from Peru, with notes on similar species (Coleoptera: Tenebrionidae). The Coleopterists Bulletin 48, 245–251.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16150178">Triplehorn, C.A. (1998) A review of the genus Liodema Horn (Coleoptera: Tenebrionidae) with description of a new species from Costa Rica and Panama. Proceedings of the Entomological Society of Washington, 100(2), 324-330.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/part/69127">Triplehorn, C.A. (2006) Studies in Neotropical Neomida: A synopsis of the genus Neomida (Coleoptera: Tenebrionidae: Diaperini) from America north of Colombia with notes on other Western Hemisphere species. Proceedings of the Entomological Society of Washington, 108, 312–334.</citation>
+                <citation identifier="https://www.jstor.org/stable/4008210">Tschinkel, W.R. (1984) Zophobas atratus (Fab.) and Z. rugipes Kirsch (Coleoptera: Tenebrionidae) Are the Same Species. The Coleopterists Bulletin 38(4), 325–333.</citation>
+                <citation identifier="https://doi.org/10.21930/agrosavia.manual.7404944">Vergara-Navarro, E.V., Montenegro-Silva, L.M. &amp; Serna, F. (2021) Catálogo de Coleoptera de la Colección Taxonómica Nacional de Insectos: “Luis María Murillo” (CTNI). Editorial AGROSAVIA.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16336302">Waterhouse, C.O. (1880) Description of new genus and species of heteromerous Coleoptera. The Annals and magazine of natural history; zoology, botany, and geology, Series 5 5, 147–148.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24343312">Waterhouse, C.O. (1894) Coleoptera (partim). In: Walker J. A visit to Damma Island, East In- dian Archipelago. With notes on the fauna. The Annals and Magazine of Natural History (Sixth Series) 14, 49–59.</citation>
+                <citation identifier="https://www.jstor.org/stable/4007973">Watrous, L.E. &amp; Triplehorn, C.A. (1982) Phaleria of the West Indies and circum-Caribbean region (Coleoptera: Tenebrionidae). The Coleopterists Bulletin 36, 12–21.</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6124598p/f16.item">Ardoin, P. (1977) Contribution à l’étude des espèces américaines du genre Doliema Pascoe [Col. Tenebrionidae]. Annales de la Société Entomologique de France (Nouvelle Série) 13, 1–20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/10186838">Borchmann, F. (1916) Die Gattung Colparthrum Kirsch (Col.). Entomologische Mitteilungen 5, 228–237.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/45493698">Borchmann, F. (1921) Die amerikanischen Gattungen und Arten der Statirinae (Unterfamilie der Lagriidae). Archiv für Naturgeschichte (A) 87, 216–357.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53208467">Borchmann, F. (1936) 204. Coleoptera Heteromera. Fam. Lagriidae. In: Genera insectorum. L. Desmet-Verteneuil, Bruxelles, p. 561.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/bibliography/50292">Campbell, J.M. (1966) A revision of the genus Lobopoda (Coleoptera: Alleculidae) in North America and the West Indies. University of Illinois Press, Urbana, 228 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/580934">Champion, G.C. (1889) Biologia Centrali-Americana: zoology, botany and archaeology. Insecta. Coleoptera. Vol. IV. Part II. Heteromera (part). 494 pp. + 21 pl.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14682096">Champion, G.C. (1896) On the heteromerous Coleoptera of St. Vincent, Grenada, and the Grenadines. The Transactions of the Entomological Society of London (year 1896): 1–54.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9187136">Champion, G.C. (1917) Notes on tropical American Lagriidae, with descriptions of new species. The Entomologist’s Monthly Magazine 53, 132–154.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9187242">Champion, G.C. (1917) Notes on tropical American Lagriidae, with descriptions of new species. The Entomologist’s Monthly Magazine 53, 218–223.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14689214">Champion, G.C. (1917) VIII. On new and little-known Lagriidae from Tropical America. Transactions of the Entomological Society of London 65, 169–267.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14785037">Erichson, G.F. (1847) Conspecfus Insectorum Coleopterorum, quae in Republica Peruana observata sunt, auctore G. F. Erichson. Archiv für Naturgeschichte 13, 67–185.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/35303487">Erichson WF (1849) Insecten. In: Reisen in British-Guiana in den Jahren 1840–1844. Im Auftrag Sr. Mäjestat des Königs von Preussen ausgeführt von Richard Schomburgk. Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern. Mit Abbildungen und einer Karte von British-Guiana aufgenommen von Sir Robert Schomburgk. Dritter Theil. J.J. Weber, Leipzig, 553–617.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/25523679">Fabricius, J.C. (1787) Mantissa insectorvm sistens eorvm species nvper detectas adiectis characteribvs genericis, differentiis specificis, emendationibvs, observationibvs. Tom. II. Christ. Gottl. Proft, Hafniae, 382 pp.</citation>
+                <citation identifier="https://doi.org/10.3406/bsef.1998.17446">Ferrer, J. &amp; Moraguès, G. (1998) Contribution à la connaissance des Tenebrionidae néotropicaux : le genre Phymatestes Pascoe, 1868 (Coleoptera). 1re partie : le groupe de Ph. tuberculatus. Bulletin de la Société entomologique de France 103, 373–392.</citation>
+                <citation identifier="https://doi.org/10.3406/bsef.2000.16646">Ferrer, J. &amp; Moraguès, G. (2000) Contribution à la connaissance des Ténébrionides néotropicaux. Le genre Phymatestes Pascoe, 1868. 2e partie : les groupes de Phymatestes exsculptus Perty et Phymatestes monstrosus Gebien (Coleoptera, Tenebrionidae). Bulletin de la Société entomologique de France 105, 113–123.</citation>
+                <citation identifier="http://sea-entomologia.org/Publicaciones/PDF/BOLN_48/287319BSEA48Zophobas.pdf">Ferrer, J. (2011) Revisión del género Zophobas Dejean, 1834 (Coleoptera, Tenebrionidae, Tenebrionini). Boletín de la Sociedad Entomológica Aragonesa 48, 287–319.</citation>
+                <citation identifier="https://doi.org/10.2307/25076202">Horn, G.H. (1868) New species of Coleoptera from the Pacific District of the United States. Transactions of the American Entomological Society (1867-1877) 2, 129–140.</citation>
+                <citation identifier="https://doi.org/10.1649/0010-065X-75.3.594">Ivie, M.A., Aalbu, R., Barclay, M.V.L., Johnston, M.A., Kamiński, M.J., Kanda, K. &amp; Iwan, D. (2021) Placement of the orphan genus Asiopus Sharp, 1891 (Coleoptera: Tenebrionidae: Adeliini/Platynotini) and the synonymy of Alaetrinus Iwan, 1995. The Coleopterists Bulletin 75, 594–598.</citation>
+                <citation identifier="https://doi.org/10.1007/s00435-019-00443-7">Kamiński, M.J., Lumen, R., Kubicz, M., Steiner, W., Kanda, K. &amp; Iwan, D. (2019) Immature stages of beetles representing the “Opatrinoid” clade (Coleoptera: Tenebrionidae): an overview of current knowledge of the larval morphology and some resulting taxonomic notes on Blapstinina. Zoomorphology 138, 349–370.</citation>
+                <citation identifier="https://doi.org/10.56222/28166531.2023.10">Lugo de la Hortúa, A. &amp; Clavijo-Bustos, J. (2023) First record of the genus and species, Ancylopoma punctigera Pascoe, 1871 (Tenebrionidae: Lagriinae: Goniaderini) from Colombia. Specimen. 10, 1–2.</citation>
+                <citation identifier="https://www.zobodat.at/pdf/Ent-Nachrbl-Troppau_10_0073-0102.pdf">Mader, L. (1936) Bestimmungstabelle der Coleopterenfamilie Nilionidae. Entomologisches Nachrichtenblatt (Troppau) 10, 73–102.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14435116">Mäklin, F.W. (1878) Diagnoser öfver förut obeskrifna Statira-arter från Nya Granada. Öfversigt af Finska Vetenskaps-Societetens Förhandlingar, 104–117.</citation>
+                <citation identifier="https://www.jstor.org/stable/3999238">Marshall, J.D. (1967) Xystropus californicus (Horn), a Questionable Member of the United States Fauna (Coleoptera, Alleculidae). The Coleopterists Bulletin 21, 85–85.</citation>
+                <citation identifier="https://doi.org/10.1080/00222938709460006">Pascoe, F.P. (1887) II.—Notes on Coleoptera, with descriptions of new genera and species.—Part VI. Annals and Magazine of Natural History 20, 8–20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371392">Pic, M. (1911) Descriptions brèves de vingt-huit hétéromères exotiques. Mélanges exotico-entomologiques, Premier fascicule, 5–13.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/60138841">Pic, M. (1912) Coléoptères exotiques nouveaux ou peu connus (suite). L’Echange 28(334), 75–77.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36371457">Pic, M. (1912) Descriptions d’espèces et variétés diverses. Mélanges exotico-entomologiques Troisième fascicule, 6–20.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50515935">Pic, M. (1917) Descriptions, synopsis et rectifications concernant le groupe des Lagriidae. L’Echange, hors-texte 33, 1–4.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/36510148">Pic, M. (1918) Courtes descriptions diverses. Mélanges exotico-entomologiques 27, 1–24.</citation>
+                <citation identifier="https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2011-09/picmau0001melexo/picmau0001melexov00000i00055/picmau0001melexov00000i00055.pdf">Pic, M. (1930) Nouveautés diverses. Mélanges exotico-entomologiques 55, 1–36.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13640703">Say, T. (1824) Coleoptera. In: Narrative of an expedition to the source of St. Peters River, Lake Winnepeek, Lake of the Woods, performed in the year 1823, Vol. 2. pp. 268–378.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7912302">Sharp, D. 1891. Coleoptera (continued) [pp. 40–44]. In: Supplementary Appendix to Travels Amongst the Great Andes of the Equator (E. Whymper, editor). John Murray, Albemarle Street, London, xxv + 147 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8888615">Thomson, J. (1860) Monographie de la famille des Nilionides. Musée scientifique ou receuil d’histoire naturelle, 5–40.</citation>
+                <citation>Weidner, H. (1974). Die Entomologischen Sammlungen des Zoologischen Instituts und Zoologischen Museums der Universität Hamburg, IX. Teil, Insecta VI. Mitteilungen des Hamburgischen Zoologischen Museums und Instituts, 73: 87-264.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-coleocol.png</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/66c45745-a918-40b2-9320-91f3a6266f8d</collectionIdentifier>
+                <collectionName>California Academy of Sciences (CASENT)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/15fec633-d734-4ce6-90ae-63dcc71accf7</collectionIdentifier>
+                <collectionName>Hungarian Natural History Museum (HNHM)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/6a6ac6c5-1b8a-48db-91a2-f8661274ff80</collectionIdentifier>
+                <collectionName>Muséum national d’Histoire naturelle (MNHN)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/33ca9fc4-ec86-4d63-89e4-626dd2043a25</collectionIdentifier>
+                <collectionName>Staatliches Museum fuer Tierkunde (MTKD)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/9e87321e-8dbc-460a-b553-9a68c2858b1d</collectionIdentifier>
+                <collectionName>Finnish Museum of Natural History (MZH)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/1d808a7c-1f9e-4379-9616-edb749ecf10e</collectionIdentifier>
+                <collectionName>The Natural History Museum (NHMUK)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/e772c6d6-bbc8-40c8-92e9-b74407e1f5bb</collectionIdentifier>
+                <collectionName>Naturhistorisches Museum Basel (NMB)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/020fbd1e-e1cb-4343-a7d3-81efe3d317aa</collectionIdentifier>
+                <collectionName>Naturhistoriska Riksmuseet (NRS)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/774f65a5-ed87-4356-9515-ea9fd8d68650</collectionIdentifier>
+                <collectionName>Zoologische Staatssammlung München (SNSB-ZSM)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/586ee56e-b0fe-4dff-b7f9-aeb104f3308a</collectionIdentifier>
+                <collectionName>Smithsonian Institution, National Museum of Natural History (USNM)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/773a0d99-3ea8-4a8b-9191-accbdb47b4d3</collectionIdentifier>
+                <collectionName>Zoologisches Museum Hamburg (ZMH)</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/institution/68fcaba0-61fe-4e78-a460-4f37654d025d</collectionIdentifier>
+                <collectionName>Natural History Museum of Denmark (ZMUC)</collectionName>
+              </collection>
+          <dc:replaces>805272fe-e6f6-4675-9c30-ef8cb56cf84f/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

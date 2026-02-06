@@ -1,0 +1,3 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat
+catalogueoflife.org/data/taxon/MLVGH	FALSO	VERDADERO	FALSO	Adulto	Terrestre
+catalogueoflife.org/data/taxon/MLVGH	FALSO	VERDADERO	FALSO	Larva	Terrestre

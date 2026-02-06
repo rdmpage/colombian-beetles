@@ -1,0 +1,311 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=hydraenidae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/33qho2</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=hydraenidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Hydraenidae (Coleoptera: Staphylinoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-07-14
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Hydraenidae (Coleoptera: Staphylinoidea) con ocurrencia conocida para el territorio colombiano. Se listaron dos subfamilias, dos tribus, una subtribu, dos géneros, dos subgéneros y 11 especies. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos de musgo diminutos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://sites.google.com/view/coleopcol/listados</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Hydraenidae (Coleoptera: Staphylinoidea) que se han registrado para el territorito colombiano de acuerdo con la literatura. En total se registraron 11 especies distribuidas en los departamentos de Antioquia (1 sp.), Atlántico (3 spp.), Chocó (1 sp.), Córdoba (1 sp.), Cundinamarca (4 spp.), Magdalena (2 spp.), Meta (1 sp.) y Sucre (1 sp.).</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1794-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2011-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Este recurso presenta el listado de las especies de la familia Hydraenidae (Coleoptera: Staphylinoidea) registrados para Colombia. Se presentaron 11 especies distribuidas en dos géneros, dos subgéneros, una subtribu, dos tribus y dos subfamilias. El género Hydraena mostró siete especies, y el género Ochthebius, cuatro. A pesar de estos bajos resultados de riqueza en Colombia, ésta familia se considera hiperdiversa con aproximadamente 1500 especies descritas, siendo Hydraena el género de escarabajos acuáticos con más especies en todo el mundo. Son una familia de escarabajos acuáticos de tamaño muy pequeño, entre 1 y 3 mm, lo cual puede ser una razón para que sean poco estudiados en nuestro país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hydraenidae</taxonRankValue>
+                  <commonName>Escarabajos de musgo diminutos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Hydraeninae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Hydraenini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydraena</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Ochthebiinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Ochthebiini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subtribe</taxonRankName>
+                <taxonRankValue>Ochthebiina</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ochthebius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Gymnochthebius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subgenus</taxonRankName>
+                <taxonRankValue>Ochthebius</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora Independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de la especies registradas para el país se hizo a partir del catálogo de Blackwelder (1944) y de las revisiones taxonómicas del grupo (Perkins 1980, 2011). Adicionalmente, fueron consultados trabajos más recientemente publicados para incluir taxones adicionales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en las descripciones originales y en el catálogo de Blackwelder (1944).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Para verificar la identidad de los diferentes taxones se utilizaron proveedores de datos de biodiversidad como GBIF y el Index to Organism Names (ION).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todas las publicaciones en los que se cita cada taxón para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y nuevos registros. Se proveen  enlaces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Hydraenidae (Coleoptera: Byrrhoidea) que se han registrado para Colombia de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Hydraenidae (Coleoptera: Staphylinoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente a partir del catálogo de Blackwelder (1944), se complementó con las revisiones taxonómicas del grupo (Perkins, 1980; 2011) y las descripciones originales (Delgado &amp; Collantes, 1996; LeConte, 1852; 1855 y 1878).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogo de Blackwelder (1944) y revisiones recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis Mairu</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol,   https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>El listado compila los nombres de las especies de la familia Hydraenidae (Coleoptera: Staphylinoidea) que se han reportado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Se compiló información sobre los nombres, autores y referencias de la familia Hydraenidae (Coleoptera: Staphylinoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente del catálogo de Blackwelder (1944), posteriormente se consultó la revisión de la familia Hydraenidae en el hemisferio occidental realizada por Perkins (1980) y la revisión taxonómica del género Hydraena en SurAmérica (Perkins, 2011).</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-07-11T15:50:32.106+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/33qho2">Hincapié-Montoya D (2022): Listado de las especies de Hydraenidae (Coleoptera: Staphylinoidea) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/33qho2</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. </citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. </citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3478.1.23">Deler-Hernandez, A., &amp; Delgado, J. A. (2012). The Hydraenidae of Cuba (Insecta: Coleoptera) I: Contribution to the fauna of eastern Cuba. Zootaxa, 3478(1): 213-238.</citation>
+                <citation identifier="https://ur.booksc.eu/book/22139442/188a31">Delgado JA &amp; Collantes F. (1996). A new species of water beetle, Hydraena delvasi, from Colombia, South America (Coleoptera: Hydraenidae). Studies on Neotropical Fauna and Environment, 31 (1): 54-56.</citation>
+                <citation>Hatch, M.H. (1965). The beetles of the Pacific Northwest. Part IV: Macrodactyles, Palpicornes, and Heteromera. University of Washington Press, Seattle, 268 pages.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7490847">Horn, G.H. (1890). Notes on the species of Ochthebius of Boreal America. Transactions of the American Entomological Society, 17: 17-26.</citation>
+                <citation>Ienistea, M.A. (1988). Vorläufige Beiträge zur Revision einiger Ochthebiidae (Coleoptera), pp. 217-238. In: Lucrarile celei de a IV-a Conferinte Nationale de Entomologie, Cluj-Napoca, 29-31 mai, 1986. Cluj-Napoca.</citation>
+                <citation identifier="https://www.jstor.org/stable/4009036">Jäch, M.A. (1994) Descriptions of new species of Hydraenidae (Coleoptera) from Texas, Indiana, and Oklahoma, with faunistic and taxonomic notes on the family in Texas. The Coleopterists Bulletin, 48(4): 301–308.</citation>
+                <citation identifier="https://doi.org/10.1515/9783110373929">Jäch, M. A, Beutel, R. G, Delgado, J.A. &amp; Díaz, J.A. (2016) 14.1 Hydraenidae Mulsant, 1844. En: Beutel, R. G. &amp; Leschen. Handbook of Zoology, Arthropoda: Insecta. Volume 1 Coleoptera, Beetles. Morphology and Systematics (pp. 316-345). De Gruyter.</citation>
+                <citation identifier="https://www.jstor.org/stable/41767185">Jäch, M.A., Beutel, R.G., Díaz, J.A. &amp; Kodada, J. (2000) Subgeneric classification, description of head structures, and world check list of Hydraena Kugelann (Insecta: Coleoptera: Hydraenidae). Annalen des Naturhistorischen Museums in Wien, 102B, 177–258.</citation>
+                <citation>Janssens, E. (1972) Essai sur la systematique des Hydraena des regions intertropicales. Bulletin et Annales de la Société royal belge d’Entomologie, 108, 253–261.</citation>
+                <citation identifier="https://gdz.sub.uni-goettingen.de/id/PPN605435669_0001?tify={%22pages%22:[600],%22view%22:%22info%22}">Kugelann JG (1794) Verzeichniß der in einigen Gegenden Preußens bis jetzt entdeckten Käfer=Arten, nebst kurzen Nachrichten von denselben. In: Schneider DH (Ed.) Neuestes Magazin für die Liebhaber der Entomologie.Vol. I, part 5. D. H. Schneider, Stralsund, 513–582</citation>
+                <citation identifier="https://www.google.com/books/edition/Illustrierte_bestimmungs_tabellen_der_k/Z40cAQAAMAAJ?hl=en&amp;gbpv=1">Kuhnt, P. (1912). Illustrierte Bestimmungs-Tabellen der Käfer Deutschlands. Ein Handbuch zum genauen und leichten Bestimmen aller in Deutschland vorkommenden Käfer. E. Schweizerbart&apos;sche Verlagsbuchhandlung, Stuttgart. vii + 1138 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/33292706">Kuwert, A. (1887). Ubersicht der Europaischen Ochthebius Arten. Deutsche Entomologische Zeitschrift, 31:369-401.</citation>
+                <citation identifier="http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf">Laython, M. (2017) Los coleópteros acuáticos (Coleoptera: Insecta) en Colombia, distribución y taxonomía. Tesis de Maestría, Universidad Nacional de Colombia, Bogotá. 246 pp. http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/17493489">Leach, W. E. (1815). Entomology. Pp. 57-172 in: Brewster, D. (ed.). The Edinburgh encyclopedia. Edinburgh: William Blackwood, Volume 9.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/16328599">LeConte, J.L. (1852). Descriptions of new Coleoptera from California. Annals of the Lyceum of Natural History of New York, 5: 185-216.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/1694470">LeConte, J.L. (1855). Synopsis of the Hydrophilidae of the United States. Proceedings of the Academy of Natural Sciences of Philadelphia, 7: 356-375.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/29847962">LeConte, J.L. (1878). Additional descriptions of new species. Proceedings of the American Philosophical Society, 17: 373-434.</citation>
+                <citation identifier="https://doi.org/10.31910/rudca.v21.n1.2018.674">Mosquera Murillo, Z., &amp; Sánchez Vázquez, S. P. (2018). Inventario preliminar de la riqueza genérica y distribución de los coleópteros acuáticos del departamento del Chocó, Colombia. Revista U.D.C.A Actualidad &amp; Divulgación Científica, 21(1): 155–165.</citation>
+                <citation identifier="https://books.google.fr/books?id=8Lkjy7AHLwQC&amp;pg=PA192&amp;source=gbs_selected_pages&amp;cad=3#v=onepage&amp;q&amp;f=false">Mulsant, ME. (1844). Histoire Naturelle des Coléoptères de France. Palpicornes. París, Maison, Libraire, Quai des Augustins, 29: 1-196</citation>
+                <citation identifier="https://docplayer.fr/131597198-Recoltes-du-dr-0-schubart-p-aijpioornia.html">Orchymont, A d&apos;. (1943). Faune du nord-est bresilien (recoltes du Dr. O. Schubart). Palpicornia. Memoires du Musee royal d’Histoire Naturelle de Belgique, deuxieme serie, 28: 1-85.</citation>
+                <citation identifier="http://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-natural-history-museum/19-1943/bull-19-art10.pdf">Orchymont, A d&apos;. (1943) Contributions a l´estude du sous-genre Ochthebius (s. str.) Kuwert, 1887 (Coleoptera Palpicornia Hydraenidae). Bulletin du Musée Royal d’Histoire Naturelle de Belgique, 19(10): 1–24</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/part/204327">Perkins PD. (1980). Aquatic beetles of the family Hydraenidae in the Western Hemisphere: classification, biogeography and inferred phylogeny (Insecta: Coleoptera). Quaestiones Entomologicae, 16 (1-2): 3-554.</citation>
+                <citation identifier="https://www.mapress.com/zt/article/view/zootaxa.3074.1.1">Perkins PD. (2011).  New records and description of fifty-four new species of aquatic beetles in the genus Hydraena Kugelann from South America (Coleoptera: Hydraenidae). Zootaxa, 3074: 1-198.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/577038">Sharp, D. (1882). Biologia Centrali-Americana, Insecta, Coleoptera, Haliplidae, Dytiscidae, Gyrinidae, Hydrophilidae, Heteroceridae, Parnidae, Georissidae, Cyathoceridae. 1(2): 1-144.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54335801">Thomson, C.G (1859). Skandinaviens Coleoptera, synoptiskt bearbetade, vol. 1. 290.</citation>
+                <citation identifier=" https://doi.org/10.11646/zootaxa.3021.1.4">Valladares, L. F., &amp; Short, A. E. Z. (2011). Revision of the Ochthebiinae of Venezuela (Coleoptera: Hydraenidae). Zootaxa, 3021(1): 63-68.</citation>
+                <citation identifier="https://doi.org/10.1111/syen.12318">Villastrigo, A., M. A. Jäch, A. Cardoso, L. F. Valladares y I. Ribera. (2018). A molecular phylogeny of the tribe Ochthebiini (Coleoptera, Hydraenidae, Ochthebiinae). Systematic Entomology, 1–37.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://collections.nmnh.si.edu/search/ento/</collectionIdentifier>
+                <collectionName>USNM - National Museum of Natural History, Washington D.C., Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections/coleoptera-collections.html</collectionIdentifier>
+                <collectionName>BMNH - Natural History Museum [antes British museum (Natural History)], Londres, Reino Unido</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://mcz.harvard.edu/entomology</collectionIdentifier>
+                <collectionName>MCZ - Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, Estados Unidos</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.gbif.es/coleccion/coleccion-de-entomologia-del-area-de-biologia-animal-del-dpto-de-zoologia-y-antropologia-fisica-universidad-de-murcia/</collectionIdentifier>
+                <collectionName>ZAF-UMU - Colección de Entomología del Área de Biología Animal del Dpto. de Zoología y Antropología Física, Universidad de Murcia, Murcia, España</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

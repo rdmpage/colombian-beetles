@@ -1,0 +1,300 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=ceut/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/qvrulo</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ceut</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Ceutorhynchinae (Coleoptera: Curculionidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Purdue University</organizationName>
+    <positionName>Investigadora postdoctoral</positionName>
+    <address>
+        <deliveryPoint>610 Purdue Mall, West Lafayette</deliveryPoint>
+        <city>West Lafayette</city>
+        <administrativeArea>Indiana</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Purdue University</organizationName>
+    <positionName>Investigadora postdoctoral</positionName>
+    <address>
+        <deliveryPoint>610 Purdue Mall, West Lafayette</deliveryPoint>
+        <city>West Lafayette</city>
+        <administrativeArea>Indiana</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Juliana</givenName>
+      <surName>Cardona-Duque</surName>
+    </individualName>
+    <organizationName>Universidad CES</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <deliveryPoint>Cl. 10a #22 - 04</deliveryPoint>
+        <city>Medellín</city>
+        <administrativeArea>Antioquia</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-2469-8162</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2021-08-27
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Ceutorhynchinae (Coleoptera: Curculionidae) con ocurrencia conocida para el territorio colombiano. Se listan una subfamilia, dos tribus, cinco géneros y ocho especies. Cinco especies son consideradas endémicas. La información ha sido recopilada a partir de información disponible en Wibmer y O&apos;Brien (1986) y en literatura reciente incluyendo Colonelli (2004). Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Picudos</keyword>
+            <keyword>Gorgojos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la subfamilia Ceutorhynchinae (Coleoptera: Curculionidae). Sólo se conocen registros del departamento de Bolívar (Cartagena, tres especies). Para las demás especies registradas en Colombia no se conocen localidades en el país.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1802</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan dos tribus, cinco géneros y ocho especies de la subfamilia Ceutorhynchinae (Coleoptera: Curculionidae) con ocurrencia conocida en Colombia. Cinco especies son consideradas endémicas. Las tres especies del género Ceutorhynchus reportadas para el país se listan en el catálogo de Colonelli (2004) como nomina nuda, lo que indica que hay tres especies endémicas en el país cuyos nombres no son válidos y requieren revisión.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Curculionidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Ceutorhynchinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Ceutorhynchini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ceutorhynchus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Cnemogonini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Borisauleutes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Erythromerus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Parauleutes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Perigasteromimus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pruinomerus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Purdue University</organizationName>
+    <positionName>Investigadora postdoctoral</positionName>
+    <address>
+        <deliveryPoint>610 Purdue Mall, West Lafayette</deliveryPoint>
+        <city>West Lafayette</city>
+        <administrativeArea>Indiana</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir de los catálogos de Wibmer y O&apos;Brien (1986) y Colonelli (2004). Adicionalmente, fueron consultados trabajos más recientemente publicados para poder incluir especies que no hubieran sido incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en los catálogos anteriormente mencionados y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, nuevos registros y actos de nomenclatura.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Ceutorhynchinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Ceutorhynchinae (Coleoptera: Curculionidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo de Wibmer y O&apos;Brien (1986) con actualizaciones del catálogo de Colonelli (2004).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role></role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-08-03T01:34:23.928+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/qvrulo">Girón Duque J C (2021): Listado de las especies de Ceutorhynchinae (Coleoptera: Curculionidae) de Colombia. v1.0. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/qvrulo</citation>
+          <bibliography>
+                <citation>Alonso-Zarazaga MA, Lyal CHC (1999) A world catalogue of families and genera of Curculionoidea (Insecta: Coleoptera) excluding Scolytidae and Platypodidae. Entomopraxis, Barcelona, Spain, 315 pp.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/582711">Champion GC (1907) Biologia Centrali-Americana. Insecta. Coleoptera. Vol. IV, part 5. Rhynchophora, Curculionidae, Curculioninae (continued). R. H. Porter, London, 513 + pl. 23 pp.</citation>
+                <citation>Colonnelli E (1979) Note su Panophthalmus e generi affini, con descrizione di una nuova tribu e di una nuova specie della sottofamiglia Ceutorhynchinae (Coleoptera, Curculionidae). Bollettino dell’Associazione Romana di Entomologia 34: 1–9.</citation>
+                <citation>Colonnelli E (1998) Systematic and synonymic notes on Ceutorhynchinae, with lectotype and neotype designations, and descriptions of three new genera. Fragmenta Entomologica 30: 105–175.</citation>
+                <citation>Colonnelli E (2004) Catalogue of Ceutorhynchinae of the world, with a key to genera (Insecta: Coleoptera: Curculionidae). Argania editio, Barcelona, Spain, 124 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/9322478 ">Dejean PFMA (1833) Catalogue des Coléoptères de la collection de M. le Comte Dejean. Méquinon-Marvis &amp; Sons, Paris, 433 pp.</citation>
+                <citation identifier="https://doi.org/10.5962/bhl.title.130964">Germar EF (1824) Insectorum species novae aut minus cognitae, descriptionibus illustratae. Vol. 1. Coleoptera. J. C. Hendelii et filii, Halae, xxiv +624+2 pl. pp.</citation>
+                <citation>Girón JC, Cardona-Duque J (2018) Estado del conocimiento de los Curculionidae en Colombia. In: Deloya, C. &amp; Gasca Álvarez, H. J. (Eds). Escarabajos del Neotrópico (Insecta: Coleoptera). S y G editores, Mexico, 167–199.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/13256419">Gistel J (1848) Faunula monacensis cantharologica. Isis von Oken.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8376335">Hustache A (1922) Nouveaux Ceuthorrhynchini de l’Amérique du sud. Annales de la Société Entomologique de France 90: 112–132.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille PA (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4113827">Schönherr CJ (1844) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus octavus, pars prima. Roret, Paris, 442 pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/4114205">Schönherr CJ (1845) Genera et species Curculionidum, cum synonymia hujus familiae. Species novae aut hactenus minus cognitae, descriptionibus a Dom. Leonardo Gyllenhal, C. H. Boheman, et entomologis aliis illustratae, tomus octavus, pars secunda. Roret, Paris, 504 pp.</citation>
+                <citation>Wibmer GJ, O’Brien CW (1986) Annotated checklist of the weevils (Curculionidae sensu lato) of South America (Coleoptera: Curculionoidea). Memoirs of the American Entomological Institute 39: 1–563.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>NHRS</parentCollectionIdentifier>
+                  <collectionIdentifier>http://grscicoll.org/institutional-collection/department-entomology</collectionIdentifier>
+                <collectionName>Swedish Museum of Natural History - Zoological Collections</collectionName>
+              </collection>
+              <collection>
+                  <parentCollectionIdentifier>BMNH</parentCollectionIdentifier>
+                <collectionName>British Museum of Natural History</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

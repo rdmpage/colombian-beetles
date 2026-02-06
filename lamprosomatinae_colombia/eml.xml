@@ -1,0 +1,302 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt.biodiversidad.co/sib/resource?id=lamprosomatinae_colombia/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/pzwjps</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lamprosomatinae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Lamprosomatinae (Coleoptera: Chrysomelidae) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Coleoptera de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <electronicMailAddress>coleopcol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2025-04-22
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la subfamilia Lamprosomatinae (Coleoptera: Chrysomelidae) con ocurrencia conocida para el territorio colombiano. Se lista una subfamilia, una tribu, cuatro géneros, un subgénero, y 11 especies. De acuerdo con los catálogos disponibles, todas las especies se han reportado sólo para Colombia, pero para cuatro de ellas la localidad tipo, que es el único registro publicado de cada especie, parece estar localizada en Venezuela. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de catálogos disponibles para el grupo.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Lista de referencia</keyword>
+        <keywordThesaurus>SiB Colombia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos de las hojas</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan 11 especies de la subfamilia Lamprosomatinae (Coleoptera: Chrysomelidae) pero sólo de una se conoce localidad específica dentro del país (Valle del Cauca). Para cuatro especies el registro para Colombia es dudoso: para una de las especies la localidad tipo probablemente se trate del actual estado de La Guaira en Venezuela; para las otras tres, la localidad tipo &quot;Province de la Nueva Valencia&quot; probablemente corresponda a Valencia, ciudad en Venezuela cercana a la ciudad de residencia del colector del material tipo (Carl Moritz). De las otras seis especies, no se conoce localidad específica dentro del territorio colombiano.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1802-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se lista una subfamilia, cuatro géneros, un subgénero y 11 especies de la subfamilia Lamprosomatinae (Coleoptera: Chrysomelidae) para Colombia. El género Lamprosoma es el más diverso con siete especies, seguido por Lychnophaes con dos especies, y Lamprosomoides y Oomorphus están representados cada uno por una sola especie en el territorio colombiano.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Coleoptera</taxonRankValue>
+                  <commonName>escarabajos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chrysomelidae</taxonRankValue>
+                  <commonName>escarabajos de las hojas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Lamprosomatinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>tribe</taxonRankName>
+                <taxonRankValue>Lamprosomatini</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lamprosoma</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lamprosomoides</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Lychnophaes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Oomorphus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Utria Suarez</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Estudiante</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>javierutriasuarez@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5010-915X</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Monrós (1960). Adicionalmente, fueron consultados trabajos más recientes para cubrir especies no incluidas en dicho catálogo.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en Monrós (1960) y en las descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada especie para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y catálogos especializados en el grupo.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la subfamilia Lamprosomatinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la subfamilia Lamprosomatinae (Coleoptera: Chrysomelidae) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo de principalmente a partir de Monrós (1960).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos y trabajos que aquí se mencionan.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo Coleoptera de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: descripciones originales, catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2025-04-21T17:26:23.947+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/pzwjps">Utria Suarez J (2025): Listado de las especies de Lamprosomatinae (Coleoptera: Chrysomelidae) de Colombia. v1.0. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/pzwjps</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/53215080">Achard, J. (1914) Coleoptera, fam. Chrysomelidae: subfam. Lamprosominae, Fasc. 159. In: Genera Insectorum. Fasc. CLVII - CLXIII. pp. 1–13.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/43896336">Baly, J.S. (1877) Descriptions of new Species of Phytophagous Coleoptera. The Journal of the Linnean Society of London. Zoology. 14: 336–356.</citation>
+                <citation identifier="https://doi.org/10.37520/aemnp.2020.011">Bezděk, J. (2020) Review of the genus-level names proposed by Johannes Gistel in Chrysomelidae (Coleoptera). Acta Entomologica Musei Nationalis Pragae 60, 173–188.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876994">Blackwelder, R.E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185, 1–1492.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88, 1–972.</citation>
+                <citation identifier="https://doi.org/10.1515/9783110274462.189">Chamorro, M.L. (2014) 2.7.4 Lamprosomatinae Lacordaire, 1848. In: Leschen, R. A. B. and R. G. Beutel. (Eds.). Handbook of Zoology, Arthropoda: Insecta: Coleoptera, Volume 3: Morphology and Systematics (Phytophaga). De Gruyter, pp. 226–230.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.78.980">Chamorro, M.L. &amp; Konstantinov, A. (2011) Cachiporrini, a remarkable new tribe of Lamprosomatinae (Coleoptera, Chrysomelidae) from South America. ZooKeys 78, 43–59. https://doi.org/10.3897/zookeys.78.980</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9654857">Chapuis, F. (1874) 10 Histoire naturelle des insectes. Genera des coléoptères, ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Librairie encyclopédique de Roret, Paris, 476 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/10431175">Clavareau, H. (1913) Pars 53: Chrysomelidae: 5. Megascelinae, 6. Megalopodinae, 7. Clytrinae, 8. Cryptocephalinae, 9. Chlamydinae, 10. Lamprosominae. In: Coleopterorum catalogus. Berlin, p. 278.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/29966119">Curtis, J. (1823) British Entomology, being illustrations and descriptions of the genera of insects found in Great Britain and Ireland; containing coloured figures from nature of the most rare and beautiful species, and in many instances of the plant upon which they are found. Vol. II. Coleoptera, Part II. Printed for the author, London.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/10178403">Gemminger, M. &amp; Harold, E. (1874) Catalogus Coleopterorum hucusque descriptorum synonymicus et systematicus. Tom. XI. Chrysomelidae (Pars I.). Monachii [= München]: G. Beck. 3233–3478 + [4 (Index Generum ad Tom. XI; Corrigenda)] pp.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/175526">Gistel, J. (1848) Naturgeschichte des Thierreichs. für höhere Schulen. Stuttgart, Scheitlin &amp; Krais, 1851, 310 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/759023">Kirby, W. (1819) A century of insects, including several new genera described from his cabinet. Transactions of the Linnean Society of London 12, 375–453.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/item/109371">Lacordaire, T. (1848) Monographie des coléoptères subpentamères de la famille des phytophages. Tomus Secundus. Bruxelles, C. Muquardt, 890 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/24884921">Latreille, P.A. (1802) Histoire naturelle, générale et particulière des crustacés et des insectes. Familles naturelles des genres. Tome troisième. L’Imprimerie de F. Dufart, Paris, 467 pp.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/32514774">Lefèvre, È. (1872) Monographie des Clytrides d’Europe et du bassin de la Méditerranée. Annales de la Societe Entomologique de France 5, 313–396.</citation>
+                <citation>Monrós, F. (1948) Descripcion de diez nuevos ‘Camptosoma’ neotropicales (Col., Chrysomelidae). Acta Zoologica Lilloana, 6, 171–200.</citation>
+                <citation>Monrós, F. (1956) Revision genérica de Lamprosominae con descripción de algunos géneros y especies nuevas (Col., Chrysomelidae). Revista Agronómica del Noroeste Argentino (Tucuman), 2 (1), 25–77.</citation>
+                <citation identifier="https://biodiversitylibrary.org/page/58739099">Monrós, F. (1958) Notes on Lamprosomatinae (Chrysomelidae). The Coleopterists Bulletin 12, 29–33.</citation>
+                <citation>Monrós, F. (1960) Pars 53(10). (Editio Seconda). Chrysomelidae: Lamprosomatinae. In: Hincks, W.D. (ed.) Coleopterorum Catalogus, Supplementa. W. Junk, ’s-Gravenhage. W. Junk, p. 16.</citation>
+                <citation identifier="https://doi.org/10.1515/9783110274462.189">Morse, G., Borowiec, L., Świętojańska, J., Verma, K.K., Lawrence, J.F., Ślipiński, A., Chamorro, M.L., Vencl, F.V., Leschen, R.A.B., Nadein, K.S., Bezdêk, J., Konstantinov, A.S. &amp; Reid, C.A.M. (2014) 2.7  Chrysomelidae Latrielle, 1802. In: Leschen, R. A. B. and R. G. Beutel. (Eds.). Handbook of Zoology, Arthropoda: Insecta: Coleoptera, Volume 3: Morphology and Systematics (Phytophaga). De Gruyter, pp. 198–217.</citation>
+                <citation>Seeno, T.N. &amp; Wilcox, J.A. (1982) Leaf Beetle Genera (Coleoptera: Chrysomelidae). Entomography 1, 1–221.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-coleocol.png</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://scientific-collections.gbif.org/institution/586ee56e-b0fe-4dff-b7f9-aeb104f3308a</collectionIdentifier>
+                <collectionName>Smithsonian Institution, National Museum of Natural History, Washington</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

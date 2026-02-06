@@ -1,0 +1,339 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="a3d398f7-33f5-4269-81f0-07858eb075ce/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/6mzbwp</alternateIdentifier>
+  <alternateIdentifier>a3d398f7-33f5-4269-81f0-07858eb075ce</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=psephenidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Psephenidae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ColeopCol@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/coleopcol/listados</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-02-08
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Psephenidae (Coleoptera: Byrrhoidea) con ocurrencia conocida para el territorio colombiano. Se listan dos subfamilias, tres géneros y una especie. La información ha sido recopilada a partir de información disponible en el catálogo de Blackwekder (1944) y en literatura más reciente. Se incluyen las referencias de todas las descripciones originales.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Tribus</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Rscarabajos penique (moneda) de agua</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+            <keyword>Escarabajo penique (moneda) de agua</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se reportan especies de la familia Psephenidae (Coleoptera: Byrrhoidea) de Colombia. La única especie reconocida en el país se reporta de el departamento de Magdalena. Dos géneros adicionales se han reportado de los departamentos de Antioquia, Caldas, Caquetá y Risaralda.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1854-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2017-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se listan dos subfamilias, tres géneros y una especie de la familia Psephenidae (Coleoptera: Byrrhoidea) para Colombia. La única especie reconocida en el país pertenece al género Psephenops. Se han reportado dos géneros adicionales (Ectopria y Neoeubria), pero no se han identificado las especies.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Psephenidae</taxonRankValue>
+                  <commonName>Escarabajos penique (moneda) de agua</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Psepheninae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Psephenops</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subfamily</taxonRankName>
+                <taxonRankValue>Eubriinae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ectopria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Neoeubria</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP - CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1944). Adicionalmente, fueron consultados trabajos más recientemente publicados para incluir taxones adicionales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La grafía y autoría de cada nombre fue verificada en las descripciones originales y en el catálogo de Blackwelder (1944).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución de las especies en el país, por departamento, fue compilada a través de la consulta de todos los artículos en los que se cita cada taxón para Colombia.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales y nuevos registros.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Psephenidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Psephenidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado se obtuvo inicialmente a partir del catálogo de Blackwelder (1944) y se complementó con revisiones más recientes.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en el catálogo de Blackwelder (1944) y revisiones recientes.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis Mairu</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcela</givenName>
+          <surName>González-Córdoba</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos, revisiones taxonómicas y otros reportes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-01-12T20:01:19.892+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/6mzbwp">Hincapié-Montoya D M, González-Córdoba M (2022): Listado de las especies de Psephenidae (Coleoptera: Byrrhoidea) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/6mzbwp</citation>
+          <bibliography>
+                <citation identifier="https://www.researchgate.net/publication/278968106_Sinopsis_de_la_familia_Psephenidae_Coleoptera_Dryopoidea_de_Norte_y_Centroamerica">Arce-Pérez, R., &amp; Shepard, Y. D. (2001). Sinopsis de la familia Psephenidae (Coleoptera: Dryopoidea) de norte y centroamérica. Folia Entomol Mex, 40(3), 397-406. https://www.researchgate.net/publication/278968106_Sinopsis_de_la_familia_Psephenidae_Coleoptera_Dryopoidea_de_Norte_y_Centroamerica</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54323589">Blackwelder RE (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492. https://www.biodiversitylibrary.org/page/54323589</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972. https://doi.org/10.3897/zookeys.88.807</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/50902683">Darlington, PJ. (1936) A list of the West Indian Dryopidae (Coleoptera), with a new genus and eight new species, including one from Colombia. Psyche, 43(2-3): 65-83. https://www.biodiversitylibrary.org/page/50902683</citation>
+                <citation identifier="https://repository.naturalis.nl/pub/508758">Grouvelle, A. (1898) Clavicornes de Grenada et de St. Vincent (Antilles) récoltés par MHH Smith, et appartenant au Musée de Cambridge. Notes from the Leyden Museum, 20(1), 35-48. https://repository.naturalis.nl/pub/508758</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9635809">Lacordaire, JT (1854) Histoire naturelle des insectes. Genera de coléoptères ou éxpose méthodique de tous les genres proposes jusqu&apos;ici dans cet ordre d&apos;insectes. Librairie encyclopédique de Roret, París, vol. 2, 548 pp. https://www.biodiversitylibrary.org/page/9635809</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9380114">Lacordaire, JT (1857) Histoire naturelle des insectes. Genera des Coléoptères ou exposé méthodique et critique de tous les genres proposés jusqu’ici dans cet ordre d’insectes. Tome quatrième contenant les familles des buprestides, throscides, eucnémides, élatérides, cébrionides, cérophytides, rhipicérides, dascyllides, malacodermes, clérides, lyméxylones, cupésides, ptiniores, bostrichides et cissides. Librairie Encyclopédique de Roret, Paris, 579 pp. https://www.biodiversitylibrary.org/page/9380114</citation>
+                <citation identifier="http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf">Laython, M. (2017) Los coleópteros acuáticos (Coleoptera: Insecta) en Colombia, distribución y taxonomía. Tesis de Maestría, Universidad Nacional de Colombia, Bogotá. 246 pp. http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/1779886">LeConte, JL. (1853) Synopsis of the Atopidae, Rhipiceridae and Cyphonidae of the United States. Proceedings of the Academy of Natural Sciences of Philadelphia, 6: 350-357. https://www.biodiversitylibrary.org/page/1779886</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.3811.4.7">Shepard, WD, Barr, CB. (2014) Neoeubria inbionis Shepard &amp; Barr, a new genus and new species of Neotropical water penny beetle (Coleoptera: Psephenidae: Eubriinae), with a key to the adult Eubriinae of the Neotropic Zone. Zootaxa, 3811(4): 553-568. https://doi.org/10.11646/zootaxa.3811.4.7</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://mcz.harvard.edu/entomology</collectionIdentifier>
+                <collectionName>MCZ - Museum of Comparative Zoology Harvard University, Cambridge, Massachusetts, Estados Unidos.</collectionName>
+              </collection>
+          <dc:replaces>a3d398f7-33f5-4269-81f0-07858eb075ce/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

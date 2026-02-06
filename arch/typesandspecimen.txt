@@ -1,0 +1,2 @@
+id	typeStatus	typeDesignatedBy	scientificName	taxonRank	bibliographicCitation	institutionCode	collectionCode	locality	sex	recordedBy
+organismnames.com/details.htm?lsid=3902094	Lectotipo	Champion	Enneboeus seriatus	Especie	Champion, G. C. (1893). Supplement. 477–572 pp. In: Biologia Centrali-Americana. Insecta. Coleoptera. Volume 4. Part 1. Heteromera (F. D. Godman and O. Salvin, editors). Taylor and Francis, London, UK, 572 pp. https://www.biodiversitylibrary.org/item/14606	BMNH Museo de Historia Natural de Londres, Reino Unido	BMNH	Bogota	Macho	F. Bates

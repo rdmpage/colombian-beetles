@@ -1,0 +1,18 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4746		CO	
+ubio.org/browser/details.php?namebankID=1054388		CO	
+ubio.org/browser/details.php?namebankID=9756873		CO	
+gbif.org/species/1045945		CO	
+gbif.org/species/1045946	Colombia: Bolivar: Zambrano, Hda. Monterrey Forestal lat 9°37'48''N, long 74°54'44''W, 70m; SFF Los Colorados, lat 9°51'33''N, long, 73°06'38''W, 300m	CO	
+ubio.org/browser/details.php?namebankID=9756871		CO	
+gbif.org/species/4755886	Colombia: Amazonas: PNN Amacayacu 3°23'01''S, 78°11'01''W. 150m; Bolivar: Santuario de Flora y Fauna los Colorados 9°54'00''N, 75°07'00''W. 126m; Caquetá: San José de Fragua, Río Yuruyaco 1°20'55'N, 76°6'11''W. 1000m; Cauca: PNN Gorgona 2°58'01''N, 78°11'01''W. 70m; Chocó: PNN Utria, 6°01'09''N, 77°20'55''W. 20m; Magdalena: PNN Tairona, 11°20'01''N, 74°02'01''W. 225m.	CO	
+gbif.org/species/1046048		CO	
+organismnames.com/details.htm?lsid=4043802	Colombia: "Nova-Grenata ad ripas Magdalenae capta.	CO	Endémica
+ubio.org/browser/details.php?namebankID=9756872		CO	
+gbif.org/species/1046076		CO	
+organismnames.com/details.htm?lsid=4227419	Colomia: Bogotá	CO	Endémica
+organismnames.com/namedetails.htm?lsid=3437163	Colombia, sin localidad específica	CO	Endémica
+organismnames.com/details.htm?lsid=3009522	Colombia: Cundinamarca: Puerto Salgar	CO	Endémica
+organismnames.com/details.htm?lsid=3516077	Colombia, sin localidad específica	CO	
+gbif.org/species/7002275	Colombia: Cundinamarca: Puerto Salgar	CO	
+organismnames.com/details.htm?lsid=3009526	Colombia: Cundinamarca: Puerto Salgar	CO	Endémica

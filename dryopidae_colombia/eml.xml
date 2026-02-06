@@ -1,0 +1,354 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="119dff8b-6eb3-4285-a27d-3dadc96fab39/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/xajvg0</alternateIdentifier>
+  <alternateIdentifier>119dff8b-6eb3-4285-a27d-3dadc96fab39</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=dryopidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Dryopidae (Coleoptera: Byrrhoidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <city>Lubbock</city>
+        <administrativeArea>Texas</administrativeArea>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2024-01-29
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia  Dryopidae (Coleoptera: Byrrhoidea) con ocurrencia conocida para el territorio colombiano. Se listaron siete géneros y seis especies. Dos especies son consideradas endémicas. El listado ha sido compilado a partir de información disponible en los principales catálogos que tratan el grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Escarabajos acuáticos de dedos largos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Nomenclatorauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado compila los nombres de las especies de la familia Dryopidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura. Se registraron géneros en los departamentos de Amazonas, Antioquia, Boyacá, Caldas, Casanare, Cauca, Chocó, Risaralda, y Valle del Cauca. De las seis especies registradas para el país, cuatro no tienen localidad especifica, una especie se encontró en el departamento de Magdalena, y otra en el departamento del Meta.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1791-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se presenta el listado de las especies de la familia Dryopidae (Coleoptera: Byyrhoidea) registradas para Colombia. Se listaron siete géneros y seis especies. La información de este listado está basada en datos disponibles en los principales catálogos del grupo y literatura recientemente publicada. Se incluyen las referencias de todas las descripciones originales de las especies. En esta familia durante mucho tiempo ha habido una considerable confusión taxonómica con respecto a varios de sus géneros (Dryops, Helichus y Parnus). Diferentes investigadores intercambiaron los nombres genéricos en función de su concepto del género. Así, la mayoría de las especies de Dryops se describieron como Parnus, mientras que la mayoría de las especies de Helichus se describieron como Dryops. En la actualidad, los géneros Dryops y Helichus son válidos. La familia no se ha revisado para el país.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Dryopidae</taxonRankValue>
+                  <commonName>Escarabajos acuáticos de dedos largos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Dryops</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Elmoparnus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ghiselinius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Helichus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Momentum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Parygrus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Pelonomus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Denis Mairu</givenName>
+      <surName>Hincapié-Montoya</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Investigadora independiente</positionName>
+    <address>
+        <country>FR</country>
+    </address>
+    <electronicMailAddress>dmhincapiem@unal.edu.co</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-0688-8181</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Marcela</givenName>
+      <surName>González-Córdoba</surName>
+    </individualName>
+    <organizationName>CIEMEP-CONICET</organizationName>
+    <positionName>Estudiante doctoral</positionName>
+    <address>
+        <city>Esquel</city>
+        <country>AR</country>
+    </address>
+    <electronicMailAddress>margocologa5@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento de las especies registradas para el país se hizo a partir del catálogo de Blackwelder (1944).  
+Adicionalmente, se consultaron trabajos recientemente publicados para incluir otros taxones: Perkins (1997), Laython (2017) y Barr y Shepard (2020).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La verificación de los nombres y autorías se realizó en las descripciones originales y en los trabajos anteriormente mencionados.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución geográfica de las especies fue tomada de los artículos que reportan cada especie para Colombia. Algunos de las descripciones originales no mencionan localidad específica (departamento) del registro.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Las referencias bibliográficas fueron compiladas a partir de descripciones originales, catálogos y revisiones. Se proveen enlaces a las publicaciones disponibles en línea.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>En algunas publicaciones consultadas se reportan múltiples paratipos del mismo sexo y con los mismos datos de localidad pero sin identificadores únicos de especímenes, por lo cual para éstas especies cada localidad/paratipo sólo aparece una vez.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Dryopidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se compiló información sobre los nombres, autores y referencias de las especies de la familia Dryopidae (Coleoptera: Byrrhoidea) que se han registrado para el territorio colombiano a partir de la literatura. El listado inicial se obtuvo a partir del catálogo de Blackwelder (1944), una tesis sobre los coléopteros acuáticos de Colombia (Laython 2017) y trabajos más recientes que incluyen coleópteros colombianos (Perkins 1997; Barr y Shepard 2020).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Todos los nombres fueron verificados en las descripciones originales, en el catálogo de Blackwelder (1944) y en literatura recientemente publicada.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Denis</givenName>
+          <surName>Hincapié-Montoya</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcela</givenName>
+          <surName>González-Córdoba</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-1397-6056</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jennifer C.</givenName>
+          <surName>Girón Duque</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+        <role>reviewer</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para Colombia de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-09T09:29:30.003+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/xajvg0">Hincapié-Montoya D M, González-Córdoba M (2024): Listado de las especies de Dryopidae (Coleoptera: Byrrhoidea) de Colombia. v1.1. Coleoptera de Colombia. Dataset/Checklist. https://doi.org/10.15472/xajvg0</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.11646/zootaxa.4755.1.4">Barr, C. B., &amp; Shepard, W. D. (2020). Hiding in plain sight: rediscovery and review of Parygrus Erichson, 1847, with description of five new species from the Neotropics (Coleoptera: Byrrhoidea: Dryopidae). Zootaxa, 4755(1), 99-128.</citation>
+                <citation identifier=" https://www.biodiversitylibrary.org/page/33665717">Billberg, GJ. (1820). Enumeratio Insectorum in Museo Gust. Joh. Billberg. Gadel, Stockholm, 138 pp. [«31 Dec 1820» (Evenhuis 1997a: 93)].</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356">Blackwelder RE (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/29585619">Bollow, H. (1940) Monographie der palaearktischen Dryopidae, mit Berücksichtigung der eventuell transgredierenden Arten. (Col.). 3. Gattung Helichus Er. Mitteilungen der Münchner Entomologischen Gesellschaft, 30 (1), 24–71.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard P, Bousquet Y, Davies A, Alonso-Zarazaga M, Lawrence J, Lyal C, Newton A, Reid C, Schmitt M, Slipinski A, Smith A (2011) Family-group names in Coleoptera (Insecta). ZooKeys 88: 1–972.</citation>
+                <citation identifier="https://www.zin.ru/animalia/coleoptera/pdf/illustrated_synopsis_1931.pdf">Böving AG, Craighead FC. (1931). An illustrated synopsis of the principal larval forms of the order Coleoptera. Entomologica Americana (New Series) 11 [1930] (1): 1–80, (2): 81–160, (3): 161–256, (4): 257–351, pls. 1–125. [(1): publ. 14 Nov 1931; (2): 7 Dec; (3): 9 Dec; (4): 21 Dec 1931.</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/2740982">Brown HP (1970) A key to the Dryopid genera of the New World (Coleoptera, Dryopoidea). Entomological news 81: 171–175. https://www.biodiversitylibrary.org/page/2740982</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9876060">Casey, TL. (1893). Coleopterological notices. V. Annals of the New York Academy of Sciences 7(6-12): 281-606. https://www.biodiversitylibrary.org/page/9876060</citation>
+                <citation identifier="https://gallica.bnf.fr/ark:/12148/bpt6k6127721r/f180.item">Dajoz, R. (1973). Description du coléoptère Chiloea chilensis, n.g., n.sp., type d’une nouvelle famille: Chiloeidae. Annales de la Société Entomologique de France (Nouvelle Série) 9 (1): 173–179. https://gallica.bnf.fr/ark:/12148/bpt6k6127721r/f180.item</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8642832">Erichson, W. H. (1847). Naturgeschichte der Insecten Deutschlands. Abteilung 1, Coleoptera, 3(4): 481-640. https://www.biodiversitylibrary.org/page/8642832</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/51985494">Fabricius, JC. (1792).  Entomologia systematica emendata et aucta. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. Christ. Gottl. Proft, Hafniae. Vol. 1 (2): 1-538. https://www.biodiversitylibrary.org/page/51985494</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8241081">Fairmaire, L. (1888) Descriptions  de Coléoptères de L&apos;Indo-Chine. Annales de la société entomologique de France, 6(8): 333-378. https://www.biodiversitylibrary.org/page/8241081</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9632165">Grouvelle, A. (1896). Descriptions de Dryopides (Parnides) et Helmides nouveaux. Notes from the Leyden Museum, 18(1), 33-52. https://www.biodiversitylibrary.org/page/9632165</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/32438709">Grouvelle, A. (1889). Voyage de M. E. Simon au Venezuela. Coléoptéres 2é memoire. Cucujide, Rhysodidae, Dryopidae, Cyathoceridae, Heteroceridae. Annales de la Société entomologique de France, 6: 157–166. https://www.biodiversitylibrary.org/page/32438709</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/8251865">Grouvelle, A. (1902). II. Nitidulidae, Colydiidae, Cucujidae, Cryptophagidae, Tritomidae et Dryopidae. pp. 462-467. In: A. Grouvelle and A. Léveillé. (1902). Voyage de M. le Dr. Ed. Bugnion au Vénézuela, en Colombie et aux Antilles. Coléoptères Clavicornes. Annales de la Société Entomologique de France, Paris, 71: 461-467. https://www.biodiversitylibrary.org/page/8251865</citation>
+                <citation identifier="https://babel.hathitrust.org/cgi/pt?id=uc1.b3307469">Hinton. H.E. (1936) Synonymical and other notes on the Dryopidae (Coleoptera). The Entomologist’s Monthly Magazine, 72, 54–58. https://babel.hathitrust.org/cgi/pt?id=uc1.b3307469</citation>
+                <citation identifier="https://doi.org/10.1515/9783110373929">Kodada, J.,  Jäch, M. A &amp; Čiampor, F. Jr. (2016) 19.3 Dryopidae Bilberg, 1820 (1817). En: Beutel, R. G. &amp; Leschen. Handbook of Zoology, Arthropoda: Insecta. Volume 1 Coleoptera, Beetles. Morphology and Systematics (pp. 590-602). De Gruyter. https://doi.org/10.1515/9783110373929</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/43107830">Kuwert A. (1889). Bestimmungstabelle der Parniden Europas, der Mittelmeerfauna, sowie der angrenzenden Gebiete. Verhandlungen der Kaiserlich-Königlichen zoologisch-botanischen Gesellschaft in Wien 40, 15-54. https://www.biodiversitylibrary.org/page/43107830</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/9635809">Lacordaire, JT (1854) Histoire naturelle des insectes. Genera de coléoptères ou éxpose méthodique de tous les genres proposes jusqu&apos;ici dans cet ordre d&apos;insectes. Librairie encyclopédique de Roret, París, vol. 2, 548 pp. https://www.biodiversitylibrary.org/page/9635809</citation>
+                <citation identifier="https://www.zin.ru/animalia/coleoptera/pdf/lawrence_newton_1995_families_and_subfamilies_coleoptera_part-1.pdf">Lawrence, J.F. &amp; Newton, A.F.Jr. (1995). Families and subfamilies of Coleoptera (with selected genera, notes, references and data on family-group names): 779-1006. Biology, phylogeny, and classification of Coleoptera. Papers celebrating the, 80th Birthday of Roy A. Crowson. https://www.zin.ru/animalia/coleoptera/pdf/lawrence_newton_1995_families_and_subfamilies_coleoptera_part-1.pdf</citation>
+                <citation identifier="http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf">Laython, M. (2017) Los coleópteros acuáticos (Coleoptera: Insecta) en Colombia, distribución y taxonomía. Tesis de Maestría, Universidad Nacional de Colombia, Bogotá. 246 pp. http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28686804">Leach, WE. (1817). The zoological miscellany; being descriptions of new, or interesting animals. Illustrated with coloured figures, drawn from nature, by R.P. Nodder. Vol. III. E. Nodder &amp; Sons, London, v + [1] + 151 pp. + pls. 121–150. https://www.biodiversitylibrary.org/page/28686804</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/24380820">Olivier, GA. (1791). Encyclopédie méthodique. Histoire naturelle. Insectes. Tome sixième. Panckoucke, Paris. Vol. 6 (1): 1-368. https://www.biodiversitylibrary.org/page/24380820</citation>
+                <citation identifier="https://doi.org/10.1080/01650521.1997.9709611">Perkins, PD. (1997). Momentum and Ghiselinius, new Neotropical genera of humicolous beetles with remarkable and divergent mouthparts (Coleoptera: Dryopidae). Studies on Neotropical Fauna and Environment, 32(2), 100-117. https://doi.org/10.1080/01650521.1997.9709611</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/577038">Sharp, D. (1882). Biologia Centrali-Americana, Insecta, Coleoptera, Haliplidae, Dytiscidae, Gyrinidae, Hydrophilidae, Heteroceridae, Parnidae, Georissidae, Cyathoceridae, 1, pt. 2: xv + 144 pp., 4 pls. https://www.biodiversitylibrary.org/page/577038</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/14674432">Waterhouse, C.O. (1876) III. On various new genera and species of Coleoptera. Transactions of the Entomological Society of London, 1876 (Part I), 11–25. https://www.biodiversitylibrary.org/page/14674432</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.mnhn.fr/fr/coleopteres</collectionIdentifier>
+                <collectionName>MNHN - Muséum nationale d’Histoire naturelle, Paris, France</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>http://www.canacoll.org/Coleo/Main/coleopt.htm</collectionIdentifier>
+                <collectionName>CNC -  Canadian National Collection, Ottawa, Canada.</collectionName>
+              </collection>
+              <collection>
+                  <collectionIdentifier>https://www.nhm.ac.uk/our-science/collections/entomology-collections/coleoptera-collections.html</collectionIdentifier>
+                <collectionName>BMNH - Natural History Museum [antes British museum (Natural History)], Londres, Reino Unido</collectionName>
+              </collection>
+          <dc:replaces>119dff8b-6eb3-4285-a27d-3dadc96fab39/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

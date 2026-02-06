@@ -1,0 +1,3 @@
+id	isFreshwater	isTerrestrial	lifeForm	habitat
+gbif.org/species/1033776	TRUE	TRUE	Adulto	En la orilla de fuentes hídricas, en sustratos húmedos
+gbif.org/species/1033776	TRUE	TRUE	Larva	En la orilla de fuentes hídricas, en sustratos húmedos

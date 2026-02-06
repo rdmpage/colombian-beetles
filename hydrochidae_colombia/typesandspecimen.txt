@@ -1,0 +1,2 @@
+id	typeStatus	typeDesignationType	typeDesignatedBy	scientificName	taxonRank	bibliographicCitation	institutionCode	locality	sex	recordedBy
+gbif.org/species/9837416	Holotipo	original	Makhan	Hydrochus piroei	Especie	Makhan, D. 1992. Twelve new Hydrochus-species from South America (Coleoptera: Hydrophilidae). Phegea 20: 95-103. https://www.researchgate.net/publication/321110637_Twelve_new_Hydrochus-species_from_South_America_Coleoptera_Hydrophilidae	KBIVN - Koninklijk Belgisch Instituut voor Natuurwetenschappen, Bruselas, Bélgica	Suriname, Paramaribo	Macho	D. Makhan

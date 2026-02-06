@@ -1,0 +1,4 @@
+id	isTerrestrial
+gbif.org/species/3785	1
+gbif.org/species/1045145	1
+organismnames.com/details.htm?lsid=3902094	1

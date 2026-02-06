@@ -1,0 +1,3 @@
+id	isFreshwater	isTerrestrial	isInvasive	lifeForm	habitat	source
+gbif.org/species/1033402	TRUE	TRUE	FALSE	Adulto	Periacuático. Según Jach, 1998 ésta familia se clasifica como falsos coleópteros acuáticos	Jäch M.A. (1998) Annotated check list of aquatic and riparian/littoral beetle families of the world (Coleoptera). In: Water beetles of China Vol. II. (Eds M.A. Jäch & L. Ji), pp. 25–42. ZoologischBotanische Gesellschaft in Österreich and Wiener Coleopterologenverein, Wien, Öschtriich.
+gbif.org/species/1033402	TRUE	FALSE	FALSE	Larva	Acuática	

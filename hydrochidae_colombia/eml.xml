@@ -1,0 +1,247 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="0421eea7-58fe-4ed1-b15f-6a1d2a669c39/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>10.15472/3uxhlf</alternateIdentifier>
+  <alternateIdentifier>0421eea7-58fe-4ed1-b15f-6a1d2a669c39</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=hydrochidae_colombia</alternateIdentifier>
+  <title xml:lang="spa">Listado de las especies de Hydrochidae (Coleoptera: Hydrophiloidea) de Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Liza María</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>Universidad de Kansas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Lawrence</city>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Liza María</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>Universidad de Kansas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Lawrence</city>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jennifer C.</givenName>
+      <surName>Girón Duque</surName>
+    </individualName>
+    <organizationName>Grupo de Coleopterólogos de Colombia</organizationName>
+    <positionName>Coordinadora</positionName>
+    <address>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>entiminae@gmail.com</electronicMailAddress>
+    <onlineUrl>https://sites.google.com/view/jcgiron/home</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0851-6883</userId>
+    <role>reviewer</role>
+      </associatedParty>
+  <pubDate>
+      2022-06-17
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Este recurso presenta el listado de las especies de la familia Hydrochidae (Coleoptera: Hydrophiloidea) con ocurrencia conocida para el territorio colombiano. Se lista un género y una especie. La información ha sido recopilada a partir de datos disponibles en los principales catálogos que tratan del grupo y en literatura reciente. Se incluyen las referencias de todas las descripciones originales y de los trabajos de revisión taxonómica.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Listado</keyword>
+            <keyword>Especies</keyword>
+            <keyword>Géneros</keyword>
+            <keyword>Taxonomía</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Inventario</keyword>
+            <keyword>Escarabajos</keyword>
+            <keyword>Coleópteros</keyword>
+            <keyword>Coleópteros acuáticos</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Taxonomicauthority</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Se presenta el listado de las especies de la familia Hydrochidae (Coleoptera: Hydrophiloidea) registradas para Colombia. Hasta el momento sólo se tiene conocimiento de una especie registrada para el país, sin embargo no se cuenta con el registro de la localidad. Adicionalmente, se provee información de los registros más recientes del género en el país, con presencia en los departamentos de Amazonas, Antioquia, Arauca, Boyacá, Casanare, Chocó, Guaviare, Santander y Vichada.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.102</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.621</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.555</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1817-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se presenta el listado de las especies de la familia Hydrochidae (Coleoptera: Hydrophiloidea) registradas para Colombia. Solo se cuenta con el registro de un género y una especie de esta familia para Colombia.  La información de este listado está basada en datos disponibles en descripciones originales, listados y literatura recientemente publicada.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hydrochidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Hydrochus</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Liza María</givenName>
+      <surName>González-Rodríguez</surName>
+    </individualName>
+    <organizationName>Universidad de Kansas</organizationName>
+    <positionName>Estudiante de Maestría</positionName>
+    <address>
+        <city>Lawrence</city>
+        <country>US</country>
+    </address>
+    <electronicMailAddress>lizmgr287@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>El levantamiento del listado fue basado a partir de literatura disponible de las especies de Hydrochidae registradas para Colombia. Se contó con un solo registro a nivel de especie publicado por Oliva (1996), junto con registros del género por Laython (2017) y Mosquera Murillo et al. (2018)</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Se provee información bibliografía de los cambios de estatus taxonómico que la familia Hydrochidae ha tenido hasta la actualidad.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La verificación de los nombres y autorías se realizó con base en listados y descripciones originales.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La distribución geográfica de las especies fue tomada de los artículos que reportan las especie para Colombia, algunas referencias no mencionan localidad (departamento) específica del registro.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El listado compila los nombres de las especies de la familia Hydrochidae (Coleoptera: Hydrophiloidea) que se han registrado para el territorio colombiano de acuerdo con la literatura.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Se recopiló información sobre los nombres, autores y referencias de las especies de la familia Hydrochidae (Coleoptera: Hydrophiloidea) que han sido registradas para Colombia. El listado se obtuvo de Oliva (1966) y literatura posteriormente publicada. Los nombres fueron verificados en las descripciones originales y en la literatura anteriormente mencionada.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Los nombres fueron verificados en las descripciones originales, así como en los catálogos que aquí se mencionan, además de trabajos recientes de nomenclatura.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Listado de los coleópteros de Colombia</title>
+      <personnel>
+        <individualName>
+            <givenName>Liza Maria</givenName>
+          <surName>González Rodríguez</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-0355-6648</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>El listado de los coleópteros de Colombia es una iniciativa del Grupo de Coleopterólogos de Colombia (ColeopCol, https://sites.google.com/view/coleopcol), que pretende compilar el listado de las especies de coleópteros registradas para Colombia en la literatura. El proyecto no está adscrito a ninguna institución, sino que nace del acuerdo entre coleopterólogos colombianos al ver la necesidad de compilar, organizar y difundir esta información.</para>
+      </abstract>
+      <funding>
+        <para>Recursos propios.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Se compilan los nombres de las especies de Coleoptera que se han registrado para el territorio colombiano de acuerdo con la literatura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Toda la información presentada en estos listados proviene de la literatura: catálogos, listados previos y revisiones taxonómicas.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-01-19T04:19:51.264+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15472/3uxhlf">González-Rodríguez L M (2022): Listado de las especies de Hydrochidae (Coleoptera: Hydrophiloidea) de Colombia. v1.1. Grupo de Coleopterólogos de Colombia. Dataset/Checklist. https://doi.org/10.15472/3uxhlf</citation>
+          <bibliography>
+                <citation identifier="https://www.biodiversitylibrary.org/page/7876356 ">Blackwelder, R. E. (1944) Checklist of the coleopterous insects of Mexico, Central America, The West Indies, and South America. Bulletin of the United States National Museum 185: 1–1492.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.88.807 ">Bouchard, P., Bousquet, Y., Davies, A., Alonso-Zarazaga, M., Lawrence, J., Lyal, C., Newton, A., Reid, C., Schmitt, M., Slipinski, A. &amp; Smith, A. (2011) Family-group names in Coleoptera (Insecta). ZooKeys. 88: 1-972.</citation>
+                <citation identifier="http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf">Laython, M. (2017) Los coleópteros acuáticos (Coleoptera: Insecta) en Colombia, distribución y taxonomía. Tesis de Maestría, Universidad Nacional de Colombia, Bogotá. 246 pp. http://bdigital.unal.edu.co/61363/1/Laython%202017%20Cole%C3%B3pteros%20Acu%C3%A1ticos%20Colombia.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/28686951 ">Leach, W. E. (1817) The zoological miscellany. Vo l. 3. 151 pp., pI. 12 1- 150. - R. P. Nodder, London.</citation>
+                <citation identifier="https://www.researchgate.net/publication/321110637_Twelve_new_Hydrochus-species_from_South_America_Coleoptera_Hydrophilidae  ">Makhan, D. (1992) Twelve new Hydrochus-species from South America (Coleoptera: Hydrophilidae). - Phegea 20: 95-103. https://www.researchgate.net/publication/321110637_Twelve_new_Hydrochus-species_from_South_America_Coleoptera_Hydrophilidae</citation>
+                <citation identifier="https://doi.org/10.31910/rudca.v21.n1.2018.674 ">Mosquera Murillo, Z.; Sánchez Vázquez, S.P. (2018) Riqueza genérica y distribución de los coleópteros acuáticos del Departamento del Chocó – Colombia, depositados en la Colección Limnológica de la Universidad Tecnológica del Chocó. Rev. U.D.C.A Act. &amp; Div. Cient. 21(1): 155-165. https://doi.org/10.31910/rudca.v21.n1.2018.674</citation>
+                <citation>Oliva, A. (1996) The genus Hydrochus Leach (Coleoptera; Hydrophiloidea; Hydrochidae) in South America, with special reference to Argentina. Bulletin et Annales de la Société royale belge d&apos; Entomologie 132: 301-341.</citation>
+                <citation identifier="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.614.3424&amp;rep=rep1&amp;type=pdf ">Short AEZ, Hebauer F (2006) World Catalogue of Hydrophiloidea – additions and corrections, 1 (1999–2005) (Coleoptera). Koleopterologische Rundschau 76: 315–359. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.614.3424&amp;rep=rep1&amp;type=pdf</citation>
+                <citation identifier="http://www.aemnp.eu/PDF/51_1/51_1_83.pdf ">Short AEZ, Fikáček M (2011) World catalogue of the Hydrophiloidea (Coleoptera): additions and corrections II (2006–2010). Acta Entomologica Musei Nationalis Pragae 51: 83–122. http://www.aemnp.eu/PDF/51_1/51_1_83.pdf</citation>
+                <citation identifier="https://www.biodiversitylibrary.org/page/54335823 ">Thomson, C. G. (1859) Skandinaviens Coleoptera. Vol. I. 290 pp. - Berlingska Boktryckeriet, Lund. https://www.biodiversitylibrary.org/page/54335823</citation>
+          </bibliography>
+            <physical>
+              <objectName>Listados de especies publicados por el Grupo de Coleopterólogos</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Página web</formatName>
+                    <formatVersion>1</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://sites.google.com/view/coleopcol/listados</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>https://www.naturalsciences.be/en/science/collection_page/517</collectionIdentifier>
+                <collectionName>KBIVN - Koninklijk Belgisch Instituut voor Natuurwetenschappen, Bruselas, Bélgica</collectionName>
+              </collection>
+          <dc:replaces>0421eea7-58fe-4ed1-b15f-6a1d2a669c39/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

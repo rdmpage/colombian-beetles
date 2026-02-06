@@ -1,0 +1,294 @@
+id	locality	establishmentMeans
+gbif.org/species/7780		
+organismnames.com/details.htm?lsid=1244129		
+biolib.cz/en/taxon/id400764/		
+gbif.org/species/1049510	Colombia, Córdoba (Montería), Magdalena, Meta (Acacías, Villavicencio), Tolima (Espinal)	
+organismnames.com/details.htm?lsid=5008490	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=5008501	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=5008504	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=1543814	Colombia, Cundinamarca (Fusagasugá), Tolima (Ibagué)	No endémica
+organismnames.com/details.htm?lsid=1543816	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=1543805	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=4097446	Colombia, Boyacá (Muzo)	Endémica
+organismnames.com/details.htm?lsid=4097448	Colombia, Boyacá (Muzo)	Endémica
+organismnames.com/details.htm?lsid=1543819	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=4247520	Colombia, Bolívar (Cartagena)	Endémica
+organismnames.com/details.htm?lsid=5005276	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=5026304	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=2887190	Colombia, Tolima (San Antonio)	No endémica
+organismnames.com/details.htm?lsid=2887192	Colombia, Tolima (San Antonio)	Endémica
+organismnames.com/details.htm?lsid=5033615	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=4097449	Colombia, Boyacá (Muzo)	Endémica
+organismnames.com/details.htm?lsid=1543822	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=4097451	Colombia, Caldas (Manizales)	Endémica
+organismnames.com/details.htm?lsid=5067083	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=1543824	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=5070607	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=5075226	Colombia, sin localidad específica	Endémica
+gbif.org/species/1049510-a	Colombia, Norte de Santander (Ocaña)	Endémica
+organismnames.com/details.htm?lsid=4187514	Colombia, Cundinamarca (Bogotá)	Endémica
+organismnames.com/details.htm?lsid=5076298	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=5078993	Colombia, sin localidad específica	Endémica
+biolib.cz/en/taxon/id11642/		
+gbif.org/species/1048338	Colombia, Amazonas (Leticia), Caldas (Manizales), Cauca (Popayán), Meta (Acacías), Tolima (Ibagué)	
+gbif.org/species/1048341	Colombia, Valle del Cauca (Buenaventura, La Concepción)	No endémica
+gbif.org/species/1048338-a	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/1048338-b	Colombia, Bolívar (Cartagena), Atlántico, Tolima (Armero), Antioquia (Medellín, Bello), Valle del Cauca (Palmira)	No endémica
+gbif.org/species/1048338-c	Colombia, Cañoas , Nariño (Buesaco), Tolima (Armero, Espinal), Antioquia (Bello, Medellín), Valle del Cauca (Palmira)	Endémica
+gbif.org/species/1048338-d	Colombia, sin localidad específica	No endémica
+gbif.org/species/1048338-e	Colombia, sin localidad específica	No endémica
+gbif.org/species/1048338-f	Colombia, Cundinamarca (Bogotá)	Endémica
+biolib.cz/en/taxon/id1840187/	Colombia, Cundinamarca (Bogotá)	No endémica
+gbif.org/species/1048338-g	Colombia, Tolima (Ibagué), Valle del Cauca (Cali)	No endémica
+gbif.org/species/7868730	Colombia, Cesar	
+organismnames.com/details.htm?lsid=5030850	Colombia, Cundinamarca (Bogotá)	No endémica
+gbif.org/species/7868730-a	Colombia, Atlántico (Barranquilla, Sabanilla), Cundinamarca (Bogotá), Magdalena (Santa Marta, El Banco)	No endémica
+organismnames.com/details.htm?lsid=2666600	Colombia, Cundinamarca (Bogotá)	No endémica
+organismnames.com/details.htm?lsid=2666610	Colombia, Magdalena, Putumayo (Puerto Umbría)	No endémica
+gbif.org/species/4735026		
+gbif.org/species/4735026-a	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4735026-b	Colombia, Cundinamarca (Bogotá)	No endémica
+gbif.org/species/4735026-c	Colombia, sin localidad específica	No endémica
+gbif.org/species/4735026-d	Colombia, sin localidad específica	No endémica
+gbif.org/species/4719894		
+organismnames.com/details.htm?lsid=1298976	Colombia, sin localidad específica	No endémica
+gbif.org/species/3261377		
+gbif.org/species/3261377-a	Colombia, Cundinamarca (La Vega)	Endémica
+gbif.org/species/3261377-b	Colombia, Antioquia (San Carlos)	No endémica
+gbif.org/species/3261377-c	Colombia, Boyacá (Muzo), Cundinamarca (La Vega)	Endémica
+gbif.org/species/3261377-d	Colombia, Guayabal , Cundinamarca (Bogotá)	No endémica
+gbif.org/species/3261377-e	Colombia, Norte de Santander (Ocaña)	Endémica
+gbif.org/species/3261377-f	Colombia, Antioquia (Nare)	Endémica
+gbif.org/species/3261377-g	Colombia, sin localidad específica	Endémica
+gbif.org/species/4571682		
+organismnames.com/details.htm?lsid=4118279	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4741660		
+organismnames.com/details.htm?lsid=1298934	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048941	Colombia, Cundinamarca (San Antonio del Tequendama), Nariño (Consacá, Buesaco, Tumaco, San Juan de Pasto), Caldas (Manizales), Tolima (Espinal, Ibagué), Valle del Cauca (Palmira), Meta (Villavicencio, Acacías), Antioquia (San José)	
+gbif.org/species/1048941-b	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048941-c	Colombia, Antioquia (San Carlos), Boyacá (Muzo), Cundinamarca (Fusagasugá)	No endémica
+gbif.org/species/1048941-d	Colombia, Cundinamarca (Ubaque)	No endémica
+gbif.org/species/1048941-e	Colombia, Cundinamarca (Bogotá, Fusagasugá, Anolaima), Tolima (Ibagué (Tapias))	No endémica
+gbif.org/species/1048941-f	Colombia, Cundinamarca (Ubaque), Antioquia (Bello)	Endémica
+gbif.org/species/1048941-g	Colombia, Antioquia (Medellín, San Carlos), Boyacá (Muzo)	Endémica
+gbif.org/species/1048941-h	Colombia, Tolima (Ambalema)	Endémica
+gbif.org/species/9195957	Colombia, Magdalena (Sevilla)	No endémica
+organismnames.com/details.htm?lsid=1298911	Colombia, sin localidad específica	No endémica
+gbif.org/species/1048941-i	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048941-j	Colombia, sin localidad específica	No endémica
+gbif.org/species/1048941-k	Colombia, Norte de Santander (Ocaña)	No endémica
+gbif.org/species/1048941-p	Colombia, Cundinamarca (Ubaque)	Endémica
+gbif.org/species/1048941-l	Colombia, Antioquia (Medellín), Boyacá (Muzo), Tolima (Ambalema)	Endémica
+gbif.org/species/1048941-a	Colombia, Boyacá (Muzo), Cundinamarca (La Vega), Colón	No endémica
+gbif.org/species/1048941-m	Colombia, Norte de Santander (Ocaña)	Endémica
+gbif.org/species/1048941-n	Colombia, Antioquia (Amalfi), Boyacá (Muzo), Cundinamarca (La Vega), Norte de Santander (Ocaña)	Endémica
+gbif.org/species/1048941-ñ	Colombia, Cundinamarca (Bogotá)	No endémica
+gbif.org/species/1048941-o	Colombia, Antioquia (Medellín)	Endémica
+gbif.org/species/1048941-q	Colombia, Norte de Santander (Ocaña)	Endémica
+gbif.org/species/1048941-u	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048941-r	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048941-s	Colombia, Norte de Santander (Cúcuta)	No endémica
+gbif.org/species/1048941-t	Colombia, Cundinamarca (Fusagasugá, San Bernardo, Anolaima), Cauca (Santander de Quilichao)	No endémica
+gbif.org/species/1048941-z	Colombia, Cundinamarca (Ubaque)	No endémica
+gbif.org/species/4719876		
+gbif.org/species/4719876-a	Colombia, sin localidad específica	No endémica
+gbif.org/species/4719876-b	Colombia, Boyacá (Muzo)	Endémica
+gbif.org/species/4718021	Colombia, Meta (Villavicencio)	
+gbif.org/species/4718021-a	Colombia, sin localidad específica	Endémica
+gbif.org/species/4718021-b	Colombia, sin localidad específica	No endémica
+gbif.org/species/8788052		
+organismnames.com/details.htm?lsid=3790014	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/8788052-a	Colombia, Antioquia (San Carlos), Cundinamarca (Guayabetal)	No endémica
+organismnames.com/details.htm?lsid=1724812	Colombia, Norte de Santander (Ocaña)	Endémica
+organismnames.com/details.htm?lsid=4097559	Colombia, Boyacá (Coper)	Endémica
+gbif.org/species/3259991		
+organismnames.com/details.htm?lsid=1724821	Colombia, sin localidad específica	No endémica
+gbif.org/species/1047401	Colombia, Antioquia (San José), Caldas (Riosucio), Cundinamarca (Anolaima, Subachoque), Huila (Neiva), Magdalena (Rio Frío, Guamal), Tolima (Espinal), Meta (Acacías, Puerto López, Villavicencio, Venadillo), Valle del Cauca (Puerto Tejada)	
+gbif.org/species/9348829	Colombia, Magdalena (Aracataca), Santander (Cerrito)	No endémica
+organismnames.com/details.htm?lsid=4070681	Colombia, sin localidad específica	No endémica
+gbif.org/species/1047401-e	Colombia, Magdalena (Santa Marta, Sevilla)	No endémica
+organismnames.com/details.htm?lsid=4097538	Colombia, Cauca (El Tambo), Norte de Santander (Ocaña), Canoas	No endémica
+organismnames.com/details.htm?lsid=3931362	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/1047401-f	Colombia, Cauca (Puerto Tejada), Valle del Cauca (Palmira)	No endémica
+organismnames.com/details.htm?lsid=4685677	Colombia, Boyacá (Coper, Muzo), Cundinamarca (Fusagasugá, Pacho, Anolaima), Meta (Villavicencio), Tolima (Guayabal, San Antonio), Aguatal	No endémica
+gbif.org/species/1047401-a	Colombia, Magdalena (Sevilla)	No endémica
+organismnames.com/details.htm?lsid=2196096	Colombia, Antioquia (San Carlos), Canoas	No endémica
+organismnames.com/details.htm?lsid=2110039	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=4070690	Colombia, Antioquia (San Carlos)	No endémica
+organismnames.com/details.htm?lsid=2110040	Colombia, Tolima (Natagaima, Espinal), Colón	No endémica
+organismnames.com/details.htm?lsid=3460979	Colombia, Antioquia, Tolima (Espinal, Natagaima)	No endémica
+organismnames.com/details.htm?lsid=4097546	Colombia, Bolívar (Cartagena, El Regidor), Boyacá (Muzo), Caldas (Chinchina), Cesar (Rio de Oro), Cundinamarca (Paime, Ubaque), Magdalena (Cienaga), Meta (Acacías, Villavicencio), Nariño (Tumaco), Tolima (San Antonio), Valle del Cauca (Palmira, Guadalajara de Buga), Chucuri	No endémica
+gbif.org/species/1047401-b	Colombia, Antioquia (Bello), Cundinamarca (Cachipay), Valle del Cauca (Palmira), Magdalena (La Esmeralda), Nariño (Tumaco), Sucre (Sincelejo)	No endémica
+organismnames.com/details.htm?lsid=4139471	Colombia, Boyacá (Coper), Canoas	No endémica
+organismnames.com/details.htm?lsid=4097547	Colombia, Antioquia (San Carlos)	Endémica
+organismnames.com/details.htm?lsid=201836	Colombia, sin localidad específica	No endémica
+gbif.org/species/9492032	Colombia, Córdoba (Montería), Magdalena (Sevilla), Tolima (Espinal)	No endémica
+gbif.org/species/1047401-c	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=201837	Colombia, Valle del Cauca (Riofrío)	No endémica
+organismnames.com/details.htm?lsid=4097550	Colombia, Boyacá (Muzo)	Endémica
+gbif.org/species/1047401-d	Colombia, Antioquia (Puerto Berrío)	No endémica
+gbif.org/species/4726181		
+organismnames.com/details.htm?lsid=1288926	Colombia, Magdalena (Tayrona), Norte de Santander (Malpaso)	Endémica
+gbif.org/species/4726181-a	Colombia, sin localidad específica	No endémica
+gbif.org/species/1048552		
+gbif.org/species/1048552-a	Colombia, Bolívar (Cartagena), Boyacá (Muzo), Norte de Santander (Ocaña), Santander (Carare), Sucre (Santiago de Tolú)	No endémica
+gbif.org/species/4736765		
+gbif.org/species/9603591	Colombia, sin localidad específica	No endémica
+gbif.org/species/4736765-a	Colombia, Antioquia (San Carlos), Cundinamarca (Guayabetal)	No endémica
+organismnames.com/details.htm?lsid=1299024	Colombia, sin localidad específica	No endémica
+gbif.org/species/4736765-b	Colombia, Antioquia (San Carlos)	No endémica
+organismnames.com/details.htm?lsid=2754835	Colombia, sin localidad específica	No endémica
+gbif.org/species/4747083		
+gbif.org/species/4747083-a	Colombia, Magdalena (Bodega del Carmen )	No endémica
+organismnames.com/details.htm?lsid=2871815	Colombia, Antioquia (Chigorodó), Boyacá (Muzo), Cundinamarca (Puerto Salgar), Magdalena (Aracataca), Tolima (Ibagué), Valle del Cauca (Cartago)	No endémica
+gbif.org/species/4731739		
+organismnames.com/details.htm?lsid=2871618	Colombia, sin localidad específica	No endémica
+gbif.org/species/4731739-a	Colombia, Atlántico (Barranquilla)	Endémica
+gbif.org/species/10859954	Colombia, Antioquia (Turbo)	No endémica
+gbif.org/species/4742032		
+organismnames.com/details.htm?lsid=2871879	Colombia, Norte de Santander (Cúcuta)	Endémica
+gbif.org/species/4769212		
+gbif.org/species/4769212-a	Colombia, Antioquia (Nare), Magdalena (Sevilla)	No endémica
+gbif.org/species/3261920		
+gbif.org/species/9300378	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=1091377	Colombia, sin localidad específica	No endémica
+gbif.org/species/4740840		
+gbif.org/species/4740840-a	Colombia, Guayabal	Endémica
+gbif.org/species/4746031		
+gbif.org/species/4746031-a	Colombia, Antioquia	No endémica
+organismnames.com/details.htm?lsid=3789963	Colombia, sin localidad específica	Endémica
+gbif.org/species/4746031-m	Colombia, La Luzéra	Endémica
+gbif.org/species/4746031-b	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4746031-c	Colombia, Tolima (San Antonio)	Endémica
+gbif.org/species/4746031-d	Colombia, Caldas (Manizales), Cauca	Endémica
+gbif.org/species/4746031-e	Colombia, Antioquia (Medellín), Caldas (Manizales)	Endémica
+gbif.org/species/4746031-f	Colombia, sin localidad específica	Endémica
+gbif.org/species/4746031-g	Colombia, Norte de Santander (Ocaña)	Endémica
+gbif.org/species/4746031-n	Colombia, Antioquia	No endémica
+gbif.org/species/4746031-h	Colombia, Alto de las cruces	Endémica
+gbif.org/species/4746031-i	Colombia, Tolima (San Antonio), Aguatal	Endémica
+gbif.org/species/4746031-j	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4746031-k	Colombia, Tolima (San Antonio), Alto de las Cruces	Endémica
+organismnames.com/details.htm?lsid=3992667	Colombia, sin localidad específica	Endémica
+gbif.org/species/4746031-l	Colombia, Boyacá (Coper), Cundinamarca (Fusagasugá, La Vega, Paime), Tolima (Guayabal)	No endémica
+organismnames.com/details.htm?lsid=2029357		
+organismnames.com/details.htm?lsid=3931417	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048388-a	Colombia, Boyacá (Coper, Muzo)	No endémica
+organismnames.com/details.htm?lsid=3790024	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=4013917	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048388-c	Colombia, sin localidad específica	No endémica
+gbif.org/species/1048388-b	Colombia, Antioquia (Medellín)	No endémica
+organismnames.com/details.htm?lsid=4013919	Colombia, Cundinamarca (Bogotá)	Endémica
+organismnames.com/details.htm?lsid=3461019	Colombia, Antioquia	No endémica
+gbif.org/species/1048388-d	Colombia, Antioquia (San Carlos), Canoas	Endémica
+gbif.org/species/4755025		
+organismnames.com/details.htm?lsid=4097561	Colombia, Norte de Santander (Ocaña)	Endémica
+gbif.org/species/6757790		
+gbif.org/species/6757790-a	Colombia, Boyacá (Muzo), Cundinamarca (Bogotá, Fusagasugá, La Vega, Paime)	Endémica
+organismnames.com/details.htm?lsid=3789968	Colombia, sin localidad específica	Endémica
+gbif.org/species/6757790-b	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=3789969	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=3967819	Colombia, sin localidad específica	Endémica
+gbif.org/species/6757790-c	Colombia, Cundinamarca (Bogotá)	No endémica
+organismnames.com/details.htm?lsid=3904363	Colombia, Tolima (San Antonio), Cauca, Carmen	No endémica
+organismnames.com/details.htm?lsid=4760188	Colombia, Cauca, Norte de Santander (El Carmen), Tolima (San Antonio), Tocote , Villa Elvira	No endémica
+gbif.org/species/6757790-d	Colombia, Cundinamarca (Bogotá)	Endémica
+organismnames.com/details.htm?lsid=4097529	Colombia, Antioquia (Medellín), Cauca	Endémica
+organismnames.com/details.htm?lsid=4097530	Colombia, Antioquia (Medellín), Norte de Santander (Ocaña)	No endémica
+gbif.org/species/6757790-e	Colombia, Cundinamarca (Bogotá, Guayabetal)	No endémica
+organismnames.com/details.htm?lsid=4066427	Colombia, Cundinamarca (Bogotá)	No endémica
+organismnames.com/details.htm?lsid=4097531	Colombia, Tolima (Guayabal, Ibagué)	Endémica
+gbif.org/species/6757790-f	Colombia, Atlántico (Sabanilla)	Endémica
+organismnames.com/details.htm?lsid=2534365	Colombia, Cundinamarca (Guayabetal)	Endémica
+gbif.org/species/6757790-g	Colombia, Cundinamarca (Bogotá, La Mesa), Antioquia (Medellín)	No endémica
+organismnames.com/details.htm?lsid=4097533	Colombia, Antioquia (San Carlos), Boyacá (Muzo, Coper), Cundinamarca (La Vega), Canoas	Endémica
+gbif.org/species/6757790-h	Colombia, Antioquia (Rionegro), Cundinamarca (Bogotá, Fusagasugá, La Vega), Norte de Santander (Ocaña), Tolima (Guayabal), Agnada	No endémica
+organismnames.com/details.htm?lsid=4138688	Colombia, Cundinamarca (Bogotá, Fusagasugá, Ubaque)	No endémica
+gbif.org/species/4718958		
+organismnames.com/details.htm?lsid=3931381	Colombia, Cundinamarca (Bogotá)	Endémica
+organismnames.com/details.htm?lsid=3967825	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4726079		
+gbif.org/species/4726079-a	Colombia, Antioquia (Nare), Boyacá (Muzo), Cundinamarca (Paime), Tolima (San Antonio), Norte de Santander (Ocaña), Valle del Cauca (Cartago)	No endémica
+gbif.org/species/4763057		
+gbif.org/species/4763057-b	Colombia, Canoas	Endémica
+gbif.org/species/4763057-a	Colombia, Tolima (San Antonio)	No endémica
+gbif.org/species/1049479	Colombia, Arauca (Arauquita), Meta (Villavicencio, Cumaral)	
+gbif.org/species/1049479-a	Colombia, Antioquia (Puerto Berrío), Santander (Carare)	No endémica
+gbif.org/species/1049479-b	Colombia, Bolívar (Cartagena)	No endémica
+gbif.org/species/1049479-c	Colombia, Antioquia (Nare), Casanare (Villanueva), Meta (Villavicencio), Norte de Santander (Ocaña)	No endémica
+gbif.org/species/4719804		
+gbif.org/species/4719804-a	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/10928120	Colombia, Cundinamarca (Paime), Norte de Santander (Ocaña), Tolima (San Antonio), Canoas	No endémica
+gbif.org/species/3260048		
+organismnames.com/details.htm?lsid=4118275	Colombia, Cundinamarca (Bogotá)	Endémica
+organismnames.com/details.htm?lsid=2704051	Colombia, Cundinamarca (Bogotá, La Vega), Cauca	Endémica
+organismnames.com/details.htm?lsid=4097555	Colombia, Canoas	No endémica
+organismnames.com/details.htm?lsid=4097557	Colombia, Antioquia (Medellín)	Endémica
+gbif.org/species/1048532	Colombia, Córdoba (Cereté)	
+gbif.org/species/8835887	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=2913790	Colombia, Magdalena (Aracataca)	Endémica
+organismnames.com/details.htm?lsid=2913791	Colombia, Antioquia (Puerto Berrío)	No endémica
+organismnames.com/details.htm?lsid=4253228	Colombia, Magdalena	No endémica
+organismnames.com/details.htm?lsid=2913796	Colombia, Atlántico, Magdalena (Aracataca)	No endémica
+organismnames.com/details.htm?lsid=2913798	Colombia, Valle del Cauca (Cali)	No endémica
+organismnames.com/details.htm?lsid=2913806	Colombia, Magdalena (Aracataca), Valle del Cauca (Buenaventura)	No endémica
+gbif.org/species/9544860		
+gbif.org/species/9544860-a	Colombia, sin localidad específica	Endémica
+gbif.org/species/4717780		
+organismnames.com/details.htm?lsid=2934282	Colombia, Meta (Villavicencio)	No endémica
+gbif.org/species/4726537	Colombia, Meta (Acacías)	
+organismnames.com/details.htm?lsid=1218136	Colombia, sin localidad específica	No endémica
+gbif.org/species/4726537-a	Colombia, sin localidad específica	No endémica
+gbif.org/species/4761035		
+gbif.org/species/4761035-a	Colombia, sin localidad específica	Endémica
+gbif.org/species/4761035-b	Colombia, Cauca	Endémica
+gbif.org/species/4734387		
+gbif.org/species/4734387-a	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4734387-b	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4734387-c	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4734387-d	Colombia, Boyacá (Muzo)	Endémica
+gbif.org/species/4734387-e	Colombia, sin localidad específica	No endémica
+gbif.org/species/4734387-f	Colombia, Cundinamarca (Bogotá)	Endémica
+gbif.org/species/4734387-g	Colombia, Cundinamarca (Bogotá)	Endémica
+organismnames.com/details.htm?lsid=4691196		
+organismnames.com/details.htm?lsid=1298926	Colombia, Boyacá (Coper)	No endémica
+gbif.org/species/4765219		
+gbif.org/species/4765219-a	Colombia, sin localidad específica	No endémica
+gbif.org/species/4719311		
+gbif.org/species/4719311-a	Colombia, Santander (Bucaramanga)	No endémica
+gbif.org/species/4719311-b	Colombia, Tolima (Ibagué), Antioquia (Medellín)	No endémica
+gbif.org/species/4721539		
+organismnames.com/details.htm?lsid=2666618	Colombia, Putumayo (Puerto Umbría), Rio Guines	No endémica
+organismnames.com/details.htm?lsid=2666637	Colombia, Atlántico (Sabanilla)	No endémica
+gbif.org/species/4765783		
+organismnames.com/details.htm?lsid=1707981	Colombia, Cundinamarca (Monterredondo)	Endémica
+gbif.org/species/4735022		
+gbif.org/species/10869892	Colombia, Cauca (Isla Gorgona), Valle del Cauca (Cali)	Endémica
+gbif.org/species/10694385	Colombia, Amazonas (Amacayacu)	No endémica
+gbif.org/species/10828440	Colombia, Chocó (Utría)	Endémica
+gbif.org/species/4726571		
+organismnames.com/details.htm?lsid=5598445	Colombia, Magdalena (Tayrona)	Endémica
+gbif.org/species/4746337		
+organismnames.com/details.htm?lsid=1298929	Colombia, Orinoquia	No endémica
+gbif.org/species/4747965		
+organismnames.com/details.htm?lsid=3790012	Colombia, Tolima (San Antonio)	No endémica
+biolib.cz/en/taxon/id857924/		
+organismnames.com/details.htm?lsid=4881072	Colombia, Valle del Cauca (Palmira)	
+organismnames.com/details.htm?lsid=4097558	Colombia, Boyacá (Muzo)	Endémica
+biolib.cz/en/taxon/id241475/		
+gbif.org/species/1049018	Colombia, Antioquia (Carepa), Meta (Acacías), Nariño (Tumaco), Santander (Socorro)	
+organismnames.com/details.htm?lsid=4122746	Colombia, sin localidad específica	No endémica
+organismnames.com/details.htm?lsid=4097569	Colombia, sin localidad específica	No endémica
+gbif.org/species/1049019	Colombia, Antioquia (Nare, Medellín, Bello), Bolívar (Mompóx, El Regidor), Boyacá (Muzo, Coper), Cundinamarca (La Vega, Villeta), Valle del Cauca (Cartago, Palmira), Tolima (Ibagué), Nariño (Buesaco), Cordoba (Montería), Santander	No endémica
+organismnames.com/details.htm?lsid=4097570	Colombia, Antioquia (Nare)	Endémica
+gbif.org/species/9220118	Colombia, Meta (Acacías)	
+organismnames.com/details.htm?lsid=2754822	Colombia, sin localidad específica	Endémica
+organismnames.com/details.htm?lsid=2754828	Colombia, sin localidad específica	Endémica
+gbif.org/species/1048819	Colombia, Nariño (San Juan de Pasto)	
+organismnames.com/details.htm?lsid=2297036	Colombia, Bolívar (Cartagena), Córdoba (Santa Cruz de Lórica)	Endémica
+biolib.cz/en/taxon/id857921/		
+gbif.org/species/4577835		
+gbif.org/species/4577835-a	Colombia, Cundinamarca (Bogotá)	Endémica
+biolib.cz/en/taxon/id857922/		
+gbif.org/species/4733401		
+organismnames.com/details.htm?lsid=1480370	Colombia, Valle del Cauca (Buenaventura)	No endémica

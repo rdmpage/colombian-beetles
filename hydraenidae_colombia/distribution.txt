@@ -1,0 +1,22 @@
+id	locality	countryCode
+gbif.org/species/7829		CO
+organismnames.com/details.htm?lsid=192036		CO
+organismnames.com/details.htm?lsid=192037		CO
+gbif.org/species/1039107	Colombia: Amazonas | Antioquia | Arauca | Bogotá | Caquetá | Casanare | Cauca | Chocó | Cundinamarca | Meta | Risaralda | San Andrés y Providencia | Sucre | Valle del Cauca	CO
+gbif.org/species/6004963	Colombia: Cundinamarca | Meta	CO
+gbif.org/species/9237745	Colombia: Antioquia	CO
+gbif.org/species/6004866	Colombia: Cundinamarca	CO
+gbif.org/species/9379842	Colombia: Chocó | Magdalena	CO
+gbif.org/species/6004966	Colombia: Sucre	CO
+gbif.org/species/6004787	Colombia: Córdoba | Ayapel | Lago de Ayapel	CO
+gbif.org/species/6005056	Colombia: Cundinamarca	CO
+organismnames.com/details.htm?lsid=1258901		CO
+organismnames.com/details.htm?lsid=5466797		CO
+organismnames.com/details.htm?lsid=1258900		CO
+gbif.org/species/1039042	Colombia: Valle del Cauca	CO
+gbif.org/species/1039132		CO
+gbif.org/species/10006385	Colombia: Cundinamarca	CO
+gbif.org/species/1039134	Colombia: Atlántico	CO
+gbif.org/species/1039042-01		CO
+gbif.org/species/1039073	Colombia: Atlántico	CO
+gbif.org/species/1039078	Colombia: Atlántico | Magdalena	CO

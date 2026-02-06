@@ -1,0 +1,15 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/4740		CO	
+biolib.cz/en/taxon/id857907/		CO	
+gbif.org/species/4748139		CO	
+gbif.org/species/10765572	Colombia: Cundinamarca (Bogotá)	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147164#null	Colombia, sin localidad específica	CO	Endémica
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147165#null	Colombia, sin localidad específica	CO	Endémica
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147198#null	Colombia, sin localidad específica	CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147199#null	Colombia: Cundinamarca (Bogotá)	CO	
+gbif.org/species/3263197		CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1146905#null		CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147223#null	Colombia: Cundinamarca (Bogotá)	CO	Endémica
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147239#null	Colombia: San Antonio	CO	Endémica
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1146906#null		CO	
+itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1147247#null	Colombia, sin localidad específica	CO	

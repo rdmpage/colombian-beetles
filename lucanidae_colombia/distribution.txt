@@ -1,0 +1,34 @@
+id	locality	countryCode	establishmentMeans
+gbif.org/species/3263244		CO	
+biolib.cz/en/taxon/id7842/		CO	
+biolib.cz/en/taxon/id308459/		CO	
+gbif.org/species/10953608		CO	
+gbif.org/species/7381039	Colombia: Boyacá (Duitama) | Cauca | Quindío (Pereira) | Risaralda | Valle del Cauca	CO	Endémica
+gbif.org/species/7978687	Colombia: Cesar (Nabusimake-Kurakatá) | Magdalena (El Líbano, San Lorenzo, Bonda, Sierra Nevada de Santa Marta)	CO	Endémica
+gbif.org/species/7359144	Colombia: Meta (Villavicencio?) | Norte de Santander (Cerro Oroque, Pamplona, Pamplonita)	CO	Endémica
+gbif.org/species/5009703	Colombia: Boyacá (Muzo, Duitama) | Cundinamarca (Bogotá) | Santander (La Belleza, La Venta, San Joaquin) | Tolima (Icononzo) | Valle del Cauca (Buga) | Venezuela	CO	
+gbif.org/species/8224504	Colombia: Antioquia (Medellín)	CO	Endémica
+gbif.org/species/8379076	Colombia: Cauca (Popayán)	CO	Endémica
+gbif.org/species/8054064	Colombia: Cundinamarca | Magdalena (Santa Marta) | Venezuela	CO	
+gbif.org/species/5009701	Colombia: Cundinamarca (Bogotá, Fusagasugá) | Boyacá (Duitama, Muzo, Puente Boyacá) | Risaralda (Pereira) | Valle del Cauca | Tolima | Peru	CO	
+gbif.org/species/7709641	Colombia: Antioquia (Guarne, Medellín, Piedras Blancas, San Ignacio, Santa Helena) | Tolima (Fresno) | Venezuela	CO	
+gbif.org/species/8230072	Colombia: Santander (California) | Venezuela	CO	
+gbif.org/species/7783248	Colombia: Boyacá (Alto Turmequé, Cómbita, Duitama, Mongua, Santa Rosa) | Huila (Gigante) | Quindío (Rio Navarco, Parque Nacional Los Nevados), Tolima (Parque Nacional Las Hermosas) | Valle del Cauca (Calima, Buga)	CO	
+gbif.org/species/7475002	Colombia: Caquetá (Yuri) | Huila (Gigante) | Putumayo | Quindío (Armenia, Río Navarco) | Tolima (Páramo Las Hermosas)	CO	Endémica
+biolib.cz/en/taxon/id308658/		CO	
+gbif.org/species/4740649		CO	
+gbif.org/species/8262224	Colombia, sin localidad específica	CO	
+gbif.org/species/10706368	Colombia: Tolima (Ibagué, Cañón del Río Combeima, Termales El Rancho)	CO	Endémica
+gbif.org/species/4736466		CO	
+gbif.org/species/8076183	Colombia: Antioquia | Chocó (Parque Nacional Natural Katios) | Valle del Cauca (Calima Medio, Calima Darién)	CO	
+gbif.org/species/8759683	Colombia: Valle del Cauca	CO	
+gbif.org/species/8941666	Colombia: Antioquia | Chocó (Parque Nacional Natural Katios)	CO	
+gbif.org/species/8302663	Colombia: Antioquia | Caldas | Cauca | Risaralda (Santa Rosa) | Valle del Cauca	CO	
+gbif.org/species/9272647	Colombia: Antioquia | Caldas | Cauca | Risaralda (Santa Rosa) | Valle del Cauca	CO	
+gbif.org/species/4748521		CO	
+gbif.org/species/7876375	Colombia: Boyacá (Chiquinquirá)	CO	
+biolib.cz/en/taxon/id308246/		CO	
+biolib.cz/en/taxon/id308262/		CO	
+gbif.org/species/3260188		CO	
+gbif.org/species/7353380	Colombia: Tolima (Ibagué) | Huila (Gigante) | Valle del Magdalena	CO	Endémica
+gbif.org/species/8159772	Colombia: Santander (Galán: Serranía de los Yariguies, Cerro de la Uchata)	CO	
