@@ -9,7 +9,8 @@
  *   - which taxa across all datasets lack type specimen information
  *
  * Usage:  php type_specimens.php
- * Output: type_specimens_institutions.tsv
+ * Output: type_specimens_institutions.tsv       (raw institution strings)
+ *         type_specimens_normalised.tsv          (grouped by acronym)
  *         taxa_without_types.tsv
  */
 
@@ -85,13 +86,61 @@ function has_types_extension($dataset_dir)
     return false;
 }
 
+// ---------- helper: extract acronym from institution string ----------
+
+/**
+ * Attempt to extract an institutional acronym/code from a raw
+ * institutionCode string.
+ *
+ * Handles two common patterns:
+ *   1. "CODE - Full Name ..."          → CODE
+ *   2. "Full Name (CODE)"              → CODE
+ *
+ * Also strips surrounding quotes. Returns the original string
+ * (trimmed) if no acronym can be extracted.
+ *
+ * @param string $raw The raw institutionCode value.
+ * @return string The extracted acronym or the cleaned original.
+ */
+function extract_acronym($raw)
+{
+    // Strip surrounding quotes
+    $s = trim($raw, "\" \t");
+
+    // Pattern 1: starts with uppercase acronym followed by " - "
+    // e.g. "BMNH - The Natural History Museum, Londres"
+    // Also handles "BMNH The Natural History Museum" (space, no dash)
+    if (preg_match('/^([A-Z][A-Z0-9\-]{1,15})\s+-\s+/', $s, $m)) {
+        return $m[1];
+    }
+
+    // Some entries use "CODE Full Name" without the dash
+    // e.g. "BMNH The Natural History Museum, London"
+    // but we need to be careful not to match regular words
+    if (preg_match('/^([A-Z]{2,10})\s+[A-Z]/', $s, $m)) {
+        return $m[1];
+    }
+
+    // Pattern 2: ends with "(CODE)" where CODE is a short identifier
+    // e.g. "Smithsonian Institution, National Museum of Natural History (USNM)"
+    // Allow mixed case and accented chars for codes like IAvH, UniQuindío
+    if (preg_match('/\(([A-Z\p{Lu}][\p{L}0-9\-]{1,15})\)\s*$/u', $s, $m)) {
+        return $m[1];
+    }
+
+    // No acronym found — return cleaned string as-is
+    return $s;
+}
+
 // ======================== PART 1: Institution counts ========================
 
 $institution_tsv_file = $base_dir . '/type_specimens_institutions.tsv';
 $institution_tsv = fopen($institution_tsv_file, 'w');
 fwrite($institution_tsv, "institutionCode\tcount\n");
 
-$institutions = array();     // institutionCode => count
+$institutions = array();            // raw institutionCode => count
+$normalised = array();              // acronym => count
+$normalised_variants = array();     // acronym => array of raw strings seen
 $total_type_rows = 0;
 $datasets_with_types = 0;
 $datasets_without_types = 0;
@@ -145,7 +194,7 @@ foreach ($dataset_dirs as $dir) {
             $taxa_with_types[$dataset_name][trim($fields[0])] = true;
         }
 
-        // Count institutions
+        // Count institutions (raw and normalised)
         if ($institution_col !== false && isset($fields[$institution_col])) {
             $inst = trim($fields[$institution_col]);
             if ($inst !== '') {
@@ -153,6 +202,16 @@ foreach ($dataset_dirs as $dir) {
                     $institutions[$inst] = 0;
                 }
                 $institutions[$inst]++;
+
+                $acronym = extract_acronym($inst);
+                if (!isset($normalised[$acronym])) {
+                    $normalised[$acronym] = 0;
+                    $normalised_variants[$acronym] = array();
+                }
+                $normalised[$acronym]++;
+                if (!in_array($inst, $normalised_variants[$acronym])) {
+                    $normalised_variants[$acronym][] = $inst;
+                }
             } else {
                 $empty_institution_count++;
             }
@@ -172,6 +231,20 @@ foreach ($institutions as $inst => $count) {
 }
 
 fclose($institution_tsv);
+
+// Write normalised institutions TSV
+arsort($normalised);
+
+$normalised_tsv_file = $base_dir . '/type_specimens_normalised.tsv';
+$normalised_tsv = fopen($normalised_tsv_file, 'w');
+fwrite($normalised_tsv, "acronym\tcount\tvariants\n");
+
+foreach ($normalised as $acronym => $count) {
+    $variants = implode(' | ', $normalised_variants[$acronym]);
+    fwrite($normalised_tsv, "$acronym\t$count\t$variants\n");
+}
+
+fclose($normalised_tsv);
 
 // ======================== PART 2: Taxa without types ========================
 
@@ -274,14 +347,16 @@ fclose($taxa_tsv);
 
 // ======================== Console output ========================
 
-echo "--- Institution summary ---\n";
-echo sprintf("%-60s %s\n", "Institution", "Types");
-echo str_repeat('-', 70) . "\n";
-foreach ($institutions as $inst => $count) {
-    echo sprintf("%-60s %d\n", $inst, $count);
+echo "--- Normalised institution summary (by acronym) ---\n";
+echo sprintf("%-20s %6s  %s\n", "Acronym", "Types", "Variants");
+echo str_repeat('-', 90) . "\n";
+foreach ($normalised as $acronym => $count) {
+    $num_variants = count($normalised_variants[$acronym]);
+    $variant_note = ($num_variants > 1) ? "($num_variants variants)" : '';
+    echo sprintf("%-20s %6d  %s\n", $acronym, $count, $variant_note);
 }
 if ($empty_institution_count > 0) {
-    echo sprintf("%-60s %d\n", "(empty/missing institutionCode)", $empty_institution_count);
+    echo sprintf("%-20s %6d\n", "(empty/missing)", $empty_institution_count);
 }
 
 echo "\n--- Type specimen overview ---\n";
@@ -289,7 +364,8 @@ echo "Total datasets:                    " . count($dataset_dirs) . "\n";
 echo "  With TypesAndSpecimen extension: $datasets_with_types\n";
 echo "  Without:                         $datasets_without_types\n";
 echo "Total type specimen rows:          $total_type_rows\n";
-echo "Distinct institutions:             " . count($institutions) . "\n";
+echo "Distinct raw institution strings:  " . count($institutions) . "\n";
+echo "Distinct acronyms (normalised):    " . count($normalised) . "\n";
 
 echo "\n--- Taxa with/without type information ---\n";
 echo "Total taxa:                        $grand_total_taxa\n";
@@ -307,4 +383,5 @@ foreach ($per_dataset_stats as $s) {
 
 echo "\nTSV files written to:\n";
 echo "  $institution_tsv_file\n";
+echo "  $normalised_tsv_file\n";
 echo "  $taxa_tsv_file\n";
