@@ -54,22 +54,43 @@ $counts = array(
 foreach ($identifiers as $identifier) {
     $url = ensure_scheme($identifier);
 
-    $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, $url);
-    curl_setopt($ch, CURLOPT_NOBODY, true);
-    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-    curl_setopt($ch, CURLOPT_MAXREDIRS, 10);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; colombian-beetles/1.0)');
+    // Build list of URLs to try: original, then HTTP fallback if HTTPS
+    $urls_to_try = array($url);
+    if (strpos($url, 'https://') === 0) {
+        $urls_to_try[] = 'http://' . substr($url, 8);
+    }
 
-    curl_exec($ch);
+    $http_code = 0;
+    $final_url = $url;
+    $curl_error = 0;
 
-    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    $final_url = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL);
-    $curl_error = curl_errno($ch);
+    foreach ($urls_to_try as $try_url) {
+        // Try HEAD first, fall back to GET
+        foreach (array(true, false) as $head_request) {
+            $ch = curl_init();
+            curl_setopt($ch, CURLOPT_URL, $try_url);
+            curl_setopt($ch, CURLOPT_NOBODY, $head_request);
+            curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+            curl_setopt($ch, CURLOPT_MAXREDIRS, 10);
+            curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; colombian-beetles/1.0)');
+            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
 
-    curl_close($ch);
+            curl_exec($ch);
+
+            $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+            $final_url = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL);
+            $curl_error = curl_errno($ch);
+
+            curl_close($ch);
+
+            if (!$curl_error && $http_code > 0) {
+                break 2;
+            }
+        }
+    }
 
     // Determine status
     if ($curl_error) {
